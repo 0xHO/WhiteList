@@ -45,7 +45,7 @@ jobs:
       if: ( !cancelled() )
       run: |
         bash WhiteList.sh
-        base64 -b 128  -i WhiteList.tmp -o WhiteList.txt
+        base64 -w 128  -i WhiteList.tmp -o WhiteList.txt
         today=`date`
         git commit WhiteList.txt -m "update ${today}"
         git push origin main:main
