@@ -45,8 +45,10 @@ jobs:
       if: ( !cancelled() )
       run: |
         bash WhiteList.sh
-        cat WhiteList.tmp
         base64 -b 128  -i WhiteList.tmp -o WhiteList.txt
+        today=`date`
+        git commit WhiteList.txt -m "update ${today}"
+        git push origin main:main
         
 
     - name: Delete Workflow Runs
