@@ -45,6 +45,7 @@ jobs:
       if: ( !cancelled() )
       run: |
         bash WhiteList.sh
+        cat WhiteList.tmp
         
 
     - name: Delete Workflow Runs
