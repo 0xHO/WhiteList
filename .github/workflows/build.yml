@@ -22,9 +22,9 @@ jobs:
         DEBIAN_FRONTEND: noninteractive
       run: |
         sudo rm -rf /etc/apt/sources.list.d/* /usr/share/dotnet /usr/local/lib/android /opt/ghc
-        sudo -E apt-get -qq update
-        sudo -E apt-get -qq autoremove --purge
-        sudo -E apt-get -qq clean
+        # sudo -E apt-get -qq update
+        # sudo -E apt-get -qq autoremove --purge
+        # sudo -E apt-get -qq clean
         sudo timedatectl set-timezone "$TZ"
         sudo mkdir -p /workdir
         sudo chown $USER:$GROUPS /workdir
@@ -44,20 +44,7 @@ jobs:
       id: organize
       if: ( !cancelled() )
       run: |
-        echo "[AutoProxy 0.2.9]"> ./WhiteList.txt
-        echo "! Expires: 6h">> ./WhiteList.txt
-        echo "! Title: WhiteList">> ./WhiteList.txt
-        echo "! White Site List for Everything">> ./WhiteList.txt
-        echo "! Last Modified: "`date` >> ./WhiteList.txt
-        echo "! ">> ./WhiteList.txt
-        echo "! HomePage: https://github.com/0xHO/WhiteList">> ./WhiteList.txt
-        echo "! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt">> ./WhiteList.txt
-        echo "!">> ./WhiteList.txt
-        echo "! # ------ local network - Regex ------">> ./WhiteList.txt
-        echo "/10\.\d+\.\d+\.\d+/">> ./WhiteList.txt
-        echo "/127\.0\.0\.1/">> ./WhiteList.txt
-        echo "/172\.16\.\d+\.\d+/">> ./WhiteList.txt
-        echo "/192\.168\.\d+\.\d+/" > ./WhiteList.txt
+        bash WhiteList.sh
         
 
     - name: Delete Workflow Runs
