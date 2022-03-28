@@ -46,6 +46,7 @@ jobs:
       run: |
         bash WhiteList.sh
         cat WhiteList.tmp
+        base64 -b 128  -i WhiteList.tmp -o WhiteList.txt
         
 
     - name: Delete Workflow Runs
