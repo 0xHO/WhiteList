@@ -1,3 +1,4 @@
+
 function getdomain () {
     # default file
     if [ ! -n "$1" ]; then 
