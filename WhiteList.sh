@@ -3,7 +3,14 @@ function getdomain () {
     # default file
     if [ ! -n "$1" ]; then 
         include="geolocation-cn"
-        echo '|| cn' >> ./WhiteList.tmp
+        echo '||cn' >> ./WhiteList.tmp
+        echo '||com.cn' >> ./WhiteList.tmp
+        echo '||net.cn' >> ./WhiteList.tmp
+        echo '||org.cn' >> ./WhiteList.tmp
+        echo '||gov.cn' >> ./WhiteList.tmp
+        echo '||edu.cn' >> ./WhiteList.tmp
+        echo '||ac.cn' >> ./WhiteList.tmp
+        echo '||mil.cn' >> ./WhiteList.tmp
     else
         include=$1
     fi
@@ -13,25 +20,25 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep -v "#"|grep -v "^$"|grep -v "include:"|grep -v "full:"|cut -d'@' -f 1`
     for domain in ${domainlist}
     do
-        echo "|| ${domain}" >> ./WhiteList.tmp
+        echo "||${domain}" >> ./WhiteList.tmp
     done
     # no full # domains
     domainlist=`cat ./domainlist/data/${include}|grep "#"|grep -v "^#"|grep -v "include:"|grep -v "full:"|cut -d'#' -f 1`
     for domain in ${domainlist}
     do
-        echo "|| ${domain}" >> ./WhiteList.tmp
+        echo "||${domain}" >> ./WhiteList.tmp
     done
     # full  no # domains
     domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:"|grep -v "#"|cut -d':' -f 2`
     for domain in ${domainlist}
     do
-        echo "|| ${domain}" >> ./WhiteList.tmp
+        echo "||${domain}" >> ./WhiteList.tmp
     done
     # full  # domains
     domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:" |grep "#"|cut -d':' -f 2 |cut -d'#' -f 1`
     for domain in ${domainlist}
     do
-        echo "|| ${domain}" >> ./WhiteList.tmp
+        echo "||${domain}" >> ./WhiteList.tmp
     done
     # include file - no#
     includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "#"|cut -d: -f2`
