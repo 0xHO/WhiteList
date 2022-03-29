@@ -4,13 +4,6 @@ function getdomain () {
     if [ ! -n "$1" ]; then 
         include="geolocation-cn"
         echo '||cn' >> ./WhiteList.tmp
-        echo '||com.cn' >> ./WhiteList.tmp
-        echo '||net.cn' >> ./WhiteList.tmp
-        echo '||org.cn' >> ./WhiteList.tmp
-        echo '||gov.cn' >> ./WhiteList.tmp
-        echo '||edu.cn' >> ./WhiteList.tmp
-        echo '||ac.cn' >> ./WhiteList.tmp
-        echo '||mil.cn' >> ./WhiteList.tmp
     else
         include=$1
     fi
