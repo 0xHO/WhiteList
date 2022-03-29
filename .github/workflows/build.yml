@@ -1,8 +1,11 @@
 name: WhiteList
 
 on:
-  repository_dispatch:
-  workflow_dispatch:
+    push:
+        branches: [ master ]
+    schedule:
+        - cron: "35 20 * * *"
+    
 
 env:
   REPO_URL: https://github.com/v2fly/domain-list-community
