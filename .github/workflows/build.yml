@@ -47,10 +47,14 @@ jobs:
       run: |
         bash WhiteList.sh
         python3 -m base64 WhiteList.tmp &> WhiteList.txt
-        today=`date`
-        git commit WhiteList.txt -m "update ${today}"
-        git push origin main:main
-        
+
+    - name: Upload output file
+      id: upload
+      if: ( !cancelled() )
+      uses: actions/upload-artifact@v3
+      with:
+        name: WhiteList
+        path: WhiteList.txt
 
     - name: Delete Workflow Runs
       uses: GitRML/delete-workflow-runs@main
