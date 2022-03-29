@@ -3,7 +3,7 @@ function getdomain () {
     # default file
     if [ ! -n "$1" ]; then 
         include="geolocation-cn"
-        echo '|| .cn' >> ./WhiteList.tmp
+        echo '|| cn' >> ./WhiteList.tmp
     else
         include=$1
     fi
