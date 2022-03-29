@@ -25,7 +25,6 @@ jobs:
     - name: Clone domain list
       if: ( !cancelled() )
       id: clone
-      working-directory: /workdir
       run: |
         sudo timedatectl set-timezone "$TZ"
         sudo mkdir -p /workdir
