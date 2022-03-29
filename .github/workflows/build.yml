@@ -47,14 +47,17 @@ jobs:
       run: |
         bash WhiteList.sh
         python3 -m base64 WhiteList.tmp &> WhiteList.txt
+        today=`date`
+        git config --local user.email "93760897+0xHO@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit WhiteList.txt -m "update ${today}"
 
-    - name: Upload output file
-      id: upload
+    - name: Push changes
       if: ( !cancelled() )
-      uses: actions/upload-artifact@v3
+      uses: ad-m/github-push-action@master
       with:
-        name: WhiteList
-        path: WhiteList.txt
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
 
     - name: Delete Workflow Runs
       uses: GitRML/delete-workflow-runs@main
