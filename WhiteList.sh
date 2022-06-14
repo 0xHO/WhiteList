@@ -70,10 +70,10 @@ function getheader(){
 /127\.\d+\.\d+\.\d+/
 /172\.\d+\.\d+\.\d+/
 /192\.168\.\d+\.\d+/" > ./WhiteList.tmp
-    echo "# WhiteList Last Modified: "`date`"
+    echo "[General]
+# WhiteList Last Modified: "`date`"
 # HomePage: https://github.com/0xHO/WhiteList
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
-[General]
 hijack-dns = 1.1.1.1:53,1.0.0.1:53,8.8.8.8:53,8.8.4.4:53
 bypass-system = true
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, *.apple.com
@@ -99,7 +99,7 @@ getheader
 getdomain
 cat ./domainList.tmp >> ./WhiteList.tmp
 echo "
-# 常见广告域名屏蔽
+# REJECT ads
 DOMAIN-KEYWORD,admarvel,REJECT
 DOMAIN-KEYWORD,admaster,REJECT
 DOMAIN-KEYWORD,adsage,REJECT
