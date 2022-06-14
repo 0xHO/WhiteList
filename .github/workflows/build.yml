@@ -39,7 +39,7 @@ jobs:
       run: |
         bash WhiteList.sh
         python3 -m base64 WhiteList.tmp &> WhiteList.txt
-        python3 -m base64 ssc.tmp &> ss.conf
+        cat ssc.tmp > ss.conf
         today=`date`
         git config --local user.email "93760897+0xHO@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
