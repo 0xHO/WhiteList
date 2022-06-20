@@ -4,6 +4,8 @@ function getdomain () {
     if [ ! -n "$1" ]; then 
         include="geolocation-cn"
         echo '||cn' >> ./domainList.tmp
+        echo '||apple.com' >> ./domainList.tmp
+        echo '||icloud.com' >> ./domainList.tmp
         echo 'fHxhdmx5dW4ub3JnCg=='|base64 -d >> ./domainList.tmp
         echo 'fHxmYXN0c3M1LmNvbQo='|base64 -d >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,cn,DIRECT'  >> ./ssc.tmp
@@ -76,7 +78,7 @@ function getheader(){
 # License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 hijack-dns = 1.1.1.1:53,1.0.0.1:53,8.8.8.8:53,8.8.4.4:53
 bypass-system = true
-skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, *.apple.com
+skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, *.apple.com, *.icloud.com 
 tun-excluded-routes = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24, 192.168.0.0/16, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32, 239.255.255.250/32
 dns-server =  system
 ipv6 = true
