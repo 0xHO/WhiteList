@@ -61,6 +61,22 @@ function getdomain () {
 
 function fixdomain(){
     domain=$1
+    if [ "${domain}" == "qq.com" ]
+    then
+        return 1
+    fi
+    if [ "${domain}" == "weibo.com" ]
+    then
+        return 1
+    fi
+    if [ "${domain}" == "weibo.com" ]
+    then
+        return 1
+    fi
+    if [ "${domain}" == "taobao.com" ]
+    then
+        return 1
+    fi
     extcn=${domain:0-3}
     if [ "${extcn}" == ".cn" ]
     then 
@@ -68,6 +84,21 @@ function fixdomain(){
     fi
     extqq=${domain:0-7}
     if [ "${extqq}" == ".qq.com" ]
+    then
+        return 1
+    fi
+    extqq=${domain:0-10}
+    if [ "${extqq}" == ".weibo.com" ]
+    then
+        return 1
+    fi
+    extqq=${domain:0-10}
+    if [ "${extqq}" == ".weibo.com" ]
+    then
+        return 1
+    fi
+    extqq=${domain:0-11}
+    if [ "${extqq}" == ".taobao.com" ]
     then
         return 1
     fi
