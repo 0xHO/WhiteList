@@ -25,45 +25,25 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep -v "#"|grep -v "^$"|grep -v "include:"|grep -v "full:"|cut -d'@' -f 1`
     for domain in ${domainlist}
     do
-        if [ "${domain:0-3}" == ".cn" || "${domain:0-7}" == ".qq.com" ]
-        then 
-            continue
-        fi
-        echo "||${domain}" >> ./domainList.tmp
-        echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
+        fixdomain ${domain}
     done
     # no full # domains
     domainlist=`cat ./domainlist/data/${include}|grep "#"|grep -v "^#"|grep -v "include:"|grep -v "full:"|cut -d'#' -f 1`
     for domain in ${domainlist}
     do
-        if [ "${domain:0-3}" == ".cn" || "${domain:0-7}" == ".qq.com" ]
-        then 
-            continue
-        fi
-        echo "||${domain}" >> ./domainList.tmp
-        echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
+        fixdomain ${domain}
     done
     # full  no # domains
     domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:"|grep -v "#"|cut -d':' -f 2`
     for domain in ${domainlist}
     do
-        if [ "${domain:0-3}" == ".cn" || "${domain:0-7}" == ".qq.com" ]
-        then 
-            continue
-        fi
-        echo "||${domain}" >> ./domainList.tmp
-        echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
+        fixdomain ${domain}
     done
     # full  # domains
     domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:" |grep "#"|cut -d':' -f 2 |cut -d'#' -f 1`
     for domain in ${domainlist}
     do
-        if [ "${domain:0-3}" == ".cn" || "${domain:0-7}" == ".qq.com" ]
-        then 
-            continue
-        fi
-        echo "||${domain}" >> ./domainList.tmp
-        echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
+        fixdomain ${domain}
     done
     # include file - no#
     includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "#"|cut -d: -f2`
@@ -77,6 +57,18 @@ function getdomain () {
     do
         getdomain ${incoude}
     done
+}
+
+function fixdomain(){
+    domain=$1
+    extcn=${domain:0-3}
+    extqq=${domain:0-7}
+    if [ "${extcn}" == ".cn" || "${extqq}" == ".qq.com" ]
+    then 
+        return 1
+    fi
+    echo "||${domain}" >> ./domainList.tmp
+    echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
 }
 
 function getheader(){
