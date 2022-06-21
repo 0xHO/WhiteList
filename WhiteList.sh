@@ -12,6 +12,7 @@ function getdomain () {
         echo '||taobao.com' >> ./domainList.tmp
         echo '||alicdn.com' >> ./domainList.tmp
         echo '||wecom.work' >> ./domainList.tmp
+        echo '||outlook.com' >> ./domainList.tmp
         echo 'fHxhdmx5dW4ub3JnCg=='|base64 -d >> ./domainList.tmp
         echo 'fHxmYXN0c3M1LmNvbQo='|base64 -d >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,cn,DIRECT'  >> ./ssc.tmp
@@ -21,6 +22,7 @@ function getdomain () {
         echo 'DOMAIN-SUFFIX,taobao.com,DIRECT'  >> ./ssc.tmp
         echo 'DOMAIN-SUFFIX,alicdn.com,DIRECT'  >> ./ssc.tmp
         echo 'DOMAIN-SUFFIX,wecom.work,DIRECT'  >> ./ssc.tmp
+        echo 'DOMAIN-SUFFIX,outlook.com,DIRECT'  >> ./ssc.tmp
         echo 'RE9NQUlOLVNVRkZJWCxmYXN0c3M1LmNvbSxESVJFQ1QK'|base64 -d >> ./ssc.tmp
     else
         include=$1
