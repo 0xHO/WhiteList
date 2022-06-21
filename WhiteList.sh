@@ -25,6 +25,8 @@ function getdomain () {
         echo 'DOMAIN-SUFFIX,outlook.com,DIRECT'  >> ./ssc.tmp
         echo '||baidu.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,baidu.com,DIRECT'  >> ./ssc.tmp
+        echo '||aliyuncs.com' >> ./domainList.tmp
+        echo 'DOMAIN-SUFFIX,aliyuncs.com,DIRECT'  >> ./ssc.tmp
         echo 'RE9NQUlOLVNVRkZJWCxmYXN0c3M1LmNvbSxESVJFQ1QK'|base64 -d >> ./ssc.tmp
     else
         include=$1
@@ -132,6 +134,11 @@ function fixdomain(){
         return 1
     fi
     if [ "${exttb}" == ".alicdn.com" ]
+    then
+        return 1
+    fi
+    extcs=${domain:0-13}
+    if [ "${extcs}" == ".aliyuncs.com" ]
     then
         return 1
     fi
