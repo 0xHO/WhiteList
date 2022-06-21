@@ -8,13 +8,17 @@ function getdomain () {
         echo '||icloud.com' >> ./domainList.tmp
         echo '||qq.com' >> ./domainList.tmp
         echo '||weibo.com' >> ./domainList.tmp
+        echo '||iqiyi.com' >> ./domainList.tmp
         echo '||taobao.com' >> ./domainList.tmp
+        echo '||alicdn.com' >> ./domainList.tmp
         echo 'fHxhdmx5dW4ub3JnCg=='|base64 -d >> ./domainList.tmp
         echo 'fHxmYXN0c3M1LmNvbQo='|base64 -d >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,cn,DIRECT'  >> ./ssc.tmp
         echo 'DOMAIN-SUFFIX,qq.com,DIRECT'  >> ./ssc.tmp
         echo 'DOMAIN-SUFFIX,weibo.com,DIRECT'  >> ./ssc.tmp
+        echo 'DOMAIN-SUFFIX,iqiyi.com,DIRECT'  >> ./ssc.tmp
         echo 'DOMAIN-SUFFIX,taobao.com,DIRECT'  >> ./ssc.tmp
+        echo 'DOMAIN-SUFFIX,alicdn.com,DIRECT'  >> ./ssc.tmp
         echo 'RE9NQUlOLVNVRkZJWCxmYXN0c3M1LmNvbSxESVJFQ1QK'|base64 -d >> ./ssc.tmp
     else
         include=$1
@@ -61,6 +65,14 @@ function getdomain () {
 
 function fixdomain(){
     domain=$1
+    if [ "${domain}" == "@cn" ]
+    then
+        return 1
+    fi
+    if [ "${domain}" == "@ads" ]
+    then
+        return 1
+    fi
     if [ "${domain}" == "qq.com" ]
     then
         return 1
@@ -73,7 +85,15 @@ function fixdomain(){
     then
         return 1
     fi
+    if [ "${domain}" == "iqiyi.com" ]
+    then
+        return 1
+    fi
     if [ "${domain}" == "taobao.com" ]
+    then
+        return 1
+    fi
+    if [ "${domain}" == "alicdn.com" ]
     then
         return 1
     fi
@@ -87,18 +107,21 @@ function fixdomain(){
     then
         return 1
     fi
-    extqq=${domain:0-10}
-    if [ "${extqq}" == ".weibo.com" ]
+    extwb=${domain:0-10}
+    if [ "${extwb}" == ".weibo.com" ]
     then
         return 1
     fi
-    extqq=${domain:0-10}
-    if [ "${extqq}" == ".weibo.com" ]
+    if [ "${extwb}" == ".iqiyi.com" ]
     then
         return 1
     fi
-    extqq=${domain:0-11}
-    if [ "${extqq}" == ".taobao.com" ]
+    exttb=${domain:0-11}
+    if [ "${exttb}" == ".taobao.com" ]
+    then
+        return 1
+    fi
+    if [ "${exttb}" == ".alicdn.com" ]
     then
         return 1
     fi
