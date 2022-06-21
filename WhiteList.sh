@@ -27,6 +27,8 @@ function getdomain () {
         echo 'DOMAIN-SUFFIX,baidu.com,DIRECT'  >> ./ssc.tmp
         echo '||aliyuncs.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,aliyuncs.com,DIRECT'  >> ./ssc.tmp
+        echo '||byteimg.com' >> ./domainList.tmp
+        echo 'DOMAIN-SUFFIX,byteimg.com,DIRECT'  >> ./ssc.tmp
         echo 'RE9NQUlOLVNVRkZJWCxmYXN0c3M1LmNvbSxESVJFQ1QK'|base64 -d >> ./ssc.tmp
     else
         include=$1
@@ -100,6 +102,10 @@ function fixdomain(){
     if [ "${domain}" == "taobao.com" ]
     then
         return 1
+    fi    
+    if [ "${domain}" == "byteimg.com" ]
+    then
+        return 1
     fi
     if [ "${domain}" == "alicdn.com" ]
     then
@@ -130,6 +136,11 @@ function fixdomain(){
     fi
     exttb=${domain:0-11}
     if [ "${exttb}" == ".taobao.com" ]
+    then
+        return 1
+    fi
+    extbi=${domain:0-12}
+    if [ "${extbi}" == ".byteimg.com" ]
     then
         return 1
     fi
