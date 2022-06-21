@@ -19,6 +19,11 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep -v "#"|grep -v "^$"|grep -v "include:"|grep -v "full:"|cut -d'@' -f 1`
     for domain in ${domainlist}
     do
+        ext=${domain:0-3}
+        if [ "${ext}" == ".cn" ]
+        then 
+            continue
+        fi
         echo "||${domain}" >> ./domainList.tmp
         echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
     done
@@ -26,6 +31,11 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep "#"|grep -v "^#"|grep -v "include:"|grep -v "full:"|cut -d'#' -f 1`
     for domain in ${domainlist}
     do
+        ext=${domain:0-3}
+        if [ "${ext}" == ".cn" ]
+        then 
+            continue
+        fi
         echo "||${domain}" >> ./domainList.tmp
         echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
     done
@@ -33,6 +43,11 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:"|grep -v "#"|cut -d':' -f 2`
     for domain in ${domainlist}
     do
+        ext=${domain:0-3}
+        if [ "${ext}" == ".cn" ]
+        then 
+            continue
+        fi
         echo "||${domain}" >> ./domainList.tmp
         echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
     done
@@ -40,6 +55,11 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:" |grep "#"|cut -d':' -f 2 |cut -d'#' -f 1`
     for domain in ${domainlist}
     do
+        ext=${domain:0-3}
+        if [ "${ext}" == ".cn" ]
+        then 
+            continue
+        fi
         echo "||${domain}" >> ./domainList.tmp
         echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
     done
