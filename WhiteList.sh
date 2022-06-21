@@ -6,9 +6,15 @@ function getdomain () {
         echo '||cn' >> ./domainList.tmp
         echo '||apple.com' >> ./domainList.tmp
         echo '||icloud.com' >> ./domainList.tmp
+        echo '||qq.com' >> ./domainList.tmp
+        echo '||weibo.com' >> ./domainList.tmp
+        echo '||taobao.com' >> ./domainList.tmp
         echo 'fHxhdmx5dW4ub3JnCg=='|base64 -d >> ./domainList.tmp
         echo 'fHxmYXN0c3M1LmNvbQo='|base64 -d >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,cn,DIRECT'  >> ./ssc.tmp
+        echo 'DOMAIN-SUFFIX,qq.com,DIRECT'  >> ./ssc.tmp
+        echo 'DOMAIN-SUFFIX,weibo.com,DIRECT'  >> ./ssc.tmp
+        echo 'DOMAIN-SUFFIX,taobao.com,DIRECT'  >> ./ssc.tmp
         echo 'RE9NQUlOLVNVRkZJWCxmYXN0c3M1LmNvbSxESVJFQ1QK'|base64 -d >> ./ssc.tmp
     else
         include=$1
@@ -19,8 +25,7 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep -v "#"|grep -v "^$"|grep -v "include:"|grep -v "full:"|cut -d'@' -f 1`
     for domain in ${domainlist}
     do
-        ext=${domain:0-3}
-        if [ "${ext}" == ".cn" ]
+        if [ "${domain:0-3}" == ".cn" || "${domain:0-7}" == ".qq.com" ]
         then 
             continue
         fi
@@ -31,8 +36,7 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep "#"|grep -v "^#"|grep -v "include:"|grep -v "full:"|cut -d'#' -f 1`
     for domain in ${domainlist}
     do
-        ext=${domain:0-3}
-        if [ "${ext}" == ".cn" ]
+        if [ "${domain:0-3}" == ".cn" || "${domain:0-7}" == ".qq.com" ]
         then 
             continue
         fi
@@ -43,8 +47,7 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:"|grep -v "#"|cut -d':' -f 2`
     for domain in ${domainlist}
     do
-        ext=${domain:0-3}
-        if [ "${ext}" == ".cn" ]
+        if [ "${domain:0-3}" == ".cn" || "${domain:0-7}" == ".qq.com" ]
         then 
             continue
         fi
@@ -55,8 +58,7 @@ function getdomain () {
     domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:" |grep "#"|cut -d':' -f 2 |cut -d'#' -f 1`
     for domain in ${domainlist}
     do
-        ext=${domain:0-3}
-        if [ "${ext}" == ".cn" ]
+        if [ "${domain:0-3}" == ".cn" || "${domain:0-7}" == ".qq.com" ]
         then 
             continue
         fi
