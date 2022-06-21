@@ -62,9 +62,13 @@ function getdomain () {
 function fixdomain(){
     domain=$1
     extcn=${domain:0-3}
-    extqq=${domain:0-7}
-    if [ "${extcn}" == ".cn" || "${extqq}" == ".qq.com" ]
+    if [ "${extcn}" == ".cn" ]
     then 
+        return 1
+    fi
+    extqq=${domain:0-7}
+    if [ "${extqq}" == ".qq.com" ]
+    then
         return 1
     fi
     echo "||${domain}" >> ./domainList.tmp
