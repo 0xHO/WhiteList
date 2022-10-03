@@ -19,6 +19,8 @@ function getdomain () {
         echo 'DOMAIN-SUFFIX,taobao.com,DIRECT'  >> ./ssc.tmp
         echo '||alicdn.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,alicdn.com,DIRECT'  >> ./ssc.tmp
+        echo '||cloudflare.com' >> ./domainList.tmp
+        echo 'DOMAIN-SUFFIX,cloudflare.com,DIRECT'  >> ./ssc.tmp
         echo '||wecom.work' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,wecom.work,DIRECT'  >> ./ssc.tmp
         echo '||outlook.com' >> ./domainList.tmp
