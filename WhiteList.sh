@@ -33,6 +33,8 @@ function getdomain () {
         echo 'DOMAIN-SUFFIX,ikuai8.com,DIRECT'  >> ./ssc.tmp
         echo '||byteimg.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,byteimg.com,DIRECT'  >> ./ssc.tmp
+        echo '||bendibao.com' >> ./domainList.tmp
+        echo 'DOMAIN-SUFFIX,bendibao.com,DIRECT'  >> ./ssc.tmp
         echo 'RE9NQUlOLVNVRkZJWCxmYXN0c3M1LmNvbSxESVJFQ1QK'|base64 -d >> ./ssc.tmp
     else
         include=$1
