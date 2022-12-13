@@ -43,7 +43,7 @@ jobs:
         today=`date`
         git config --local user.email "93760897+0xHO@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git commit WhiteList.txt ss.conf -m "update ${today}"
+        git commit WhiteList.txt ss.conf dnsmasq.conf -m "update ${today}"
 
     - name: Push changes
       if: ( !cancelled() )
