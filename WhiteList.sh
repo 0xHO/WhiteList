@@ -4,38 +4,54 @@ function getdomain () {
     if [ ! -n "$1" ]; then 
         include="geolocation-cn"
         echo '||cn' >> ./domainList.tmp
+        echo 'server=/cn/114.114.114.114' >> ./dnsmasq.conf
         echo '||apple.com' >> ./domainList.tmp
+        echo 'server=/apple.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||icloud.com' >> ./domainList.tmp
+        echo 'server=/icloud.com/114.114.114.114' >> ./dnsmasq.conf
         echo 'fHxhdmx5dW4ub3JnCg=='|base64 -d >> ./domainList.tmp
         echo 'fHxmYXN0c3M1LmNvbQo='|base64 -d >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,cn,DIRECT'  >> ./ssc.tmp
         echo '||qq.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,qq.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/qq.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||weibo.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,weibo.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/weibo.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||iqiyi.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,iqiyi.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/iqiyi.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||taobao.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,taobao.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/taobao.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||alicdn.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,alicdn.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/alicdn.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||cloudflare.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,cloudflare.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/cloudflare.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||wecom.work' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,wecom.work,DIRECT'  >> ./ssc.tmp
+        echo 'server=/wecom.work/114.114.114.114' >> ./dnsmasq.conf
         echo '||outlook.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,outlook.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/outlook.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||baidu.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,baidu.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/baidu.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||aliyuncs.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,aliyuncs.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/aliyuncs.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||ikuai8.com'>>./domainList.tmp
         echo 'DOMAIN-SUFFIX,ikuai8.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/ikuai8.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||byteimg.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,byteimg.com,DIRECT'  >> ./ssc.tmp
+        echo 'server=/byteimg.com/114.114.114.114' >> ./dnsmasq.conf
         echo '||bendibao.com' >> ./domainList.tmp
         echo 'DOMAIN-SUFFIX,bendibao.com,DIRECT'  >> ./ssc.tmp
         echo 'RE9NQUlOLVNVRkZJWCxmYXN0c3M1LmNvbSxESVJFQ1QK'|base64 -d >> ./ssc.tmp
+        echo 'server=/bendibao.com/114.114.114.114' >> ./dnsmasq.conf
     else
         include=$1
     fi
@@ -161,6 +177,7 @@ function fixdomain(){
     fi
     echo "||${domain}" >> ./domainList.tmp
     echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
+    echo "server=/${domain}/114.114.114.114" >> ./dnsmasq.conf
 }
 
 function getheader(){
@@ -200,6 +217,7 @@ update-url = https://raw.githubusercontent.com/0xHO/WhiteList/main/ss.conf
 
 [Rule]
 " > ./ssc.tmp
+echo '' > ./dnsmasq.conf
 }
 
 
