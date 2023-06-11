@@ -7,7 +7,8 @@ function getdomain () {
         for suffix in `cat top.cfg`
         do
             echo "||${suffix}" >> ./domainList.tmp
-            echo "server=/${suffix}/114.114.114.114" >> ./dnsmasq.conf
+            echo "server=/${suffix}/119.29.29.29" >> ./dnsmasq.conf
+            echo "server=/${suffix}/223.5.5.5" >> ./dnsmasq.conf
             echo "DOMAIN-SUFFIX,${suffix},DIRECT"  >> ./ssc.tmp
         done
         echo 'fHxhdmx5dW4ub3JnCg=='|base64 -d >> ./domainList.tmp
@@ -86,10 +87,11 @@ function fixdomain(){
             return 1
         fi
     done
-    #
+    # 将域名写入配置文件
     echo "||${domain}" >> ./domainList.tmp
     echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
-    echo "server=/${domain}/114.114.114.114" >> ./dnsmasq.conf
+    echo "server=/${domain}/119.29.29.29" >> ./dnsmasq.conf
+    echo "server=/${domain}/223.5.5.5" >> ./dnsmasq.conf
 }
 
 function getheader(){
