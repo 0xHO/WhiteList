@@ -42,14 +42,21 @@ function getdomain () {
     do
         fixdomain ${domain}
     done
+    
+    black = ""
+    for suffix in `cat black.cfg`
+    do
+        black = "-e '${suffix}' ${black}"
+    done
+
     # include file - no#
-    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "regexp:"|grep -v "sumkoo"|grep -v "#"|cut -d: -f2`
+    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "regexp:"|grep -v ${black}|grep -v "#"|cut -d: -f2`
     for incoude in ${includs}
     do
         getdomain ${incoude}
     done
     # include #
-    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "regexp:"|grep -v "sumkoo"|grep "#"|cut -d: -f2|cut -d" " -f1`
+    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "regexp:"|grep -v ${black}|grep "#"|cut -d: -f2|cut -d" " -f1`
     for incoude in ${includs}
     do
         getdomain ${incoude}
