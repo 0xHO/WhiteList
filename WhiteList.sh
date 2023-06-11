@@ -57,7 +57,9 @@ function getdomain () {
 }
 
 function fixdomain(){
-    domain=$1
+    # domain=$1
+    domain=$(echo "$1" | awk '{$1=$1};gsub(/^ *| *$/, "")')
+
     if [ "${domain}" == "@cn" ]
     then
         return 1
