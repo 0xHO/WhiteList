@@ -58,37 +58,37 @@ function getdomain () {
     echo $include
     echo "! # ------ ${include} ------>" >> ./domainList.tmp
     # no full no # domains
-    domainlist=`cat ./domainlist/data/${include}|grep -v "#"|grep -v "^$"|grep -v "include:"|grep -v "full:"|cut -d'@' -f 1`
+    domainlist=`cat ./domainlist/data/${include}|grep -v "#"|grep -v "^$"|grep -v "include:"|grep -v "full:"|grep -v "regexp:"|cut -d'@' -f 1`
     for domain in ${domainlist}
     do
         fixdomain ${domain}
     done
     # no full # domains
-    domainlist=`cat ./domainlist/data/${include}|grep "#"|grep -v "^#"|grep -v "include:"|grep -v "full:"|cut -d'#' -f 1`
+    domainlist=`cat ./domainlist/data/${include}|grep "#"|grep -v "^#"|grep -v "include:"|grep -v "full:"|grep -v "regexp:"|cut -d'#' -f 1`
     for domain in ${domainlist}
     do
         fixdomain ${domain}
     done
     # full  no # domains
-    domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:"|grep -v "#"|cut -d':' -f 2`
+    domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:"|grep -v "regexp:"|grep -v "#"|cut -d':' -f 2`
     for domain in ${domainlist}
     do
         fixdomain ${domain}
     done
     # full  # domains
-    domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:" |grep "#"|cut -d':' -f 2 |cut -d'#' -f 1`
+    domainlist=`cat ./domainlist/data/${include}|grep -v "include:"|grep "full:" |grep -v "regexp:"|grep "#"|cut -d':' -f 2 |cut -d'#' -f 1`
     for domain in ${domainlist}
     do
         fixdomain ${domain}
     done
     # include file - no#
-    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "#"|cut -d: -f2`
+    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "regexp:"|grep -v "#"|cut -d: -f2`
     for incoude in ${includs}
     do
         getdomain ${incoude}
     done
     # include #
-    includs=`cat ./domainlist/data/${include}|grep "include:"|grep "#"|cut -d: -f2|cut -d" " -f1`
+    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "regexp:"|grep "#"|cut -d: -f2|cut -d" " -f1`
     for incoude in ${includs}
     do
         getdomain ${incoude}
@@ -101,80 +101,23 @@ function fixdomain(){
     then
         return 1
     fi
+    if [ "${domain}" == "@!cn" ]
+    then
+        return 1
+    fi
     if [ "${domain}" == "@ads" ]
     then
         return 1
-    fi
-    if [ "${domain}" == "qq.com" ]
-    then
-        return 1
-    fi
-    if [ "${domain}" == "weibo.com" ]
-    then
-        return 1
-    fi
-    if [ "${domain}" == "baidu.com" ]
-    then
-        return 1
-    fi
-    if [ "${domain}" == "iqiyi.com" ]
-    then
-        return 1
-    fi
-    if [ "${domain}" == "taobao.com" ]
-    then
-        return 1
-    fi    
-    if [ "${domain}" == "byteimg.com" ]
-    then
-        return 1
-    fi
-    if [ "${domain}" == "alicdn.com" ]
-    then
-        return 1
-    fi
-    extcn=${domain:0-3}
-    if [ "${extcn}" == ".cn" ]
-    then 
-        return 1
-    fi
-    extqq=${domain:0-7}
-    if [ "${extqq}" == ".qq.com" ]
-    then
-        return 1
-    fi
-    extwb=${domain:0-10}
-    if [ "${extwb}" == ".weibo.com" ]
-    then
-        return 1
-    fi
-    if [ "${extwb}" == ".baidu.com" ]
-    then
-        return 1
-    fi
-    if [ "${extwb}" == ".iqiyi.com" ]
-    then
-        return 1
-    fi
-    exttb=${domain:0-11}
-    if [ "${exttb}" == ".taobao.com" ]
-    then
-        return 1
-    fi
-    extbi=${domain:0-12}
-    if [ "${extbi}" == ".byteimg.com" ]
-    then
-        return 1
-    fi
-    if [ "${exttb}" == ".alicdn.com" ]
-    then
-        return 1
-    fi
-    extcs=${domain:0-13}
-    if [ "${extcs}" == ".aliyuncs.com" ]
-    then
-        return 1
-    fi
+    fi 
+    # 顶级域名
+    for suffix in `cat top.cfg`
+     do
+        if [[ "$domain" == *"$suffix" ]]; then
+            found=true
+            break
+        fi
+    done
+    #
     echo "||${domain}" >> ./domainList.tmp
     echo "DOMAIN-SUFFIX,${domain},DIRECT"  >> ./ssc.tmp
     echo "server=/${domain}/114.114.114.114" >> ./dnsmasq.conf
