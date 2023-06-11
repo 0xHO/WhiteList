@@ -4,7 +4,7 @@ function getdomain () {
     if [ ! -n "$1" ]; then 
         include="geolocation-cn"
         # 添加过滤域名
-        for suffix in `cat top.cfg`
+        for suffix in `cat assets/top.cfg`
         do
             echo "||${suffix}" >> ./domainList.tmp
             echo "server=/${suffix}/119.29.29.29" >> ./dnsmasq.conf
@@ -45,7 +45,7 @@ function getdomain () {
     done
     
     black = ""
-    for suffix in `cat black.cfg`
+    for suffix in `cat assets/black.cfg`
     do
         black = "-e '${suffix}' ${black}"
     done
@@ -81,7 +81,7 @@ function fixdomain(){
         return 1
     fi 
     # 过滤域名
-    for suffix in `cat top.cfg`
+    for suffix in `cat assets/top.cfg`
      do
         if [[ "$domain" == *"$suffix" ]]; then
             return 1
