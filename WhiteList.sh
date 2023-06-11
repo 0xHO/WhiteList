@@ -113,8 +113,7 @@ function fixdomain(){
     for suffix in `cat top.cfg`
      do
         if [[ "$domain" == *"$suffix" ]]; then
-            found=true
-            break
+            return 1
         fi
     done
     #
