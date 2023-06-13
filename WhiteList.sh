@@ -82,10 +82,17 @@ function fixdomain(){
     then
         return 1
     fi 
-    # 过滤域名
+    # 过滤域名白名单
     for suffix in `cat assets/top.cfg`
      do
         if [[ "$domain" == *"$suffix" ]]; then
+            return 1
+        fi
+    done
+    # 过滤关键词
+    for suffix in `cat assets/proxykw.cfg`
+     do
+        if [[ "$domain" == *"$suffix"* ]]; then
             return 1
         fi
     done
@@ -142,6 +149,7 @@ echo '' > ./dnsmasq.conf
 getheader
 getdomain
 cat ./domainList.tmp >> ./WhiteList.tmp
+
 echo "
 # REJECT ads
 DOMAIN-KEYWORD,admarvel,REJECT
@@ -171,9 +179,15 @@ DOMAIN-KEYWORD,umeng,REJECT
 DOMAIN-KEYWORD,usage,REJECT
 DOMAIN-SUFFIX,vungle.com,REJECT
 DOMAIN-KEYWORD,wlmonitor,REJECT
-DOMAIN-KEYWORD,zjtoolbar,REJECT
-DOMAIN-KEYWORD,google,PROXY
+DOMAIN-KEYWORD,zjtoolbar,REJECT " >> ./ssc.tmp
 
+# 读取关键字域名，进入代理
+for keyword in `cat assets/proxykw.cfg`
+do
+    echo "DOMAIN-KEYWORD,${keyword},PROXY"  >> ./ssc.tmp
+done
+
+echo "
 IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
