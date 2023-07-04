@@ -179,7 +179,33 @@ DOMAIN-KEYWORD,umeng,REJECT
 DOMAIN-KEYWORD,usage,REJECT
 DOMAIN-SUFFIX,vungle.com,REJECT
 DOMAIN-KEYWORD,wlmonitor,REJECT
-DOMAIN-KEYWORD,zjtoolbar,REJECT " >> ./ssc.tmp
+DOMAIN-KEYWORD,zjtoolbar,REJECT
+
+# 本地/局域网地址
+DOMAIN-SUFFIX,ip6-localhost,DIRECT
+DOMAIN-SUFFIX,ip6-loopback,DIRECT
+DOMAIN-SUFFIX,lan,DIRECT
+DOMAIN-SUFFIX,local,DIRECT
+DOMAIN-SUFFIX,localhost,DIRECT
+
+# Router managed 路由器管理域名
+DOMAIN,instant.arubanetworks.com,DIRECT
+DOMAIN,setmeup.arubanetworks.com,DIRECT
+DOMAIN,router.asus.com,DIRECT
+DOMAIN,www.asusrouter.com,DIRECT
+DOMAIN-SUFFIX,hiwifi.com,DIRECT
+DOMAIN-SUFFIX,leike.cc,DIRECT
+DOMAIN-SUFFIX,miwifi.com,DIRECT
+DOMAIN-SUFFIX,my.router,DIRECT
+DOMAIN-SUFFIX,p.to,DIRECT
+DOMAIN-SUFFIX,peiluyou.com,DIRECT
+DOMAIN-SUFFIX,phicomm.me,DIRECT
+DOMAIN-SUFFIX,router.ctc,DIRECT
+DOMAIN-SUFFIX,routerlogin.com,DIRECT
+DOMAIN-SUFFIX,tendawifi.com,DIRECT
+DOMAIN-SUFFIX,zte.home,DIRECT
+DOMAIN-SUFFIX,wifi.cmcc,DIRECT
+" >> ./ssc.tmp
 
 # 读取关键字域名，进入代理
 for keyword in `cat assets/proxykw.cfg`
@@ -192,15 +218,24 @@ IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
 IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,0.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+IP-CIDR,198.18.0.0/16,DIRECT
+IP-CIDR,224.0.0.0/4,DIRECT
+IP-CIDR6,::1/128,DIRECT
+IP-CIDR6,fc00::/7,DIRECT
+IP-CIDR6,fe80::/10,DIRECT
+IP-CIDR6,fd00::/8,DIRECT
 
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list,REJECT
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list,REJECT
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list,DIRECT
+#
+# RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,DIRECT
+# RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,DIRECT
+# RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list,DIRECT
+# RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list,REJECT
+# RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list,REJECT
+# RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list,DIRECT
+# RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list,DIRECT
+#
 
 GEOIP,CN,DIRECT
 FINAL,PROXY
