@@ -1,6 +1,6 @@
 # Service: apple icloud
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/apple.yaml
-# Update: Tue Jul  4 21:16:06 CST 2023
+# Update: Tue Jul  4 22:00:55 CST 2023
 payload:
    # ------ apple ------>
    - DOMAIN,apple.com.akadns.net

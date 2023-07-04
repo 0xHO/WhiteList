@@ -1,6 +1,6 @@
 # Service: category-games
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/games.yaml
-# Update: Tue Jul  4 21:16:06 CST 2023
+# Update: Tue Jul  4 22:00:56 CST 2023
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,fanatical.com
@@ -18,13 +18,6 @@ payload:
    - DOMAIN-SUFFIX,2kcoretech.online
    - DOMAIN-SUFFIX,2kgames.com
    - DOMAIN-SUFFIX,take2games.com
-   # ------ bilibili-game ------>
-   - DOMAIN-SUFFIX,bilibiligame.cn
-   - DOMAIN-SUFFIX,bilibiligame.co
-   - DOMAIN-SUFFIX,bilibiligame.net
-   - DOMAIN-SUFFIX,biligame.co
-   - DOMAIN-SUFFIX,biligame.com
-   - DOMAIN-SUFFIX,biligame.net
    # ------ blizzard ------>
    - DOMAIN,blizzard.nefficient.co.kr
    - DOMAIN,blzddist1-a.akamaihd.net
