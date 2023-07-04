@@ -1,0 +1,15 @@
+# Service: category-games
+# Repo: https://github.com/0xHO/WhiteList/blob/main/service/games.yaml
+# Update: Tue Jul  4 21:09:44 CST 2023
+payload:
+   # ------ category-games ------>
+   - DOMAIN-SUFFIX,fanatical.com
+   - DOMAIN-SUFFIX,humblebundle.com
+   - DOMAIN-SUFFIX,loverslab.com
+   - DOMAIN-SUFFIX,modrinth.com
+   - DOMAIN-SUFFIX,nexusmods.com
+   - DOMAIN-SUFFIX,papermc.io
+   - DOMAIN-SUFFIX,planetminecraft.com
+   - DOMAIN-SUFFIX,protondb.com
+   - DOMAIN-SUFFIX,speedrun.com
+   - DOMAIN-SUFFIX,steamdb.info

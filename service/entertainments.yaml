@@ -1,0 +1,28 @@
+# Service: category-entertainment
+# Repo: https://github.com/0xHO/WhiteList/blob/main/service/entertainments.yaml
+# Update: Tue Jul  4 21:09:44 CST 2023
+payload:
+   # ------ category-entertainment ------>
+   - DOMAIN-SUFFIX,777tv.net
+   - DOMAIN-SUFFIX,blubrry.com
+   - DOMAIN-SUFFIX,buzzsprout.com
+   - DOMAIN-SUFFIX,castro.fm
+   - DOMAIN-SUFFIX,egta.com
+   - DOMAIN-SUFFIX,fireside.fm
+   - DOMAIN-SUFFIX,internationalsaimoe.com
+   - DOMAIN-SUFFIX,joox.com
+   - DOMAIN-SUFFIX,linetv.tw
+   - DOMAIN-SUFFIX,litv.tv
+   - DOMAIN-SUFFIX,megaphone.fm
+   - DOMAIN-SUFFIX,moov.hk
+   - DOMAIN-SUFFIX,odysee.com
+   - DOMAIN-SUFFIX,omobi.cc
+   - DOMAIN-SUFFIX,oranum.com
+   - DOMAIN-SUFFIX,overcast.fm
+   - DOMAIN-SUFFIX,syosetu.com
+   - DOMAIN-SUFFIX,thetvdb.com
+   - DOMAIN-SUFFIX,weverse.io
+   - DOMAIN-SUFFIX,yande.re
+   - DOMAIN-SUFFIX,amp-api.podcast.apple.com
+   - DOMAIN-SUFFIX,bag.itunes.apple.com
+   - DOMAIN-SUFFIX,bookeeper.itunes.apple.com
