@@ -31,7 +31,7 @@ function getdomain () {
         echo "   - DOMAIN-SUFFIX,${domainsuffix}" >> $filename
     done
     # include
-    includs=`cat ./domainlist/data/${include}|grep "include:"|grep "#"|cut -d: -f2|cut -d" " -f1`
+    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "^#"|cut -d: -f2|cut -d" " -f1`
     for incoude in ${includs}
     do
         getdomain ${incoude} ${iscn}
