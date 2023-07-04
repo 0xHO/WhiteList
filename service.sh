@@ -1,5 +1,6 @@
 service=$1
 filename=service/${2:-$1}.yaml
+noindex=${3:-"xxxxxxxxxxxxxxxxxx"}
 
 # echo $service
 # echo $filename
@@ -31,7 +32,7 @@ function getdomain () {
         echo "   - DOMAIN-SUFFIX,${domainsuffix}" >> $filename
     done
     # include
-    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "^#"|cut -d: -f2|cut -d" " -f1`
+    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "^#"|grep -v "${noindex}"|cut -d: -f2|cut -d" " -f1`
     for incoude in ${includs}
     do
         getdomain ${incoude} ${iscn}
