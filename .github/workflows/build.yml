@@ -37,13 +37,22 @@ jobs:
       id: organize
       if: ( !cancelled() )
       run: |
+        today=`date`
         bash WhiteList.sh
         python3 -m base64 WhiteList.tmp &> WhiteList.txt
         cat ssc.tmp > ss.conf
-        today=`date`
         git config --local user.email "93760897+0xHO@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git commit WhiteList.txt ss.conf dnsmasq.conf -m "update ${today}"
+        git commit WhiteList.txt ss.conf dnsmasq.conf -m "update WhiteList ${today}"
+        # bash service.sh "service file 
+        bash service.sh "openai"
+        bash service.sh "microsoft"
+        bash service.sh "apple icloud" apple
+        bash service.sh "category-games" games
+        bash service.sh "category-games@cn" gamesCN
+        bash service.sh "category-entertainment" entertainments
+        git add service/*
+        git commit service/* -m "update Service ${today}"
 
     - name: Push changes
       if: ( !cancelled() )
