@@ -45,6 +45,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git commit WhiteList.txt ss.conf dnsmasq.conf -m "update WhiteList ${today}"
         # bash service.sh "service file 
+        mkdir -p service
         bash service.sh "openai"
         bash service.sh "microsoft"
         bash service.sh "apple icloud" apple
