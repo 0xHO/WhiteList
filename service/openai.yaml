@@ -1,6 +1,6 @@
 # Service: openai
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/openai.yaml
-# Update: Wed Jul  5 04:40:53 CST 2023
+# Update: Wed Jul  5 23:25:57 CST 2023
 payload:
    # ------ openai ------>
    - DOMAIN,chat.openai.com.cdn.cloudflare.net
