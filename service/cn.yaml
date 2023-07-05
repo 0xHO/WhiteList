@@ -1,6 +1,6 @@
 # Service: geolocation-cn
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/cn.yaml
-# Update: Wed Jul  5 23:38:53 CST 2023
+# Update: Wed Jul  5 23:49:13 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,caac.gov.cn
