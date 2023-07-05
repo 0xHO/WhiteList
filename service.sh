@@ -26,7 +26,7 @@ function getdomain () {
         echo "   - DOMAIN,${domain}" >> $filename
     done
     # DOMAIN-SUFFIX
-    domainsuffixs=`cat ./domainlist/data/${include}|grep -v "full:"|grep -v "include:"|grep ${grepcn} "@cn"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d" " -f1`
+    domainsuffixs=`cat ./domainlist/data/${include}|grep -v "full:"|grep -v "include:"|grep ${grepcn} "@cn"|grep -v "^$"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d" " -f1`
     for domainsuffix in ${domainsuffixs}
     do
         echo "   - DOMAIN-SUFFIX,${domainsuffix}" >> $filename
