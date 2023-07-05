@@ -23,14 +23,17 @@ function getdomain () {
     domains=`cat ./domainlist/data/${include}|grep "full:"|grep ${grepcn} "@cn"|grep -v "^#"|grep -v "@ads"|cut -d: -f2|cut -d" " -f1`
     for domain in ${domains}
     do
-        echo "   - DOMAIN,${domain}" >> $filename
+        domain=${domain// /}
+        if [[ -n "$domain" ]]; then
+            echo "   - DOMAIN,${domain}" >> $filename
+        fi
     done
     # DOMAIN-SUFFIX
     domainsuffixs=`cat ./domainlist/data/${include}|grep -v "full:"|grep -v "include:"|grep ${grepcn} "@cn"|grep -v "^$"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d" " -f1`
     for domainsuffix in ${domainsuffixs}
     do
-        domainsuffix=${domainsuffix// /-}
-        if [[ -n $domainsuffix ]]; then
+        domainsuffix=${domainsuffix// /}
+        if [[ -n "$domainsuffix" ]]; then
             echo "   - DOMAIN-SUFFIX,${domainsuffix}" >> $filename
         fi
     done
