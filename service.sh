@@ -29,7 +29,10 @@ function getdomain () {
     domainsuffixs=`cat ./domainlist/data/${include}|grep -v "full:"|grep -v "include:"|grep ${grepcn} "@cn"|grep -v "^$"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d" " -f1`
     for domainsuffix in ${domainsuffixs}
     do
-        echo "   - DOMAIN-SUFFIX,${domainsuffix}" >> $filename
+        domainsuffix=${domainsuffix// /-}
+        if [[ -n $domainsuffix ]]; then
+            echo "   - DOMAIN-SUFFIX,${domainsuffix}" >> $filename
+        fi
     done
     # include
     includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "^#"|grep -v "${noindex}"|cut -d: -f2|cut -d" " -f1`
