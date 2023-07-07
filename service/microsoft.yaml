@@ -1,6 +1,6 @@
 # Service: microsoft
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/microsoft.yaml
-# Update: Fri Jul  7 04:40:47 CST 2023
+# Update: Sat Jul  8 04:41:00 CST 2023
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net

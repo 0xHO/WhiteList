@@ -1,6 +1,6 @@
 # Service: geolocation-cn
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/cn.yaml
-# Update: Fri Jul  7 04:40:50 CST 2023
+# Update: Sat Jul  8 04:41:05 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,caac.gov.cn
@@ -3307,6 +3307,7 @@ payload:
    - DOMAIN-SUFFIX,bytegslb.com
    - DOMAIN-SUFFIX,bytehwm.com
    - DOMAIN-SUFFIX,byteimg.com
+   - DOMAIN-SUFFIX,byteintl.net
    - DOMAIN-SUFFIX,bytelb.net
    - DOMAIN-SUFFIX,byteoversea.com
    - DOMAIN-SUFFIX,bytescm.com
@@ -3404,6 +3405,8 @@ payload:
    - DOMAIN-SUFFIX,musical.ly
    - DOMAIN-SUFFIX,tik-tokapi.com
    - DOMAIN-SUFFIX,tiktok.com
+   - DOMAIN-SUFFIX,tiktokd.net
+   - DOMAIN-SUFFIX,tiktokd.org
    - DOMAIN-SUFFIX,tiktokcdn.com
    - DOMAIN-SUFFIX,tiktokv.com
    # ------ didi ------>

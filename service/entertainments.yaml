@@ -1,6 +1,6 @@
 # Service: category-entertainment
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/entertainments.yaml
-# Update: Fri Jul  7 04:40:48 CST 2023
+# Update: Sat Jul  8 04:41:02 CST 2023
 payload:
    # ------ category-entertainment ------>
    - DOMAIN-SUFFIX,777tv.net
@@ -1125,6 +1125,8 @@ payload:
    - DOMAIN-SUFFIX,musical.ly
    - DOMAIN-SUFFIX,tik-tokapi.com
    - DOMAIN-SUFFIX,tiktok.com
+   - DOMAIN-SUFFIX,tiktokd.net
+   - DOMAIN-SUFFIX,tiktokd.org
    - DOMAIN-SUFFIX,tiktokcdn.com
    - DOMAIN-SUFFIX,tiktokv.com
    # ------ tmdb ------>
