@@ -20,7 +20,7 @@ function getdomain () {
         grepcn=""
     fi
     # DOMAIN
-    domains=`cat ./domainlist/data/${include}|grep "full:"|grep ${grepcn} "@cn"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d: -f2|cut -d" " -f1`
+    domains=`cat ./domainlist/data/${include}|grep "full:"|grep ${grepcn} "@cn"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d: -f2|cut -d" " -f1|tr "\n" " "|tr "\r" " "`
     for domain in ${domains}
     do
         domain=${domain// /}
@@ -29,7 +29,7 @@ function getdomain () {
         fi
     done
     # DOMAIN-SUFFIX
-    domainsuffixs=`cat ./domainlist/data/${include}|grep -v "full:"|grep -v "include:"|grep ${grepcn} "@cn"|grep -v "regexp:"|grep -v "^$"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d" " -f1`
+    domainsuffixs=`cat ./domainlist/data/${include}|grep -v "full:"|grep -v "include:"|grep ${grepcn} "@cn"|grep -v "regexp:"|grep -v "^$"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d" " -f1|tr "\n" " "|tr "\r" " "`
     for domainsuffix in ${domainsuffixs}
     do
         domainsuffix=${domainsuffix// /}
@@ -59,3 +59,7 @@ do
         getdomain ${domain} 0
     fi
 done
+
+cat $filename > $filename.b
+cat $filename.b |grep -v ".cn$"|grep -v ",$" > $filename
+rm -rf $filename.b
