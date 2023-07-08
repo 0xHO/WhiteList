@@ -38,7 +38,7 @@ function getdomain () {
         fi
     done
     # include
-    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "^#"|grep -v "${noindex}"|cut -d: -f2|cut -d" " -f1|tr "\n" ""|tr "\r" ""`
+    includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "^#"|grep -v "${noindex}"|cut -d: -f2|cut -d" " -f1|tr "\n" " "|tr "\r" " "`
     for incoude in ${includs}
     do
         incoude=${incoude// /}
