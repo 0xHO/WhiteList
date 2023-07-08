@@ -11,7 +11,7 @@ noindex=${3:-"xxxxxxxxxxxxxxxxxx"}
 
 function getdomain () {
     # default file
-    include=$1
+    include=${1// /}
     iscn=$2
     echo $include
     echo "   # ------ ${include} ------>" >> $filename
@@ -20,7 +20,7 @@ function getdomain () {
         grepcn=""
     fi
     # DOMAIN
-    domains=`cat ./domainlist/data/${include}|grep "full:"|grep ${grepcn} "@cn"|grep -v "^#"|grep -v "@ads"|cut -d: -f2|cut -d" " -f1`
+    domains=`cat ./domainlist/data/${include}|grep "full:"|grep ${grepcn} "@cn"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d: -f2|cut -d" " -f1`
     for domain in ${domains}
     do
         domain=${domain// /}
@@ -29,7 +29,7 @@ function getdomain () {
         fi
     done
     # DOMAIN-SUFFIX
-    domainsuffixs=`cat ./domainlist/data/${include}|grep -v "full:"|grep -v "include:"|grep ${grepcn} "@cn"|grep -v "^$"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d" " -f1`
+    domainsuffixs=`cat ./domainlist/data/${include}|grep -v "full:"|grep -v "include:"|grep ${grepcn} "@cn"|grep -v "regexp:"|grep -v "^$"|grep -v "^#"|grep -v "@ads"|grep -v "regexp:"|cut -d" " -f1`
     for domainsuffix in ${domainsuffixs}
     do
         domainsuffix=${domainsuffix// /}
@@ -41,6 +41,7 @@ function getdomain () {
     includs=`cat ./domainlist/data/${include}|grep "include:"|grep -v "^#"|grep -v "${noindex}"|cut -d: -f2|cut -d" " -f1`
     for incoude in ${includs}
     do
+        incoude=${incoude// /}
         getdomain ${incoude} ${iscn}
     done
 }
