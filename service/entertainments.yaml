@@ -1,6 +1,6 @@
 # Service: category-entertainment
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/entertainments.yaml
-# Update: Sat Jul  8 20:22:22 CST 2023
+# Update: Sun Jul  9 04:41:12 CST 2023
 payload:
    # ------ category-entertainment ------>
    - DOMAIN-SUFFIX,777tv.net
