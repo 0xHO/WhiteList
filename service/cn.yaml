@@ -1,5 +1,5 @@
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/cn.yaml
-# Update: Mon Jul 10 04:41:08 CST 2023
+# Update: Tue Jul 11 04:41:00 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
