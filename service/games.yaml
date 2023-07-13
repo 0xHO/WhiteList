@@ -1,6 +1,6 @@
 # Service: category-games
 # Repo: https://github.com/0xHO/WhiteList/blob/main/service/games.yaml
-# Update: Thu Jul 13 04:41:03 CST 2023
+# Update: Fri Jul 14 04:41:09 CST 2023
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,fanatical.com
