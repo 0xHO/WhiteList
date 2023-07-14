@@ -48,6 +48,9 @@ function getdomain () {
 
 echo "# Service: ${service}
 # Repo: https://github.com/0xHO/WhiteList/blob/main/${filename}
+# raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/${filename}
+# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/${filename}
+# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/${filename}
 # Update: `date`
 payload:" > $filename
 
@@ -61,5 +64,6 @@ do
 done
 
 cat $filename > $filename.b
+# CN域名 和空白行不输出
 cat $filename.b |grep -v ".cn$"|grep -v ",$" > $filename
 rm -rf $filename.b
