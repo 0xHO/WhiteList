@@ -54,6 +54,7 @@ jobs:
         bash service.sh "category-entertainment" entertainments
         bash service.sh "geolocation-cn" cn
         bash service.sh "anthropic"
+        echo "   - DOMAIN-SUFFIX,bard.google.com" >> service/anthropic.yaml
         git add service/*
         git commit service/* -m "update Service ${today}"
 
