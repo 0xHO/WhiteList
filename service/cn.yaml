@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/cn.yaml
-# Update: Mon Jul 17 04:41:09 CST 2023
+# Update: Tue Jul 18 04:41:05 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3629,6 +3629,7 @@ payload:
    - DOMAIN-SUFFIX,ctexcel.us
    # ------ chinaunicom ------>
    - DOMAIN-SUFFIX,10010.com
+   - DOMAIN-SUFFIX,114menhu.com
    - DOMAIN-SUFFIX,chinaunicom.com
    - DOMAIN-SUFFIX,chinaunicom.com.hk
    - DOMAIN-SUFFIX,chinaunicomglobal.com
