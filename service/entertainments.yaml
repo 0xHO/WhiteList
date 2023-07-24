@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/entertainments.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/entertainments.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/entertainments.yaml
-# Update: Mon Jul 24 04:40:52 CST 2023
+# Update: Tue Jul 25 04:40:54 CST 2023
 payload:
    # ------ category-entertainment ------>
    - DOMAIN-SUFFIX,777tv.net
@@ -652,6 +652,10 @@ payload:
    - DOMAIN-SUFFIX,ptzwx.com
    - DOMAIN-SUFFIX,quanben-xiaoshuo.com
    - DOMAIN-SUFFIX,quanben.io
+   # ------ dailymotion ------>
+   - DOMAIN-SUFFIX,dailymotion.com
+   - DOMAIN-SUFFIX,dm-event.net
+   - DOMAIN-SUFFIX,dmcdn.net
    # ------ dandanzan ------>
    - DOMAIN-SUFFIX,dandanzan.cc
    - DOMAIN-SUFFIX,nunuyy.cc
@@ -943,6 +947,9 @@ payload:
    - DOMAIN-SUFFIX,imdb.com
    - DOMAIN-SUFFIX,imdb.to
    - DOMAIN-SUFFIX,media-imdb.com
+   # ------ iyf ------>
+   - DOMAIN-SUFFIX,iyf.tv
+   - DOMAIN-SUFFIX,dnvodcdn.me
    # ------ kingkonglive ------>
    - DOMAIN-SUFFIX,kingkong.com.tw
    - DOMAIN-SUFFIX,kingkongapp.com
@@ -1029,6 +1036,7 @@ payload:
    - DOMAIN-SUFFIX,olevod.io
    - DOMAIN-SUFFIX,olevod.tv
    - DOMAIN-SUFFIX,olevodtv.com
+   - DOMAIN-SUFFIX,olemovienews.com
    # ------ pbs ------>
    - DOMAIN-SUFFIX,pbs.org
    # ------ pixiv ------>
