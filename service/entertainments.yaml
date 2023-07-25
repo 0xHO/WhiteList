@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/entertainments.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/entertainments.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/entertainments.yaml
-# Update: Tue Jul 25 04:40:54 CST 2023
+# Update: Wed Jul 26 04:41:05 CST 2023
 payload:
    # ------ category-entertainment ------>
    - DOMAIN-SUFFIX,777tv.net
@@ -323,6 +323,7 @@ payload:
    - DOMAIN-SUFFIX,easy.ac
    - DOMAIN-SUFFIX,easyanticheat.net
    - DOMAIN-SUFFIX,epicgames.com
+   - DOMAIN-SUFFIX,epicgames.dev
    - DOMAIN-SUFFIX,fortnite.com
    - DOMAIN-SUFFIX,paragon.com
    - DOMAIN-SUFFIX,playparagon.com

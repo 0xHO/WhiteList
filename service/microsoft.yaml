@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/microsoft.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/microsoft.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/microsoft.yaml
-# Update: Tue Jul 25 04:40:52 CST 2023
+# Update: Wed Jul 26 04:41:03 CST 2023
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -82,9 +82,11 @@ payload:
    - DOMAIN-SUFFIX,crossborderexpansion.com
    - DOMAIN-SUFFIX,docs.com
    - DOMAIN-SUFFIX,dynamics.com
+   - DOMAIN-SUFFIX,edgesuite.net
    - DOMAIN-SUFFIX,efproject.net
    - DOMAIN-SUFFIX,fasttrackreadysupport.com
    - DOMAIN-SUFFIX,fluidpreview.com
+   - DOMAIN-SUFFIX,footprintdns.com
    - DOMAIN-SUFFIX,gameuxmasterguide.com
    - DOMAIN-SUFFIX,gears5.com
    - DOMAIN-SUFFIX,gearspop.com
@@ -272,6 +274,7 @@ payload:
    - DOMAIN-SUFFIX,azuredns-prd.org
    - DOMAIN-SUFFIX,azureedge-test.net
    - DOMAIN-SUFFIX,azureedge.net
+   - DOMAIN-SUFFIX,azurefd.net
    - DOMAIN-SUFFIX,azureiotcentral.com
    - DOMAIN-SUFFIX,azureiotsolutions.com
    - DOMAIN-SUFFIX,azureiotsuite.com
