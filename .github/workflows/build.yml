@@ -53,7 +53,8 @@ jobs:
         bash service.sh "category-games@cn" gamesCN
         bash service.sh "category-entertainment" entertainments
         bash service.sh "geolocation-cn" cn
-        bash service.sh "anthropic" 
+        bash service.sh "anthropic"
+        bash service.sh "oracle" 
         git add service/*
         git commit service/* -m "update Service ${today}"
 
