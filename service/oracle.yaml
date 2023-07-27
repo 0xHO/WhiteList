@@ -1,0 +1,27 @@
+# Service: oracle
+# Repo: https://github.com/0xHO/WhiteList/blob/main/service/oracle.yaml
+# raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/oracle.yaml
+# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/oracle.yaml
+# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/oracle.yaml
+# Update: Thu Jul 27 10:20:15 CST 2023
+payload:
+   # ------ oracle ------>
+   - DOMAIN-SUFFIX,oracle
+   - DOMAIN-SUFFIX,oracle.com
+   - DOMAIN-SUFFIX,oraclecloud.com
+   - DOMAIN-SUFFIX,oraclefoundation.org
+   - DOMAIN-SUFFIX,oracleimg.com
+   - DOMAIN-SUFFIX,oracleinfinity.io
+   - DOMAIN-SUFFIX,ateam-oracle.com
+   - DOMAIN-SUFFIX,bronto.com
+   - DOMAIN-SUFFIX,covid19-rx.org
+   - DOMAIN-SUFFIX,covid19rx.org
+   - DOMAIN-SUFFIX,sun.com
+   # ------ addthis ------>
+   - DOMAIN-SUFFIX,addthis.com
+   - DOMAIN-SUFFIX,addthiscdn.com
+   - DOMAIN-SUFFIX,addthisedge.com
+   # ------ java ------>
+   - DOMAIN-SUFFIX,java
+   - DOMAIN-SUFFIX,java.com
+   - DOMAIN-SUFFIX,java.net
