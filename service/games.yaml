@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/games.yaml
-# Update: Fri Jul 28 04:40:53 CST 2023
+# Update: Sat Jul 29 04:40:50 CST 2023
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,fanatical.com
