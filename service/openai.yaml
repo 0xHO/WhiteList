@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/openai.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/openai.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/openai.yaml
-# Update: Mon Jul 31 04:40:48 CST 2023
+# Update: Tue Aug  1 04:41:03 CST 2023
 payload:
    # ------ openai ------>
    - DOMAIN,chat.openai.com.cdn.cloudflare.net
