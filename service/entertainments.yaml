@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/entertainments.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/entertainments.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/entertainments.yaml
-# Update: Tue Aug  1 04:41:06 CST 2023
+# Update: Wed Aug  2 04:41:04 CST 2023
 payload:
    # ------ category-entertainment ------>
    - DOMAIN-SUFFIX,777tv.net
