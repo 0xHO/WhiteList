@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/cn.yaml
-# Update: Sat Aug  5 04:41:06 CST 2023
+# Update: Sun Aug  6 04:41:01 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
