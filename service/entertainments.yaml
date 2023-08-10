@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/service/entertainments.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/service/entertainments.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/service/entertainments.yaml
-# Update: Thu Aug 10 04:40:59 CST 2023
+# Update: Fri Aug 11 04:41:14 CST 2023
 payload:
    # ------ category-entertainment ------>
    - DOMAIN-SUFFIX,777tv.net
@@ -108,11 +108,6 @@ payload:
    - DOMAIN-SUFFIX,2kgames.com
    - DOMAIN-SUFFIX,take2games.com
    # ------ bilibili-game ------>
-   - DOMAIN-SUFFIX,bilibiligame.co
-   - DOMAIN-SUFFIX,bilibiligame.net
-   - DOMAIN-SUFFIX,biligame.co
-   - DOMAIN-SUFFIX,biligame.com
-   - DOMAIN-SUFFIX,biligame.net
    # ------ blizzard ------>
    - DOMAIN,blizzard.nefficient.co.kr
    - DOMAIN,blzddist1-a.akamaihd.net
