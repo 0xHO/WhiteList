@@ -47,7 +47,7 @@ jobs:
         # bash service.sh "service file 
         mkdir -p service
         bash service.sh "openai"
-        bash service.sh "microsoft" microsoft xbox
+        bash service.sh "microsoft" microsoft "xbox\|github"
         bash service.sh "apple icloud" apple
         bash service.sh "category-games" games bilibili
         bash service.sh "category-games@cn" gamesCN
@@ -55,6 +55,7 @@ jobs:
         bash service.sh "geolocation-cn" cn
         bash service.sh "anthropic"
         bash service.sh "oracle" 
+        bash service.sh "github"
         git add service/*
         git commit service/* -m "update Service ${today}"
 
