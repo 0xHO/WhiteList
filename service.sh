@@ -14,7 +14,6 @@ function getdomain () {
     # default file
     include=${1// /}
     iscn=$2
-    echo $include
     echo "   # ------ ${include} ------>" >> $filename
     grepcn="-v"
     if [[ ${iscn} == 1 ]] ;then
