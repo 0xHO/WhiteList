@@ -65,5 +65,5 @@ done
 
 cat $filename > $filename.b
 # CN域名 和空白行不输出
-cat $filename.b |grep -v ".cn$"|grep -v ",$" > $filename
+cat $filename.b |grep -v ".cn$"|grep -v ",$" > ../$filename
 rm -rf $filename.b

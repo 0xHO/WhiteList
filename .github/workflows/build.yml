@@ -31,27 +31,28 @@ jobs:
         sudo chown $USER:$GROUPS /workdir
         cd /workdir
         git clone $REPO_URL -b $REPO_BRANCH domainlist
-        
+    
+    - name: Checkout Main Code
+      uses: actions/checkout@main
+      with:
+         path: /workdir/main
         
     - name: Organize Files
       id: organize
       if: ( !cancelled() )
       run: |
         today=`date`
-        cat WhiteList.sh > /tmp/WhiteList.sh
-        cat service.sh > /tmp/service.sh
-        git checkout assets
-        cat /tmp/WhiteList.sh > WhiteList.sh
-        cat /tmp/service.sh > service.sh
-        ln -sf /workdir/domainlist $GITHUB_WORKSPACE/domainlist
-        bash WhiteList.sh
-        python3 -m base64 WhiteList.tmp &> WhiteList.txt
-        cat ssc.tmp > ss.conf
         git config --local user.email "93760897+0xHO@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git commit WhiteList.txt ss.conf dnsmasq.conf -m "update WhiteList ${today}"
+        git checkout assets origin/assets
+        ln -sf /workdir/main $GITHUB_WORKSPACE/main
+        ln -sf /workdir/domainlist $GITHUB_WORKSPACE/main/domainlist
+        cd main
+        bash WhiteList.sh
+        python3 -m base64 WhiteList.tmp &> ../WhiteList.txt
+        cat ssc.tmp > ../ss.conf
+
         # bash service.sh "service file 
-        mkdir -p service
         bash service.sh "openai"
         bash service.sh "microsoft" microsoft "xbox\|github"
         bash service.sh "apple icloud" apple
@@ -62,9 +63,12 @@ jobs:
         bash service.sh "anthropic"
         bash service.sh "oracle" 
         bash service.sh "github"
+
+        cd ../
         git add service/*
-        rm -rf WhiteList.sh service.sh
+        git commit WhiteList.txt ss.conf dnsmasq.conf -m "update WhiteList ${today}"
         git commit service/* -m "update Service ${today}"
+        rm -rf main 
 
     - name: Push changes
       if: ( !cancelled() )
