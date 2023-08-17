@@ -26,7 +26,7 @@ jobs:
         git config --local user.email "93760897+0xHO@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git checkout assets 
-        # git checkout assets origin/assets
+        # git checkout assets origin/assets $WORKDIR
         cd /workdir
         git clone https://github.com/v2fly/domain-list-community  domainlist
 
@@ -41,6 +41,7 @@ jobs:
       if: ( !cancelled() )
       run: |
         today=`date`
+        ls -al
         ln -sf /workdir/domainlist main/domainlist
         cd main
         bash WhiteList.sh
