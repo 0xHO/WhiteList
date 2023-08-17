@@ -47,10 +47,10 @@ function getdomain () {
 }
 
 echo "# Service: ${service}
-# Repo: https://github.com/0xHO/WhiteList/blob/main/${filename}
-# raw: https://raw.githubusercontent.com/0xHO/WhiteList/main/${filename}
-# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@main/${filename}
-# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/main/${filename}
+# Repo: https://github.com/0xHO/WhiteList/blob/assets/${filename}
+# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/${filename}
+# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/${filename}
+# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/${filename}
 # Update: `date`
 payload:" > $filename
 

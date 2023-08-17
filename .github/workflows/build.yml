@@ -21,6 +21,8 @@ jobs:
     steps:
     - name: Checkout Code
       uses: actions/checkout@main
+      with:
+        ref: assets
       
     - name: Clone domain list
       if: ( !cancelled() )
@@ -38,6 +40,11 @@ jobs:
       if: ( !cancelled() )
       run: |
         today=`date`
+        cat WhiteList.sh > /tmp/WhiteList.sh
+        cat service.sh > /tmp/service.sh
+        git checkout assets
+        cat /tmp/WhiteList.sh > WhiteList.sh
+        cat /tmp/service.sh > service.sh
         bash WhiteList.sh
         python3 -m base64 WhiteList.tmp &> WhiteList.txt
         cat ssc.tmp > ss.conf
@@ -57,6 +64,7 @@ jobs:
         bash service.sh "oracle" 
         bash service.sh "github"
         git add service/*
+        rm -rf WhiteList.sh service.sh
         git commit service/* -m "update Service ${today}"
 
     - name: Push changes
@@ -64,7 +72,7 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+        branch: assets
 
     - name: Delete Workflow Runs
       uses: GitRML/delete-workflow-runs@main

@@ -138,7 +138,7 @@ always-reject-url-rewrite = false
 private-ip-answer = true
 dns-direct-fallback-proxy = true
 bypass-system = true
-update-url = https://raw.githubusercontent.com/0xHO/WhiteList/main/ss.conf
+update-url = https://raw.githubusercontent.com/0xHO/WhiteList/assets/ss.conf
 
 [Rule]
 " > ./ssc.tmp
