@@ -41,7 +41,7 @@ jobs:
       if: ( !cancelled() )
       run: |
         today=`date`
-        ln -sf /workdir/domainlist $GITHUB_WORKSPACE/main/domainlist
+        ln -sf /workdir/domainlist main/domainlist
         cd main
         bash WhiteList.sh
         python3 -m base64 WhiteList.tmp &> ../WhiteList.txt
