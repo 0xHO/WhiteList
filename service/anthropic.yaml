@@ -1,8 +1,12 @@
-service.sh: line 55: service/anthropic.yaml: No such file or directory
 anthropic
-service.sh: line 17: service/anthropic.yaml: No such file or directory
-service.sh: line 28: service/anthropic.yaml: No such file or directory
-service.sh: line 37: service/anthropic.yaml: No such file or directory
-service.sh: line 37: service/anthropic.yaml: No such file or directory
-service.sh: line 66: service/anthropic.yaml.b: No such file or directory
-cat: service/anthropic.yaml.b: No such file or directory
+# Service: anthropic
+# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/anthropic.yaml
+# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/anthropic.yaml
+# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/anthropic.yaml
+# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/anthropic.yaml
+# Update: Thu Aug 17 16:46:42 CST 2023
+payload:
+   # ------ anthropic ------>
+   - DOMAIN,servd-anthropic-website.b-cdn.net
+   - DOMAIN-SUFFIX,anthropic.com
+   - DOMAIN-SUFFIX,claude.ai

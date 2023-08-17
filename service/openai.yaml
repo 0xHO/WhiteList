@@ -1,11 +1,15 @@
-service.sh: line 55: service/openai.yaml: No such file or directory
 openai
-service.sh: line 17: service/openai.yaml: No such file or directory
-service.sh: line 28: service/openai.yaml: No such file or directory
-service.sh: line 28: service/openai.yaml: No such file or directory
-service.sh: line 28: service/openai.yaml: No such file or directory
-service.sh: line 28: service/openai.yaml: No such file or directory
-service.sh: line 28: service/openai.yaml: No such file or directory
-service.sh: line 37: service/openai.yaml: No such file or directory
-service.sh: line 66: service/openai.yaml.b: No such file or directory
-cat: service/openai.yaml.b: No such file or directory
+# Service: openai
+# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/openai.yaml
+# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/openai.yaml
+# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/openai.yaml
+# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/openai.yaml
+# Update: Thu Aug 17 16:46:31 CST 2023
+payload:
+   # ------ openai ------>
+   - DOMAIN,chat.openai.com.cdn.cloudflare.net
+   - DOMAIN,openaiapi-site.azureedge.net
+   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+   - DOMAIN,production-openaicom-storage.azureedge.net
+   - DOMAIN-SUFFIX,openai.com
