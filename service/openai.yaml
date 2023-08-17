@@ -1,0 +1,11 @@
+service.sh: line 55: service/openai.yaml: No such file or directory
+openai
+service.sh: line 17: service/openai.yaml: No such file or directory
+service.sh: line 28: service/openai.yaml: No such file or directory
+service.sh: line 28: service/openai.yaml: No such file or directory
+service.sh: line 28: service/openai.yaml: No such file or directory
+service.sh: line 28: service/openai.yaml: No such file or directory
+service.sh: line 28: service/openai.yaml: No such file or directory
+service.sh: line 37: service/openai.yaml: No such file or directory
+service.sh: line 66: service/openai.yaml.b: No such file or directory
+cat: service/openai.yaml.b: No such file or directory
