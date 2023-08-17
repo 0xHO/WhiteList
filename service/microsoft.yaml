@@ -1,16 +1,9 @@
-microsoft
-azure
-bing
-microsoft-dev
-microsoft-pki
-msn
-onedrive
 # Service: microsoft
 # Repo: https://github.com/0xHO/WhiteList/blob/assets/service/microsoft.yaml
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/microsoft.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
-# Update: Thu Aug 17 16:46:31 CST 2023
+# Update: Thu Aug 17 16:49:08 CST 2023
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net

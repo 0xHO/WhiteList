@@ -1,41 +1,9 @@
-category-games
-2kgames
-blizzard
-curseforge
-cygames
-ea
-origin
-epicgames
-garena
-gog
-illusion
-lowiro
-mihoyo
-hoyoverse
-mihoyo-cn
-nintendo
-op
-pandanet
-pinkcore
-projectsekai
-playstation
-purikonejp
-riot
-rockstar
-steam
-steamunlocked
-tencent-games
-ubisoft
-xbox
-bethesda
-mojang
-ynoproject
 # Service: category-games
 # Repo: https://github.com/0xHO/WhiteList/blob/assets/service/games.yaml
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Thu Aug 17 16:46:32 CST 2023
+# Update: Thu Aug 17 16:49:09 CST 2023
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,fanatical.com

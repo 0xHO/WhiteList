@@ -1,22 +1,9 @@
-apple
-apple-ads
-apple-dev
-swift
-apple-pki
-apple-update
-beats
-icloud
-icloudprivaterelay
-itunes
-swift
-icloud
-icloudprivaterelay
 # Service: apple icloud
 # Repo: https://github.com/0xHO/WhiteList/blob/assets/service/apple.yaml
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Thu Aug 17 16:46:32 CST 2023
+# Update: Thu Aug 17 16:49:09 CST 2023
 payload:
    # ------ apple ------>
    - DOMAIN,apple.com.akadns.net
