@@ -29,23 +29,22 @@ jobs:
         sudo timedatectl set-timezone "$TZ"
         sudo mkdir -p /workdir
         sudo chown $USER:$GROUPS /workdir
+        git config --local user.email "93760897+0xHO@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git checkout assets origin/assets
         cd /workdir
         git clone $REPO_URL -b $REPO_BRANCH domainlist
-    
+
     - name: Checkout Main Code
       uses: actions/checkout@main
       with:
-         path: /workdir/main
-        
+         path: ${GITHUB_WORKSPACE}/main
+
     - name: Organize Files
       id: organize
       if: ( !cancelled() )
       run: |
         today=`date`
-        git config --local user.email "93760897+0xHO@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git checkout assets origin/assets
-        ln -sf /workdir/main $GITHUB_WORKSPACE/main
         ln -sf /workdir/domainlist $GITHUB_WORKSPACE/main/domainlist
         cd main
         bash WhiteList.sh
