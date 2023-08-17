@@ -16,7 +16,7 @@ jobs:
     - name: Checkout Code
       uses: actions/checkout@main
       with:
-        fetch-depth: 0
+        ref: assets
       
     - name: Clone domain list
       if: ( !cancelled() )
@@ -27,8 +27,6 @@ jobs:
         sudo chown $USER:$GROUPS /workdir
         git config --local user.email "93760897+0xHO@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git checkout -b assets origin/assets
-        git status
         cd /workdir
         git clone https://github.com/v2fly/domain-list-community  domainlist
 

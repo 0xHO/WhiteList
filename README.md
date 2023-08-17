@@ -3,4 +3,4 @@
 
 URL:
 
-https://raw.githubusercontent.com/0xHO/WhiteList/main/WhiteList.txt
+https://raw.githubusercontent.com/0xHO/WhiteList/assets/WhiteList.txt
