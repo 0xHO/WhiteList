@@ -21,8 +21,6 @@ jobs:
     steps:
     - name: Checkout Code
       uses: actions/checkout@main
-      with:
-        ref: assets
       
     - name: Clone domain list
       if: ( !cancelled() )
