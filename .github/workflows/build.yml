@@ -51,16 +51,16 @@ jobs:
         cat ssc.tmp > ../ss.conf
 
         # bash service.sh "service file 
-        bash service.sh "openai"
-        bash service.sh "microsoft" microsoft "xbox\|github"
-        bash service.sh "apple icloud" apple
-        bash service.sh "category-games" games bilibili
-        bash service.sh "category-games@cn" gamesCN
-        bash service.sh "category-entertainment" entertainments
-        bash service.sh "geolocation-cn" cn
-        bash service.sh "anthropic"
-        bash service.sh "oracle" 
-        bash service.sh "github"
+        bash service.sh "openai" &> ../service/openai.yaml
+        bash service.sh "microsoft" microsoft "xbox\|github" &> ../service/microsoft.yaml
+        bash service.sh "apple icloud" apple &> ../service/apple.yaml
+        bash service.sh "category-games" games bilibili &> ../service/games.yaml
+        bash service.sh "category-games@cn" gamesCN &> ../service/gamesCN.yaml
+        bash service.sh "category-entertainment" entertainments &> ../service/entertainments.yaml
+        bash service.sh "geolocation-cn" cn &> ../service/cn.yaml
+        bash service.sh "anthropic" &> ../service/anthropic.yaml
+        bash service.sh "oracle"  &> ../service/oracle.yaml
+        bash service.sh "github" &> ../service/github.yaml
 
         cd ../
         git add service/*

@@ -14,7 +14,7 @@ function getdomain () {
     include=${1// /}
     iscn=$2
     echo $include
-    echo "   # ------ ${include} ------>" >> ../$filename
+    echo "   # ------ ${include} ------>" >> $filename
     grepcn="-v"
     if [[ ${iscn} == 1 ]] ;then
         grepcn=""
@@ -25,7 +25,7 @@ function getdomain () {
     do
         domain=${domain// /}
         if [[ -n "$domain" ]]; then
-            echo "   - DOMAIN,${domain}" >> ../$filename
+            echo "   - DOMAIN,${domain}" >> $filename
         fi
     done
     # DOMAIN-SUFFIX
@@ -34,7 +34,7 @@ function getdomain () {
     do
         domainsuffix=${domainsuffix// /}
         if [[ -n "$domainsuffix" ]]; then
-            echo "   - DOMAIN-SUFFIX,${domainsuffix}" >> ../$filename
+            echo "   - DOMAIN-SUFFIX,${domainsuffix}" >> $filename
         fi
     done
     # include
@@ -52,7 +52,7 @@ echo "# Service: ${service}
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/${filename}
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/${filename}
 # Update: `date`
-payload:" > ../$filename
+payload:" > $filename
 
 for domain in ${service}
 do
@@ -63,7 +63,7 @@ do
     fi
 done
 
-cat ../$filename > $filename.b
+cat $filename > $filename.b
 # CN域名 和空白行不输出
-cat $filename.b |grep -v ".cn$"|grep -v ",$" > ../$filename
+cat $filename.b |grep -v ".cn$"|grep -v ",$"
 rm -rf $filename.b
