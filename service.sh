@@ -8,6 +8,7 @@ noindex=${3:-"xxxxxxxxxxxxxxxxxx"}
 #   - DOMAIN-SUFFIX,ext-twitch.tv
 #   - DOMAIN-SUFFIX,jtvnw.net
 #   - DOMAIN-SUFFIX,ttvnw.net
+mkdir -p service
 
 function getdomain () {
     # default file
