@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Sun Aug 20 04:41:03 CST 2023
+# Update: Mon Aug 21 04:40:47 CST 2023
 payload:
    # ------ category-games ------>
    # ------ 2kgames ------>
@@ -25,6 +25,8 @@ payload:
    - DOMAIN,cn.actual.battle.net
    - DOMAIN-SUFFIX,bnet.163.com
    - DOMAIN-SUFFIX,wowchina.com
+   # ------ bluearchive ------>
+   - DOMAIN-SUFFIX,bluearchive-cn.com
    # ------ curseforge ------>
    # ------ cygames ------>
    # ------ ea ------>
