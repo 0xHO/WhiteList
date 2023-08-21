@@ -61,6 +61,9 @@ jobs:
         bash service.sh "github" &> ../service/github.yaml
         bash service.sh "eastmoney" &> ../service/eastmoney.yaml
         bash service.sh "momo" &> ../service/momo.yaml
+        bash service.sh "kuaishou" &> ../service/kuaishou.yaml
+        bash service.sh "bytedance" &> ../service/bytedance.yaml
+        
         
 
         cd ../
