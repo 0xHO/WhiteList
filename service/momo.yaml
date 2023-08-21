@@ -1,0 +1,12 @@
+# Service: momo
+# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/momo.yaml
+# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/momo.yaml
+# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/momo.yaml
+# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/momo.yaml
+# Update: Mon Aug 21 13:48:57 CST 2023
+payload:
+   # ------ momo ------>
+   - DOMAIN-SUFFIX,momo.dm
+   - DOMAIN-SUFFIX,momo5188.com
+   - DOMAIN-SUFFIX,momomall.com.tw
+   - DOMAIN-SUFFIX,momoshop.com.tw

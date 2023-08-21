@@ -1,0 +1,12 @@
+# Service: eastmoney
+# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/eastmoney.yaml
+# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/eastmoney.yaml
+# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/eastmoney.yaml
+# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/eastmoney.yaml
+# Update: Mon Aug 21 13:48:57 CST 2023
+payload:
+   # ------ eastmoney ------>
+   - DOMAIN-SUFFIX,dfcfw.com
+   - DOMAIN-SUFFIX,eastmoney.com
+   - DOMAIN-SUFFIX,eastmoneyfutures.com
+   - DOMAIN-SUFFIX,emsec.hk
