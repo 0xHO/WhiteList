@@ -59,6 +59,9 @@ jobs:
         bash service.sh "anthropic" &> ../service/anthropic.yaml
         bash service.sh "oracle"  &> ../service/oracle.yaml
         bash service.sh "github" &> ../service/github.yaml
+        bash service.sh "eastmoney" &> ../service/eastmoney.yaml
+        bash service.sh "momo" &> ../service/momo.yaml
+        
 
         cd ../
         git add service/*
