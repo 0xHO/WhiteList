@@ -63,6 +63,7 @@ jobs:
         bash service.sh "momo" &> ../service/momo.yaml
         bash service.sh "kuaishou" &> ../service/kuaishou.yaml
         bash service.sh "bytedance" &> ../service/bytedance.yaml
+        bash service.sh "youtube" &> ../service/youtube.yaml
         
         
 
