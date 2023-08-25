@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Fri Aug 25 04:40:59 CST 2023
+# Update: Sat Aug 26 04:40:56 CST 2023
 payload:
    # ------ category-games ------>
    # ------ 2kgames ------>
@@ -13,18 +13,6 @@ payload:
    - DOMAIN-SUFFIX,biligame.com
    - DOMAIN-SUFFIX,biligame.net
    # ------ blizzard ------>
-   - DOMAIN,di.res.netease.com
-   - DOMAIN,diablo3.nosdn.127.net
-   - DOMAIN,hearthstone.nosdn.127.net
-   - DOMAIN,hearthstone.nosdn.127.net
-   - DOMAIN,heroes.nos.netease.com
-   - DOMAIN,overwatch.nosdn.127.net
-   - DOMAIN,sc2.nosdn.127.net
-   - DOMAIN,wow.nosdn.127.net
-   - DOMAIN,blz.nosdn.127.net
-   - DOMAIN,cn.actual.battle.net
-   - DOMAIN-SUFFIX,bnet.163.com
-   - DOMAIN-SUFFIX,wowchina.com
    # ------ bluearchive ------>
    - DOMAIN-SUFFIX,bluearchive-cn.com
    # ------ curseforge ------>
