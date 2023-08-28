@@ -64,7 +64,7 @@ jobs:
         bash service.sh "kuaishou" &> ../service/kuaishou.yaml
         bash service.sh "bytedance" &> ../service/bytedance.yaml
         bash service.sh "youtube" &> ../service/youtube.yaml
-        
+        bash service.sh "category-public-tracker" &> ../service/tracker.yaml
         
 
         cd ../
