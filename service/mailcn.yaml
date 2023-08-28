@@ -2,6 +2,8 @@ payload:
    # ------ microsoft ------>
    - DOMAIN,outlook.office365.com
    - DOMAIN,smtp.office365.com
+   - DOMAIN,pop.office365.com
+   - DOMAIN,caldav.office365.com
    - DOMAIN,smtp-mail.outlook.com
    - DOMAIN,pop-mail.outlook.com
    - DOMAIN,imap-mail.outlook.com
@@ -19,6 +21,10 @@ payload:
    - DOMAIN,pop.163.com
    - DOMAIN,smtp.163.com
    - DOMAIN,caldav.163.com
+   - DOMAIN,imaphz.qiye.163.com
+   - DOMAIN,pophz.qiye.163.com
+   - DOMAIN,smtphz.qiye.163.com
+   - DOMAIN,caldavhz.qiye.163.com
    # ------ 126 ------>
    - DOMAIN,imap.126.com
    - DOMAIN,pop.126.com
