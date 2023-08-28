@@ -1,0 +1,39 @@
+payload:
+   # ------ microsoft ------>
+   - DOMAIN,outlook.office365.com
+   - DOMAIN,smtp.office365.com
+   - DOMAIN,smtp-mail.outlook.com
+   - DOMAIN,pop-mail.outlook.com
+   - DOMAIN,imap-mail.outlook.com
+   - DOMAIN,caldav.outlook.com
+   # ------ tencent ------>
+   - DOMAIN,imap.qq.com
+   - DOMAIN,pop.qq.com
+   - DOMAIN,smtp.qq.com
+   - DOMAIN,caldav.qq.com
+   - DOMAIN,imap.exmail.qq.com
+   - DOMAIN,pop.exmail.qq.com
+   - DOMAIN,caldav.exmail.qq.com
+   # ------ 163 ------>
+   - DOMAIN,imap.163.com
+   - DOMAIN,pop.163.com
+   - DOMAIN,smtp.163.com
+   - DOMAIN,caldav.163.com
+   # ------ 126 ------>
+   - DOMAIN,imap.126.com
+   - DOMAIN,pop.126.com
+   - DOMAIN,smtp.126.com
+   - DOMAIN,caldav.126.com
+   # ------ 189 ------>
+   - DOMAIN,imap.189.com
+   - DOMAIN,pop.189.com
+   - DOMAIN,smtp.189.com
+   - DOMAIN,caldav.189.com
+   # ------ aliyun ------>
+   - DOMAIN,imap.qiye.aliyun.com
+   - DOMAIN,pop.qiye.aliyun.com
+   - DOMAIN,smtp.qiye.aliyun.com
+   - DOMAIN,imap.aliyun.com
+   - DOMAIN,pop.aliyun.com
+   - DOMAIN,smtp.aliyun.com
+   - DOMAIN,caldav.mxhichina.com
