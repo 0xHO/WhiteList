@@ -1,0 +1,6 @@
+payload:
+   # ------ google ------>
+   - DOMAIN,smtp.gmail.com
+   - DOMAIN,pop.gmail.com
+   - DOMAIN,imap.gmail.com
+   
