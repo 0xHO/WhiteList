@@ -54,7 +54,7 @@ jobs:
         bash service.sh "apple icloud" apple &> ../service/apple.yaml
         bash service.sh "category-games" games bilibili &> ../service/games.yaml
         bash service.sh "category-games@cn" gamesCN &> ../service/gamesCN.yaml
-        bash service.sh "category-entertainment" entertainments &> ../service/entertainments.yaml
+        bash service.sh "youtube" entertainments &> ../service/youtube.yaml
         bash service.sh "geolocation-cn" cn &> ../service/cn.yaml
         bash service.sh "anthropic" &> ../service/anthropic.yaml
         bash service.sh "oracle"  &> ../service/oracle.yaml
