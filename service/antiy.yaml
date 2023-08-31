@@ -27,3 +27,4 @@ payload:
    - DOMAIN-SUFFIX,virusview.net
    # ------ 收集的其他网站 ------>
    - DOMAIN-SUFFIX,jlc.com
+   - DOMAIN-SUFFIX,szlcsc.com
