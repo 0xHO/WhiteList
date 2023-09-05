@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Tue Sep  5 04:41:06 CST 2023
+# Update: Tue Sep  5 16:42:56 CST 2023
 payload:
    # ------ bytedance ------>
    - DOMAIN-SUFFIX,amemv.com
@@ -82,14 +82,21 @@ payload:
    - DOMAIN-SUFFIX,365yg.com
    - DOMAIN-SUFFIX,gogokid.com
    - DOMAIN-SUFFIX,pipix.com
-   - DOMAIN-SUFFIX,muyewx.com
-   - DOMAIN-SUFFIX,changdunovel.com
    - DOMAIN-SUFFIX,faceu.com
    - DOMAIN-SUFFIX,ulikecam.com
    # ------ bcy ------>
    - DOMAIN-SUFFIX,bcy.net
    - DOMAIN-SUFFIX,bcyimg.com
    - DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
+   # ------ fqnovel ------>
+   - DOMAIN,p3-novel.byteimg.com
+   - DOMAIN,p6-novel.byteimg.com
+   - DOMAIN-SUFFIX,changdunovel.com
+   - DOMAIN-SUFFIX,fanqienovel.com
+   - DOMAIN-SUFFIX,fqnovel.com
+   - DOMAIN-SUFFIX,fqnovelpic.com
+   - DOMAIN-SUFFIX,fqnovelvod.com
+   - DOMAIN-SUFFIX,muyewx.com
    # ------ juejin ------>
    - DOMAIN,p1-juejin.byteimg.com
    - DOMAIN,p2-juejin.byteimg.com
