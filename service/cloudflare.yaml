@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflare.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cloudflare.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflare.yaml
-# Update: Tue Sep  5 16:42:56 CST 2023
+# Update: Tue Sep  5 16:45:49 CST 2023
 payload:
    # ------ cloudflare ------>
    - DOMAIN-SUFFIX,argotunnel.com
@@ -39,6 +39,7 @@ payload:
    - DOMAIN-SUFFIX,warp.plus
    - DOMAIN-SUFFIX,workers.dev
    # ------ cloudflare-cn ------>
+   # ------ cloudflare-ipv4 ------>
   - IP-CIDR,173.245.48.0/20
   - IP-CIDR,103.21.244.0/22
   - IP-CIDR,103.22.200.0/22
@@ -53,7 +54,9 @@ payload:
   - IP-CIDR,104.16.0.0/13
   - IP-CIDR,104.24.0.0/14
   - IP-CIDR,172.64.0.0/13
-  - IP-CIDR,131.0.72.0/22  - IP-CIDR6,2400:cb00::/32
+  - IP-CIDR,131.0.72.0/22 
+   # ------ cloudflare-ipv6 ------>
+  - IP-CIDR6,2400:cb00::/32
   - IP-CIDR6,2606:4700::/32
   - IP-CIDR6,2803:f800::/32
   - IP-CIDR6,2405:b500::/32
