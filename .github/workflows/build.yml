@@ -69,10 +69,10 @@ jobs:
         curl -o ipv4.txt  https://www.cloudflare.com/ips-v4
         curl -o ipv6.txt  https://www.cloudflare.com/ips-v6
         echo "   # ------ cloudflare-ipv4 ------>" >> ../service/cloudflare.yaml
-        cat ipv4.txt |sed "s/^/  \- IP\-CIDR,/g" >> ../service/cloudflare.yaml
+        cat ipv4.txt |sed "s/^/   \- IP\-CIDR,/g" >> ../service/cloudflare.yaml
         echo " " >> ../service/cloudflare.yaml
         echo "   # ------ cloudflare-ipv6 ------>" >> ../service/cloudflare.yaml
-        cat ipv6.txt |sed "s/^/  \- IP\-CIDR6,/g" >> ../service/cloudflare.yaml
+        cat ipv6.txt |sed "s/^/   \- IP\-CIDR6,/g" >> ../service/cloudflare.yaml
         
 
         cd ../
