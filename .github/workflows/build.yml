@@ -65,6 +65,11 @@ jobs:
         bash service.sh "bytedance" &> ../service/bytedance.yaml
         bash service.sh "youtube" &> ../service/youtube.yaml
         bash service.sh "category-public-tracker" &> ../service/tracker.yaml
+        bash service.sh "cloudflare" &> ../service/cloudflare.yaml
+        curl -o ipv4.txt  https://www.cloudflare.com/ips-v4
+        curl -o ipv6.txt  https://www.cloudflare.com/ips-v6
+        cat ipv4.txt |sed "s/^/  \- IP\-CIDR,/g" >> ../service/cloudflare.yaml
+        cat ipv6.txt |sed "s/^/  \- IP\-CIDR6,/g" >> ../service/cloudflare.yaml
         
 
         cd ../
