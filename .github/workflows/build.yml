@@ -66,13 +66,14 @@ jobs:
         bash service.sh "youtube" &> ../service/youtube.yaml
         bash service.sh "category-public-tracker" &> ../service/tracker.yaml
         bash service.sh "cloudflare" &> ../service/cloudflare.yaml
-        echo "# Service: cloudflareip
-# Repo: https://github.com/0xHO/WhiteList/blob/assets/cloudflareip.yaml
-# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/cloudflareip.yaml
-# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/cloudflareip.yaml
-# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/cloudflareip.yaml
-# Update: `date`
-payload:" > ../service/cloudflareip.yaml
+
+        echo "# Service: cloudflareip" > ../service/cloudflareip.yaml
+        echo "# Repo: https://github.com/0xHO/WhiteList/blob/assets/cloudflareip.yaml" > ../service/cloudflareip.yaml
+        echo "# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/cloudflareip.yaml" > ../service/cloudflareip.yaml
+        echo "# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/cloudflareip.yaml" > ../service/cloudflareip.yaml
+        echo "# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/cloudflareip.yaml" > ../service/cloudflareip.yaml
+        echo "# Update: `date`" > ../service/cloudflareip.yaml
+        echo "payload:" > ../service/cloudflareip.yaml
         curl -o ipv4.txt  https://www.cloudflare.com/ips-v4
         curl -o ipv6.txt  https://www.cloudflare.com/ips-v6
         echo "   # ------ ipv4 ------>" >> ../service/cloudflareip.yaml
