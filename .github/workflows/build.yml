@@ -78,7 +78,7 @@ jobs:
         curl -o ipv6.txt  https://www.cloudflare.com/ips-v6
         echo "   # ------ ipv4 ------>" >> ../service/cloudflareip.yaml
         cat ipv4.txt |sed "s/^/   \- IP\-CIDR,/g" >> ../service/cloudflareip.yaml
-        echo " " >> ../service/cloudflare.yaml
+        echo " " >> ../service/cloudflareip.yaml
         echo "   # ------ ipv6 ------>" >> ../service/cloudflareip.yaml
         cat ipv6.txt |sed "s/^/   \- IP\-CIDR6,/g" >> ../service/cloudflareip.yaml
         
