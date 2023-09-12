@@ -66,13 +66,20 @@ jobs:
         bash service.sh "youtube" &> ../service/youtube.yaml
         bash service.sh "category-public-tracker" &> ../service/tracker.yaml
         bash service.sh "cloudflare" &> ../service/cloudflare.yaml
+        echo "# Service: cloudflareip
+# Repo: https://github.com/0xHO/WhiteList/blob/assets/cloudflareip.yaml
+# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/cloudflareip.yaml
+# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/cloudflareip.yaml
+# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/cloudflareip.yaml
+# Update: `date`
+payload:" > ../service/cloudflareip.yaml
         curl -o ipv4.txt  https://www.cloudflare.com/ips-v4
         curl -o ipv6.txt  https://www.cloudflare.com/ips-v6
-        echo "   # ------ cloudflare-ipv4 ------>" >> ../service/cloudflare.yaml
-        cat ipv4.txt |sed "s/^/   \- IP\-CIDR,/g" >> ../service/cloudflare.yaml
+        echo "   # ------ ipv4 ------>" >> ../service/cloudflareip.yaml
+        cat ipv4.txt |sed "s/^/   \- IP\-CIDR,/g" >> ../service/cloudflareip.yaml
         echo " " >> ../service/cloudflare.yaml
-        echo "   # ------ cloudflare-ipv6 ------>" >> ../service/cloudflare.yaml
-        cat ipv6.txt |sed "s/^/   \- IP\-CIDR6,/g" >> ../service/cloudflare.yaml
+        echo "   # ------ ipv6 ------>" >> ../service/cloudflareip.yaml
+        cat ipv6.txt |sed "s/^/   \- IP\-CIDR6,/g" >> ../service/cloudflareip.yaml
         
 
         cd ../
