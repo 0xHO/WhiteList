@@ -70,10 +70,10 @@ jobs:
         bash service.sh "cloudflare" &> ../service/cloudflare.yaml
 
         echo "# Service: cloudflareip" > ../service/cloudflareip.yaml
-        echo "# Repo: https://github.com/0xHO/WhiteList/blob/assets/cloudflareip.yaml" > ../service/cloudflareip.yaml
-        echo "# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/cloudflareip.yaml" > ../service/cloudflareip.yaml
-        echo "# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/cloudflareip.yaml" > ../service/cloudflareip.yaml
-        echo "# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/cloudflareip.yaml" > ../service/cloudflareip.yaml
+        echo "# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/cloudflareip.yaml" > ../service/cloudflareip.yaml
+        echo "# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflareip.yaml" > ../service/cloudflareip.yaml
+        echo "# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cloudflareip.yaml" > ../service/cloudflareip.yaml
+        echo "# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflareip.yaml" > ../service/cloudflareip.yaml
         echo "# Update: `date`" > ../service/cloudflareip.yaml
         echo "payload:" > ../service/cloudflareip.yaml
         curl -o ipv4.txt  https://www.cloudflare.com/ips-v4
