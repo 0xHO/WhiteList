@@ -50,6 +50,8 @@ jobs:
 
         # bash service.sh "service file 
         bash service.sh "openai" &> ../service/openai.yaml
+        echo "   - DOMAIN-SUFFIX,sentry.io" >> ../service/openai.yaml
+        echo "   - DOMAIN-SUFFIX,stripe.com" >> ../service/openai.yaml
         bash service.sh "microsoft" microsoft "xbox\|github" &> ../service/microsoft.yaml
         bash service.sh "apple icloud" apple &> ../service/apple.yaml
         bash service.sh "category-games" games bilibili &> ../service/games.yaml
