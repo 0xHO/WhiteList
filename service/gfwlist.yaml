@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: Thu Sep 14 16:11:54 CST 2023
+# Update: Thu Sep 14 16:30:22 CST 2023
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -22,13 +22,10 @@ payload:
    - DOMAIN-SUFFIX,12vpn.net
    - DOMAIN-SUFFIX,1337x.to
    - DOMAIN-SUFFIX,138.com
-   - DOMAIN-SUFFIX,14.102.250.18
-   - DOMAIN-SUFFIX,14.102.250.19
    - DOMAIN-SUFFIX,141jj.com
    - DOMAIN-SUFFIX,141tube.com
    - DOMAIN-SUFFIX,1688.com.au
    - DOMAIN-SUFFIX,173ng.com
-   - DOMAIN-SUFFIX,174.142.105.153
    - DOMAIN-SUFFIX,177pic.info
    - DOMAIN-SUFFIX,17t17p.com
    - DOMAIN-SUFFIX,18board.com
@@ -88,7 +85,6 @@ payload:
    - DOMAIN-SUFFIX,4pu.com
    - DOMAIN-SUFFIX,4rbtv.com
    - DOMAIN-SUFFIX,4shared.com
-   - DOMAIN-SUFFIX,50.7.31.230:8898
    - DOMAIN-SUFFIX,51.ca
    - DOMAIN-SUFFIX,51jav.org
    - DOMAIN-SUFFIX,51luoben.com
@@ -106,17 +102,12 @@ payload:
    - DOMAIN-SUFFIX,64wiki.com
    - DOMAIN-SUFFIX,66.ca
    - DOMAIN-SUFFIX,666kb.com
-   - DOMAIN-SUFFIX,67.220.91.15
-   - DOMAIN-SUFFIX,67.220.91.18
-   - DOMAIN-SUFFIX,67.220.91.23
-   - DOMAIN-SUFFIX,69.65.19.160
    - DOMAIN-SUFFIX,6do.news
    - DOMAIN-SUFFIX,6park.com
    - DOMAIN-SUFFIX,6parkbbs.com
    - DOMAIN-SUFFIX,6parker.com
    - DOMAIN-SUFFIX,6parknews.com
    - DOMAIN-SUFFIX,7-zip.org
-   - DOMAIN-SUFFIX,72.52.81.22
    - DOMAIN-SUFFIX,7capture.com
    - DOMAIN-SUFFIX,7cow.com
    - DOMAIN-SUFFIX,8-d.com
