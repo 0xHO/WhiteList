@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: Thu Sep 14 16:03:57 CST 2023
+# Update: Thu Sep 14 16:07:07 CST 2023
 payload:
    - DOMAIN-SUFFIX,030buy.com
    - DOMAIN-SUFFIX,0rz.tw

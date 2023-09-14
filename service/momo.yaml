@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/momo.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/momo.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/momo.yaml
-# Update: Thu Sep 14 16:04:13 CST 2023
+# Update: Thu Sep 14 16:07:22 CST 2023
 payload:
    # ------ momo ------>
    - DOMAIN-SUFFIX,momo.dm
