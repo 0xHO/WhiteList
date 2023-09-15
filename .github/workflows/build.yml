@@ -79,6 +79,7 @@ jobs:
         bash service.sh "youtube" &> ../service/youtube.yaml
         bash service.sh "category-public-tracker" &> ../service/tracker.yaml
         bash service.sh "cloudflare" &> ../service/cloudflare.yaml
+        bash service.sh "telegram" &> ../service/telegram.yaml
 
         echo "# Service: cloudflareip" > ../service/cloudflareip.yaml
         echo "# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/cloudflareip.yaml" >> ../service/cloudflareip.yaml
