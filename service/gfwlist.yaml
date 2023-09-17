@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: Sun Sep 17 04:41:37 CST 2023
+# Update: Mon Sep 18 04:41:35 CST 2023
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -107,7 +107,6 @@ payload:
    - DOMAIN-SUFFIX,6parkbbs.com
    - DOMAIN-SUFFIX,6parker.com
    - DOMAIN-SUFFIX,6parknews.com
-   - DOMAIN-SUFFIX,7-zip.org
    - DOMAIN-SUFFIX,7capture.com
    - DOMAIN-SUFFIX,7cow.com
    - DOMAIN-SUFFIX,8-d.com
@@ -943,6 +942,7 @@ payload:
    - DOMAIN-SUFFIX,civilhrfront.org
    - DOMAIN-SUFFIX,civiliangunner.com
    - DOMAIN-SUFFIX,civilmedia.tw
+   - DOMAIN-SUFFIX,civitai.com
    - DOMAIN-SUFFIX,ck101.com
    - DOMAIN-SUFFIX,cl.d0z.net
    - DOMAIN-SUFFIX,classicalguitarblog.net
@@ -2789,6 +2789,7 @@ payload:
    - DOMAIN-SUFFIX,lflinkup.org
    - DOMAIN-SUFFIX,lhakar.org
    - DOMAIN-SUFFIX,lhasocialwork.org
+   - DOMAIN-SUFFIX,li.taipei
    - DOMAIN-SUFFIX,liangyou.net
    - DOMAIN-SUFFIX,liangzhichuanmei.com
    - DOMAIN-SUFFIX,lianyue.net
@@ -3081,6 +3082,7 @@ payload:
    - DOMAIN-SUFFIX,mondex.org
    - DOMAIN-SUFFIX,money-link.com.tw
    - DOMAIN-SUFFIX,moneyhome.biz
+   - DOMAIN-SUFFIX,monica.im
    - DOMAIN-SUFFIX,monitorchina.org
    - DOMAIN-SUFFIX,monocloud.me
    - DOMAIN-SUFFIX,monster.com
@@ -3524,7 +3526,6 @@ payload:
    - DOMAIN-SUFFIX,page.bid.yahoo.com
    - DOMAIN-SUFFIX,page.link
    - DOMAIN-SUFFIX,page2rss.com
-   - DOMAIN-SUFFIX,pages.dev
    - DOMAIN-SUFFIX,pagodabox.com
    - DOMAIN-SUFFIX,palacemoon.com
    - DOMAIN-SUFFIX,paldengyal.com
@@ -4709,7 +4710,6 @@ payload:
    - DOMAIN-SUFFIX,tracfone.com
    - DOMAIN-SUFFIX,tradingview.com
    - DOMAIN-SUFFIX,translate.goog
-   - DOMAIN-SUFFIX,translate.google
    - DOMAIN-SUFFIX,transparency.org
    - DOMAIN-SUFFIX,treemall.com.tw
    - DOMAIN-SUFFIX,trendsmap.com
@@ -5084,7 +5084,6 @@ payload:
    - DOMAIN-SUFFIX,voxer.com
    - DOMAIN-SUFFIX,voy.com
    - DOMAIN-SUFFIX,vpn.ac
-   - DOMAIN-SUFFIX,vpn.cjb.net
    - DOMAIN-SUFFIX,vpn4all.com
    - DOMAIN-SUFFIX,vpnaccount.org
    - DOMAIN-SUFFIX,vpnaccounts.com
