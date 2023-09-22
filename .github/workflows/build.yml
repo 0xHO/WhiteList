@@ -82,17 +82,21 @@ jobs:
 
         bash service.sh "telegram" &> ../service/telegram.yaml
         echo "   # ------ ipv4 ------>" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,67.198.55.0/24" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,91.108.4.0/22" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,91.108.8.0/22" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,91.108.12.0/22" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,91.108.16.0/22" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,91.108.56.0/22" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,109.239.140.0/24" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,149.154.160.0/20" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,149.154.164.0/22" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,149.154.168.0/22" >> ../service/telegram.yaml
-        echo "      - IP-CIDR,149.154.172.0/22" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,67.198.55.0/24" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,91.108.4.0/22" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,91.108.8.0/22" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,91.108.12.0/22" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,91.108.16.0/22" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,91.108.56.0/22" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,109.239.140.0/24" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,149.154.160.0/20" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,149.154.164.0/22" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,149.154.168.0/22" >> ../service/telegram.yaml
+        echo "   - IP-CIDR,149.154.172.0/22" >> ../service/telegram.yaml
+        echo "   # ------ ipv6 ------>" >> ../service/telegram.yaml
+        echo "   - IP-CIDR6,2001:67c:4e8::/48" >> ../service/telegram.yaml
+        echo "   - IP-CIDR6,2001:b28:f23d::/48" >> ../service/telegram.yaml
+        echo "   - IP-CIDR6,2001:b28:f23f::/48" >> ../service/telegram.yaml 
 
         echo "# Service: cloudflareip" > ../service/cloudflareip.yaml
         echo "# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/cloudflareip.yaml" >> ../service/cloudflareip.yaml
