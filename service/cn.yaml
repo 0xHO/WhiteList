@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Sep 23 04:41:44 CST 2023
+# Update: Sun Sep 24 04:41:46 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1136,6 +1136,7 @@ payload:
    - DOMAIN-SUFFIX,runsheng.com
    - DOMAIN-SUFFIX,vzuu.com
    - DOMAIN-SUFFIX,zoom3g.com
+   - DOMAIN-SUFFIX,ecombdapi.com
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -2010,6 +2011,8 @@ payload:
    - DOMAIN-SUFFIX,ksapisrv.com
    - DOMAIN-SUFFIX,kuaishou.com
    - DOMAIN-SUFFIX,yximgs.com
+   - DOMAIN-SUFFIX,kwaizt.com
+   - DOMAIN-SUFFIX,kuaishouzt.com
    # ------ kuaishou-ads ------>
    # ------ kugou ------>
    - DOMAIN-SUFFIX,kgimg.com
@@ -2906,6 +2909,9 @@ payload:
    - DOMAIN-SUFFIX,zuoyebang.com
    - DOMAIN-SUFFIX,zybang.com
    # ------ bytedance ------>
+   - DOMAIN-SUFFIX,volcvod.com
+   - DOMAIN-SUFFIX,volces.com
+   - DOMAIN-SUFFIX,volceapplog.com
    - DOMAIN-SUFFIX,amemv.com
    - DOMAIN-SUFFIX,byted-static.com
    - DOMAIN-SUFFIX,byted.org
@@ -3023,6 +3029,7 @@ payload:
    - DOMAIN-SUFFIX,tiktokd.org
    - DOMAIN-SUFFIX,tiktokcdn.com
    - DOMAIN-SUFFIX,tiktokv.com
+   # ------ bytedance-ads ------>
    # ------ didi ------>
    - DOMAIN-SUFFIX,didi-food.com
    - DOMAIN-SUFFIX,didiaustralia.blog
