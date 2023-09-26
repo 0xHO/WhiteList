@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Tue Sep 26 04:41:59 CST 2023
+# Update: Wed Sep 27 04:42:02 CST 2023
 payload:
    # ------ category-games ------>
    # ------ 2kgames ------>
@@ -46,6 +46,7 @@ payload:
    - DOMAIN-SUFFIX,themisweeps.com
    - DOMAIN-SUFFIX,yuanshen.com
    # ------ nintendo ------>
+   # ------ nikke ------>
    # ------ op ------>
    # ------ pandanet ------>
    # ------ pinkcore ------>

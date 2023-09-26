@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Tue Sep 26 04:41:58 CST 2023
+# Update: Wed Sep 27 04:42:01 CST 2023
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,fanatical.com
@@ -389,6 +389,8 @@ payload:
    - DOMAIN-SUFFIX,wiiugamepad.com
    - DOMAIN-SUFFIX,wiivc.net
    - DOMAIN-SUFFIX,xenoblade.com
+   # ------ nikke ------>
+   - DOMAIN-SUFFIX,nikke-kr.com
    # ------ op ------>
    - DOMAIN,opgg-static.akamaized.net
    - DOMAIN-SUFFIX,op.gg
