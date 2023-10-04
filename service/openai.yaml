@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/openai.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/openai.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/openai.yaml
-# Update: Wed Oct  4 04:41:45 CST 2023
+# Update: Thu Oct  5 04:41:39 CST 2023
 payload:
    # ------ openai ------>
    - DOMAIN,chat.openai.com.cdn.cloudflare.net
@@ -12,5 +12,6 @@ payload:
    - DOMAIN,openaicomproductionae4b.blob.core.windows.net
    - DOMAIN,production-openaicom-storage.azureedge.net
    - DOMAIN-SUFFIX,openai.com
+   - DOMAIN-SUFFIX,oaistatic.com
    - DOMAIN-SUFFIX,sentry.io
    - DOMAIN-SUFFIX,stripe.com
