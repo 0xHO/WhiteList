@@ -3,15 +3,13 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflare.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cloudflare.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflare.yaml
-# Update: Thu Oct  5 04:41:48 CST 2023
+# Update: Fri Oct  6 04:42:05 CST 2023
 payload:
    # ------ cloudflare ------>
    - DOMAIN-SUFFIX,argotunnel.com
-   - DOMAIN-SUFFIX,cf-ipfs.com
    - DOMAIN-SUFFIX,cloudflare-dns.com
    - DOMAIN-SUFFIX,cloudflare-ech.com
    - DOMAIN-SUFFIX,cloudflare-gateway.com
-   - DOMAIN-SUFFIX,cloudflare-ipfs.com
    - DOMAIN-SUFFIX,cloudflare-quic.com
    - DOMAIN-SUFFIX,cloudflare.com
    - DOMAIN-SUFFIX,cloudflare.net
@@ -40,3 +38,6 @@ payload:
    - DOMAIN-SUFFIX,warp.plus
    - DOMAIN-SUFFIX,workers.dev
    # ------ cloudflare-cn ------>
+   # ------ cloudflare-ipfs ------>
+   - DOMAIN-SUFFIX,cf-ipfs.com
+   - DOMAIN-SUFFIX,cloudflare-ipfs.com
