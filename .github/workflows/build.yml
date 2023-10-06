@@ -102,6 +102,8 @@ jobs:
         echo "   - IP-CIDR6,2001:b28:f23c::/48,no-resolve" >> ../service/telegram.yaml 
         echo "   - IP-CIDR6,2a0a:f280::/32,no-resolve" >> ../service/telegram.yaml 
 
+
+
         echo "# Service: cloudflareip" > ../service/cloudflareip.yaml
         echo "# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/cloudflareip.yaml" >> ../service/cloudflareip.yaml
         echo "# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflareip.yaml" >> ../service/cloudflareip.yaml
@@ -117,6 +119,26 @@ jobs:
         echo "   # ------ ipv6 ------>" >> ../service/cloudflareip.yaml
         cat ipv6.txt |sed "s/^/   \- IP\-CIDR6,/g" >> ../service/cloudflareip.yaml
         
+
+        echo "# Service: gfw2" > ../service/gfw2.yaml
+        echo "# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/gfw2.yaml" >> ../service/gfw2.yaml
+        echo "# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml" >> ../service/gfw2.yaml
+        echo "# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfw2.yaml" >> ../service/gfw2.yaml
+        echo "# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml" >> ../service/gfw2.yaml
+        echo "# Update: ${today}" >> ../service/gfw2.yaml
+        echo "payload:" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,tw" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,us" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,tw" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,jp" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,sh" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,cc" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,io" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,me" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,xyz" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,uk" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,bulianglin.com" >> ../service/gfw2.yaml
+
 
         cd ../
         git add service/*
