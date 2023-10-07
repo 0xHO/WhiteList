@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfw2.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml
-# Update: Sat Oct  7 04:41:36 CST 2023
+# Update: Sat Oct  7 12:30:48 CST 2023
 payload:
    - DOMAIN-SUFFIX,tw
    - DOMAIN-SUFFIX,us
@@ -16,3 +16,4 @@ payload:
    - DOMAIN-SUFFIX,xyz
    - DOMAIN-SUFFIX,uk
    - DOMAIN-SUFFIX,bulianglin.com
+   - DOMAIN-SUFFIX,v2rayssr.com
