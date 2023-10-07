@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfw2.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml
-# Update: Sat Oct  7 18:20:56 CST 2023
+# Update: Sat Oct  7 18:29:18 CST 2023
 payload:
    - DOMAIN-SUFFIX,tw
    - DOMAIN-SUFFIX,us
@@ -19,6 +19,7 @@ payload:
    - DOMAIN-SUFFIX,bulianglin.com
    - DOMAIN-SUFFIX,v2rayssr.com
    - DOMAIN-SUFFIX,sehuatang.org
+   - DOMAIN-SUFFIX,instantfwding.com
    - DOMAIN-KEYWORD,sehuatang
    - DOMAIN-KEYWORD,1024
    - DOMAIN-KEYWORD,t61y
