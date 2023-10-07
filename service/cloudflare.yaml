@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflare.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cloudflare.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflare.yaml
-# Update: Sat Oct  7 18:29:38 CST 2023
+# Update: Sat Oct  7 18:34:17 CST 2023
 payload:
    # ------ cloudflare ------>
    - DOMAIN-SUFFIX,argotunnel.com
