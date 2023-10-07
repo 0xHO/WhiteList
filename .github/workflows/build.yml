@@ -147,6 +147,7 @@ jobs:
         echo "   - DOMAIN-KEYWORD,sehuatang" >> ../service/gfw2.yaml
         echo "   - DOMAIN-KEYWORD,1024" >> ../service/gfw2.yaml
         echo "   - DOMAIN-KEYWORD,t61y" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-KEYWORD,51fengliu" >> ../service/gfw2.yaml
         
 
         cd ../
