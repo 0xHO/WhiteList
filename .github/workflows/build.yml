@@ -138,9 +138,12 @@ jobs:
         echo "   - DOMAIN-SUFFIX,xyz" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,uk" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,top" >> ../service/gfw2.yaml
+
         echo "   - DOMAIN-SUFFIX,bulianglin.com" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,v2rayssr.com" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,sehuatang.org" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,instantfwding.com" >> ../service/gfw2.yaml
+        
         echo "   - DOMAIN-KEYWORD,sehuatang" >> ../service/gfw2.yaml
         echo "   - DOMAIN-KEYWORD,1024" >> ../service/gfw2.yaml
         echo "   - DOMAIN-KEYWORD,t61y" >> ../service/gfw2.yaml
