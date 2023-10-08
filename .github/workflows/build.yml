@@ -139,6 +139,8 @@ jobs:
         echo "   - DOMAIN-SUFFIX,uk" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,top" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,app" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,store" >> ../service/gfw2.yaml
+        
 
         echo "   - DOMAIN-SUFFIX,bulianglin.com" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,v2rayssr.com" >> ../service/gfw2.yaml
@@ -151,6 +153,24 @@ jobs:
         echo "   - DOMAIN-KEYWORD,51fengliu" >> ../service/gfw2.yaml
         echo "   - DOMAIN-KEYWORD,tanhuaxiuchewang" >> ../service/gfw2.yaml
         
+
+        # https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt
+        echo "# Service: chinaip" > ../service/chinaip.yaml
+        echo "# ipv4 from: https://github.com/17mon/china_ip_list" >> ../service/chinaip.yaml
+        echo "# ipv4 from: https://github.com/ACL4SSR/ACL4SSR" >> ../service/chinaip.yaml
+        echo "# ipv6 from: https://ispip.clang.cn/all_cn_ipv6.txt" >> ../service/chinaip.yaml
+        echo "# Repo: https://github.com/0xHO/WhiteList/blob/assets/service/chinaip.yaml" >> ../service/chinaip.yaml
+        echo "# raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml" >> ../service/chinaip.yaml
+        echo "# raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/chinaip.yaml" >> ../service/chinaip.yaml
+        echo "# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml" >> ../service/chinaip.yaml
+        echo "# Update: ${today}" >> ../service/chinaip.yaml
+        echo "payload:" >> ../service/chinaip.yaml
+        curl https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt|grep -v "="|grep -v "#"|sed "s/^/   - IP-CIDR,/g"|sed "s/$/,no-resolve/g" >> ../service/gfwlist.yaml
+        curl https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list|grep -v "="|grep -v "#"|sed "s/^/   - /g" >> ../service/gfwlist.yaml
+        curl https://ispip.clang.cn/all_cn_ipv6.txt|grep -v "="|grep -v "#"|sed "s/^/   - IP-CIDR6,/g"|sed "s/$/,no-resolve/g" >> ../service/gfwlist.yaml
+        
+
+
 
         cd ../
         git add service/*
