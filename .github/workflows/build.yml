@@ -165,9 +165,9 @@ jobs:
         echo "# raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml" >> ../service/chinaip.yaml
         echo "# Update: ${today}" >> ../service/chinaip.yaml
         echo "payload:" >> ../service/chinaip.yaml
-        curl https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt|grep -v "="|grep -v "#"|sed "s/^/   - IP-CIDR,/g"|sed "s/$/,no-resolve/g" >> ../service/gfwlist.yaml
-        curl https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list|grep -v "="|grep -v "#"|sed "s/^/   - /g" >> ../service/gfwlist.yaml
-        curl https://ispip.clang.cn/all_cn_ipv6.txt|grep -v "="|grep -v "#"|sed "s/^/   - IP-CIDR6,/g"|sed "s/$/,no-resolve/g" >> ../service/gfwlist.yaml
+        curl https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt|grep -v "="|grep -v "#"|sed "s/^/   - IP-CIDR,/g"|sed "s/$/,no-resolve/g" >> ../service/chinaip.yaml
+        curl https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list|grep -v "="|grep -v "#"|sed "s/^/   - /g" >> ../service/chinaip.yaml
+        curl https://ispip.clang.cn/all_cn_ipv6.txt|grep -v "="|grep -v "#"|sed "s/^/   - IP-CIDR6,/g"|sed "s/$/,no-resolve/g" >> ../service/chinaip.yaml
         
 
 
