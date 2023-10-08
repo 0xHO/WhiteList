@@ -40,7 +40,7 @@ jobs:
       id: organize
       if: ( !cancelled() )
       run: |
-        today=`date`
+        today=`date "+%Y-%m-%d %H:%M:%S"`
         ls -al
         ln -sf /workdir/domainlist main/domainlist
         cd main
