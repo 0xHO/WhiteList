@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfw2.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml
-# Update: 2023-10-09 04:42:02
+# Update: 2023-10-09 12:43:42
 payload:
    - DOMAIN-SUFFIX,tw
    - DOMAIN-SUFFIX,us
@@ -27,3 +27,4 @@ payload:
    - DOMAIN-KEYWORD,t61y
    - DOMAIN-KEYWORD,51fengliu
    - DOMAIN-KEYWORD,tanhuaxiuchewang
+   - DOMAIN-KEYWORD,porn
