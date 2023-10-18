@@ -147,6 +147,7 @@ jobs:
         echo "   - DOMAIN-SUFFIX,sehuatang.org" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,instantfwding.com" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,yahoo.com" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,yimg.com" >> ../service/gfw2.yaml
         
         echo "   - DOMAIN-KEYWORD,sehuatang" >> ../service/gfw2.yaml
         echo "   - DOMAIN-KEYWORD,1024" >> ../service/gfw2.yaml
