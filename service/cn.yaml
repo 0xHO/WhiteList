@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Oct 20 04:41:56 CST 2023
+# Update: Sat Oct 21 04:41:45 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3596,6 +3596,7 @@ payload:
    - DOMAIN-SUFFIX,tencent.design
    - DOMAIN-SUFFIX,tjstats.com
    - DOMAIN-SUFFIX,wegamedeveloper.com
+   - DOMAIN-SUFFIX,weixinbridge.com
    # ------ tencent-games ------>
    - DOMAIN-SUFFIX,supercell.com
    # ------ yuewen ------>

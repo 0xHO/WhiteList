@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Fri Oct 20 04:41:54 CST 2023
+# Update: Sat Oct 21 04:41:44 CST 2023
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,fanatical.com
@@ -399,6 +399,8 @@ payload:
    # ------ op ------>
    - DOMAIN,opgg-static.akamaized.net
    - DOMAIN-SUFFIX,op.gg
+   # ------ osu ------>
+   - DOMAIN-SUFFIX,ppy.sh
    # ------ pandanet ------>
    - DOMAIN-SUFFIX,joyjoy.net
    - DOMAIN-SUFFIX,pandanet-igs.com
