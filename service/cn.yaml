@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Oct 21 04:41:45 CST 2023
+# Update: Sun Oct 22 04:42:04 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3710,3 +3710,14 @@ payload:
    - DOMAIN-SUFFIX,sumkoo.net
    - DOMAIN-SUFFIX,veeqi.net
    - DOMAIN-SUFFIX,wenmingban.com
+   # ------ fengxing ------>
+   - DOMAIN-SUFFIX,fspcdn.com
+   - DOMAIN-SUFFIX,fun.tv
+   - DOMAIN-SUFFIX,funshion.com
+   - DOMAIN-SUFFIX,funshion.net
+   - DOMAIN-SUFFIX,ibidian.com
+   # ------ suishouji ------>
+   - DOMAIN-SUFFIX,feidee.com
+   - DOMAIN-SUFFIX,feidee.net
+   - DOMAIN-SUFFIX,ssjlicai.com
+   - DOMAIN-SUFFIX,sui.com
