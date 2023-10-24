@@ -133,6 +133,7 @@ jobs:
         echo "   - DOMAIN-SUFFIX,jp" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,sh" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,cc" >> ../service/gfw2.yaml
+        echo "   - DOMAIN-SUFFIX,co" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,io" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,me" >> ../service/gfw2.yaml
         echo "   - DOMAIN-SUFFIX,xyz" >> ../service/gfw2.yaml
