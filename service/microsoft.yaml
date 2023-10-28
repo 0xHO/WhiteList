@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/microsoft.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
-# Update: Sat Oct 28 04:41:53 CST 2023
+# Update: Sun Oct 29 04:41:59 CST 2023
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -418,6 +418,8 @@ payload:
    - DOMAIN-SUFFIX,msnewskids.net
    - DOMAIN-SUFFIX,msnewskids.org
    - DOMAIN-SUFFIX,msnkids.com
+   - DOMAIN-SUFFIX,microsoftstart.com
+   - DOMAIN-SUFFIX,start.com
    # ------ onedrive ------>
    - DOMAIN-SUFFIX,1drv.com
    - DOMAIN-SUFFIX,1drv.ms
