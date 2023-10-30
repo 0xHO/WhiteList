@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Mon Oct 30 12:53:25 CST 2023
+# Update: Tue Oct 31 04:41:58 CST 2023
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,fanatical.com
@@ -46,6 +46,7 @@ payload:
    - DOMAIN-SUFFIX,playwarcraft3.com
    - DOMAIN-SUFFIX,worldofwarcraft.com
    # ------ bluearchive ------>
+   # ------ bluepoch-games ------>
    # ------ curseforge ------>
    - DOMAIN-SUFFIX,curseforge.com
    - DOMAIN-SUFFIX,forgecdn.net

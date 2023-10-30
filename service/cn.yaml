@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Oct 30 12:53:27 CST 2023
+# Update: Tue Oct 31 04:42:00 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2924,6 +2924,8 @@ payload:
    - DOMAIN-SUFFIX,zuoyebang.cc
    - DOMAIN-SUFFIX,zuoyebang.com
    - DOMAIN-SUFFIX,zybang.com
+   # ------ bluepoch ------>
+   # ------ bluepoch-games ------>
    # ------ bytedance ------>
    - DOMAIN-SUFFIX,volcvod.com
    - DOMAIN-SUFFIX,volces.com
