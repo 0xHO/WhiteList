@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfw2.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfw2.yaml
-# Update: 2023-11-02 04:41:57
+# Update: 2023-11-02 14:27:18
 payload:
    - DOMAIN-SUFFIX,tw
    - DOMAIN-SUFFIX,us
@@ -26,6 +26,7 @@ payload:
    - DOMAIN-SUFFIX,yahoo.com
    - DOMAIN-SUFFIX,yimg.com
    - DOMAIN-SUFFIX,v2ex.com
+   - DOMAIN-SUFFIX,bookfere.com
    - DOMAIN-KEYWORD,sehuatang
    - DOMAIN-KEYWORD,1024
    - DOMAIN-KEYWORD,t61y
