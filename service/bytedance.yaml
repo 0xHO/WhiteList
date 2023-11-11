@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Sat Nov 11 04:41:56 CST 2023
+# Update: Sun Nov 12 04:41:54 CST 2023
 payload:
    # ------ bytedance ------>
    - DOMAIN-SUFFIX,volcvod.com
@@ -122,8 +122,10 @@ payload:
    - DOMAIN-SUFFIX,musical.ly
    - DOMAIN-SUFFIX,tik-tokapi.com
    - DOMAIN-SUFFIX,tiktok.com
+   - DOMAIN-SUFFIX,tiktokcdn-us.com
+   - DOMAIN-SUFFIX,tiktokcdn.com
    - DOMAIN-SUFFIX,tiktokd.net
    - DOMAIN-SUFFIX,tiktokd.org
-   - DOMAIN-SUFFIX,tiktokcdn.com
    - DOMAIN-SUFFIX,tiktokv.com
+   - DOMAIN-SUFFIX,ttwstatic.com
    # ------ bytedance-ads ------>
