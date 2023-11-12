@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Nov 12 04:41:50 CST 2023
+# Update: Mon Nov 13 04:41:37 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2165,6 +2165,10 @@ payload:
    - DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
    # ------ chinanews ------>
    - DOMAIN-SUFFIX,chinanews.com
+   # ------ cnbeta ------>
+   - DOMAIN-SUFFIX,cnbeta.com
+   - DOMAIN-SUFFIX,cnbeta.com.tw
+   - DOMAIN-SUFFIX,cnbetacdn.com
    # ------ dgtle ------>
    - DOMAIN-SUFFIX,dgtle.com
    # ------ geekpark ------>
