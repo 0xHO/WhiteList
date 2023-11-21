@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Nov 21 04:41:50 CST 2023
+# Update: Wed Nov 22 04:41:51 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3628,6 +3628,7 @@ payload:
    - DOMAIN-SUFFIX,xiaomi.com
    - DOMAIN-SUFFIX,xiaomi.net
    - DOMAIN-SUFFIX,xiaomiyoupin.com
+   - DOMAIN-SUFFIX,saxyit.com
    # ------ xunlei ------>
    - DOMAIN-SUFFIX,sandai.net
    - DOMAIN-SUFFIX,thunderurl.com
