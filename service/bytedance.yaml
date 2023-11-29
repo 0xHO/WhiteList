@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Wed Nov 29 04:41:40 CST 2023
+# Update: Thu Nov 30 04:41:56 CST 2023
 payload:
    # ------ bytedance ------>
    - DOMAIN-SUFFIX,volcvod.com
