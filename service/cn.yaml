@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Dec  1 04:41:44 CST 2023
+# Update: Sat Dec  2 04:41:39 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2744,6 +2744,7 @@ payload:
    - DOMAIN-SUFFIX,alipay.hk
    - DOMAIN-SUFFIX,alipaymo.com
    - DOMAIN-SUFFIX,alicloudccp.com
+   - DOMAIN-SUFFIX,alipan.com
    - DOMAIN-SUFFIX,aliyundrive.com
    - DOMAIN-SUFFIX,aliyundrive.net
    - DOMAIN-SUFFIX,cainiao.com
@@ -3237,6 +3238,8 @@ payload:
    - DOMAIN-SUFFIX,youdao.com
    - DOMAIN-SUFFIX,zhuanzfx.com
    # ------ netease-ads ------>
+   # ------ nubia ------>
+   - DOMAIN-SUFFIX,nubia.com
    # ------ oppo ------>
    - DOMAIN-SUFFIX,coloros.com
    - DOMAIN-SUFFIX,finzfin.com
