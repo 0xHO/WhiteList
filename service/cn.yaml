@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Dec  8 04:41:50 CST 2023
+# Update: Sat Dec  9 04:41:38 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2058,9 +2058,6 @@ payload:
    # ------ taomee ------>
    - DOMAIN-SUFFIX,61.com
    - DOMAIN-SUFFIX,taomee.com
-   # ------ taptap ------>
-   - DOMAIN-SUFFIX,tapimg.com
-   - DOMAIN-SUFFIX,taptap.com
    # ------ tgbus ------>
    - DOMAIN-SUFFIX,tgbus.com
    # ------ tiancity ------>
@@ -2072,6 +2069,17 @@ payload:
    - DOMAIN-SUFFIX,u17t.com
    # ------ vgtime ------>
    - DOMAIN-SUFFIX,vgtime.com
+   # ------ xd ------>
+   - DOMAIN-SUFFIX,ro.com
+   - DOMAIN-SUFFIX,xd.com
+   - DOMAIN-SUFFIX,xdcdn.net
+   - DOMAIN-SUFFIX,xindong.com
+   # ------ taptap ------>
+   - DOMAIN-SUFFIX,tapimg.com
+   - DOMAIN-SUFFIX,tapimg.net
+   - DOMAIN-SUFFIX,taptap.com
+   - DOMAIN-SUFFIX,taptap.io
+   - DOMAIN-SUFFIX,taptapdada.com
    # ------ xiaohongshu ------>
    - DOMAIN-SUFFIX,xhscdn.com
    - DOMAIN-SUFFIX,xhscdn.net
@@ -2079,6 +2087,8 @@ payload:
    # ------ ximalaya ------>
    - DOMAIN-SUFFIX,ximalaya.com
    - DOMAIN-SUFFIX,xmcdn.com
+   # ------ yamibo ------>
+   - DOMAIN-SUFFIX,yamibo.com
    # ------ youku ------>
    - DOMAIN-SUFFIX,kumiao.com
    - DOMAIN-SUFFIX,youku.com
@@ -2474,6 +2484,8 @@ payload:
    - DOMAIN-SUFFIX,lgstatic.com
    # ------ lanzou ------>
    - DOMAIN-SUFFIX,baidupan.com
+   - DOMAIN-SUFFIX,ilanzou.com
+   - DOMAIN-SUFFIX,lanosso.com
    - DOMAIN-SUFFIX,lanzou.com
    - DOMAIN-SUFFIX,lanzoub.com
    - DOMAIN-SUFFIX,lanzouc.com
@@ -2496,6 +2508,7 @@ payload:
    - DOMAIN-SUFFIX,lanzouw.com
    - DOMAIN-SUFFIX,lanzoux.com
    - DOMAIN-SUFFIX,lanzouy.com
+   - DOMAIN-SUFFIX,lanzov.com
    - DOMAIN-SUFFIX,woozooo.com
    # ------ ldmnq ------>
    - DOMAIN-SUFFIX,ldmnq.com
@@ -3461,6 +3474,13 @@ payload:
    - DOMAIN-SUFFIX,didimobility.co.jp
    - DOMAIN-SUFFIX,didistatic.com
    - DOMAIN-SUFFIX,xiaojukeji.com
+   # ------ dji ------>
+   - DOMAIN-SUFFIX,dji.com
+   - DOMAIN-SUFFIX,dji.net
+   - DOMAIN-SUFFIX,djicdn.com
+   - DOMAIN-SUFFIX,djiops.com
+   - DOMAIN-SUFFIX,djiservice.org
+   - DOMAIN-SUFFIX,skypixel.com
    # ------ huawei ------>
    - DOMAIN-SUFFIX,abhouses.com
    - DOMAIN-SUFFIX,agconnect.link
