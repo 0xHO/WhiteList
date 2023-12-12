@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Dec 12 04:42:06 CST 2023
+# Update: Wed Dec 13 04:41:48 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3600,6 +3600,21 @@ payload:
    - DOMAIN-SUFFIX,zhixue.com
    - DOMAIN-SUFFIX,changyan.com
    - DOMAIN-SUFFIX,xunfeixxj.com
+   # ------ jushuitan ------>
+   - DOMAIN-SUFFIX,315dian.com
+   - DOMAIN-SUFFIX,doucang.com
+   - DOMAIN-SUFFIX,drp321.com
+   - DOMAIN-SUFFIX,erp321.com
+   - DOMAIN-SUFFIX,erp321.net
+   - DOMAIN-SUFFIX,jugongdan.com
+   - DOMAIN-SUFFIX,jushuitan.com
+   - DOMAIN-SUFFIX,jushuitan.net
+   - DOMAIN-SUFFIX,jushuitan-inc.com
+   - DOMAIN-SUFFIX,juxieyun.com
+   - DOMAIN-SUFFIX,shopss.com
+   - DOMAIN-SUFFIX,shuiyaohuo.com
+   - DOMAIN-SUFFIX,surerp.com
+   - DOMAIN-SUFFIX,sursung.com
    # ------ kingsoft ------>
    - DOMAIN-SUFFIX,kingsoft.com
    - DOMAIN-SUFFIX,ksmobile.com
