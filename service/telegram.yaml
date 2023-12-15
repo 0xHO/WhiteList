@@ -3,12 +3,13 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/telegram.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/telegram.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/telegram.yaml
-# Update: Fri Dec 15 04:41:49 CST 2023
+# Update: Sat Dec 16 04:41:48 CST 2023
 payload:
    # ------ telegram ------>
    - DOMAIN-SUFFIX,cdn-telegram.org
    - DOMAIN-SUFFIX,comments.app
    - DOMAIN-SUFFIX,contest.com
+   - DOMAIN-SUFFIX,fragment.com
    - DOMAIN-SUFFIX,graph.org
    - DOMAIN-SUFFIX,quiz.directory
    - DOMAIN-SUFFIX,t.me

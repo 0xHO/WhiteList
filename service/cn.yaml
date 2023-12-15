@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Dec 15 04:41:45 CST 2023
+# Update: Sat Dec 16 04:41:44 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3501,6 +3501,10 @@ payload:
    - DOMAIN-SUFFIX,vmallres.com
    # ------ huawei-dev ------>
    # ------ huaweicloud ------>
+   - DOMAIN-SUFFIX,eduapaashwc.com
+   - DOMAIN-SUFFIX,hc-cdn.com
+   - DOMAIN-SUFFIX,hc-sre.com
+   - DOMAIN-SUFFIX,huaweiapaas.com
    - DOMAIN-SUFFIX,huaweicloud-dns.com
    - DOMAIN-SUFFIX,huaweicloud-dns.net
    - DOMAIN-SUFFIX,huaweicloud-dns.org
@@ -3509,17 +3513,26 @@ payload:
    - DOMAIN-SUFFIX,huaweicloud.com
    - DOMAIN-SUFFIX,huaweicloudapis.com
    - DOMAIN-SUFFIX,huaweicloudlive.com
+   - DOMAIN-SUFFIX,huaweicloudsite.com
+   - DOMAIN-SUFFIX,huaweicloudwaf.com
+   - DOMAIN-SUFFIX,huaweioneaccess.com
    - DOMAIN-SUFFIX,huaweimarketplace.com
+   - DOMAIN-SUFFIX,huaweisafedns.com
+   - DOMAIN-SUFFIX,huaweisre.com
    - DOMAIN-SUFFIX,huaweiyun.com
+   - DOMAIN-SUFFIX,hwastro.com
    - DOMAIN-SUFFIX,hwcdnsre.com
    - DOMAIN-SUFFIX,hwclouds-dns.com
    - DOMAIN-SUFFIX,hwclouds-dns.net
+   - DOMAIN-SUFFIX,hwclouds.com
    - DOMAIN-SUFFIX,hwclouds.mobi
+   - DOMAIN-SUFFIX,hwcloudsite.com
    - DOMAIN-SUFFIX,hwcloudvis.com
    - DOMAIN-SUFFIX,imcapptest.com
    - DOMAIN-SUFFIX,myhwcdn.com
    - DOMAIN-SUFFIX,myhwcloudlive.com
    - DOMAIN-SUFFIX,myhwclouds.com
+   - DOMAIN-SUFFIX,myhwclouds.net
    - DOMAIN-SUFFIX,pagescube.com
    - DOMAIN-SUFFIX,powerapp.io
    - DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com
@@ -3594,6 +3607,7 @@ payload:
    - DOMAIN-SUFFIX,cdnhwcprh113.com
    - DOMAIN-SUFFIX,cdnhwcedt124.com
    - DOMAIN-SUFFIX,cdnhwcoph123.com
+   - DOMAIN-SUFFIX,b2bgo.com
    # ------ iflytek ------>
    - DOMAIN-SUFFIX,iflytek.com
    - DOMAIN-SUFFIX,ets100.com
