@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Dec 23 04:41:54 CST 2023
+# Update: Sun Dec 24 04:41:48 CST 2023
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1936,6 +1936,7 @@ payload:
    # ------ bilibili ------>
    - DOMAIN,manga.bilibili.com
    - DOMAIN,upos-hz-mirrorakam.akamaized.net
+   - DOMAIN-SUFFIX,bilicomic.com
    - DOMAIN-SUFFIX,bilicomics.com
    - DOMAIN-SUFFIX,acg.tv
    - DOMAIN-SUFFIX,acgvideo.com
@@ -4071,6 +4072,9 @@ payload:
    - DOMAIN-SUFFIX,tingbook.com
    - DOMAIN-SUFFIX,webnovel.com
    - DOMAIN-SUFFIX,xxsy.net
+   # ------ vivo ------>
+   - DOMAIN-SUFFIX,vivo.com
+   - DOMAIN-SUFFIX,vivoglobal.com
    # ------ xiaomi ------>
    - DOMAIN-SUFFIX,mi.com
    - DOMAIN-SUFFIX,mi-img.com
