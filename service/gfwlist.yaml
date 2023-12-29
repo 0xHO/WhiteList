@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2023-12-29 04:41:43
+# Update: 2023-12-30 04:41:40
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1030,6 +1030,7 @@ payload:
    - DOMAIN-SUFFIX,contests.twilio.com
    - DOMAIN-SUFFIX,convio.net
    - DOMAIN-SUFFIX,coobay.com
+   - DOMAIN-SUFFIX,cool18.com
    - DOMAIN-SUFFIX,coolaler.com
    - DOMAIN-SUFFIX,coolder.com
    - DOMAIN-SUFFIX,coolloud.org.tw
@@ -1217,6 +1218,7 @@ payload:
    - DOMAIN-SUFFIX,discuss4u.com
    - DOMAIN-SUFFIX,dish.com
    - DOMAIN-SUFFIX,disk.yandex.com
+   - DOMAIN-SUFFIX,disk.yandex.ru
    - DOMAIN-SUFFIX,disp.cc
    - DOMAIN-SUFFIX,disqus.com
    - DOMAIN-SUFFIX,dit-inc.us
@@ -2053,7 +2055,6 @@ payload:
    - DOMAIN-SUFFIX,graphis.ne.jp
    - DOMAIN-SUFFIX,graphql.org
    - DOMAIN-SUFFIX,gravatar.com
-   - DOMAIN-SUFFIX,greasespot.net
    - DOMAIN-SUFFIX,great-firewall.com
    - DOMAIN-SUFFIX,great-roc.org
    - DOMAIN-SUFFIX,greatfire.org
@@ -3413,6 +3414,7 @@ payload:
    - DOMAIN-SUFFIX,oann.com
    - DOMAIN-SUFFIX,observechina.net
    - DOMAIN-SUFFIX,obutu.com
+   - DOMAIN-SUFFIX,obyte.org
    - DOMAIN-SUFFIX,ocaspro.com
    - DOMAIN-SUFFIX,occupytiananmen.com
    - DOMAIN-SUFFIX,oclp.hk
@@ -3756,6 +3758,7 @@ payload:
    - DOMAIN-SUFFIX,psiphon.civisec.org
    - DOMAIN-SUFFIX,psiphon3.com
    - DOMAIN-SUFFIX,psiphontoday.com
+   - DOMAIN-SUFFIX,pstatic.net
    - DOMAIN-SUFFIX,pt.im
    - DOMAIN-SUFFIX,pts.org.tw
    - DOMAIN-SUFFIX,ptt.cc
@@ -3962,6 +3965,7 @@ payload:
    - DOMAIN-SUFFIX,rxhj.net
    - DOMAIN-SUFFIX,s-cute.com
    - DOMAIN-SUFFIX,s-dragon.org
+   - DOMAIN-SUFFIX,s.yimg.com
    - DOMAIN-SUFFIX,s1.nudezz.com
    - DOMAIN-SUFFIX,s1heng.com
    - DOMAIN-SUFFIX,s1s1s1.com
@@ -4541,6 +4545,7 @@ payload:
    - DOMAIN-SUFFIX,thomasbernhard.org
    - DOMAIN-SUFFIX,thongdreams.com
    - DOMAIN-SUFFIX,threadreaderapp.com
+   - DOMAIN-SUFFIX,threads.net
    - DOMAIN-SUFFIX,threatchaos.com
    - DOMAIN-SUFFIX,throughnightsfire.com
    - DOMAIN-SUFFIX,thumbzilla.com
@@ -5282,6 +5287,8 @@ payload:
    - DOMAIN-SUFFIX,wjbk.org
    - DOMAIN-SUFFIX,wlcnew.jigsy.com
    - DOMAIN-SUFFIX,wlx.sowiki.net
+   - DOMAIN-SUFFIX,wmflabs.org
+   - DOMAIN-SUFFIX,wn.com
    - DOMAIN-SUFFIX,wnacg.com
    - DOMAIN-SUFFIX,wnacg.org
    - DOMAIN-SUFFIX,wo.tc
