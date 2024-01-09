@@ -205,6 +205,9 @@ DOMAIN-SUFFIX,routerlogin.com,DIRECT
 DOMAIN-SUFFIX,tendawifi.com,DIRECT
 DOMAIN-SUFFIX,zte.home,DIRECT
 DOMAIN-SUFFIX,wifi.cmcc,DIRECT
+# tizi
+DOMAIN-KEYWORD,kele,DIRECT
+
 " >> ./ssc.tmp
 
 # 读取关键字域名，进入代理
