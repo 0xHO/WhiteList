@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Tue Jan 23 04:42:00 CST 2024
+# Update: Wed Jan 24 04:41:42 CST 2024
 payload:
    # ------ category-games ------>
    # ------ 2kgames ------>
@@ -35,6 +35,7 @@ payload:
    # ------ mihoyo ------>
    # ------ hoyoverse ------>
    # ------ mihoyo-cn ------>
+   - DOMAIN-SUFFIX,mhystatic.com
    - DOMAIN-SUFFIX,mihayo.com
    - DOMAIN-SUFFIX,mihayou.com
    - DOMAIN-SUFFIX,mihoyo.com

@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Jan 23 04:42:00 CST 2024
+# Update: Wed Jan 24 04:41:43 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1141,6 +1141,9 @@ payload:
    - DOMAIN-SUFFIX,vzuu.com
    - DOMAIN-SUFFIX,zoom3g.com
    - DOMAIN-SUFFIX,ecombdapi.com
+   - DOMAIN-SUFFIX,huaban.com
+   - DOMAIN-SUFFIX,dancf.com
+   - DOMAIN-SUFFIX,kujiale.com
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -2492,6 +2495,7 @@ payload:
    - DOMAIN-SUFFIX,doc88.com
    # ------ docin ------>
    - DOMAIN-SUFFIX,docin.com
+   # ------ category-ntp-cn ------>
    # ------ capitalonline ------>
    - DOMAIN-SUFFIX,capitalonline.net
    - DOMAIN-SUFFIX,mirrors.yun-idc.com
@@ -2824,6 +2828,7 @@ payload:
    - DOMAIN-SUFFIX,koubei.com
    - DOMAIN-SUFFIX,zhisheng.com
    - DOMAIN-SUFFIX,npmmirror.com
+   - DOMAIN-SUFFIX,goofish.com
    # ------ alibaba-ads ------>
    # ------ alibabacloud ------>
    - DOMAIN-SUFFIX,alibabacloud.co.in
@@ -3649,6 +3654,7 @@ payload:
    - DOMAIN-SUFFIX,jushuitan.net
    - DOMAIN-SUFFIX,jushuitan-inc.com
    - DOMAIN-SUFFIX,juxieyun.com
+   - DOMAIN-SUFFIX,scm121.com
    - DOMAIN-SUFFIX,shopss.com
    - DOMAIN-SUFFIX,shuiyaohuo.com
    - DOMAIN-SUFFIX,surerp.com
@@ -3881,6 +3887,7 @@ payload:
    - DOMAIN-SUFFIX,computeinit.com
    - DOMAIN-SUFFIX,coolsite.vip
    - DOMAIN-SUFFIX,dnsv1.com
+   - DOMAIN-SUFFIX,edgeonedy1.com
    - DOMAIN-SUFFIX,essurl.com
    - DOMAIN-SUFFIX,exmailgz.com
    - DOMAIN-SUFFIX,gaapqcloud.com
@@ -4210,3 +4217,7 @@ payload:
    - DOMAIN-SUFFIX,feidee.net
    - DOMAIN-SUFFIX,ssjlicai.com
    - DOMAIN-SUFFIX,sui.com
+   # ------ narwal ------>
+   - DOMAIN-SUFFIX,narwal.com
+   # ------ roborock ------>
+   - DOMAIN-SUFFIX,roborock.com
