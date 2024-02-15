@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Feb 15 04:41:45 CST 2024
+# Update: Fri Feb 16 04:41:51 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3530,6 +3530,7 @@ payload:
    - DOMAIN-SUFFIX,vmallres.com
    # ------ huawei-dev ------>
    # ------ huaweicloud ------>
+   - DOMAIN-SUFFIX,b2bgo.com
    - DOMAIN-SUFFIX,eduapaashwc.com
    - DOMAIN-SUFFIX,hc-cdn.com
    - DOMAIN-SUFFIX,hc-sre.com
@@ -3564,13 +3565,17 @@ payload:
    - DOMAIN-SUFFIX,myhwclouds.net
    - DOMAIN-SUFFIX,pagescube.com
    - DOMAIN-SUFFIX,powerapp.io
+   - DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com
    - DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com
+   - DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
    - DOMAIN-SUFFIX,cn-east-2.myhuaweicloud.com
    - DOMAIN-SUFFIX,cn-east-3.myhuaweicloud.com
+   - DOMAIN-SUFFIX,cn-east-5.myhuaweicloud.com
    - DOMAIN-SUFFIX,cn-north-1.myhuaweicloud.com
+   - DOMAIN-SUFFIX,cn-north-11.myhuaweicloud.com
    - DOMAIN-SUFFIX,cn-north-2.myhuaweicloud.com
    - DOMAIN-SUFFIX,cn-north-3.myhuaweicloud.com
    - DOMAIN-SUFFIX,cn-north-4.myhuaweicloud.com
@@ -3583,11 +3588,14 @@ payload:
    - DOMAIN-SUFFIX,cn-south-4.myhuaweicloud.com
    - DOMAIN-SUFFIX,cn-southwest-2.myhuaweicloud.com
    - DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
+   - DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
    - DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com
    - DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
+   - DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
    - DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
+   - DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,cdnhwchcg02.com
    - DOMAIN-SUFFIX,cdnhwcurq03.com
    - DOMAIN-SUFFIX,cdnhwczba04.com
@@ -3636,7 +3644,6 @@ payload:
    - DOMAIN-SUFFIX,cdnhwcprh113.com
    - DOMAIN-SUFFIX,cdnhwcedt124.com
    - DOMAIN-SUFFIX,cdnhwcoph123.com
-   - DOMAIN-SUFFIX,b2bgo.com
    # ------ iflytek ------>
    - DOMAIN-SUFFIX,iflytek.com
    - DOMAIN-SUFFIX,ets100.com
