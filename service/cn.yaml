@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Feb 17 04:41:38 CST 2024
+# Update: Sun Feb 18 04:41:35 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3821,6 +3821,7 @@ payload:
    - DOMAIN-SUFFIX,sogou.com
    - DOMAIN-SUFFIX,sogoucdn.com
    # ------ tencent ------>
+   - DOMAIN,wetv.qq.com
    - DOMAIN-SUFFIX,qq.xn--fiqs8s
    - DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
    - DOMAIN-SUFFIX,apcdns.net
@@ -3844,6 +3845,8 @@ payload:
    - DOMAIN-SUFFIX,tfogc.com
    - DOMAIN-SUFFIX,wechat.com
    - DOMAIN-SUFFIX,weiyun.com
+   - DOMAIN-SUFFIX,wetv.vip
+   - DOMAIN-SUFFIX,wetvinfo.com
    - DOMAIN-SUFFIX,alloyteam.com
    - DOMAIN-SUFFIX,imweb.io
    - DOMAIN-SUFFIX,ivweb.io
