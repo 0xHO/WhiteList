@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/anthropic.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/anthropic.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/anthropic.yaml
-# Update: Sat Mar  9 04:41:53 CST 2024
+# Update: Sun Mar 10 04:41:49 CST 2024
 payload:
    # ------ anthropic ------>
    - DOMAIN,servd-anthropic-website.b-cdn.net
