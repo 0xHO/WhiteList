@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Mar 16 04:42:01 CST 2024
+# Update: Sun Mar 17 04:41:53 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2102,8 +2102,6 @@ payload:
    # ------ ximalaya ------>
    - DOMAIN-SUFFIX,ximalaya.com
    - DOMAIN-SUFFIX,xmcdn.com
-   # ------ yamibo ------>
-   - DOMAIN-SUFFIX,yamibo.com
    # ------ youku ------>
    - DOMAIN-SUFFIX,kumiao.com
    - DOMAIN-SUFFIX,youku.com
@@ -3381,6 +3379,8 @@ payload:
    - DOMAIN-SUFFIX,tiktokd.net
    - DOMAIN-SUFFIX,tiktokd.org
    - DOMAIN-SUFFIX,tiktokv.com
+   - DOMAIN-SUFFIX,tiktokv.us
+   - DOMAIN-SUFFIX,tiktokw.us
    - DOMAIN-SUFFIX,ttwstatic.com
    # ------ bytedance-ads ------>
    # ------ volcengine ------>
@@ -4172,6 +4172,7 @@ payload:
    - DOMAIN-SUFFIX,xiaomiev.com
    - DOMAIN-SUFFIX,xiaomiyoupin.com
    - DOMAIN-SUFFIX,saxyit.com
+   # ------ xiaomi-ads ------>
    # ------ xunlei ------>
    - DOMAIN-SUFFIX,sandai.net
    - DOMAIN-SUFFIX,thunderurl.com
