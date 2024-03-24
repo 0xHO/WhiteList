@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Mar 24 04:41:32 CST 2024
+# Update: Mon Mar 25 04:41:46 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1150,6 +1150,7 @@ payload:
    - DOMAIN-SUFFIX,huaban.com
    - DOMAIN-SUFFIX,dancf.com
    - DOMAIN-SUFFIX,kujiale.com
+   - DOMAIN-SUFFIX,wss.zone
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -3770,8 +3771,6 @@ payload:
    - DOMAIN-SUFFIX,youdao.com
    - DOMAIN-SUFFIX,zhuanzfx.com
    # ------ netease-ads ------>
-   # ------ nubia ------>
-   - DOMAIN-SUFFIX,nubia.com
    # ------ oppo ------>
    - DOMAIN-SUFFIX,coloros.com
    - DOMAIN-SUFFIX,finzfin.com
@@ -4183,6 +4182,14 @@ payload:
    - DOMAIN-SUFFIX,thundercdn.com
    - DOMAIN-SUFFIX,xycloud.com
    - DOMAIN-SUFFIX,xycdn.com
+   # ------ zte ------>
+   - DOMAIN,bbs.ztedevices.com
+   - DOMAIN,www.ztedevices.com
+   - DOMAIN,ztedevices.com
+   - DOMAIN-SUFFIX,nubia.com
+   - DOMAIN-SUFFIX,redmagic.com
+   - DOMAIN-SUFFIX,ztemall.com
+   - DOMAIN-SUFFIX,ztems.com
    # ------ chinabroadnet ------>
    - DOMAIN-SUFFIX,ahitv.com
    - DOMAIN-SUFFIX,cqccn.com
@@ -4266,6 +4273,14 @@ payload:
    - DOMAIN-SUFFIX,sumkoo.net
    - DOMAIN-SUFFIX,veeqi.net
    - DOMAIN-SUFFIX,wenmingban.com
+   # ------ youquan ------>
+   - DOMAIN-SUFFIX,aitcfw.com
+   - DOMAIN-SUFFIX,aizgtc.com
+   - DOMAIN-SUFFIX,hangzhouyq.com
+   - DOMAIN-SUFFIX,zgxytc.com
+   - DOMAIN-SUFFIX,zgzsa.com
+   - DOMAIN-SUFFIX,zhonshian.com
+   - DOMAIN-SUFFIX,zjzsa.com
    # ------ fengxing ------>
    - DOMAIN-SUFFIX,fspcdn.com
    - DOMAIN-SUFFIX,fun.tv
@@ -4279,5 +4294,6 @@ payload:
    - DOMAIN-SUFFIX,sui.com
    # ------ narwal ------>
    - DOMAIN-SUFFIX,narwal.com
+   - DOMAIN-SUFFIX,narwaltech.com
    # ------ roborock ------>
    - DOMAIN-SUFFIX,roborock.com
