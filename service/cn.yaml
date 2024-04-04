@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Apr  4 04:41:52 CST 2024
+# Update: Fri Apr  5 04:41:59 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -26,6 +26,7 @@ payload:
    - DOMAIN-SUFFIX,klpbbs.com
    - DOMAIN-SUFFIX,mcbbs.net
    - DOMAIN-SUFFIX,uiwow.com
+   - DOMAIN-SUFFIX,pcbeta.com
    - DOMAIN-SUFFIX,fofa.info
    - DOMAIN-SUFFIX,infinitynewtab.com
    - DOMAIN-SUFFIX,inftab.com
@@ -50,6 +51,7 @@ payload:
    - DOMAIN-SUFFIX,myypark.com
    - DOMAIN-SUFFIX,mihuashi.com
    - DOMAIN-SUFFIX,tower.im
+   - DOMAIN-SUFFIX,xedge.cc
    - DOMAIN-SUFFIX,ezpro.pro
    - DOMAIN-SUFFIX,jikipedia.com
    - DOMAIN-SUFFIX,qiuwen.wiki
@@ -773,7 +775,6 @@ payload:
    - DOMAIN-SUFFIX,paipaibang.com
    - DOMAIN-SUFFIX,paopaoche.net
    - DOMAIN-SUFFIX,pc6.com
-   - DOMAIN-SUFFIX,pcbeta.com
    - DOMAIN-SUFFIX,pchome.net
    - DOMAIN-SUFFIX,pcpop.com
    - DOMAIN-SUFFIX,peccn.com
@@ -1151,6 +1152,7 @@ payload:
    - DOMAIN-SUFFIX,dancf.com
    - DOMAIN-SUFFIX,kujiale.com
    - DOMAIN-SUFFIX,wss.zone
+   - DOMAIN-SUFFIX,hisensehitachi.com
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -4281,6 +4283,11 @@ payload:
    - DOMAIN-SUFFIX,zgzsa.com
    - DOMAIN-SUFFIX,zhonshian.com
    - DOMAIN-SUFFIX,zjzsa.com
+   # ------ dingdatech ------>
+   - DOMAIN-SUFFIX,dingdachuxing.com
+   - DOMAIN-SUFFIX,dingdatech.com
+   - DOMAIN-SUFFIX,jintdev.com
+   - DOMAIN-SUFFIX,xiangbababus.com
    # ------ fengxing ------>
    - DOMAIN-SUFFIX,fspcdn.com
    - DOMAIN-SUFFIX,fun.tv
