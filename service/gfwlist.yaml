@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-04-14 04:41:35
+# Update: 2024-04-15 07:27:05
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -2399,6 +2399,7 @@ payload:
    - DOMAIN-SUFFIX,ibvpn.com
    - DOMAIN-SUFFIX,icams.com
    - DOMAIN-SUFFIX,ice.audionow.com
+   - DOMAIN-SUFFIX,icedrive.net
    - DOMAIN-SUFFIX,icij.org
    - DOMAIN-SUFFIX,icl-fi.org
    - DOMAIN-SUFFIX,icoco.com
@@ -3955,6 +3956,7 @@ payload:
    - DOMAIN-SUFFIX,roodo.com
    - DOMAIN-SUFFIX,rosechina.net
    - DOMAIN-SUFFIX,rotten.com
+   - DOMAIN-SUFFIX,rou.video
    - DOMAIN-SUFFIX,rsdlmonitor.com
    - DOMAIN-SUFFIX,rsf-chinese.org
    - DOMAIN-SUFFIX,rsf.org
