@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat May  4 04:41:37 CST 2024
+# Update: Sun May  5 04:41:57 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2715,6 +2715,13 @@ payload:
    - DOMAIN-SUFFIX,ubuntukylin.com
    # ------ xueyuanjun ------>
    - DOMAIN-SUFFIX,xueyuanjun.com
+   # ------ pingcap ------>
+   - DOMAIN-SUFFIX,asktug.com
+   - DOMAIN-SUFFIX,pingcap.com
+   - DOMAIN-SUFFIX,tidb.ai
+   - DOMAIN-SUFFIX,tidb.net
+   - DOMAIN-SUFFIX,tidbcloud.com
+   - DOMAIN-SUFFIX,tikv.org
    # ------ alibaba ------>
    - DOMAIN-SUFFIX,alibaba
    - DOMAIN-SUFFIX,alipay

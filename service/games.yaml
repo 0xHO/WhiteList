@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sat May  4 04:41:36 CST 2024
+# Update: Sun May  5 04:41:56 CST 2024
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,fanatical.com
@@ -283,6 +283,7 @@ payload:
    # ------ nexon ------>
    - DOMAIN-SUFFIX,nexon.co.jp
    - DOMAIN-SUFFIX,nexon.com
+   - DOMAIN-SUFFIX,nexon.io
    - DOMAIN-SUFFIX,nexoncdn.co.kr
    # ------ nintendo ------>
    - DOMAIN-SUFFIX,100classicbooks.com
