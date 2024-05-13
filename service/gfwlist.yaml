@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-05-13 04:41:29
+# Update: 2024-05-14 04:41:42
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -830,6 +830,7 @@ payload:
    - DOMAIN-SUFFIX,channelnewsasia.com
    - DOMAIN-SUFFIX,chaoex.com
    - DOMAIN-SUFFIX,chapm25.com
+   - DOMAIN-SUFFIX,chatgpt.com
    - DOMAIN-SUFFIX,chatnook.com
    - DOMAIN-SUFFIX,chaturbate.com
    - DOMAIN-SUFFIX,checkgfw.com
