@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/kuaishou.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/kuaishou.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/kuaishou.yaml
-# Update: Sat Jun  1 04:41:52 CST 2024
+# Update: Sun Jun  2 04:41:55 CST 2024
 payload:
    # ------ kuaishou ------>
    - DOMAIN-SUFFIX,gifshow.com

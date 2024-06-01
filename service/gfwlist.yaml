@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-06-01 04:41:43
+# Update: 2024-06-02 04:41:46
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -3811,6 +3811,7 @@ payload:
    - DOMAIN-SUFFIX,python.com.tw
    - DOMAIN-SUFFIX,pytorch.org
    - DOMAIN-SUFFIX,qanote.com
+   - DOMAIN-SUFFIX,qbittorrent.org
    - DOMAIN-SUFFIX,qgirl.com.tw
    - DOMAIN-SUFFIX,qhigh.com
    - DOMAIN-SUFFIX,qi-gong.me
