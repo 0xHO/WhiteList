@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-06-05 04:41:36
+# Update: 2024-06-06 04:41:27
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -314,6 +314,7 @@ payload:
    - DOMAIN-SUFFIX,apkmonk.com
    - DOMAIN-SUFFIX,apkplz.com
    - DOMAIN-SUFFIX,apkpure.com
+   - DOMAIN-SUFFIX,apkpure.net
    - DOMAIN-SUFFIX,aplusvpn.com
    - DOMAIN-SUFFIX,app.box.com
    - DOMAIN-SUFFIX,app.cloudcone.com
@@ -1205,6 +1206,7 @@ payload:
    - DOMAIN-SUFFIX,deviantart.net
    - DOMAIN-SUFFIX,devio.us
    - DOMAIN-SUFFIX,devpn.com
+   - DOMAIN-SUFFIX,devv.ai
    - DOMAIN-SUFFIX,dfas.mil
    - DOMAIN-SUFFIX,dfn.org
    - DOMAIN-SUFFIX,dharamsalanet.com
