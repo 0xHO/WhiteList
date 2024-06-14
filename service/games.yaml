@@ -3,13 +3,17 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Fri Jun 14 04:41:38 CST 2024
+# Update: Sat Jun 15 04:41:54 CST 2024
 payload:
    # ------ category-games ------>
+   - DOMAIN-SUFFIX,dodi-repacks.download
+   - DOMAIN-SUFFIX,dodi-repacks.site
    - DOMAIN-SUFFIX,fanatical.com
    - DOMAIN-SUFFIX,fitgirl-repacks.site
+   - DOMAIN-SUFFIX,game-repack.site
    - DOMAIN-SUFFIX,humblebundle.com
    - DOMAIN-SUFFIX,loverslab.com
+   - DOMAIN-SUFFIX,minecraft.wiki
    - DOMAIN-SUFFIX,modrinth.com
    - DOMAIN-SUFFIX,nexusmods.com
    - DOMAIN-SUFFIX,papermc.io
@@ -268,6 +272,7 @@ payload:
    # ------ illusion ------>
    - DOMAIN-SUFFIX,illusion.co.jp
    - DOMAIN-SUFFIX,illusion.jp
+   # ------ kurogames ------>
    # ------ lowiro ------>
    - DOMAIN-SUFFIX,lowiro.com
    # ------ mihoyo ------>
@@ -285,6 +290,13 @@ payload:
    - DOMAIN-SUFFIX,nexon.com
    - DOMAIN-SUFFIX,nexon.io
    - DOMAIN-SUFFIX,nexoncdn.co.kr
+   # ------ nikke ------>
+   - DOMAIN-SUFFIX,nikke-de.com
+   - DOMAIN-SUFFIX,nikke-en.com
+   - DOMAIN-SUFFIX,nikke-fr.com
+   - DOMAIN-SUFFIX,nikke-jp.com
+   - DOMAIN-SUFFIX,nikke-kr.com
+   - DOMAIN-SUFFIX,nikke-sea.com
    # ------ nintendo ------>
    - DOMAIN-SUFFIX,100classicbooks.com
    - DOMAIN-SUFFIX,amiibo.com
@@ -398,13 +410,6 @@ payload:
    - DOMAIN-SUFFIX,wiiugamepad.com
    - DOMAIN-SUFFIX,wiivc.net
    - DOMAIN-SUFFIX,xenoblade.com
-   # ------ nikke ------>
-   - DOMAIN-SUFFIX,nikke-de.com
-   - DOMAIN-SUFFIX,nikke-en.com
-   - DOMAIN-SUFFIX,nikke-fr.com
-   - DOMAIN-SUFFIX,nikke-jp.com
-   - DOMAIN-SUFFIX,nikke-kr.com
-   - DOMAIN-SUFFIX,nikke-sea.com
    # ------ op ------>
    - DOMAIN,opgg-static.akamaized.net
    - DOMAIN-SUFFIX,op.gg
@@ -424,13 +429,13 @@ payload:
    # ------ pinkcore ------>
    - DOMAIN-SUFFIX,pinkcore.com
    - DOMAIN-SUFFIX,pinkcore.net
-   # ------ projectsekai ------>
-   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
    # ------ playstation ------>
    - DOMAIN-SUFFIX,playstation
    - DOMAIN-SUFFIX,playstation.com
    - DOMAIN-SUFFIX,playstation.net
    - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+   # ------ projectsekai ------>
+   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
    # ------ purikonejp ------>
    - DOMAIN,prd-priconne-redive.akamaized.net
    - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp

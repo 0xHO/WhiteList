@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Fri Jun 14 04:41:39 CST 2024
+# Update: Sat Jun 15 04:41:55 CST 2024
 payload:
    # ------ category-games ------>
    # ------ 2kgames ------>
@@ -31,6 +31,9 @@ payload:
    - DOMAIN,static-login.gog-statics.com
    - DOMAIN,www4-static.gog-statics.com
    # ------ illusion ------>
+   # ------ kurogames ------>
+   - DOMAIN-SUFFIX,kurogames.com
+   - DOMAIN-SUFFIX,aki-game.com
    # ------ lowiro ------>
    # ------ mihoyo ------>
    # ------ hoyoverse ------>
@@ -49,14 +52,14 @@ payload:
    - DOMAIN-SUFFIX,themisweeps.com
    - DOMAIN-SUFFIX,yuanshen.com
    # ------ nexon ------>
-   # ------ nintendo ------>
    # ------ nikke ------>
+   # ------ nintendo ------>
    # ------ op ------>
    # ------ osu ------>
    # ------ pandanet ------>
    # ------ pinkcore ------>
-   # ------ projectsekai ------>
    # ------ playstation ------>
+   # ------ projectsekai ------>
    # ------ purikonejp ------>
    # ------ riot ------>
    # ------ rockstar ------>
