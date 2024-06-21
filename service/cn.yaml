@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Jun 21 04:41:36 CST 2024
+# Update: Sat Jun 22 04:41:48 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3797,6 +3797,7 @@ payload:
    - DOMAIN-SUFFIX,xoyo.com
    # ------ wps ------>
    - DOMAIN-SUFFIX,wps.com
+   - DOMAIN-SUFFIX,kscord.com
    - DOMAIN-SUFFIX,51dzt.com
    - DOMAIN-SUFFIX,iciba.com
    - DOMAIN-SUFFIX,docer.com
