@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Jul  7 04:41:46 CST 2024
+# Update: Mon Jul  8 04:41:36 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -821,7 +821,6 @@ payload:
    - DOMAIN-SUFFIX,qunarzz.com
    - DOMAIN-SUFFIX,qunjielong.com
    - DOMAIN-SUFFIX,qyer.com
-   - DOMAIN-SUFFIX,rfchost.com
    - DOMAIN-SUFFIX,rockyenglish.com
    - DOMAIN-SUFFIX,rong360.com
    - DOMAIN-SUFFIX,rtbasia.com
@@ -2949,6 +2948,7 @@ payload:
    - DOMAIN-SUFFIX,teambition.net
    - DOMAIN-SUFFIX,teambitionapis.com
    # ------ uc ------>
+   - DOMAIN-SUFFIX,uc123.com
    - DOMAIN-SUFFIX,ucweb.com
    # ------ umeng ------>
    - DOMAIN-SUFFIX,mobmore.com
@@ -2977,6 +2977,7 @@ payload:
    - DOMAIN-SUFFIX,aipage.com
    - DOMAIN-SUFFIX,apollo.auto
    - DOMAIN-SUFFIX,baidu.com
+   - DOMAIN-SUFFIX,baiduapp.com
    - DOMAIN-SUFFIX,baidubce.com
    - DOMAIN-SUFFIX,baiducontent.com
    - DOMAIN-SUFFIX,baidupcs.com
@@ -3008,6 +3009,18 @@ payload:
    - DOMAIN-SUFFIX,tiebaimg.com
    - DOMAIN-SUFFIX,xianfae.com
    - DOMAIN-SUFFIX,xiaodutv.com
+   - DOMAIN-SUFFIX,duxiaoman-int.com
+   - DOMAIN-SUFFIX,duxiaoman.com
+   - DOMAIN-SUFFIX,duxiaomanfintech.com
+   - DOMAIN-SUFFIX,duxiaomantech.com
+   - DOMAIN-SUFFIX,dxm-cdn.com
+   - DOMAIN-SUFFIX,dxm-int.com
+   - DOMAIN-SUFFIX,dxmlcf.com
+   - DOMAIN-SUFFIX,dxmlcfintech.com
+   - DOMAIN-SUFFIX,dxmpay.com
+   - DOMAIN-SUFFIX,dxmstatic.com
+   - DOMAIN-SUFFIX,dxmyqh.com
+   - DOMAIN-SUFFIX,paydxm.com
    # ------ baidu-ads ------>
    # ------ zuoyebang ------>
    - DOMAIN-SUFFIX,zuoyebang.cc
@@ -3797,6 +3810,7 @@ payload:
    - DOMAIN-SUFFIX,xoyo.com
    # ------ wps ------>
    - DOMAIN-SUFFIX,wps.com
+   - DOMAIN-SUFFIX,wpscdn.com
    - DOMAIN-SUFFIX,kscord.com
    - DOMAIN-SUFFIX,51dzt.com
    - DOMAIN-SUFFIX,iciba.com
@@ -4004,10 +4018,13 @@ payload:
    - DOMAIN-SUFFIX,tencentmusic.com
    - DOMAIN-SUFFIX,tenpay.com
    - DOMAIN-SUFFIX,tfogc.com
+   - DOMAIN-SUFFIX,tlivepush.com
+   - DOMAIN-SUFFIX,txlivecdn.com
    - DOMAIN-SUFFIX,wechat.com
    - DOMAIN-SUFFIX,weiyun.com
    - DOMAIN-SUFFIX,wetv.vip
    - DOMAIN-SUFFIX,wetvinfo.com
+   - DOMAIN-SUFFIX,wxlivecdn.com
    - DOMAIN-SUFFIX,alloyteam.com
    - DOMAIN-SUFFIX,imweb.io
    - DOMAIN-SUFFIX,ivweb.io
@@ -4255,7 +4272,9 @@ payload:
    - DOMAIN-SUFFIX,openmidas.com
    - DOMAIN-SUFFIX,qq.design
    - DOMAIN-SUFFIX,qqgamedesign.com
+   - DOMAIN-SUFFIX,tencent-cloud.com
    - DOMAIN-SUFFIX,tencent.design
+   - DOMAIN-SUFFIX,tencentcloud.com
    - DOMAIN-SUFFIX,tjstats.com
    - DOMAIN-SUFFIX,wegamedeveloper.com
    - DOMAIN-SUFFIX,weixinbridge.com
@@ -4280,12 +4299,14 @@ payload:
    # ------ xiaomi ------>
    - DOMAIN-SUFFIX,mi-img.com
    - DOMAIN-SUFFIX,mi.com
+   - DOMAIN-SUFFIX,mijia.tech
    - DOMAIN-SUFFIX,miui.com
    - DOMAIN-SUFFIX,miwifi.com
    - DOMAIN-SUFFIX,xiaomi.com
    - DOMAIN-SUFFIX,xiaomi.net
    - DOMAIN-SUFFIX,xiaomiev.com
    - DOMAIN-SUFFIX,xiaomimobile.com
+   - DOMAIN-SUFFIX,xiaomixiaoai.com
    - DOMAIN-SUFFIX,xiaomiyoupin.com
    - DOMAIN-SUFFIX,saxyit.com
    # ------ xiaomi-ads ------>
@@ -4329,6 +4350,7 @@ payload:
    - DOMAIN-SUFFIX,chinatelecom-h.com
    - DOMAIN-SUFFIX,chinatelecomglobal.com
    - DOMAIN-SUFFIX,chntel.com
+   - DOMAIN-SUFFIX,chinatelecomhk.com
    # ------ ctexcel ------>
    - DOMAIN-SUFFIX,ctexcel.ca
    - DOMAIN-SUFFIX,ctexcel.com
@@ -4343,6 +4365,7 @@ payload:
    - DOMAIN-SUFFIX,chinaunicomglobal.com
    - DOMAIN-SUFFIX,mychinaunicom.com
    - DOMAIN-SUFFIX,wo116114.com
+   - DOMAIN-SUFFIX,cuniq.com
    # ------ 51nod ------>
    - DOMAIN-SUFFIX,51nod.com
    # ------ j-test ------>
