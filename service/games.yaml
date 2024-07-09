@@ -3,11 +3,12 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Tue Jul  9 04:41:33 CST 2024
+# Update: Wed Jul 10 04:41:33 CST 2024
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,dodi-repacks.download
    - DOMAIN-SUFFIX,dodi-repacks.site
+   - DOMAIN-SUFFIX,fabricmc.net
    - DOMAIN-SUFFIX,fanatical.com
    - DOMAIN-SUFFIX,fitgirl-repacks.site
    - DOMAIN-SUFFIX,game-repack.site
@@ -18,7 +19,9 @@ payload:
    - DOMAIN-SUFFIX,nexusmods.com
    - DOMAIN-SUFFIX,papermc.io
    - DOMAIN-SUFFIX,planetminecraft.com
+   - DOMAIN-SUFFIX,prismlauncher.org
    - DOMAIN-SUFFIX,protondb.com
+   - DOMAIN-SUFFIX,quiltmc.org
    - DOMAIN-SUFFIX,speedrun.com
    - DOMAIN-SUFFIX,steamdb.info
    # ------ 2kgames ------>
