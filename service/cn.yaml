@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Jul 10 04:41:34 CST 2024
+# Update: Thu Jul 11 04:41:40 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3879,6 +3879,7 @@ payload:
    - DOMAIN-SUFFIX,zhuanzfx.com
    # ------ netease-ads ------>
    # ------ oppo ------>
+   - DOMAIN-SUFFIX,allawntech.com
    - DOMAIN-SUFFIX,coloros.com
    - DOMAIN-SUFFIX,finzfin.com
    - DOMAIN-SUFFIX,heytap.com
