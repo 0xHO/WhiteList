@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Jul 13 04:41:56 CST 2024
+# Update: Sun Jul 14 04:41:52 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3808,6 +3808,8 @@ payload:
    - DOMAIN-SUFFIX,seasungames.com
    - DOMAIN-SUFFIX,xishanju.com
    - DOMAIN-SUFFIX,xoyo.com
+   - DOMAIN-SUFFIX,xoyocdn.com
+   - DOMAIN-SUFFIX,cbjq.com
    # ------ wps ------>
    - DOMAIN-SUFFIX,wps.com
    - DOMAIN-SUFFIX,wpscdn.com
