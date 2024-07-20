@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Jul 20 04:41:46 CST 2024
+# Update: Sun Jul 21 04:41:59 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2679,6 +2679,7 @@ payload:
    - DOMAIN-SUFFIX,gitee.io
    # ------ goproxy ------>
    - DOMAIN-SUFFIX,goproxy.io
+   # ------ huawei-dev ------>
    # ------ jinrishici ------>
    - DOMAIN-SUFFIX,jinrishici.com
    # ------ juejin ------>
@@ -2706,20 +2707,6 @@ payload:
    - DOMAIN-SUFFIX,pgyer.com
    - DOMAIN-SUFFIX,tracup.com
    - DOMAIN-SUFFIX,frontjs.com
-   # ------ rubychina ------>
-   - DOMAIN-SUFFIX,ruby-china.org
-   - DOMAIN-SUFFIX,rubyconfchina.org
-   # ------ segmentfault ------>
-   - DOMAIN-SUFFIX,segmentfault.com
-   - DOMAIN-SUFFIX,sifou.com
-   # ------ sxl ------>
-   # ------ tipdm ------>
-   - DOMAIN-SUFFIX,tipdim.org
-   # ------ ubuntukylin ------>
-   - DOMAIN-SUFFIX,openkylin.top
-   - DOMAIN-SUFFIX,ubuntukylin.com
-   # ------ xueyuanjun ------>
-   - DOMAIN-SUFFIX,xueyuanjun.com
    # ------ pingcap ------>
    - DOMAIN-SUFFIX,asktug.com
    - DOMAIN-SUFFIX,pingcap.com
@@ -2727,6 +2714,30 @@ payload:
    - DOMAIN-SUFFIX,tidb.net
    - DOMAIN-SUFFIX,tidbcloud.com
    - DOMAIN-SUFFIX,tikv.org
+   # ------ rubychina ------>
+   - DOMAIN-SUFFIX,ruby-china.org
+   - DOMAIN-SUFFIX,rubyconfchina.org
+   # ------ segmentfault ------>
+   - DOMAIN-SUFFIX,segmentfault.com
+   - DOMAIN-SUFFIX,sifou.com
+   # ------ sxl ------>
+   # ------ tencent-dev ------>
+   - DOMAIN-SUFFIX,openmidas.com
+   - DOMAIN-SUFFIX,qq.design
+   - DOMAIN-SUFFIX,qqgamedesign.com
+   - DOMAIN-SUFFIX,tencent-cloud.com
+   - DOMAIN-SUFFIX,tencent.design
+   - DOMAIN-SUFFIX,tencentcloud.com
+   - DOMAIN-SUFFIX,tjstats.com
+   - DOMAIN-SUFFIX,wegamedeveloper.com
+   - DOMAIN-SUFFIX,weixinbridge.com
+   # ------ tipdm ------>
+   - DOMAIN-SUFFIX,tipdim.org
+   # ------ ubuntukylin ------>
+   - DOMAIN-SUFFIX,openkylin.top
+   - DOMAIN-SUFFIX,ubuntukylin.com
+   # ------ xueyuanjun ------>
+   - DOMAIN-SUFFIX,xueyuanjun.com
    # ------ alibaba ------>
    - DOMAIN-SUFFIX,alibaba
    - DOMAIN-SUFFIX,alipay
