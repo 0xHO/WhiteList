@@ -8,9 +8,7 @@ function getdomain () {
         do
             echo "||${suffix}" >> ./domainList.tmp
             echo "server=/${suffix}/119.29.29.29" >> ./dnsmasq.conf
-            echo "server=/${suffix}/223.5.5.5" >> ./dnsmasq.conf
             echo "server=/${suffix}/114.114.114.114" >> ./dnsmasq.conf
-            echo "server=/${suffix}/4.2.2.1" >> ./dnsmasq.conf
             echo "DOMAIN-SUFFIX,${suffix},DIRECT"  >> ./ssc.tmp
         done
         echo 'fHxhdmx5dW4ub3JnCg=='|base64 -d >> ./domainList.tmp
