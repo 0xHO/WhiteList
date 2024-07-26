@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Fri Jul 26 04:41:48 CST 2024
+# Update: Sat Jul 27 04:41:55 CST 2024
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,dodi-repacks.download
@@ -441,6 +441,7 @@ payload:
    - DOMAIN-SUFFIX,sekai.colorfulpalette.org
    # ------ purikonejp ------>
    - DOMAIN,prd-priconne-redive.akamaized.net
+   - DOMAIN-SUFFIX,priconne-redive.jp
    - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
    - DOMAIN-SUFFIX,omotenashi.cygames.jp
    # ------ riot ------>
