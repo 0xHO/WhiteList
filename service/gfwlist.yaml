@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-07-29 04:41:49
+# Update: 2024-07-30 04:41:34
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -413,6 +413,7 @@ payload:
    - DOMAIN-SUFFIX,axureformac.com
    - DOMAIN-SUFFIX,azerbaycan.tv
    - DOMAIN-SUFFIX,azerimix.com
+   - DOMAIN-SUFFIX,azirevpn.com
    - DOMAIN-SUFFIX,azubu.tv
    - DOMAIN-SUFFIX,b-ok.cc
    - DOMAIN-SUFFIX,b0ne.com
@@ -980,6 +981,7 @@ payload:
    - DOMAIN-SUFFIX,clubhouseapi.com
    - DOMAIN-SUFFIX,clyp.it
    - DOMAIN-SUFFIX,cmcn.org
+   - DOMAIN-SUFFIX,cmegroup.com
    - DOMAIN-SUFFIX,cmi.org.tw
    - DOMAIN-SUFFIX,cmp.hku.hk
    - DOMAIN-SUFFIX,cms.gov
@@ -2456,6 +2458,7 @@ payload:
    - DOMAIN-SUFFIX,imageab.com
    - DOMAIN-SUFFIX,imagefap.com
    - DOMAIN-SUFFIX,imageflea.com
+   - DOMAIN-SUFFIX,imageglass.org
    - DOMAIN-SUFFIX,images-gaytube.com
    - DOMAIN-SUFFIX,images.comico.tw
    - DOMAIN-SUFFIX,imageshack.us
