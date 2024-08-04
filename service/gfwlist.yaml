@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-08-04 04:41:29
+# Update: 2024-08-05 04:41:54
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -2570,6 +2570,7 @@ payload:
    - DOMAIN-SUFFIX,ivacy.com
    - DOMAIN-SUFFIX,iverycd.com
    - DOMAIN-SUFFIX,ivpn.net
+   - DOMAIN-SUFFIX,iwara.tv
    - DOMAIN-SUFFIX,ixquick.com
    - DOMAIN-SUFFIX,ixxx.com
    - DOMAIN-SUFFIX,iyouport.com
@@ -4682,6 +4683,7 @@ payload:
    - DOMAIN-SUFFIX,tibetswiss.ch
    - DOMAIN-SUFFIX,tibettelegraph.com
    - DOMAIN-SUFFIX,tibettimes.net
+   - DOMAIN-SUFFIX,tibettruth.com
    - DOMAIN-SUFFIX,tibetwrites.org
    - DOMAIN-SUFFIX,ticket.com.tw
    - DOMAIN-SUFFIX,tigervpn.com
