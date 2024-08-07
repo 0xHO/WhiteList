@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Aug  7 04:41:36 CST 2024
+# Update: Thu Aug  8 04:41:42 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -830,6 +830,7 @@ payload:
    - DOMAIN-SUFFIX,saibo.com
    - DOMAIN-SUFFIX,sanguosha.com
    - DOMAIN-SUFFIX,sanwen.net
+   - DOMAIN-SUFFIX,sast.fun
    - DOMAIN-SUFFIX,scdng.com
    - DOMAIN-SUFFIX,scoregg.com
    - DOMAIN-SUFFIX,sczsxx.com
@@ -868,6 +869,7 @@ payload:
    - DOMAIN-SUFFIX,simuwang.com
    - DOMAIN-SUFFIX,sinesafe.com
    - DOMAIN-SUFFIX,sjwyx.com
+   - DOMAIN-SUFFIX,skimit.net
    - DOMAIN-SUFFIX,skycn.com
    - DOMAIN-SUFFIX,sllssrq.com
    - DOMAIN-SUFFIX,snimay.com
@@ -1154,6 +1156,15 @@ payload:
    - DOMAIN-SUFFIX,wss.zone
    - DOMAIN-SUFFIX,hisensehitachi.com
    - DOMAIN-SUFFIX,moseeker.com
+   - DOMAIN-SUFFIX,jsw118.com
+   - DOMAIN-SUFFIX,sxcxldjy.com
+   - DOMAIN-SUFFIX,shanxijianzhuzizhi.com
+   - DOMAIN-SUFFIX,jztvnews.com
+   - DOMAIN-SUFFIX,vhengdata.com
+   - DOMAIN-SUFFIX,nanyuenews.com
+   - DOMAIN-SUFFIX,educoder.net
+   - DOMAIN-SUFFIX,tokcoder.com
+   - DOMAIN-SUFFIX,trustie.net
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -1236,6 +1247,7 @@ payload:
    - DOMAIN-SUFFIX,cmf.ltd
    - DOMAIN-SUFFIX,cmfchina.com
    - DOMAIN-SUFFIX,test-cignacmb.com
+   # ------ hsbc-cn ------>
    # ------ icbc ------>
    - DOMAIN-SUFFIX,icbc
    - DOMAIN-SUFFIX,95588.com
@@ -1432,6 +1444,9 @@ payload:
    - DOMAIN-SUFFIX,tkhealthcare.com
    # ------ category-blog-cn ------>
    - DOMAIN-SUFFIX,huangyuhui.net
+   - DOMAIN-SUFFIX,114blog.com
+   - DOMAIN-SUFFIX,mryys.com
+   - DOMAIN-SUFFIX,4thworkshop.com
    # ------ category-food-cn ------>
    - DOMAIN-SUFFIX,3songshu.com
    - DOMAIN-SUFFIX,haidilao.com
@@ -1868,7 +1883,9 @@ payload:
    - DOMAIN-SUFFIX,yangkeduo.com
    # ------ smzdm ------>
    - DOMAIN-SUFFIX,smzdm.com
+   - DOMAIN-SUFFIX,smzdmimg.com
    - DOMAIN-SUFFIX,zdmimg.com
+   - DOMAIN-SUFFIX,zhidemai.com
    # ------ suning ------>
    - DOMAIN-SUFFIX,cnsuning.com
    - DOMAIN-SUFFIX,suning.com
@@ -2047,11 +2064,13 @@ payload:
    - DOMAIN-SUFFIX,kuaikanmanhua.com
    # ------ kuaishou ------>
    - DOMAIN-SUFFIX,gifshow.com
+   - DOMAIN-SUFFIX,inkwai.com
    - DOMAIN-SUFFIX,ksapisrv.com
    - DOMAIN-SUFFIX,kuaishou.com
-   - DOMAIN-SUFFIX,yximgs.com
    - DOMAIN-SUFFIX,kwaizt.com
    - DOMAIN-SUFFIX,kuaishouzt.com
+   - DOMAIN-SUFFIX,kwimgs.com
+   - DOMAIN-SUFFIX,yximgs.com
    # ------ kuaishou-ads ------>
    # ------ kugou ------>
    - DOMAIN-SUFFIX,kgimg.com
@@ -2327,6 +2346,7 @@ payload:
    - DOMAIN-SUFFIX,tools.team
    # ------ category-hospital-cn ------>
    - DOMAIN-SUFFIX,fuwai.com
+   - DOMAIN-SUFFIX,yctdyy.com
    # ------ lkcoffee ------>
    - DOMAIN-SUFFIX,lkcoffee.com
    - DOMAIN-SUFFIX,luckincoffeecdn.com
@@ -2574,6 +2594,11 @@ payload:
    # ------ polyv ------>
    - DOMAIN-SUFFIX,polyv.net
    - DOMAIN-SUFFIX,videocc.net
+   # ------ qweather ------>
+   - DOMAIN-SUFFIX,hecdn.net
+   - DOMAIN-SUFFIX,heweather.net
+   - DOMAIN-SUFFIX,qweather.com
+   - DOMAIN-SUFFIX,qweather.net
    # ------ renren ------>
    - DOMAIN-SUFFIX,renren.com
    - DOMAIN-SUFFIX,renren-inc.com
@@ -3828,6 +3853,7 @@ payload:
    - DOMAIN-SUFFIX,51dzt.com
    - DOMAIN-SUFFIX,iciba.com
    - DOMAIN-SUFFIX,docer.com
+   - DOMAIN-SUFFIX,wpsmail.net
    - DOMAIN-SUFFIX,papocket.com
    # ------ lenovo ------>
    - DOMAIN-SUFFIX,lenovo.net
