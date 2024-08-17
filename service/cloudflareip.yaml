@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflareip.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cloudflareip.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cloudflareip.yaml
-# Update: 2024-08-17 04:41:44
+# Update: 2024-08-18 04:42:43
 payload:
    # ------ ipv4 ------>
    - IP-CIDR,173.245.48.0/20
