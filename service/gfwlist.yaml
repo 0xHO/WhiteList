@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-09-02 04:41:35
+# Update: 2024-09-03 04:41:59
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -302,7 +302,6 @@ payload:
    - DOMAIN-SUFFIX,api.ai
    - DOMAIN-SUFFIX,api.dropboxapi.com
    - DOMAIN-SUFFIX,api.linksalpha.com
-   - DOMAIN-SUFFIX,api.proxlet.com
    - DOMAIN-SUFFIX,api.pureapk.com
    - DOMAIN-SUFFIX,api.recaptcha.net
    - DOMAIN-SUFFIX,apiary.io
@@ -702,6 +701,7 @@ payload:
    - DOMAIN-SUFFIX,buzzhand.com
    - DOMAIN-SUFFIX,buzzhand.net
    - DOMAIN-SUFFIX,buzzorange.com
+   - DOMAIN-SUFFIX,buzzsprout.com
    - DOMAIN-SUFFIX,bvpn.com
    - DOMAIN-SUFFIX,bwgyhw.com
    - DOMAIN-SUFFIX,bwh1.net
@@ -2568,6 +2568,7 @@ payload:
    - DOMAIN-SUFFIX,iuksky.com
    - DOMAIN-SUFFIX,ivacy.com
    - DOMAIN-SUFFIX,iverycd.com
+   - DOMAIN-SUFFIX,ivonblog.com
    - DOMAIN-SUFFIX,ivpn.net
    - DOMAIN-SUFFIX,iwara.tv
    - DOMAIN-SUFFIX,ixquick.com
@@ -2583,6 +2584,7 @@ payload:
    - DOMAIN-SUFFIX,jamaat.org
    - DOMAIN-SUFFIX,jamestown.org
    - DOMAIN-SUFFIX,jamyangnorbu.com
+   - DOMAIN-SUFFIX,jan.ai
    - DOMAIN-SUFFIX,jandyx.com
    - DOMAIN-SUFFIX,janwongphoto.com
    - DOMAIN-SUFFIX,japan-whores.com
@@ -3619,9 +3621,8 @@ payload:
    - DOMAIN-SUFFIX,pen.io
    - DOMAIN-SUFFIX,penchinese.com
    - DOMAIN-SUFFIX,penchinese.net
-   - DOMAIN-SUFFIX,pengyulong.com
-   - DOMAIN-SUFFIX,penisbot.com
    - DOMAIN-SUFFIX,penthouse.com
+   - DOMAIN-SUFFIX,pentoy.hk
    - DOMAIN-SUFFIX,peoplebookcafe.com
    - DOMAIN-SUFFIX,peoplenews.tw
    - DOMAIN-SUFFIX,peopo.org
@@ -3635,7 +3636,6 @@ payload:
    - DOMAIN-SUFFIX,phapluan.org
    - DOMAIN-SUFFIX,phayul.com
    - DOMAIN-SUFFIX,philborges.com
-   - DOMAIN-SUFFIX,philly.com
    - DOMAIN-SUFFIX,phmsociety.org
    - DOMAIN-SUFFIX,phncdn.com
    - DOMAIN-SUFFIX,phosphation13.rssing.com
@@ -3756,7 +3756,6 @@ payload:
    - DOMAIN-SUFFIX,prestige-av.com
    - DOMAIN-SUFFIX,pride.google
    - DOMAIN-SUFFIX,prism-break.org
-   - DOMAIN-SUFFIX,prisoner-state-secret-journal-premier
    - DOMAIN-SUFFIX,prisoneralert.com
    - DOMAIN-SUFFIX,pritunl.com
    - DOMAIN-SUFFIX,privacybox.de
@@ -3872,7 +3871,6 @@ payload:
    - DOMAIN-SUFFIX,raizoji.or.jp
    - DOMAIN-SUFFIX,ramcity.com.au
    - DOMAIN-SUFFIX,rangwang.biz
-   - DOMAIN-SUFFIX,rangzen.com
    - DOMAIN-SUFFIX,rangzen.net
    - DOMAIN-SUFFIX,rangzen.org
    - DOMAIN-SUFFIX,ranyunfei.com
@@ -4310,6 +4308,7 @@ payload:
    - DOMAIN-SUFFIX,ss-link.com
    - DOMAIN-SUFFIX,ss.carryzhou.com
    - DOMAIN-SUFFIX,ss.levyhsu.com
+   - DOMAIN-SUFFIX,ss.pythonic.life
    - DOMAIN-SUFFIX,ss7.vzw.com
    - DOMAIN-SUFFIX,ssglobal.me
    - DOMAIN-SUFFIX,ssh91.com
@@ -4688,6 +4687,7 @@ payload:
    - DOMAIN-SUFFIX,ticket.com.tw
    - DOMAIN-SUFFIX,tigervpn.com
    - DOMAIN-SUFFIX,tiktok.com
+   - DOMAIN-SUFFIX,tiktokv.com
    - DOMAIN-SUFFIX,tiltbrush.com
    - DOMAIN-SUFFIX,timdir.com
    - DOMAIN-SUFFIX,time.com
