@@ -3,13 +3,14 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/openai.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/openai.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/openai.yaml
-# Update: Tue Sep  3 04:42:05 CST 2024
+# Update: Wed Sep  4 04:41:54 CST 2024
 payload:
    # ------ openai ------>
    - DOMAIN,openaiapi-site.azureedge.net
    - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
    - DOMAIN,openaicomproductionae4b.blob.core.windows.net
    - DOMAIN,production-openaicom-storage.azureedge.net
+   - DOMAIN-SUFFIX,ai.com
    - DOMAIN-SUFFIX,chatgpt.com
    - DOMAIN-SUFFIX,oaistatic.com
    - DOMAIN-SUFFIX,oaiusercontent.com
