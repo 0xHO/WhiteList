@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Sep  7 04:41:47 CST 2024
+# Update: Sun Sep  8 04:41:57 CST 2024
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1890,6 +1890,239 @@ payload:
    # ------ ziroom ------>
    - DOMAIN-SUFFIX,ziroom.com
    - DOMAIN-SUFFIX,ziroomapartment.com
+   # ------ category-entertainment-cn ------>
+   - DOMAIN-SUFFIX,heavenlywind.cc
+   - DOMAIN-SUFFIX,steampp.net
+   - DOMAIN-SUFFIX,lsplayer.com
+   - DOMAIN-SUFFIX,yeshen.com
+   - DOMAIN-SUFFIX,ledu.com
+   - DOMAIN-SUFFIX,wo1wan.com
+   # ------ 3dm ------>
+   - DOMAIN-SUFFIX,3dmgame.com
+   # ------ 4399 ------>
+   - DOMAIN-SUFFIX,3304399.com
+   - DOMAIN-SUFFIX,3304399.net
+   - DOMAIN-SUFFIX,3839.com
+   - DOMAIN-SUFFIX,3839apk.com
+   - DOMAIN-SUFFIX,3839app.com
+   - DOMAIN-SUFFIX,3839app.net
+   - DOMAIN-SUFFIX,3839img.com
+   - DOMAIN-SUFFIX,3839pay.com
+   - DOMAIN-SUFFIX,3839pic.com
+   - DOMAIN-SUFFIX,3839vc.com
+   - DOMAIN-SUFFIX,3839video.com
+   - DOMAIN-SUFFIX,4399.com
+   - DOMAIN-SUFFIX,4399.net
+   - DOMAIN-SUFFIX,4399api.com
+   - DOMAIN-SUFFIX,4399api.net
+   - DOMAIN-SUFFIX,4399biule.com
+   - DOMAIN-SUFFIX,4399dmw.com
+   - DOMAIN-SUFFIX,4399er.com
+   - DOMAIN-SUFFIX,4399hhh.com
+   - DOMAIN-SUFFIX,4399inc.com
+   - DOMAIN-SUFFIX,4399mail.com
+   - DOMAIN-SUFFIX,4399pk.com
+   - DOMAIN-SUFFIX,4399sj.com
+   - DOMAIN-SUFFIX,4399swf.com
+   - DOMAIN-SUFFIX,4399wanju.com
+   - DOMAIN-SUFFIX,4399youpai.com
+   - DOMAIN-SUFFIX,4399youxi.com
+   - DOMAIN-SUFFIX,4399yyy.com
+   - DOMAIN-SUFFIX,5054399.com
+   - DOMAIN-SUFFIX,5054399.net
+   - DOMAIN-SUFFIX,71acg.com
+   - DOMAIN-SUFFIX,71acg.net
+   - DOMAIN-SUFFIX,appeeres.com
+   - DOMAIN-SUFFIX,bx1k.com
+   - DOMAIN-SUFFIX,edu4399.com
+   - DOMAIN-SUFFIX,funnycore.com
+   - DOMAIN-SUFFIX,guoping123.com
+   - DOMAIN-SUFFIX,i3839.com
+   - DOMAIN-SUFFIX,ihykb.com
+   - DOMAIN-SUFFIX,img4399.com
+   - DOMAIN-SUFFIX,mail4399.com
+   - DOMAIN-SUFFIX,me4399.com
+   - DOMAIN-SUFFIX,my4399.com
+   - DOMAIN-SUFFIX,mysiteres.com
+   - DOMAIN-SUFFIX,nzsiteres.com
+   - DOMAIN-SUFFIX,qq163.com
+   - DOMAIN-SUFFIX,qq163.net
+   - DOMAIN-SUFFIX,tuer123.com
+   - DOMAIN-SUFFIX,wanwan4399.com
+   - DOMAIN-SUFFIX,we4399.com
+   - DOMAIN-SUFFIX,webgame163.com
+   - DOMAIN-SUFFIX,youba.com
+   - DOMAIN-SUFFIX,yxhhdl.com
+   # ------ acfun ------>
+   - DOMAIN-SUFFIX,aixifan.com
+   # ------ acfun-ads ------>
+   # ------ acplay ------>
+   - DOMAIN-SUFFIX,acplay.net
+   - DOMAIN-SUFFIX,dandanplay.com
+   # ------ ali213 ------>
+   - DOMAIN-SUFFIX,ali213.net
+   # ------ bilibili ------>
+   - DOMAIN,manga.bilibili.com
+   - DOMAIN,upos-hz-mirrorakam.akamaized.net
+   - DOMAIN-SUFFIX,bilicomic.com
+   - DOMAIN-SUFFIX,bilicomics.com
+   - DOMAIN-SUFFIX,acg.tv
+   - DOMAIN-SUFFIX,acgvideo.com
+   - DOMAIN-SUFFIX,animetamashi.com
+   - DOMAIN-SUFFIX,anitama.net
+   - DOMAIN-SUFFIX,b23.tv
+   - DOMAIN-SUFFIX,biliapi.com
+   - DOMAIN-SUFFIX,biliapi.net
+   - DOMAIN-SUFFIX,bilibili.cc
+   - DOMAIN-SUFFIX,bilibili.com
+   - DOMAIN-SUFFIX,bilibili.net
+   - DOMAIN-SUFFIX,bilibili.tv
+   - DOMAIN-SUFFIX,bilibilipay.com
+   - DOMAIN-SUFFIX,bilicdn1.com
+   - DOMAIN-SUFFIX,bilicdn2.com
+   - DOMAIN-SUFFIX,bilicdn3.com
+   - DOMAIN-SUFFIX,bilicdn4.com
+   - DOMAIN-SUFFIX,bilicdn5.com
+   - DOMAIN-SUFFIX,biligo.com
+   - DOMAIN-SUFFIX,biliimg.com
+   - DOMAIN-SUFFIX,biliintl.com
+   - DOMAIN-SUFFIX,bilivideo.com
+   - DOMAIN-SUFFIX,bilivideo.net
+   - DOMAIN-SUFFIX,dreamcast.hk
+   - DOMAIN-SUFFIX,hdslb.com
+   - DOMAIN-SUFFIX,hdslb.org
+   - DOMAIN-SUFFIX,im9.com
+   - DOMAIN-SUFFIX,maoercdn.com
+   - DOMAIN-SUFFIX,mincdn.com
+   - DOMAIN-SUFFIX,yo9.com
+   # ------ bilibili-game ------>
+   # ------ ciweimao ------>
+   - DOMAIN-SUFFIX,ciweimao.com
+   - DOMAIN-SUFFIX,hbooker.com
+   - DOMAIN-SUFFIX,kuangxiangit.com
+   # ------ cowlevel ------>
+   - DOMAIN-SUFFIX,cowlevel.net
+   - DOMAIN-SUFFIX,cdncl.net
+   # ------ dedao ------>
+   - DOMAIN-SUFFIX,biji.com
+   - DOMAIN-SUFFIX,ddmogo.com
+   - DOMAIN-SUFFIX,igetget.com
+   - DOMAIN-SUFFIX,luojilab.com
+   - DOMAIN-SUFFIX,mogoo.com
+   - DOMAIN-SUFFIX,saolife.com
+   # ------ dmzj ------>
+   - DOMAIN-SUFFIX,dmzj.com
+   # ------ douyu ------>
+   - DOMAIN-SUFFIX,douyu.com
+   - DOMAIN-SUFFIX,douyu.tv
+   - DOMAIN-SUFFIX,douyuscdn.com
+   - DOMAIN-SUFFIX,douyutv.com
+   # ------ duitang ------>
+   - DOMAIN-SUFFIX,dtstatic.com
+   - DOMAIN-SUFFIX,duitang.com
+   # ------ gamersky ------>
+   - DOMAIN-SUFFIX,gamersky.com
+   # ------ gcores ------>
+   - DOMAIN-SUFFIX,gcores.com
+   # ------ gitv ------>
+   - DOMAIN-SUFFIX,gitv.tv
+   # ------ huya ------>
+   - DOMAIN-SUFFIX,huya.com
+   - DOMAIN-SUFFIX,msstatic.com
+   # ------ iqiyi ------>
+   - DOMAIN-SUFFIX,71.am
+   - DOMAIN-SUFFIX,iq.com
+   - DOMAIN-SUFFIX,iqiyi.com
+   - DOMAIN-SUFFIX,iqiyipic.com
+   - DOMAIN-SUFFIX,pps.tv
+   - DOMAIN-SUFFIX,ppsimg.com
+   - DOMAIN-SUFFIX,qiyi.com
+   - DOMAIN-SUFFIX,qiyipic.com
+   - DOMAIN-SUFFIX,qy.net
+   - DOMAIN-SUFFIX,71edge.com
+   # ------ iqiyi-ads ------>
+   # ------ jinjiang ------>
+   - DOMAIN-SUFFIX,jjwxc.net
+   # ------ ku6 ------>
+   - DOMAIN-SUFFIX,ku6.com
+   - DOMAIN-SUFFIX,ku6cdn.com
+   - DOMAIN-SUFFIX,ku6img.com
+   # ------ kuaikan ------>
+   - DOMAIN-SUFFIX,kkmh.com
+   - DOMAIN-SUFFIX,kuaikanmanhua.com
+   # ------ kuaishou ------>
+   - DOMAIN-SUFFIX,gifshow.com
+   - DOMAIN-SUFFIX,inkwai.com
+   - DOMAIN-SUFFIX,ksapisrv.com
+   - DOMAIN-SUFFIX,kuaishou.com
+   - DOMAIN-SUFFIX,kwaizt.com
+   - DOMAIN-SUFFIX,kuaishouzt.com
+   - DOMAIN-SUFFIX,kwimgs.com
+   - DOMAIN-SUFFIX,yximgs.com
+   # ------ kuaishou-ads ------>
+   # ------ kugou ------>
+   - DOMAIN-SUFFIX,kgimg.com
+   - DOMAIN-SUFFIX,kugou.com
+   # ------ le ------>
+   - DOMAIN-SUFFIX,le.com
+   - DOMAIN-SUFFIX,lecloud.com
+   - DOMAIN-SUFFIX,lemall.com
+   - DOMAIN-SUFFIX,letv.com
+   - DOMAIN-SUFFIX,letvcdn.com
+   - DOMAIN-SUFFIX,letvimg.com
+   # ------ lizhi ------>
+   - DOMAIN-SUFFIX,lizhi.fm
+   - DOMAIN-SUFFIX,lizhifm.com
+   # ------ mfuns ------>
+   # ------ miaopai ------>
+   - DOMAIN-SUFFIX,miaopai.com
+   # ------ mihoyo-cn ------>
+   # ------ muwai ------>
+   - DOMAIN-SUFFIX,muwai.com
+   # ------ pptv ------>
+   - DOMAIN-SUFFIX,pplive.com
+   - DOMAIN-SUFFIX,pptv.com
+   # ------ qingtingfm ------>
+   - DOMAIN-SUFFIX,qingting.fm
+   # ------ sfacg ------>
+   - DOMAIN-SUFFIX,sfacg.com
+   # ------ taomee ------>
+   - DOMAIN-SUFFIX,61.com
+   - DOMAIN-SUFFIX,taomee.com
+   # ------ tgbus ------>
+   - DOMAIN-SUFFIX,tgbus.com
+   # ------ tiancity ------>
+   - DOMAIN-SUFFIX,tiancity.com
+   - DOMAIN-SUFFIX,tiancitycdn.com
+   # ------ u17 ------>
+   - DOMAIN-SUFFIX,u17.com
+   - DOMAIN-SUFFIX,u17i.com
+   - DOMAIN-SUFFIX,u17t.com
+   # ------ vgtime ------>
+   - DOMAIN-SUFFIX,vgtime.com
+   # ------ xd ------>
+   - DOMAIN-SUFFIX,ro.com
+   - DOMAIN-SUFFIX,xd.com
+   - DOMAIN-SUFFIX,xdcdn.net
+   - DOMAIN-SUFFIX,xindong.com
+   # ------ taptap ------>
+   - DOMAIN-SUFFIX,tapimg.com
+   - DOMAIN-SUFFIX,tapimg.net
+   - DOMAIN-SUFFIX,taptap.com
+   - DOMAIN-SUFFIX,taptap.io
+   - DOMAIN-SUFFIX,taptapdada.com
+   # ------ ximalaya ------>
+   - DOMAIN-SUFFIX,ximalaya.com
+   - DOMAIN-SUFFIX,xmcdn.com
+   # ------ youku ------>
+   - DOMAIN-SUFFIX,kumiao.com
+   - DOMAIN-SUFFIX,youku.com
+   - DOMAIN-SUFFIX,ykimg.com
+   - DOMAIN-SUFFIX,mmstat.com
+   - DOMAIN-SUFFIX,soku.com
+   - DOMAIN-SUFFIX,cibntv.net
+   # ------ zhanqi ------>
+   - DOMAIN-SUFFIX,zhanqi.tv
    # ------ chiphell ------>
    - DOMAIN-SUFFIX,chiphell.com
    # ------ erji ------>
