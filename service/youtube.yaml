@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/youtube.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/youtube.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/youtube.yaml
-# Update: Sun Sep 15 04:41:53 CST 2024
+# Update: Mon Sep 16 04:41:58 CST 2024
 payload:
    # ------ youtube ------>
    - DOMAIN-SUFFIX,youtube
