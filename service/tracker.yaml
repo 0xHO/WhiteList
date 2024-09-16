@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/category-public-tracker.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/category-public-tracker.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/category-public-tracker.yaml
-# Update: Mon Sep 16 04:41:58 CST 2024
+# Update: Tue Sep 17 04:42:03 CST 2024
 payload:
    # ------ category-public-tracker ------>
    - DOMAIN,10.rarbg.com
