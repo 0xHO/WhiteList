@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-09-17 04:41:50
+# Update: 2024-09-18 04:41:37
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -3592,6 +3592,7 @@ payload:
    - DOMAIN-SUFFIX,partypoker.com
    - DOMAIN-SUFFIX,passion.com
    - DOMAIN-SUFFIX,passiontimes.hk
+   - DOMAIN-SUFFIX,passwords.google
    - DOMAIN-SUFFIX,paste.ee
    - DOMAIN-SUFFIX,pastebin.com
    - DOMAIN-SUFFIX,pastie.org
