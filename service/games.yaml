@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Fri Sep 27 04:42:29 CST 2024
+# Update: Sat Sep 28 04:42:08 CST 2024
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,dodi-repacks.download
