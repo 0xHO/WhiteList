@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2024-10-07 04:41:40
+# Update: 2024-10-08 04:43:20
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1512,6 +1512,7 @@ payload:
    - DOMAIN-SUFFIX,fa.gov.tw
    - DOMAIN-SUFFIX,facebook.br
    - DOMAIN-SUFFIX,facebook.com
+   - DOMAIN-SUFFIX,facebook.de
    - DOMAIN-SUFFIX,facebook.design
    - DOMAIN-SUFFIX,facebook.hu
    - DOMAIN-SUFFIX,facebook.in
@@ -3024,6 +3025,7 @@ payload:
    - DOMAIN-SUFFIX,merit-times.com.tw
    - DOMAIN-SUFFIX,meshrep.com
    - DOMAIN-SUFFIX,messenger.com
+   - DOMAIN-SUFFIX,meta.com
    - DOMAIN-SUFFIX,metafilter.com
    - DOMAIN-SUFFIX,metart.com
    - DOMAIN-SUFFIX,metarthunter.com
@@ -4751,6 +4753,7 @@ payload:
    - DOMAIN-SUFFIX,torrentprivacy.com
    - DOMAIN-SUFFIX,torrenty.org
    - DOMAIN-SUFFIX,torrentz.eu
+   - DOMAIN-SUFFIX,tortoisesvn.net
    - DOMAIN-SUFFIX,torvpn.com
    - DOMAIN-SUFFIX,totalvpn.com
    - DOMAIN-SUFFIX,toutiaoabc.com

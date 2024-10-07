@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/github.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
-# Update: Mon Oct  7 04:41:53 CST 2024
+# Update: Tue Oct  8 04:43:33 CST 2024
 payload:
    # ------ github ------>
    - DOMAIN,github-cloud.s3.amazonaws.com
@@ -18,6 +18,7 @@ payload:
    - DOMAIN-SUFFIX,github.io
    - DOMAIN-SUFFIX,githubapp.com
    - DOMAIN-SUFFIX,githubassets.com
+   - DOMAIN-SUFFIX,githubcopilot.com
    - DOMAIN-SUFFIX,githubhackathon.com
    - DOMAIN-SUFFIX,githubnext.com
    - DOMAIN-SUFFIX,githubpreview.dev
