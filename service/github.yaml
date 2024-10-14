@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/github.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
-# Update: Mon Oct 14 04:42:00 CST 2024
+# Update: Tue Oct 15 04:42:44 CST 2024
 payload:
    # ------ github ------>
    - DOMAIN,github-cloud.s3.amazonaws.com
