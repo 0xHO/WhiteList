@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Mon Nov  4 04:41:44 CST 2024
+# Update: Tue Nov  5 04:42:35 CST 2024
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,dodi-repacks.download
@@ -519,6 +519,7 @@ payload:
    - DOMAIN,steamvideo-a.akamaihd.net
    - DOMAIN-SUFFIX,playartifact.com
    - DOMAIN-SUFFIX,s.team
+   - DOMAIN-SUFFIX,steam.tv
    - DOMAIN-SUFFIX,steam-api.com
    - DOMAIN-SUFFIX,steam-chat.com
    - DOMAIN-SUFFIX,steamcommunity.com
