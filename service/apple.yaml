@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Mon Nov 11 04:41:45 CST 2024
+# Update: Tue Nov 12 04:42:04 CST 2024
 payload:
    # ------ apple ------>
    - DOMAIN,apple.com.akadns.net
@@ -660,6 +660,8 @@ payload:
    - DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
    # ------ apple-ads ------>
    # ------ apple-dev ------>
+   - DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
+   - DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
    - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
    - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
    - DOMAIN,p-events-delivery.akamaized.net
@@ -669,6 +671,8 @@ payload:
    - DOMAIN-SUFFIX,developer.apple.com
    - DOMAIN-SUFFIX,devimages-cdn.apple.com
    - DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+   - DOMAIN-SUFFIX,developerservices2.apple.com
+   - DOMAIN-SUFFIX,timestamp.apple.com
    - DOMAIN-SUFFIX,foundationdb.org
    - DOMAIN-SUFFIX,macosforge.org
    - DOMAIN-SUFFIX,macruby.com
