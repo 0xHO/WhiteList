@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Tue Nov 12 04:42:04 CST 2024
+# Update: Wed Nov 13 04:42:08 CST 2024
 payload:
    # ------ apple ------>
    - DOMAIN,apple.com.akadns.net
@@ -1430,6 +1430,7 @@ payload:
    - DOMAIN-SUFFIX,applemx-icloud.com
    - DOMAIN-SUFFIX,icloud-content.com
    - DOMAIN-SUFFIX,icloud-isupport.com
+   - DOMAIN-SUFFIX,icloud-sandbox.com
    - DOMAIN-SUFFIX,icloud.ch
    - DOMAIN-SUFFIX,icloud.com
    - DOMAIN-SUFFIX,icloud.de
@@ -1529,6 +1530,7 @@ payload:
    - DOMAIN-SUFFIX,applemx-icloud.com
    - DOMAIN-SUFFIX,icloud-content.com
    - DOMAIN-SUFFIX,icloud-isupport.com
+   - DOMAIN-SUFFIX,icloud-sandbox.com
    - DOMAIN-SUFFIX,icloud.ch
    - DOMAIN-SUFFIX,icloud.com
    - DOMAIN-SUFFIX,icloud.de
