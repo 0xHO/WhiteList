@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/openai.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/openai.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/openai.yaml
-# Update: Thu Dec 19 04:43:41 CST 2024
+# Update: Fri Dec 20 04:42:28 CST 2024
 payload:
    # ------ openai ------>
    - DOMAIN,openaiapi-site.azureedge.net
