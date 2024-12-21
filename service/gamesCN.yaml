@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Sat Dec 21 04:41:36 CST 2024
+# Update: Sun Dec 22 04:41:46 CST 2024
 payload:
    # ------ category-games ------>
    # ------ 2kgames ------>
@@ -64,6 +64,7 @@ payload:
    # ------ purikonejp ------>
    # ------ riot ------>
    # ------ rockstar ------>
+   # ------ snk ------>
    # ------ steam ------>
    - DOMAIN,xz.pphimalayanrt.com
    - DOMAIN-SUFFIX,wmsjsteam.com
@@ -77,6 +78,7 @@ payload:
    - DOMAIN-SUFFIX,steamstatic.com.8686c.com
    - DOMAIN-SUFFIX,steamchina.com
    # ------ steamunlocked ------>
+   # ------ supercell ------>
    # ------ tencent-games ------>
    - DOMAIN-SUFFIX,battlecare.net
    - DOMAIN-SUFFIX,gameitop.com

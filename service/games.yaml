@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sat Dec 21 04:41:36 CST 2024
+# Update: Sun Dec 22 04:41:46 CST 2024
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,dodi-repacks.download
@@ -244,6 +244,7 @@ payload:
    - DOMAIN-SUFFIX,easyanticheat.net
    - DOMAIN-SUFFIX,epicgames.com
    - DOMAIN-SUFFIX,epicgames.dev
+   - DOMAIN-SUFFIX,epicgamescdn.com
    - DOMAIN-SUFFIX,fortnite.com
    - DOMAIN-SUFFIX,paragon.com
    - DOMAIN-SUFFIX,playparagon.com
@@ -504,6 +505,9 @@ payload:
    - DOMAIN,videos-rockstargames-com.akamaized.net
    - DOMAIN-SUFFIX,rockstargames.com
    - DOMAIN-SUFFIX,rsg.sc
+   # ------ snk ------>
+   - DOMAIN-SUFFIX,snk-corp.co.jp
+   - DOMAIN-SUFFIX,snkplaymore.info
    # ------ steam ------>
    - DOMAIN,f3b7q2p3.ssl.hwcdn.net
    - DOMAIN,steambroadcast.akamaized.net
@@ -543,6 +547,10 @@ payload:
    - DOMAIN-SUFFIX,steam.cdn.webra.ru
    # ------ steamunlocked ------>
    - DOMAIN-SUFFIX,steamunlocked.net
+   # ------ supercell ------>
+   - DOMAIN-SUFFIX,supercell.com
+   - DOMAIN-SUFFIX,supercell.net
+   - DOMAIN-SUFFIX,supercell.helpshift.com
    # ------ tencent-games ------>
    - DOMAIN-SUFFIX,supercell.com
    # ------ ubisoft ------>
