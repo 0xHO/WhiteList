@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-01-04 04:41:51
+# Update: 2025-01-05 04:41:38
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1003,6 +1003,7 @@ payload:
    - DOMAIN-SUFFIX,cna.com.tw
    - DOMAIN-SUFFIX,cnabc.com
    - DOMAIN-SUFFIX,cnbbnews.wordpress.com
+   - DOMAIN-SUFFIX,cnbeta.com.tw
    - DOMAIN-SUFFIX,cnd.org
    - DOMAIN-SUFFIX,cnex.org.cn
    - DOMAIN-SUFFIX,cnineu.com
