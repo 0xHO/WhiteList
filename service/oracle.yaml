@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/oracle.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/oracle.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/oracle.yaml
-# Update: Wed Jan  8 04:42:07 CST 2025
+# Update: Thu Jan  9 04:42:23 CST 2025
 payload:
    # ------ oracle ------>
    - DOMAIN-SUFFIX,oracle
