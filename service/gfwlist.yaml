@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-01-25 04:41:41
+# Update: 2025-01-26 04:41:33
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -97,7 +97,6 @@ payload:
    - DOMAIN-SUFFIX,5isotoi5.org
    - DOMAIN-SUFFIX,5maodang.com
    - DOMAIN-SUFFIX,63i.com
-   - DOMAIN-SUFFIX,64memo
    - DOMAIN-SUFFIX,64museum.org
    - DOMAIN-SUFFIX,64tianwang.com
    - DOMAIN-SUFFIX,64wiki.com
@@ -138,7 +137,6 @@ payload:
    - DOMAIN-SUFFIX,a-normal-day.com
    - DOMAIN-SUFFIX,a248.e.akamai.net
    - DOMAIN-SUFFIX,a5.com.ru
-   - DOMAIN-SUFFIX,aHR0cHM6Ly95ZWNsLm5ldA
    - DOMAIN-SUFFIX,abc.com
    - DOMAIN-SUFFIX,abc.net.au
    - DOMAIN-SUFFIX,abc.pp.ru
@@ -694,6 +692,7 @@ payload:
    - DOMAIN-SUFFIX,btctrade.im
    - DOMAIN-SUFFIX,btdig.com
    - DOMAIN-SUFFIX,btdigg.org
+   - DOMAIN-SUFFIX,btguard.com
    - DOMAIN-SUFFIX,btku.me
    - DOMAIN-SUFFIX,btku.org
    - DOMAIN-SUFFIX,btspread.com
@@ -1280,6 +1279,7 @@ payload:
    - DOMAIN-SUFFIX,dlsite.com
    - DOMAIN-SUFFIX,dlyoutube.com
    - DOMAIN-SUFFIX,dm530.net
+   - DOMAIN-SUFFIX,dma.mil
    - DOMAIN-SUFFIX,dmc.nico
    - DOMAIN-SUFFIX,dmcdn.net
    - DOMAIN-SUFFIX,dmhy.org
@@ -1772,7 +1772,6 @@ payload:
    - DOMAIN-SUFFIX,freeman2.com
    - DOMAIN-SUFFIX,freemoren.com
    - DOMAIN-SUFFIX,freemorenews.com
-   - DOMAIN-SUFFIX,freenet
    - DOMAIN-SUFFIX,freenet-china.org
    - DOMAIN-SUFFIX,freenetproject.org
    - DOMAIN-SUFFIX,freenewscn.com
@@ -2094,7 +2093,7 @@ payload:
    - DOMAIN-SUFFIX,googlepagecreator.com
    - DOMAIN-SUFFIX,googleplay.com
    - DOMAIN-SUFFIX,googleplus.com
-   - DOMAIN-SUFFIX,googlescholar.comUSA
+   - DOMAIN-SUFFIX,googlescholar.com
    - DOMAIN-SUFFIX,googlesile.com
    - DOMAIN-SUFFIX,googlesource.com
    - DOMAIN-SUFFIX,googleusercontent.com
@@ -2631,7 +2630,6 @@ payload:
    - DOMAIN-SUFFIX,izles.net
    - DOMAIN-SUFFIX,izlesem.org
    - DOMAIN-SUFFIX,j.mp
-   - DOMAIN-SUFFIX,ja.wikipedia.org
    - DOMAIN-SUFFIX,jable.tv
    - DOMAIN-SUFFIX,jamaat.org
    - DOMAIN-SUFFIX,jamestown.org
@@ -4007,7 +4005,6 @@ payload:
    - DOMAIN-SUFFIX,releaseinternational.org
    - DOMAIN-SUFFIX,religionnews.com
    - DOMAIN-SUFFIX,religioustolerance.org
-   - DOMAIN-SUFFIX,remembering_tiananmen_20_years
    - DOMAIN-SUFFIX,renminbao.com
    - DOMAIN-SUFFIX,renyurenquan.org
    - DOMAIN-SUFFIX,research.google
@@ -5050,6 +5047,7 @@ payload:
    - DOMAIN-SUFFIX,typora.io
    - DOMAIN-SUFFIX,u15.info
    - DOMAIN-SUFFIX,u9un.com
+   - DOMAIN-SUFFIX,ua5v.com
    - DOMAIN-SUFFIX,ubddns.org
    - DOMAIN-SUFFIX,uberproxy.net
    - DOMAIN-SUFFIX,uc-japan.org
@@ -5070,8 +5068,8 @@ payload:
    - DOMAIN-SUFFIX,uku.im
    - DOMAIN-SUFFIX,ulike.net
    - DOMAIN-SUFFIX,ulop.net
-   - DOMAIN-SUFFIX,ultrareach
-   - DOMAIN-SUFFIX,ultrasurf
+   - DOMAIN-SUFFIX,ultrasurf.us
+   - DOMAIN-SUFFIX,ultravpn.com
    - DOMAIN-SUFFIX,ultravpn.fr
    - DOMAIN-SUFFIX,ultraxs.com
    - DOMAIN-SUFFIX,unblock-us.com
@@ -5117,6 +5115,7 @@ payload:
    - DOMAIN-SUFFIX,usacn.com
    - DOMAIN-SUFFIX,usaip.eu
    - DOMAIN-SUFFIX,uscardforum.com
+   - DOMAIN-SUFFIX,uscg.mil
    - DOMAIN-SUFFIX,uscnpm.org
    - DOMAIN-SUFFIX,userapi.nytlog.com
    - DOMAIN-SUFFIX,usercontent.goog
@@ -5269,6 +5268,7 @@ payload:
    - DOMAIN-SUFFIX,vpnpick.com
    - DOMAIN-SUFFIX,vpnpop.com
    - DOMAIN-SUFFIX,vpnpronet.com
+   - DOMAIN-SUFFIX,vpnproxymaster.com
    - DOMAIN-SUFFIX,vpnreactor.com
    - DOMAIN-SUFFIX,vpnreviewz.com
    - DOMAIN-SUFFIX,vpnsecure.me
@@ -5403,6 +5403,8 @@ payload:
    - DOMAIN-SUFFIX,wiki.jqueryui.com
    - DOMAIN-SUFFIX,wiki.oauth.net
    - DOMAIN-SUFFIX,wiki.phonegap.com
+   - DOMAIN-SUFFIX,wikibooks.org
+   - DOMAIN-SUFFIX,wikidata.org
    - DOMAIN-SUFFIX,wikileaks-forum.com
    - DOMAIN-SUFFIX,wikileaks.ch
    - DOMAIN-SUFFIX,wikileaks.com
@@ -5414,8 +5416,11 @@ payload:
    - DOMAIN-SUFFIX,wikimapia.org
    - DOMAIN-SUFFIX,wikimedia.org
    - DOMAIN-SUFFIX,wikipedia.org
+   - DOMAIN-SUFFIX,wikiversity.org
+   - DOMAIN-SUFFIX,wikivoyage.org
    - DOMAIN-SUFFIX,wikiwand.com
    - DOMAIN-SUFFIX,wikiwiki.jp
+   - DOMAIN-SUFFIX,wiktionary.org
    - DOMAIN-SUFFIX,wildammo.com
    - DOMAIN-SUFFIX,williamhill.com
    - DOMAIN-SUFFIX,willw.net
@@ -5440,6 +5445,7 @@ payload:
    - DOMAIN-SUFFIX,wlcnew.jigsy.com
    - DOMAIN-SUFFIX,wlx.sowiki.net
    - DOMAIN-SUFFIX,wmflabs.org
+   - DOMAIN-SUFFIX,wmfusercontent.org
    - DOMAIN-SUFFIX,wn.com
    - DOMAIN-SUFFIX,wnacg.com
    - DOMAIN-SUFFIX,wnacg.org
@@ -5614,6 +5620,7 @@ payload:
    - DOMAIN-SUFFIX,yanghengjun.com
    - DOMAIN-SUFFIX,yangjianli.com
    - DOMAIN-SUFFIX,yasni.co.uk
+   - DOMAIN-SUFFIX,yasukuni.or.jp
    - DOMAIN-SUFFIX,ydy.com
    - DOMAIN-SUFFIX,yeahteentube.com
    - DOMAIN-SUFFIX,yecl.net
@@ -5681,6 +5688,7 @@ payload:
    - DOMAIN-SUFFIX,yuanzhengtang.org
    - DOMAIN-SUFFIX,yulghun.com
    - DOMAIN-SUFFIX,yunchao.net
+   - DOMAIN-SUFFIX,yunomi.tokyo
    - DOMAIN-SUFFIX,yuvutu.com
    - DOMAIN-SUFFIX,yvesgeleyn.com
    - DOMAIN-SUFFIX,yx51.net
