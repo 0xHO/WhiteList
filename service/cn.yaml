@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Feb  6 04:42:37 CST 2025
+# Update: Fri Feb  7 04:42:02 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3697,12 +3697,15 @@ payload:
    - DOMAIN-SUFFIX,tiktokcdn.com
    - DOMAIN-SUFFIX,tiktokd.net
    - DOMAIN-SUFFIX,tiktokd.org
+   - DOMAIN-SUFFIX,tiktokeu-cdn.com
+   - DOMAIN-SUFFIX,tiktokrow-cdn.com
    - DOMAIN-SUFFIX,tiktokv.com
    - DOMAIN-SUFFIX,tiktokv.eu
    - DOMAIN-SUFFIX,tiktokv.us
    - DOMAIN-SUFFIX,tiktokw.eu
    - DOMAIN-SUFFIX,tiktokw.us
    - DOMAIN-SUFFIX,ttlivecdn.com
+   - DOMAIN-SUFFIX,ttoverseaus.net
    - DOMAIN-SUFFIX,ttwstatic.com
    # ------ bytedance-ads ------>
    # ------ volcengine ------>
