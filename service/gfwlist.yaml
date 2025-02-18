@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-02-18 04:41:32
+# Update: 2025-02-19 04:41:34
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -96,6 +96,7 @@ payload:
    - DOMAIN-SUFFIX,5i01.com
    - DOMAIN-SUFFIX,5isotoi5.org
    - DOMAIN-SUFFIX,5maodang.com
+   - DOMAIN-SUFFIX,611study.icu
    - DOMAIN-SUFFIX,63i.com
    - DOMAIN-SUFFIX,64museum.org
    - DOMAIN-SUFFIX,64tianwang.com
@@ -3368,6 +3369,7 @@ payload:
    - DOMAIN-SUFFIX,news.singtao.ca
    - DOMAIN-SUFFIX,news.tvbs.com.tw
    - DOMAIN-SUFFIX,news.ycombinator.com
+   - DOMAIN-SUFFIX,news1.kr
    - DOMAIN-SUFFIX,news100.com.tw
    - DOMAIN-SUFFIX,newsancai.com
    - DOMAIN-SUFFIX,newsblur.com
@@ -3723,6 +3725,7 @@ payload:
    - DOMAIN-SUFFIX,picasaweb.com
    - DOMAIN-SUFFIX,picidae.net
    - DOMAIN-SUFFIX,picturesocial.com
+   - DOMAIN-SUFFIX,picuki.com
    - DOMAIN-SUFFIX,pigav.com
    - DOMAIN-SUFFIX,pin-cong.com
    - DOMAIN-SUFFIX,pin6.com
