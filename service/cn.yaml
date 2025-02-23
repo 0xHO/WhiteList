@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Feb 23 04:41:59 CST 2025
+# Update: Mon Feb 24 04:41:53 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -52,7 +52,6 @@ payload:
    - DOMAIN-SUFFIX,ezpro.pro
    - DOMAIN-SUFFIX,guoxuedashi.com
    - DOMAIN-SUFFIX,guoxuemi.com
-   - DOMAIN-SUFFIX,mojidict.com
    - DOMAIN-SUFFIX,winos.me
    - DOMAIN-SUFFIX,upe.net
    - DOMAIN-SUFFIX,suzuki-china.com
@@ -1125,6 +1124,18 @@ payload:
    - DOMAIN-SUFFIX,jslife.net
    - DOMAIN-SUFFIX,nanhaicorp.com
    - DOMAIN-SUFFIX,fanmingming.com
+   - DOMAIN-SUFFIX,guoocang.com
+   - DOMAIN-SUFFIX,kuajing84.com
+   - DOMAIN-SUFFIX,ozonbigsell.com
+   - DOMAIN-SUFFIX,ozonabc.com
+   - DOMAIN-SUFFIX,qingping.co
+   - DOMAIN-SUFFIX,cleargrass.com
+   - DOMAIN-SUFFIX,bdmozon.com
+   - DOMAIN-SUFFIX,51selling.com
+   - DOMAIN-SUFFIX,ruseer.com
+   - DOMAIN-SUFFIX,bdmozon.com
+   - DOMAIN-SUFFIX,bdcat.top
+   - DOMAIN-SUFFIX,ningtingche.com
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -1153,6 +1164,8 @@ payload:
    - DOMAIN-SUFFIX,hunyuan.tencent.com
    - DOMAIN-SUFFIX,baichuan-ai.com
    - DOMAIN-SUFFIX,liblib.art
+   # ------ deepseek ------>
+   - DOMAIN-SUFFIX,deepseek.com
    # ------ airchina ------>
    - DOMAIN-SUFFIX,airchinacargo.com
    # ------ hainanairlines ------>
@@ -1234,6 +1247,7 @@ payload:
    - DOMAIN-SUFFIX,cmf.ltd
    - DOMAIN-SUFFIX,cmfchina.com
    - DOMAIN-SUFFIX,test-cignacmb.com
+   - DOMAIN-SUFFIX,joying.com
    # ------ hsbc-cn ------>
    # ------ icbc ------>
    - DOMAIN-SUFFIX,icbc
@@ -1974,6 +1988,9 @@ payload:
    - DOMAIN-SUFFIX,dandanplay.com
    # ------ ali213 ------>
    - DOMAIN-SUFFIX,ali213.net
+   # ------ bestv ------>
+   - DOMAIN-SUFFIX,bestvcdn.com
+   - DOMAIN-SUFFIX,bestvcdn.net
    # ------ bilibili ------>
    - DOMAIN,manga.bilibili.com
    - DOMAIN,upos-hz-mirrorakam.akamaized.net
@@ -2179,6 +2196,10 @@ payload:
    - DOMAIN-SUFFIX,u17t.com
    # ------ vgtime ------>
    - DOMAIN-SUFFIX,vgtime.com
+   # ------ wasu ------>
+   - DOMAIN-SUFFIX,hzdtv.tv
+   - DOMAIN-SUFFIX,hzman.net
+   - DOMAIN-SUFFIX,wasu.tv
    # ------ xd ------>
    - DOMAIN-SUFFIX,ro.com
    - DOMAIN-SUFFIX,xd.com
@@ -2463,6 +2484,10 @@ payload:
    # ------ applysquare ------>
    - DOMAIN-SUFFIX,applysquare.com
    - DOMAIN-SUFFIX,applysquare.net
+   # ------ hugecore ------>
+   - DOMAIN-SUFFIX,hugecore.net
+   - DOMAIN-SUFFIX,shareintelli.com
+   - DOMAIN-SUFFIX,mojidict.com
    # ------ hujiang ------>
    - DOMAIN-SUFFIX,cctalk.com
    - DOMAIN-SUFFIX,hjapi.com
@@ -2954,6 +2979,7 @@ payload:
    - DOMAIN-SUFFIX,alimama.com
    - DOMAIN-SUFFIX,alimebot.com
    - DOMAIN-SUFFIX,alimei.com
+   - DOMAIN-SUFFIX,alimmdn.com
    - DOMAIN-SUFFIX,alipay.com
    - DOMAIN-SUFFIX,alipaydns.com
    - DOMAIN-SUFFIX,alipaylog.com
@@ -4222,6 +4248,16 @@ payload:
    - DOMAIN-SUFFIX,75team.com
    - DOMAIN-SUFFIX,baomitu.com
    # ------ qihoo360-ads ------>
+   # ------ starworld ------>
+   - DOMAIN-SUFFIX,360-g.net
+   - DOMAIN-SUFFIX,360-game.net
+   - DOMAIN-SUFFIX,qikoo.com
+   - DOMAIN-SUFFIX,qiku.com
+   - DOMAIN-SUFFIX,qikucdn.com
+   - DOMAIN-SUFFIX,starworldgames.com
+   - DOMAIN-SUFFIX,woxihuan.com
+   - DOMAIN-SUFFIX,wztsy.com
+   - DOMAIN-SUFFIX,yiwanzhushou.com
    # ------ sina ------>
    - DOMAIN-SUFFIX,97973.com
    - DOMAIN-SUFFIX,hk.weibo.com
@@ -4355,6 +4391,7 @@ payload:
    - DOMAIN-SUFFIX,hr-welink.com
    - DOMAIN-SUFFIX,idcgcloudcs.com
    - DOMAIN-SUFFIX,iemiq.com
+   - DOMAIN-SUFFIX,igtm-meeting-tencent.com
    - DOMAIN-SUFFIX,igtm.pub
    - DOMAIN-SUFFIX,intltencentcos.com
    - DOMAIN-SUFFIX,isd.com
@@ -4567,6 +4604,7 @@ payload:
    - DOMAIN-SUFFIX,tongfangpc.com
    - DOMAIN-SUFFIX,mechrevo.com
    # ------ vivo ------>
+   - DOMAIN-SUFFIX,iqoo.com
    - DOMAIN-SUFFIX,vivo.com
    - DOMAIN-SUFFIX,vivoglobal.com
    # ------ xiaomi ------>
@@ -4574,14 +4612,28 @@ payload:
    - DOMAIN-SUFFIX,mi.com
    - DOMAIN-SUFFIX,migames.com
    - DOMAIN-SUFFIX,mijia.tech
+   - DOMAIN-SUFFIX,mipay.com
    - DOMAIN-SUFFIX,miui.com
    - DOMAIN-SUFFIX,miwifi.com
    - DOMAIN-SUFFIX,xiaomi.com
    - DOMAIN-SUFFIX,xiaomi.net
    - DOMAIN-SUFFIX,xiaomiev.com
+   - DOMAIN-SUFFIX,xiaomicp.com
+   - DOMAIN-SUFFIX,xiaomidns.com
+   - DOMAIN-SUFFIX,xiaomidns.net
+   - DOMAIN-SUFFIX,xiaomiev.com
+   - DOMAIN-SUFFIX,xiaomiinc.com
+   - DOMAIN-SUFFIX,xiaomiinc.net
    - DOMAIN-SUFFIX,xiaomimobile.com
+   - DOMAIN-SUFFIX,xiaominr.com
+   - DOMAIN-SUFFIX,xiaomiprint.com
+   - DOMAIN-SUFFIX,xiaomisa.com
+   - DOMAIN-SUFFIX,xiaomisa.net
+   - DOMAIN-SUFFIX,xiaomisa.org
+   - DOMAIN-SUFFIX,xiaomiwear.com
    - DOMAIN-SUFFIX,xiaomixiaoai.com
    - DOMAIN-SUFFIX,duokan.com
+   - DOMAIN-SUFFIX,duokanbox.com
    - DOMAIN-SUFFIX,xiaomiyoupin.com
    - DOMAIN-SUFFIX,zmifi.com
    - DOMAIN-SUFFIX,saxyit.com

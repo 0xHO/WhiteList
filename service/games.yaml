@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sun Feb 23 04:41:58 CST 2025
+# Update: Mon Feb 24 04:41:52 CST 2025
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,dodi-repacks.download
@@ -253,6 +253,10 @@ payload:
    - DOMAIN-SUFFIX,spyjinx.com
    - DOMAIN-SUFFIX,unrealengine.com
    - DOMAIN-SUFFIX,unrealtournament.com
+   # ------ escapefromtarkov ------>
+   - DOMAIN-SUFFIX,tarkov.com
+   - DOMAIN-SUFFIX,eft-store.com
+   - DOMAIN-SUFFIX,escapefromtarkov.com
    # ------ garena ------>
    - DOMAIN,avatargarenanow-a.akamaihd.net
    - DOMAIN,cdngarenanow-a.akamaihd.net

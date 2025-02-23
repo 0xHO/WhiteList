@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Sun Feb 23 04:41:58 CST 2025
+# Update: Mon Feb 24 04:41:52 CST 2025
 payload:
    # ------ category-games ------>
    # ------ 2kgames ------>
@@ -22,6 +22,7 @@ payload:
    # ------ ea ------>
    # ------ origin ------>
    # ------ epicgames ------>
+   # ------ escapefromtarkov ------>
    # ------ garena ------>
    # ------ gog ------>
    - DOMAIN,gog.qtlglb.com
@@ -77,6 +78,7 @@ payload:
    - DOMAIN-SUFFIX,steampowered.com.8686c.com
    - DOMAIN-SUFFIX,steamstatic.com.8686c.com
    - DOMAIN-SUFFIX,steamchina.com
+   - DOMAIN-SUFFIX,gstore.val.manlaxy.com
    # ------ steamunlocked ------>
    # ------ supercell ------>
    # ------ tencent-games ------>
