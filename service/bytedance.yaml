@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Wed Feb 26 04:42:46 CST 2025
+# Update: Thu Feb 27 04:42:52 CST 2025
 payload:
    # ------ bytedance ------>
    - DOMAIN-SUFFIX,99uri.com
