@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-02-28 04:42:41
+# Update: 2025-03-01 04:43:21
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -685,6 +685,7 @@ payload:
    - DOMAIN-SUFFIX,brucewang.net
    - DOMAIN-SUFFIX,brutaltgp.com
    - DOMAIN-SUFFIX,bsky.app
+   - DOMAIN-SUFFIX,bsky.network
    - DOMAIN-SUFFIX,bsky.social
    - DOMAIN-SUFFIX,bt95.com
    - DOMAIN-SUFFIX,btaia.com
