@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-03-07 04:42:55
+# Update: 2025-03-08 04:41:31
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -107,6 +107,7 @@ payload:
    - DOMAIN-SUFFIX,66.ca
    - DOMAIN-SUFFIX,666kb.com
    - DOMAIN-SUFFIX,666pool.cn
+   - DOMAIN-SUFFIX,69shuba.cx
    - DOMAIN-SUFFIX,6do.news
    - DOMAIN-SUFFIX,6do.world
    - DOMAIN-SUFFIX,6park.com
@@ -1567,6 +1568,7 @@ payload:
    - DOMAIN-SUFFIX,etowns.net
    - DOMAIN-SUFFIX,etowns.org
    - DOMAIN-SUFFIX,etsy.com
+   - DOMAIN-SUFFIX,ettoday.net
    - DOMAIN-SUFFIX,etvonline.hk
    - DOMAIN-SUFFIX,eucasino.com
    - DOMAIN-SUFFIX,eulam.com
@@ -1845,6 +1847,7 @@ payload:
    - DOMAIN-SUFFIX,freetibet.net
    - DOMAIN-SUFFIX,freetibet.org
    - DOMAIN-SUFFIX,freetibetanheroes.org
+   - DOMAIN-SUFFIX,freetls.fastly.net
    - DOMAIN-SUFFIX,freetribe.me
    - DOMAIN-SUFFIX,freeviewmovies.com
    - DOMAIN-SUFFIX,freevpn.me
@@ -2013,6 +2016,7 @@ payload:
    - DOMAIN-SUFFIX,github.blog
    - DOMAIN-SUFFIX,github.com
    - DOMAIN-SUFFIX,github.io
+   - DOMAIN-SUFFIX,githubassets.com
    - DOMAIN-SUFFIX,githubcopilot.com
    - DOMAIN-SUFFIX,githubusercontent.com
    - DOMAIN-SUFFIX,gizlen.net
@@ -2020,6 +2024,7 @@ payload:
    - DOMAIN-SUFFIX,glarity.app
    - DOMAIN-SUFFIX,glass8.eu
    - DOMAIN-SUFFIX,global.bing.com
+   - DOMAIN-SUFFIX,global.ssl.fastly.net
    - DOMAIN-SUFFIX,globaljihad.net
    - DOMAIN-SUFFIX,globalmediaoutreach.com
    - DOMAIN-SUFFIX,globalmuseumoncommunism.org
@@ -2136,6 +2141,7 @@ payload:
    - DOMAIN-SUFFIX,google.tt
    - DOMAIN-SUFFIX,google.vu
    - DOMAIN-SUFFIX,google.ws
+   - DOMAIN-SUFFIX,googleapis.com
    - DOMAIN-SUFFIX,googleapps.com
    - DOMAIN-SUFFIX,googlearth.com
    - DOMAIN-SUFFIX,googleartproject.com
@@ -3105,7 +3111,6 @@ payload:
    - DOMAIN-SUFFIX,manta.com
    - DOMAIN-SUFFIX,manyvoices.news
    - DOMAIN-SUFFIX,maplew.com
-   - DOMAIN-SUFFIX,maps.googleapis.com
    - DOMAIN-SUFFIX,marc.info
    - DOMAIN-SUFFIX,marguerite.su
    - DOMAIN-SUFFIX,martau.com
@@ -3892,6 +3897,7 @@ payload:
    - DOMAIN-SUFFIX,politicalconsultation.org
    - DOMAIN-SUFFIX,politiscales.net
    - DOMAIN-SUFFIX,poloniex.com
+   - DOMAIN-SUFFIX,polymarket.com
    - DOMAIN-SUFFIX,polymer-project.org
    - DOMAIN-SUFFIX,polymerhk.com
    - DOMAIN-SUFFIX,poolbinance.com
@@ -5013,7 +5019,6 @@ payload:
    - DOMAIN-SUFFIX,tracfone.com
    - DOMAIN-SUFFIX,tradingview.com
    - DOMAIN-SUFFIX,translate.goog
-   - DOMAIN-SUFFIX,translate.googleapis.com
    - DOMAIN-SUFFIX,transparency.org
    - DOMAIN-SUFFIX,treemall.com.tw
    - DOMAIN-SUFFIX,trendsmap.com
@@ -5576,7 +5581,6 @@ payload:
    - DOMAIN-SUFFIX,wikiversity.org
    - DOMAIN-SUFFIX,wikivoyage.org
    - DOMAIN-SUFFIX,wikiwand.com
-   - DOMAIN-SUFFIX,wikiwiki.jp
    - DOMAIN-SUFFIX,wiktionary.org
    - DOMAIN-SUFFIX,wildammo.com
    - DOMAIN-SUFFIX,williamhill.com
