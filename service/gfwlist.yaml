@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-03-10 04:41:42
+# Update: 2025-03-11 04:43:12
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -891,6 +891,7 @@ payload:
    - DOMAIN-SUFFIX,chapm25.com
    - DOMAIN-SUFFIX,character.ai
    - DOMAIN-SUFFIX,chat.lmsys.org
+   - DOMAIN-SUFFIX,chat.openai.com
    - DOMAIN-SUFFIX,chatgpt.com
    - DOMAIN-SUFFIX,chatnook.com
    - DOMAIN-SUFFIX,chaturbate.com
@@ -3692,7 +3693,7 @@ payload:
    - DOMAIN-SUFFIX,oopsforum.com
    - DOMAIN-SUFFIX,open.com.hk
    - DOMAIN-SUFFIX,open.firstory.me
-   - DOMAIN-SUFFIX,openai.com
+   - DOMAIN-SUFFIX,open.spotify.com
    - DOMAIN-SUFFIX,openallweb.com
    - DOMAIN-SUFFIX,opendemocracy.net
    - DOMAIN-SUFFIX,opendn.xyz
@@ -4523,7 +4524,6 @@ payload:
    - DOMAIN-SUFFIX,spike.com
    - DOMAIN-SUFFIX,sports.williamhill.com
    - DOMAIN-SUFFIX,spotflux.com
-   - DOMAIN-SUFFIX,spotify.com
    - DOMAIN-SUFFIX,spreadsheet.new
    - DOMAIN-SUFFIX,spreadshirt.es
    - DOMAIN-SUFFIX,spreaker.com
