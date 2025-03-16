@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-03-16 04:41:37
+# Update: 2025-03-17 04:42:25
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -310,6 +310,7 @@ payload:
    - DOMAIN-SUFFIX,aofriend.com.au
    - DOMAIN-SUFFIX,aojiao.org
    - DOMAIN-SUFFIX,aolchannels.aol.com
+   - DOMAIN-SUFFIX,aomedia.org
    - DOMAIN-SUFFIX,aomiwang.com
    - DOMAIN-SUFFIX,apartmentratings.com
    - DOMAIN-SUFFIX,apartments.com
@@ -3957,7 +3958,7 @@ payload:
    - DOMAIN-SUFFIX,powerphoto.org
    - DOMAIN-SUFFIX,ppy.sh
    - DOMAIN-SUFFIX,prayforchina.net
-   - DOMAIN-SUFFIX,premeforwindows7.com
+   - DOMAIN-SUFFIX,prcleader.org
    - DOMAIN-SUFFIX,premproxy.com
    - DOMAIN-SUFFIX,presentation.new
    - DOMAIN-SUFFIX,presentationzen.com
@@ -3968,6 +3969,7 @@ payload:
    - DOMAIN-SUFFIX,prisoneralert.com
    - DOMAIN-SUFFIX,pritunl.com
    - DOMAIN-SUFFIX,privacybox.de
+   - DOMAIN-SUFFIX,private.com
    - DOMAIN-SUFFIX,privateinternetaccess.com
    - DOMAIN-SUFFIX,privatepaste.com
    - DOMAIN-SUFFIX,privatetunnel.com
