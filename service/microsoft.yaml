@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/microsoft.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
-# Update: Wed Mar 26 04:44:04 CST 2025
+# Update: Thu Mar 27 04:43:42 CST 2025
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -295,6 +295,7 @@ payload:
    - DOMAIN-SUFFIX,azuresmartspaces.net
    - DOMAIN-SUFFIX,azurestackvalidation.com
    - DOMAIN-SUFFIX,azurewebsites.net
+   - DOMAIN-SUFFIX,botframework.com
    - DOMAIN-SUFFIX,cosmosdb.info
    - DOMAIN-SUFFIX,cosmosdb.net
    - DOMAIN-SUFFIX,devopsms.com

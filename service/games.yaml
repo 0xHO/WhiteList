@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Wed Mar 26 04:44:05 CST 2025
+# Update: Thu Mar 27 04:43:43 CST 2025
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,dodi-repacks.download
@@ -280,6 +280,9 @@ payload:
    # ------ illusion ------>
    - DOMAIN-SUFFIX,illusion.co.jp
    - DOMAIN-SUFFIX,illusion.jp
+   # ------ itchio ------>
+   - DOMAIN-SUFFIX,itch.io
+   - DOMAIN-SUFFIX,itch.zone
    # ------ kurogames ------>
    # ------ lowiro ------>
    - DOMAIN-SUFFIX,lowiro.com
