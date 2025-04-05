@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sat Apr  5 04:43:19 CST 2025
+# Update: Sun Apr  6 04:41:57 CST 2025
 payload:
    # ------ category-games ------>
    - DOMAIN-SUFFIX,dodi-repacks.download
@@ -516,6 +516,7 @@ payload:
    - DOMAIN-SUFFIX,snk-corp.co.jp
    - DOMAIN-SUFFIX,snkplaymore.info
    # ------ steam ------>
+   - DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
    - DOMAIN,f3b7q2p3.ssl.hwcdn.net
    - DOMAIN,steambroadcast.akamaized.net
    - DOMAIN,steamcdn-a.akamaihd.net

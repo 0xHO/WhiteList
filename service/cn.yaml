@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Apr  5 04:43:20 CST 2025
+# Update: Sun Apr  6 04:41:58 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1134,6 +1134,7 @@ payload:
    - DOMAIN-SUFFIX,bdmozon.com
    - DOMAIN-SUFFIX,bdcat.top
    - DOMAIN-SUFFIX,ningtingche.com
+   - DOMAIN-SUFFIX,immersivetranslate.com
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -2042,6 +2043,7 @@ payload:
    - DOMAIN-SUFFIX,steampp.net
    - DOMAIN-SUFFIX,lsplayer.com
    - DOMAIN-SUFFIX,yeshen.com
+   - DOMAIN-SUFFIX,forevernine.com
    - DOMAIN-SUFFIX,ledu.com
    - DOMAIN-SUFFIX,pearvideo.com
    - DOMAIN-SUFFIX,wo1wan.com
@@ -2351,6 +2353,12 @@ payload:
    - DOMAIN-SUFFIX,xunyou.com
    - DOMAIN-SUFFIX,bohejiasuqi.com
    - DOMAIN-SUFFIX,jiasu.bohe.com
+   - DOMAIN-SUFFIX,golink.com
+   - DOMAIN-SUFFIX,golinkapi.com
+   - DOMAIN-SUFFIX,golinkcn.com
+   - DOMAIN-SUFFIX,steampp.net
+   - DOMAIN-SUFFIX,rmbgame.net
+   - DOMAIN-SUFFIX,steam302.xyz
    # ------ chiphell ------>
    - DOMAIN-SUFFIX,chiphell.com
    # ------ erji ------>
