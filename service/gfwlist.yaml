@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-04-12 04:43:36
+# Update: 2025-04-13 04:42:03
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -405,6 +405,7 @@ payload:
    - DOMAIN-SUFFIX,atnext.com
    - DOMAIN-SUFFIX,auctions.yahoo.co.jp
    - DOMAIN-SUFFIX,audacy.com
+   - DOMAIN-SUFFIX,audiomack.com
    - DOMAIN-SUFFIX,auntology.fandom.com
    - DOMAIN-SUFFIX,auth.openai.com
    - DOMAIN-SUFFIX,authorizeddns.net
@@ -1045,7 +1046,6 @@ payload:
    - DOMAIN-SUFFIX,cloud.dify.ai
    - DOMAIN-SUFFIX,cloud.mail.ru
    - DOMAIN-SUFFIX,cloudflare-ipfs.com
-   - DOMAIN-SUFFIX,cloudfront.net
    - DOMAIN-SUFFIX,cloudfunctions.net
    - DOMAIN-SUFFIX,club1069.com
    - DOMAIN-SUFFIX,clubhouseapi.com
@@ -4220,6 +4220,7 @@ payload:
    - DOMAIN-SUFFIX,s1s1s1.com
    - DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
    - DOMAIN-SUFFIX,s3-ap-southeast-2.amazonaws.com
+   - DOMAIN-SUFFIX,s3.eu-central-1.amazonaws.com
    - DOMAIN-SUFFIX,s8forum.com
    - DOMAIN-SUFFIX,sacks.com
    - DOMAIN-SUFFIX,sacom.hk
