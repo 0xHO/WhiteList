@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-04-13 04:42:03
+# Update: 2025-04-14 04:42:41
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -122,6 +122,7 @@ payload:
    - DOMAIN-SUFFIX,85cc.us
    - DOMAIN-SUFFIX,881903.com
    - DOMAIN-SUFFIX,888.com
+   - DOMAIN-SUFFIX,8888.google
    - DOMAIN-SUFFIX,888poker.com
    - DOMAIN-SUFFIX,89-64.org
    - DOMAIN-SUFFIX,89.64.charter.constitutionalism.solutions
@@ -1045,6 +1046,7 @@ payload:
    - DOMAIN-SUFFIX,cloakpoint.com
    - DOMAIN-SUFFIX,cloud.dify.ai
    - DOMAIN-SUFFIX,cloud.mail.ru
+   - DOMAIN-SUFFIX,cloudflare-dns.com
    - DOMAIN-SUFFIX,cloudflare-ipfs.com
    - DOMAIN-SUFFIX,cloudfunctions.net
    - DOMAIN-SUFFIX,club1069.com
@@ -1668,6 +1670,7 @@ payload:
    - DOMAIN-SUFFIX,fangongheike.com
    - DOMAIN-SUFFIX,fanhaodang.com
    - DOMAIN-SUFFIX,fanhaolou.com
+   - DOMAIN-SUFFIX,fani.com
    - DOMAIN-SUFFIX,fanqiang.network
    - DOMAIN-SUFFIX,fanqiang.tk
    - DOMAIN-SUFFIX,fanqiangdang.com
@@ -1687,6 +1690,7 @@ payload:
    - DOMAIN-SUFFIX,fastssh.com
    - DOMAIN-SUFFIX,faststone.org
    - DOMAIN-SUFFIX,fatbtc.com
+   - DOMAIN-SUFFIX,favcomic.com
    - DOMAIN-SUFFIX,fawanghuihui.org
    - DOMAIN-SUFFIX,faydao.com
    - DOMAIN-SUFFIX,faz.net
@@ -2256,6 +2260,7 @@ payload:
    - DOMAIN-SUFFIX,gzm.tv
    - DOMAIN-SUFFIX,gzone-anime.info
    - DOMAIN-SUFFIX,h-china.org
+   - DOMAIN-SUFFIX,h-ciyuan.com
    - DOMAIN-SUFFIX,h-moe.com
    - DOMAIN-SUFFIX,h1n1china.org
    - DOMAIN-SUFFIX,h528.com
@@ -3115,6 +3120,7 @@ payload:
    - DOMAIN-SUFFIX,mansion.com
    - DOMAIN-SUFFIX,mansionpoker.com
    - DOMAIN-SUFFIX,manta.com
+   - DOMAIN-SUFFIX,manwa.me
    - DOMAIN-SUFFIX,manyvoices.news
    - DOMAIN-SUFFIX,maplew.com
    - DOMAIN-SUFFIX,marc.info
@@ -4391,6 +4397,7 @@ payload:
    - DOMAIN-SUFFIX,simplecd.org
    - DOMAIN-SUFFIX,simpleproductivityblog.com
    - DOMAIN-SUFFIX,simpleswap.io
+   - DOMAIN-SUFFIX,sing-box.sagernet.org
    - DOMAIN-SUFFIX,singaporepools.com.sg
    - DOMAIN-SUFFIX,singfortibet.com
    - DOMAIN-SUFFIX,singlelogin.se
@@ -4497,6 +4504,7 @@ payload:
    - DOMAIN-SUFFIX,sosad.fun
    - DOMAIN-SUFFIX,sosreader.com
    - DOMAIN-SUFFIX,sostibet.org
+   - DOMAIN-SUFFIX,sotwe.com
    - DOMAIN-SUFFIX,soubory.com
    - DOMAIN-SUFFIX,soul-plus.net
    - DOMAIN-SUFFIX,soulcaliburhentai.net
@@ -4556,6 +4564,7 @@ payload:
    - DOMAIN-SUFFIX,ssh91.com
    - DOMAIN-SUFFIX,ssl.webpack.de
    - DOMAIN-SUFFIX,ssl443.org
+   - DOMAIN-SUFFIX,ssm.fun
    - DOMAIN-SUFFIX,sspanel.net
    - DOMAIN-SUFFIX,sspro.ml
    - DOMAIN-SUFFIX,ssr.tools
@@ -4842,6 +4851,7 @@ payload:
    - DOMAIN-SUFFIX,thlib.org
    - DOMAIN-SUFFIX,thomasbernhard.org
    - DOMAIN-SUFFIX,thongdreams.com
+   - DOMAIN-SUFFIX,thotsbay.tv
    - DOMAIN-SUFFIX,threadreaderapp.com
    - DOMAIN-SUFFIX,threads.net
    - DOMAIN-SUFFIX,threatchaos.com
@@ -5315,6 +5325,7 @@ payload:
    - DOMAIN-SUFFIX,uyghurtribunal.com
    - DOMAIN-SUFFIX,uygur.org
    - DOMAIN-SUFFIX,v2.help
+   - DOMAIN-SUFFIX,v2.hysteria.network
    - DOMAIN-SUFFIX,v2ex.com
    - DOMAIN-SUFFIX,v2fly.org
    - DOMAIN-SUFFIX,v2ray.com
