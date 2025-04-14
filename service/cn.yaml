@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Apr 14 04:42:48 CST 2025
+# Update: Tue Apr 15 04:45:01 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1135,6 +1135,7 @@ payload:
    - DOMAIN-SUFFIX,bdcat.top
    - DOMAIN-SUFFIX,ningtingche.com
    - DOMAIN-SUFFIX,immersivetranslate.com
+   - DOMAIN-SUFFIX,mingxuan.store
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -2359,6 +2360,27 @@ payload:
    - DOMAIN-SUFFIX,steampp.net
    - DOMAIN-SUFFIX,rmbgame.net
    - DOMAIN-SUFFIX,steam302.xyz
+   - DOMAIN-SUFFIX,benfuip.com
+   - DOMAIN-SUFFIX,funjsq.com
+   - DOMAIN-SUFFIX,biubiu001.com
+   - DOMAIN-SUFFIX,htjsq.com
+   - DOMAIN-SUFFIX,htjsq.mobi
+   - DOMAIN-SUFFIX,fhyx.com
+   - DOMAIN-SUFFIX,akspeedy.com
+   - DOMAIN-SUFFIX,yebaojiasu.com
+   - DOMAIN-SUFFIX,liuxing.com
+   - DOMAIN-SUFFIX,lxjiasu.com
+   - DOMAIN-SUFFIX,ggkuai.com
+   - DOMAIN-SUFFIX,yuelun.com
+   - DOMAIN-SUFFIX,gijsq.com
+   - DOMAIN-SUFFIX,kk1.vip
+   - DOMAIN-SUFFIX,3dmjiasu.com
+   - DOMAIN-SUFFIX,fnjiasu.com
+   - DOMAIN-SUFFIX,lorhf.com
+   - DOMAIN-SUFFIX,oojsq.com
+   - DOMAIN-SUFFIX,et001.com
+   - DOMAIN-SUFFIX,et-api.com
+   - DOMAIN-SUFFIX,guaiku.com
    # ------ chiphell ------>
    - DOMAIN-SUFFIX,chiphell.com
    # ------ erji ------>
