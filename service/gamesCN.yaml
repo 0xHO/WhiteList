@@ -2,45 +2,23 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Tue Apr 15 04:45:00 CST 2025
+# Update: Mon Jun  9 21:27:26 CST 2025
 payload:
    # ------ category-games ------>
-   # ------ 2kgames ------>
+   # ------ category-games-cn ------>
+   # ------ 4399 ------>
    # ------ bilibili-game ------>
    - DOMAIN-SUFFIX,bilibiligame.co
    - DOMAIN-SUFFIX,bilibiligame.net
    - DOMAIN-SUFFIX,biligame.co
    - DOMAIN-SUFFIX,biligame.com
    - DOMAIN-SUFFIX,biligame.net
-   # ------ blizzard ------>
-   # ------ bluearchive ------>
-   - DOMAIN-SUFFIX,bluearchive-cn.com
    # ------ bluepoch-games ------>
    - DOMAIN-SUFFIX,sl916.com
-   # ------ curseforge ------>
-   # ------ cygames ------>
-   # ------ ea ------>
-   # ------ origin ------>
-   # ------ epicgames ------>
-   # ------ escapefromtarkov ------>
-   # ------ garena ------>
-   # ------ gog ------>
-   - DOMAIN,gog.qtlglb.com
-   - DOMAIN,gogalaxy.gog-statics.com
-   - DOMAIN,menu-static.gog-statics.com
-   - DOMAIN,productcard.gog-statics.com
-   - DOMAIN,static-login.gog-statics.com
-   - DOMAIN,www4-static.gog-statics.com
-   - DOMAIN,gog-cdn-fastly.gog.com
-   - DOMAIN,gog-cdn.akamaized.net
-   # ------ illusion ------>
-   # ------ itchio ------>
+   # ------ cowlevel ------>
    # ------ kurogames ------>
    - DOMAIN-SUFFIX,kurogames.com
    - DOMAIN-SUFFIX,aki-game.com
-   # ------ lowiro ------>
-   # ------ mihoyo ------>
-   # ------ hoyoverse ------>
    # ------ mihoyo-cn ------>
    - DOMAIN-SUFFIX,mhystatic.com
    - DOMAIN-SUFFIX,mihayo.com
@@ -56,33 +34,6 @@ payload:
    - DOMAIN-SUFFIX,themisweeps.com
    - DOMAIN-SUFFIX,yuanshen.com
    - DOMAIN-SUFFIX,juequling.com
-   # ------ nexon ------>
-   # ------ nikke ------>
-   # ------ nintendo ------>
-   # ------ op ------>
-   # ------ osu ------>
-   # ------ pandanet ------>
-   # ------ pinkcore ------>
-   # ------ playstation ------>
-   # ------ projectsekai ------>
-   # ------ purikonejp ------>
-   # ------ riot ------>
-   # ------ rockstar ------>
-   # ------ snk ------>
-   # ------ steam ------>
-   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
-   - DOMAIN,xz.pphimalayanrt.com
-   - DOMAIN-SUFFIX,wmsjsteam.com
-   - DOMAIN-SUFFIX,dl.steam.clngaa.com
-   - DOMAIN-SUFFIX,st.dl.bscstorage.net
-   - DOMAIN-SUFFIX,st.dl.eccdnx.com
-   - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-   - DOMAIN-SUFFIX,steampowered.com.8686c.com
-   - DOMAIN-SUFFIX,steamstatic.com.8686c.com
-   - DOMAIN-SUFFIX,steamchina.com
-   - DOMAIN-SUFFIX,gstore.val.manlaxy.com
-   # ------ steamunlocked ------>
-   # ------ supercell ------>
    # ------ tencent-games ------>
    - DOMAIN-SUFFIX,battlecare.net
    - DOMAIN-SUFFIX,gameitop.com
@@ -145,9 +96,70 @@ payload:
    - DOMAIN-SUFFIX,anticheatexpert.com
    - DOMAIN-SUFFIX,17roco.com
    - DOMAIN-SUFFIX,roco.qq.com
+   # ------ tgbus ------>
+   # ------ tiancity ------>
+   # ------ vgtime ------>
+   # ------ vrzwk ------>
+   # ------ xd ------>
+   # ------ taptap ------>
+   # ------ category-games-!cn ------>
+   # ------ 2kgames ------>
+   # ------ blizzard ------>
+   # ------ bluearchive ------>
+   - DOMAIN-SUFFIX,bluearchive-cn.com
+   # ------ curseforge ------>
+   # ------ cygames ------>
+   # ------ ea ------>
+   # ------ origin ------>
+   # ------ epicgames ------>
+   # ------ escapefromtarkov ------>
+   # ------ garena ------>
+   # ------ gog ------>
+   - DOMAIN,gog.qtlglb.com
+   - DOMAIN,gogalaxy.gog-statics.com
+   - DOMAIN,menu-static.gog-statics.com
+   - DOMAIN,productcard.gog-statics.com
+   - DOMAIN,static-login.gog-statics.com
+   - DOMAIN,www4-static.gog-statics.com
+   - DOMAIN,gog-cdn-fastly.gog.com
+   - DOMAIN,gog-cdn.akamaized.net
+   # ------ hoyoverse ------>
+   # ------ illusion ------>
+   # ------ itchio ------>
+   # ------ lowiro ------>
+   # ------ nexon ------>
+   # ------ nikke ------>
+   # ------ nintendo ------>
+   # ------ op ------>
+   # ------ osu ------>
+   # ------ pandanet ------>
+   # ------ pinkcore ------>
+   # ------ playstation ------>
+   # ------ projectsekai ------>
+   # ------ purikonejp ------>
+   # ------ riot ------>
+   # ------ rockstar ------>
+   # ------ snk ------>
+   # ------ steam ------>
+   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+   - DOMAIN,xz.pphimalayanrt.com
+   - DOMAIN-SUFFIX,wmsjsteam.com
+   - DOMAIN-SUFFIX,client-update.queniuqe.com
+   - DOMAIN-SUFFIX,dl.steam.clngaa.com
+   - DOMAIN-SUFFIX,st.dl.bscstorage.net
+   - DOMAIN-SUFFIX,st.dl.eccdnx.com
+   - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+   - DOMAIN-SUFFIX,steampowered.com.8686c.com
+   - DOMAIN-SUFFIX,steamstatic.com.8686c.com
+   - DOMAIN-SUFFIX,steamchina.com
+   - DOMAIN-SUFFIX,gstore.val.manlaxy.com
+   # ------ steamunlocked ------>
+   # ------ supercell ------>
    # ------ ubisoft ------>
    - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
    # ------ xbox ------>
+   # ------ asobo ------>
    # ------ bethesda ------>
+   # ------ forza ------>
    # ------ mojang ------>
    # ------ ynoproject ------>

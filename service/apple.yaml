@@ -3,9 +3,10 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Tue Apr 15 04:44:59 CST 2025
+# Update: Mon Jun  9 21:27:25 CST 2025
 payload:
    # ------ apple ------>
+   - DOMAIN,ingest.apple-studies.com
    - DOMAIN,apple.com.akadns.net
    - DOMAIN,courier-push-apple.com.akadns.net
    - DOMAIN,push-apple.com.akadns.net
@@ -706,23 +707,25 @@ payload:
    - DOMAIN-SUFFIX,tv.apple.com
    # ------ apple-update ------>
    - DOMAIN-SUFFIX,appldnld.apple.com
+   - DOMAIN-SUFFIX,configuration.apple.com
+   - DOMAIN-SUFFIX,fcs-keys-pub-prod.cdn-apple.com
+   - DOMAIN-SUFFIX,gdmf-ados.apple.com
+   - DOMAIN-SUFFIX,gdmf.apple.com
    - DOMAIN-SUFFIX,gg.apple.com
-   - DOMAIN-SUFFIX,gnf-mdn.apple.com
-   - DOMAIN-SUFFIX,gnf-mr.apple.com
    - DOMAIN-SUFFIX,gs.apple.com
+   - DOMAIN-SUFFIX,gsra.apple.com
    - DOMAIN-SUFFIX,ig.apple.com
    - DOMAIN-SUFFIX,mesu.apple.com
-   - DOMAIN-SUFFIX,ns.itunes.apple.com
    - DOMAIN-SUFFIX,oscdn.apple.com
    - DOMAIN-SUFFIX,osrecovery.apple.com
    - DOMAIN-SUFFIX,skl.apple.com
    - DOMAIN-SUFFIX,swcdn.apple.com
    - DOMAIN-SUFFIX,swdist.apple.com
    - DOMAIN-SUFFIX,swdownload.apple.com
-   - DOMAIN-SUFFIX,swpost.apple.com
    - DOMAIN-SUFFIX,swscan.apple.com
    - DOMAIN-SUFFIX,updates-http.cdn-apple.com
    - DOMAIN-SUFFIX,updates.cdn-apple.com
+   - DOMAIN-SUFFIX,wkms-public.apple.com
    - DOMAIN-SUFFIX,xp.apple.com
    # ------ beats ------>
    - DOMAIN,beatselectronicsllc.tt.omtrdc.net

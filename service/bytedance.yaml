@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Tue Apr 15 04:45:07 CST 2025
+# Update: Mon Jun  9 21:27:33 CST 2025
 payload:
    # ------ bytedance ------>
    - DOMAIN-SUFFIX,99uri.com
@@ -330,9 +330,21 @@ payload:
    - DOMAIN-SUFFIX,dongchediapp.com
    - DOMAIN-SUFFIX,365yg.com
    - DOMAIN-SUFFIX,gogokid.com
+   - DOMAIN-SUFFIX,hapierxia.com
+   - DOMAIN-SUFFIX,hapipixia.com
+   - DOMAIN-SUFFIX,hapiyixia.com
+   - DOMAIN-SUFFIX,kuailepipixia.com
    - DOMAIN-SUFFIX,pipix.com
+   - DOMAIN-SUFFIX,pipixiaha.com
+   - DOMAIN-SUFFIX,piyipiba.com
+   - DOMAIN-SUFFIX,ppxhhh.com
+   - DOMAIN-SUFFIX,ppximg.com
+   - DOMAIN-SUFFIX,ppxstatic.com
+   - DOMAIN-SUFFIX,ppxvod.com
+   - DOMAIN-SUFFIX,xiaoxiaapi.com
    - DOMAIN-SUFFIX,faceu.com
    - DOMAIN-SUFFIX,ulikecam.com
+   # ------ bytedance-ads ------>
    # ------ bcy ------>
    - DOMAIN-SUFFIX,bcy.net
    - DOMAIN-SUFFIX,bcyimg.com
@@ -469,7 +481,6 @@ payload:
    - DOMAIN-SUFFIX,ttlivecdn.com
    - DOMAIN-SUFFIX,ttoverseaus.net
    - DOMAIN-SUFFIX,ttwstatic.com
-   # ------ bytedance-ads ------>
    # ------ volcengine ------>
    - DOMAIN-SUFFIX,aigc-cloud.com
    - DOMAIN-SUFFIX,bdegnine.com
