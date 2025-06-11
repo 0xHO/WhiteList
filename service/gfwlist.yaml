@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-06-11 04:44:59
+# Update: 2025-06-12 04:46:30
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -3006,6 +3006,7 @@ payload:
    - DOMAIN-SUFFIX,line.naver.jp
    - DOMAIN-SUFFIX,linear-abematv.akamaized.net
    - DOMAIN-SUFFIX,linglingfa.com
+   - DOMAIN-SUFFIX,lingualeo.com
    - DOMAIN-SUFFIX,lingvodics.com
    - DOMAIN-SUFFIX,link-o-rama.com
    - DOMAIN-SUFFIX,linkedin.com
