@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-06-12 04:46:30
+# Update: 2025-06-13 04:46:47
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1136,6 +1136,7 @@ payload:
    - DOMAIN-SUFFIX,coursehero.com
    - DOMAIN-SUFFIX,coze.com
    - DOMAIN-SUFFIX,cpj.org
+   - DOMAIN-SUFFIX,cpu-monkey.com
    - DOMAIN-SUFFIX,cq99.us
    - DOMAIN-SUFFIX,crackle.com
    - DOMAIN-SUFFIX,crazypool.org
@@ -2517,7 +2518,6 @@ payload:
    - DOMAIN-SUFFIX,huyandex.com
    - DOMAIN-SUFFIX,hwadzan.tw
    - DOMAIN-SUFFIX,hwayue.org.tw
-   - DOMAIN-SUFFIX,hwinfo.com
    - DOMAIN-SUFFIX,hxwk.org
    - DOMAIN-SUFFIX,hxwq.org
    - DOMAIN-SUFFIX,hybrid-analysis.com
