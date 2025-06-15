@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-06-15 04:44:11
+# Update: 2025-06-16 04:44:41
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1823,6 +1823,7 @@ payload:
    - DOMAIN-SUFFIX,githubassets.com
    - DOMAIN-SUFFIX,githubcopilot.com
    - DOMAIN-SUFFIX,githubusercontent.com
+   - DOMAIN-SUFFIX,gitlab.net
    - DOMAIN-SUFFIX,gizlen.net
    - DOMAIN-SUFFIX,gjczz.com
    - DOMAIN-SUFFIX,glarity.app
@@ -2099,6 +2100,7 @@ payload:
    - DOMAIN-SUFFIX,himalayanglacier.com
    - DOMAIN-SUFFIX,himemix.com
    - DOMAIN-SUFFIX,hindustantimes.com
+   - DOMAIN-SUFFIX,hinet.net
    - DOMAIN-SUFFIX,hitbtc.com
    - DOMAIN-SUFFIX,hitomi.la
    - DOMAIN-SUFFIX,hiveon.net
