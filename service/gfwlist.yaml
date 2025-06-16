@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-06-16 04:44:41
+# Update: 2025-06-17 04:46:45
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -3324,6 +3324,7 @@ payload:
    - DOMAIN-SUFFIX,onmypc.org
    - DOMAIN-SUFFIX,onthehunt.com
    - DOMAIN-SUFFIX,ontrac.com
+   - DOMAIN-SUFFIX,oojj.de
    - DOMAIN-SUFFIX,open.com.hk
    - DOMAIN-SUFFIX,open.firstory.me
    - DOMAIN-SUFFIX,openai.com
