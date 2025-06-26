@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-06-26 04:47:55
+# Update: 2025-06-27 04:46:39
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -824,7 +824,6 @@ payload:
    - DOMAIN-SUFFIX,chenshan20042005.wordpress.com
    - DOMAIN-SUFFIX,cherrysave.com
    - DOMAIN-SUFFIX,chhongbi.org
-   - DOMAIN-SUFFIX,chicagoncmtv.com
    - DOMAIN-SUFFIX,china-mmm.jp.net
    - DOMAIN-SUFFIX,china-mmm.net
    - DOMAIN-SUFFIX,china-review.com.ua
@@ -1650,8 +1649,6 @@ payload:
    - DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
    - DOMAIN-SUFFIX,freedomsherald.org
    - DOMAIN-SUFFIX,freeforums.org
-   - DOMAIN-SUFFIX,freefq.com
-   - DOMAIN-SUFFIX,freefuckvids.com
    - DOMAIN-SUFFIX,freegao.com
    - DOMAIN-SUFFIX,freehongkong.org
    - DOMAIN-SUFFIX,freeilhamtohti.org
@@ -3687,6 +3684,7 @@ payload:
    - DOMAIN-SUFFIX,radioline.co
    - DOMAIN-SUFFIX,radiovaticana.org
    - DOMAIN-SUFFIX,radiovncr.com
+   - DOMAIN-SUFFIX,radmin-vpn.com
    - DOMAIN-SUFFIX,rael.org
    - DOMAIN-SUFFIX,raggedbanner.com
    - DOMAIN-SUFFIX,raidcall.com.tw
