@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-07-14 04:45:39
+# Update: 2025-07-15 04:48:03
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -5150,6 +5150,7 @@ payload:
    - DOMAIN-SUFFIX,www.powerpointninja.com
    - DOMAIN-SUFFIX,www.shadowsocks.com
    - DOMAIN-SUFFIX,www.wan-press.org
+   - DOMAIN-SUFFIX,www.xicons.org
    - DOMAIN-SUFFIX,www1.biz
    - DOMAIN-SUFFIX,wwwhost.biz
    - DOMAIN-SUFFIX,x-art.com
