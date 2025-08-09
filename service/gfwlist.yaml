@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-08-09 04:47:49
+# Update: 2025-08-10 04:46:22
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -2831,6 +2831,7 @@ payload:
    - DOMAIN-SUFFIX,matters.town
    - DOMAIN-SUFFIX,matthewdgreen.wordpress.com
    - DOMAIN-SUFFIX,mattwilcox.net
+   - DOMAIN-SUFFIX,maven.neoforged.net
    - DOMAIN-SUFFIX,maxing.jp
    - DOMAIN-SUFFIX,mayimayi.com
    - DOMAIN-SUFFIX,mcadforums.com
