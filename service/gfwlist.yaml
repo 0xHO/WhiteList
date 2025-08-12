@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-08-12 04:46:24
+# Update: 2025-08-13 04:47:18
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -513,6 +513,7 @@ payload:
    - DOMAIN-SUFFIX,bild.de
    - DOMAIN-SUFFIX,biliworld.com
    - DOMAIN-SUFFIX,binance.com
+   - DOMAIN-SUFFIX,binance.org
    - DOMAIN-SUFFIX,binancezh.cc
    - DOMAIN-SUFFIX,binux.me
    - DOMAIN-SUFFIX,bird.so
@@ -2354,6 +2355,7 @@ payload:
    - DOMAIN-SUFFIX,indiemerch.com
    - DOMAIN-SUFFIX,inews-api.tvb.com
    - DOMAIN-SUFFIX,info-graf.fr
+   - DOMAIN-SUFFIX,infura.io
    - DOMAIN-SUFFIX,inherit.live
    - DOMAIN-SUFFIX,initiativesforchina.org
    - DOMAIN-SUFFIX,inkbunny.net
@@ -2763,6 +2765,7 @@ payload:
    - DOMAIN-SUFFIX,lsxszzg.com
    - DOMAIN-SUFFIX,ltn.com.tw
    - DOMAIN-SUFFIX,luckydesigner.space
+   - DOMAIN-SUFFIX,luckymobile.ca
    - DOMAIN-SUFFIX,ludepress.com
    - DOMAIN-SUFFIX,luke54.com
    - DOMAIN-SUFFIX,luke54.org
@@ -2878,6 +2881,7 @@ payload:
    - DOMAIN-SUFFIX,messenger.com
    - DOMAIN-SUFFIX,meta.com
    - DOMAIN-SUFFIX,metafilter.com
+   - DOMAIN-SUFFIX,metamask.io
    - DOMAIN-SUFFIX,metart.com
    - DOMAIN-SUFFIX,metarthunter.com
    - DOMAIN-SUFFIX,meteorshowersonline.com
