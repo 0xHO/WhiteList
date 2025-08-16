@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-08-16 04:46:37
+# Update: 2025-08-17 04:44:44
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -3407,6 +3407,7 @@ payload:
    - DOMAIN-SUFFIX,paljorpublications.com
    - DOMAIN-SUFFIX,paltalk.com
    - DOMAIN-SUFFIX,panamapapers.sueddeutsche.de
+   - DOMAIN-SUFFIX,pancakeswap.finance
    - DOMAIN-SUFFIX,pandafan.pub
    - DOMAIN-SUFFIX,pandapow.co
    - DOMAIN-SUFFIX,pandapow.net
@@ -3473,6 +3474,7 @@ payload:
    - DOMAIN-SUFFIX,perplexity.ai
    - DOMAIN-SUFFIX,persecutionblog.com
    - DOMAIN-SUFFIX,persiankitty.com
+   - DOMAIN-SUFFIX,pewresearch.org
    - DOMAIN-SUFFIX,phapluan.org
    - DOMAIN-SUFFIX,phayul.com
    - DOMAIN-SUFFIX,philborges.com
@@ -3600,6 +3602,7 @@ payload:
    - DOMAIN-SUFFIX,prisoneralert.com
    - DOMAIN-SUFFIX,pritunl.com
    - DOMAIN-SUFFIX,privacybox.de
+   - DOMAIN-SUFFIX,privacyguides.org
    - DOMAIN-SUFFIX,private.com
    - DOMAIN-SUFFIX,privateinternetaccess.com
    - DOMAIN-SUFFIX,privatepaste.com
