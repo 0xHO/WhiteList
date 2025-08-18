@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-08-18 04:45:54
+# Update: 2025-08-19 04:45:10
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1156,6 +1156,7 @@ payload:
    - DOMAIN-SUFFIX,demo.unlock-music.dev
    - DOMAIN-SUFFIX,democrats.org
    - DOMAIN-SUFFIX,demosisto.hk
+   - DOMAIN-SUFFIX,deno.dev
    - DOMAIN-SUFFIX,depositphotos.com
    - DOMAIN-SUFFIX,desc.se
    - DOMAIN-SUFFIX,desipro.de
@@ -1222,6 +1223,7 @@ payload:
    - DOMAIN-SUFFIX,doc.new
    - DOMAIN-SUFFIX,docker.com
    - DOMAIN-SUFFIX,docker.io
+   - DOMAIN-SUFFIX,docs.deno.com
    - DOMAIN-SUFFIX,docs.new
    - DOMAIN-SUFFIX,doctorvoice.org
    - DOMAIN-SUFFIX,documentingreality.com
@@ -1722,6 +1724,7 @@ payload:
    - DOMAIN-SUFFIX,furbo.org
    - DOMAIN-SUFFIX,furhhdl.org
    - DOMAIN-SUFFIX,furinkan.com
+   - DOMAIN-SUFFIX,furrybar.com
    - DOMAIN-SUFFIX,futurechinaforum.org
    - DOMAIN-SUFFIX,futuremessage.org
    - DOMAIN-SUFFIX,fux.com
@@ -3095,6 +3098,7 @@ payload:
    - DOMAIN-SUFFIX,nationalreview.com
    - DOMAIN-SUFFIX,nationwide.com
    - DOMAIN-SUFFIX,naughtyamerica.com
+   - DOMAIN-SUFFIX,naver.com
    - DOMAIN-SUFFIX,navyfamily.navy.mil
    - DOMAIN-SUFFIX,navyreserve.navy.mil
    - DOMAIN-SUFFIX,naweeklytimes.com
