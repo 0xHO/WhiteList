@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Aug 19 04:45:17 CST 2025
+# Update: Wed Aug 20 04:44:41 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1228,6 +1228,7 @@ payload:
    - DOMAIN-SUFFIX,ccbxt.com
    # ------ citic ------>
    - DOMAIN-SUFFIX,citic
+   - DOMAIN-SUFFIX,xn--fiq64b
    - DOMAIN-SUFFIX,chinaamc.com
    - DOMAIN-SUFFIX,citicbank.com
    - DOMAIN-SUFFIX,citiccapital.com
@@ -1411,6 +1412,7 @@ payload:
    - DOMAIN-SUFFIX,lufunds.com
    # ------ citic ------>
    - DOMAIN-SUFFIX,citic
+   - DOMAIN-SUFFIX,xn--fiq64b
    - DOMAIN-SUFFIX,chinaamc.com
    - DOMAIN-SUFFIX,citicbank.com
    - DOMAIN-SUFFIX,citiccapital.com
@@ -2646,6 +2648,7 @@ payload:
    - DOMAIN-SUFFIX,win7china.com
    - DOMAIN-SUFFIX,win8china.com
    # ------ sohu ------>
+   - DOMAIN-SUFFIX,sohu
    - DOMAIN-SUFFIX,sohu.com
    - DOMAIN-SUFFIX,sohucs.com
    # ------ sogou ------>
@@ -5059,7 +5062,6 @@ payload:
    - DOMAIN-SUFFIX,miui.com
    - DOMAIN-SUFFIX,miwifi.com
    - DOMAIN-SUFFIX,xiaomi.com
-   - DOMAIN-SUFFIX,xiaomi.eu
    - DOMAIN-SUFFIX,xiaomi.net
    - DOMAIN-SUFFIX,xiaomicp.com
    - DOMAIN-SUFFIX,xiaomidns.com
@@ -5142,6 +5144,8 @@ payload:
    - DOMAIN-SUFFIX,ctexcel.fr
    - DOMAIN-SUFFIX,ctexcel.us
    # ------ chinaunicom ------>
+   - DOMAIN-SUFFIX,unicom
+   - DOMAIN-SUFFIX,xn--8y0a063a
    - DOMAIN-SUFFIX,10010.com
    - DOMAIN-SUFFIX,114menhu.com
    - DOMAIN-SUFFIX,169ol.com
