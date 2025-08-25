@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Mon Aug 25 04:43:57 CST 2025
+# Update: Tue Aug 26 04:45:34 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -616,6 +616,7 @@ payload:
    - DOMAIN-SUFFIX,rsg.sc
    # ------ snk ------>
    - DOMAIN-SUFFIX,snk-corp.co.jp
+   - DOMAIN-SUFFIX,snk-corp.info
    - DOMAIN-SUFFIX,snkplaymore.info
    # ------ steam ------>
    - DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
