@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-08-26 04:45:28
+# Update: 2025-08-27 04:43:36
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1552,6 +1552,7 @@ payload:
    - DOMAIN-SUFFIX,fdc89.jp
    - DOMAIN-SUFFIX,feedburner.com
    - DOMAIN-SUFFIX,feeder.co
+   - DOMAIN-SUFFIX,feedly.com
    - DOMAIN-SUFFIX,feedx.net
    - DOMAIN-SUFFIX,feelssh.com
    - DOMAIN-SUFFIX,feer.com
@@ -2974,6 +2975,7 @@ payload:
    - DOMAIN-SUFFIX,mog.com
    - DOMAIN-SUFFIX,mohu.club
    - DOMAIN-SUFFIX,mohu.rocks
+   - DOMAIN-SUFFIX,moj.gov.tw
    - DOMAIN-SUFFIX,mojim.com
    - DOMAIN-SUFFIX,mol.gov.tw
    - DOMAIN-SUFFIX,molihua.org

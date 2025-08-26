@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Aug 26 04:45:35 CST 2025
+# Update: Wed Aug 27 04:43:44 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2276,11 +2276,6 @@ payload:
    - DOMAIN-SUFFIX,ciweimao.com
    - DOMAIN-SUFFIX,hbooker.com
    - DOMAIN-SUFFIX,kuangxiangit.com
-   # ------ copymanga ------>
-   - DOMAIN-SUFFIX,copy-manga.com
-   - DOMAIN-SUFFIX,mangacopy.com
-   - DOMAIN-SUFFIX,mangafuna.xyz
-   - DOMAIN-SUFFIX,mangafunb.fun
    # ------ dedao ------>
    - DOMAIN-SUFFIX,biji.com
    - DOMAIN-SUFFIX,ddmogo.com
@@ -2702,6 +2697,7 @@ payload:
    # ------ ynet ------>
    - DOMAIN-SUFFIX,ynet.com
    # ------ category-netdisk-cn ------>
+   - DOMAIN-SUFFIX,123pan.com
    - DOMAIN-SUFFIX,ctfile.com
    - DOMAIN-SUFFIX,feimaoyun.com
    - DOMAIN-SUFFIX,filez.com
@@ -2711,12 +2707,6 @@ payload:
    - DOMAIN-SUFFIX,weiyun.com
    - DOMAIN-SUFFIX,yun.139.com
    - DOMAIN-SUFFIX,yunpan.com
-   - DOMAIN-SUFFIX,123pan.com
-   - DOMAIN-SUFFIX,alicloudccp.com
-   - DOMAIN-SUFFIX,alipan.com
-   - DOMAIN-SUFFIX,aliyundrive.com
-   - DOMAIN-SUFFIX,aliyundrive.net
-   - DOMAIN-SUFFIX,yunpan.aliyun.com
    # ------ 115 ------>
    - DOMAIN-SUFFIX,115.com
    - DOMAIN-SUFFIX,115cdn.com
@@ -2730,6 +2720,13 @@ payload:
    - DOMAIN-SUFFIX,116cd.net
    - DOMAIN-SUFFIX,anxia.com
    - DOMAIN-SUFFIX,sq.cc
+   # ------ aliyun-drive ------>
+   - DOMAIN-SUFFIX,alicloudccp.com
+   - DOMAIN-SUFFIX,alipan.com
+   - DOMAIN-SUFFIX,aliyundrive.cloud
+   - DOMAIN-SUFFIX,aliyundrive.com
+   - DOMAIN-SUFFIX,aliyundrive.net
+   - DOMAIN-SUFFIX,yunpan.aliyun.com
    # ------ lanzou ------>
    - DOMAIN-SUFFIX,baidupan.com
    - DOMAIN-SUFFIX,ilanzou.com
@@ -3219,9 +3216,6 @@ payload:
    - DOMAIN-SUFFIX,cppblog.com
    - DOMAIN-SUFFIX,phpweblog.net
    - DOMAIN-SUFFIX,teachblog.net
-   # ------ coding ------>
-   - DOMAIN-SUFFIX,coding.me
-   - DOMAIN-SUFFIX,coding.net
    # ------ csdn ------>
    - DOMAIN-SUFFIX,codechina.net
    - DOMAIN-SUFFIX,csdn.com
@@ -3294,6 +3288,11 @@ payload:
    - DOMAIN-SUFFIX,tjstats.com
    - DOMAIN-SUFFIX,wegamedeveloper.com
    - DOMAIN-SUFFIX,weixinbridge.com
+   # ------ cnb ------>
+   - DOMAIN-SUFFIX,cnb.cool
+   # ------ coding ------>
+   - DOMAIN-SUFFIX,coding.me
+   - DOMAIN-SUFFIX,coding.net
    # ------ tipdm ------>
    - DOMAIN-SUFFIX,tipdim.org
    # ------ ubuntukylin ------>
@@ -3392,10 +3391,6 @@ payload:
    - DOMAIN-SUFFIX,alipayplus.com
    - DOMAIN-SUFFIX,alipay.hk
    - DOMAIN-SUFFIX,alipaymo.com
-   - DOMAIN-SUFFIX,alicloudccp.com
-   - DOMAIN-SUFFIX,alipan.com
-   - DOMAIN-SUFFIX,aliyundrive.com
-   - DOMAIN-SUFFIX,aliyundrive.net
    - DOMAIN-SUFFIX,freshhema.com
    - DOMAIN-SUFFIX,freshippo.com
    - DOMAIN-SUFFIX,hemamax.com
@@ -3506,6 +3501,13 @@ payload:
    - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
    - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
    - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+   # ------ aliyun-drive ------>
+   - DOMAIN-SUFFIX,alicloudccp.com
+   - DOMAIN-SUFFIX,alipan.com
+   - DOMAIN-SUFFIX,aliyundrive.cloud
+   - DOMAIN-SUFFIX,aliyundrive.com
+   - DOMAIN-SUFFIX,aliyundrive.net
+   - DOMAIN-SUFFIX,yunpan.aliyun.com
    # ------ cainiao ------>
    - DOMAIN-SUFFIX,cainiao-inc.com
    - DOMAIN-SUFFIX,cainiao.com
@@ -3631,6 +3633,7 @@ payload:
    # ------ bluepoch ------>
    # ------ bluepoch-games ------>
    # ------ bytedance ------>
+   - DOMAIN,bytedance.map.fastly.net
    - DOMAIN-SUFFIX,99uri.com
    - DOMAIN-SUFFIX,activity01.com
    - DOMAIN-SUFFIX,activity02.com
@@ -3737,6 +3740,7 @@ payload:
    - DOMAIN-SUFFIX,bytegrowth.com
    - DOMAIN-SUFFIX,byte-gslb.com
    - DOMAIN-SUFFIX,bytegslb.com
+   - DOMAIN-SUFFIX,byteglb.com
    - DOMAIN-SUFFIX,bytehwm.com
    - DOMAIN-SUFFIX,byteics.com
    - DOMAIN-SUFFIX,byteics.net
@@ -3753,6 +3757,7 @@ payload:
    - DOMAIN-SUFFIX,byteorg.com
    - DOMAIN-SUFFIX,byteorge.com
    - DOMAIN-SUFFIX,byteoversea.com
+   - DOMAIN-SUFFIX,byteoversea.net
    - DOMAIN-SUFFIX,byteq5k.com
    - DOMAIN-SUFFIX,byteq8u.net
    - DOMAIN-SUFFIX,bytescm.com
@@ -4198,6 +4203,7 @@ payload:
    - DOMAIN-SUFFIX,volcfcdnbyte.com
    - DOMAIN-SUFFIX,volcfcdn.com
    - DOMAIN-SUFFIX,volcfcdndvs.com
+   - DOMAIN-SUFFIX,volcfcdndvs1.com
    - DOMAIN-SUFFIX,volcfcdnplus.com
    - DOMAIN-SUFFIX,volcfcdnrd.com
    - DOMAIN-SUFFIX,volcfcdnsc.com
@@ -4254,6 +4260,7 @@ payload:
    - DOMAIN-SUFFIX,djiops.com
    - DOMAIN-SUFFIX,djiservice.org
    - DOMAIN-SUFFIX,skypixel.com
+   - DOMAIN-SUFFIX,robomaster.com
    # ------ honor ------>
    - DOMAIN-SUFFIX,hihonor.com
    - DOMAIN-SUFFIX,hihonorcdn.com
@@ -4283,6 +4290,7 @@ payload:
    - DOMAIN-SUFFIX,aadcloud.com
    - DOMAIN-SUFFIX,b2bgo.com
    - DOMAIN-SUFFIX,eduapaashwc.com
+   - DOMAIN-SUFFIX,functiongraph.run
    - DOMAIN-SUFFIX,hc-cdn.com
    - DOMAIN-SUFFIX,hc-sre.com
    - DOMAIN-SUFFIX,huaweiapaas.com
@@ -4321,6 +4329,7 @@ payload:
    - DOMAIN-SUFFIX,myhuaweicloud-custom.com
    - DOMAIN-SUFFIX,myhuaweicloud-koodrive.com
    - DOMAIN-SUFFIX,myhuaweicloud-obs.com
+   - DOMAIN-SUFFIX,myhuaweicloud.com
    - DOMAIN-SUFFIX,myhwcdn.com
    - DOMAIN-SUFFIX,myhwcloudlive.com
    - DOMAIN-SUFFIX,myhwclouds.com
@@ -4328,40 +4337,47 @@ payload:
    - DOMAIN-SUFFIX,pagescube.com
    - DOMAIN-SUFFIX,powerapp.io
    - DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
+   - DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com
    - DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com
+   - DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com
+   - DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com
    - DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com
+   - DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com
+   - DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com
+   - DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com
    - DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com
    - DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-east-2.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-east-3.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-east-4.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-east-5.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-north-1.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-north-11.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-north-2.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-north-3.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-north-4.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-north-5.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-north-6.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-north-9.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-northeast-1.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-south-1.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-south-2.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-south-4.myhuaweicloud.com
-   - DOMAIN-SUFFIX,cn-southwest-2.myhuaweicloud.com
+   - DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com
+   - DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com
+   - DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com
+   - DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com
+   - DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com
+   - DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com
+   - DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com
+   - DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com
+   - DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com
    - DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
+   - DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
+   - DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com
    - DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com
+   - DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com
    - DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
    - DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com
+   - DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com
+   - DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com
+   - DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com
    - DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
+   - DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com
    - DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
+   - DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com
    - DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
+   - DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com
    - DOMAIN-SUFFIX,cdnhwchcg02.com
    - DOMAIN-SUFFIX,cdnhwcurq03.com
    - DOMAIN-SUFFIX,cdnhwczba04.com
@@ -5008,6 +5024,11 @@ payload:
    - DOMAIN-SUFFIX,ma.run
    - DOMAIN-SUFFIX,um.run
    - DOMAIN-SUFFIX,ym.run
+   - DOMAIN-SUFFIX,aegis.qq.com
+   - DOMAIN-SUFFIX,tamaegis.com
+   - DOMAIN-SUFFIX,rumt-zh.com
+   - DOMAIN-SUFFIX,rumt-sg.com
+   - DOMAIN-SUFFIX,rumt-us.com
    # ------ discuz ------>
    - DOMAIN-SUFFIX,comsenz.com
    - DOMAIN-SUFFIX,discuz.net
@@ -5035,6 +5056,11 @@ payload:
    - DOMAIN-SUFFIX,tjstats.com
    - DOMAIN-SUFFIX,wegamedeveloper.com
    - DOMAIN-SUFFIX,weixinbridge.com
+   # ------ cnb ------>
+   - DOMAIN-SUFFIX,cnb.cool
+   # ------ coding ------>
+   - DOMAIN-SUFFIX,coding.me
+   - DOMAIN-SUFFIX,coding.net
    # ------ tencent-games ------>
    - DOMAIN-SUFFIX,supercell.com
    # ------ yuewen ------>

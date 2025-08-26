@@ -3,9 +3,10 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Tue Aug 26 04:45:42 CST 2025
+# Update: Wed Aug 27 04:43:50 CST 2025
 payload:
    # ------ bytedance ------>
+   - DOMAIN,bytedance.map.fastly.net
    - DOMAIN-SUFFIX,99uri.com
    - DOMAIN-SUFFIX,activity01.com
    - DOMAIN-SUFFIX,activity02.com
@@ -112,6 +113,7 @@ payload:
    - DOMAIN-SUFFIX,bytegrowth.com
    - DOMAIN-SUFFIX,byte-gslb.com
    - DOMAIN-SUFFIX,bytegslb.com
+   - DOMAIN-SUFFIX,byteglb.com
    - DOMAIN-SUFFIX,bytehwm.com
    - DOMAIN-SUFFIX,byteics.com
    - DOMAIN-SUFFIX,byteics.net
@@ -128,6 +130,7 @@ payload:
    - DOMAIN-SUFFIX,byteorg.com
    - DOMAIN-SUFFIX,byteorge.com
    - DOMAIN-SUFFIX,byteoversea.com
+   - DOMAIN-SUFFIX,byteoversea.net
    - DOMAIN-SUFFIX,byteq5k.com
    - DOMAIN-SUFFIX,byteq8u.net
    - DOMAIN-SUFFIX,bytescm.com
@@ -573,6 +576,7 @@ payload:
    - DOMAIN-SUFFIX,volcfcdnbyte.com
    - DOMAIN-SUFFIX,volcfcdn.com
    - DOMAIN-SUFFIX,volcfcdndvs.com
+   - DOMAIN-SUFFIX,volcfcdndvs1.com
    - DOMAIN-SUFFIX,volcfcdnplus.com
    - DOMAIN-SUFFIX,volcfcdnrd.com
    - DOMAIN-SUFFIX,volcfcdnsc.com
