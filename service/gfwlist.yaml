@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-09-05 04:42:44
+# Update: 2025-09-06 04:43:32
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -644,6 +644,8 @@ payload:
    - DOMAIN-SUFFIX,bsky.app
    - DOMAIN-SUFFIX,bsky.network
    - DOMAIN-SUFFIX,bsky.social
+   - DOMAIN-SUFFIX,bt4g.org
+   - DOMAIN-SUFFIX,bt4gprx.com
    - DOMAIN-SUFFIX,bt95.com
    - DOMAIN-SUFFIX,btaia.com
    - DOMAIN-SUFFIX,btbit.net
@@ -4294,6 +4296,7 @@ payload:
    - DOMAIN-SUFFIX,talkonly.net
    - DOMAIN-SUFFIX,tanc.org
    - DOMAIN-SUFFIX,tangren.us
+   - DOMAIN-SUFFIX,tanks.gg
    - DOMAIN-SUFFIX,taoism.net
    - DOMAIN-SUFFIX,tapanwap.com
    - DOMAIN-SUFFIX,tapatalk.com
