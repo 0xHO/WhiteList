@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-09-06 04:43:32
+# Update: 2025-09-07 04:41:44
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -2398,6 +2398,7 @@ payload:
    - DOMAIN-SUFFIX,iphonetaiwan.org
    - DOMAIN-SUFFIX,iphonix.fr
    - DOMAIN-SUFFIX,ipicture.ru
+   - DOMAIN-SUFFIX,ipify.org
    - DOMAIN-SUFFIX,ipjetable.net
    - DOMAIN-SUFFIX,iportal.me
    - DOMAIN-SUFFIX,ippotv.com
