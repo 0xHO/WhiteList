@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-09-22 04:41:55
+# Update: 2025-09-23 04:43:43
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -4758,7 +4758,6 @@ payload:
    - DOMAIN-SUFFIX,ubddns.org
    - DOMAIN-SUFFIX,uberproxy.net
    - DOMAIN-SUFFIX,uc-japan.org
-   - DOMAIN-SUFFIX,uderzo.it
    - DOMAIN-SUFFIX,udn.com
    - DOMAIN-SUFFIX,udn.com.tw
    - DOMAIN-SUFFIX,udomain.hk
