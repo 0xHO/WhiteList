@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-09-23 04:43:43
+# Update: 2025-09-24 04:43:40
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -295,6 +295,7 @@ payload:
    - DOMAIN-SUFFIX,api-secure.recaptcha.net
    - DOMAIN-SUFFIX,api-verify.recaptcha.net
    - DOMAIN-SUFFIX,api.ai
+   - DOMAIN-SUFFIX,api.palworldgame.com
    - DOMAIN-SUFFIX,api.pureapk.com
    - DOMAIN-SUFFIX,api.recaptcha.net
    - DOMAIN-SUFFIX,api.steampowered.com
@@ -3313,6 +3314,7 @@ payload:
    - DOMAIN-SUFFIX,ocreampies.com
    - DOMAIN-SUFFIX,ocry.com
    - DOMAIN-SUFFIX,october-review.org
+   - DOMAIN-SUFFIX,octocaptcha.com
    - DOMAIN-SUFFIX,oculus.com
    - DOMAIN-SUFFIX,oculuscdn.com
    - DOMAIN-SUFFIX,odysee.com
