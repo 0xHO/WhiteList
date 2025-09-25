@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-09-25 04:41:26
+# Update: 2025-09-26 04:41:55
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -5105,6 +5105,7 @@ payload:
    - DOMAIN-SUFFIX,wikimapia.org
    - DOMAIN-SUFFIX,wikimedia.org
    - DOMAIN-SUFFIX,wikinews.org
+   - DOMAIN-SUFFIX,wikipedia.com
    - DOMAIN-SUFFIX,wikipedia.org
    - DOMAIN-SUFFIX,wikisource.org
    - DOMAIN-SUFFIX,wikiversity.org
