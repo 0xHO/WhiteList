@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-10-02 04:43:37
+# Update: 2025-10-03 04:42:50
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -4309,8 +4309,10 @@ payload:
    - DOMAIN-SUFFIX,tangren.us
    - DOMAIN-SUFFIX,tanks.gg
    - DOMAIN-SUFFIX,taoism.net
+   - DOMAIN-SUFFIX,tap.io
    - DOMAIN-SUFFIX,tapanwap.com
    - DOMAIN-SUFFIX,tapatalk.com
+   - DOMAIN-SUFFIX,taptap.io
    - DOMAIN-SUFFIX,tardigrade.io
    - DOMAIN-SUFFIX,taup.net
    - DOMAIN-SUFFIX,taweet.com
