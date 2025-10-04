@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-10-04 04:42:38
+# Update: 2025-10-05 04:42:01
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -2839,6 +2839,7 @@ payload:
    - DOMAIN-SUFFIX,martsangkagyuofficial.org
    - DOMAIN-SUFFIX,marxist.com
    - DOMAIN-SUFFIX,marxist.net
+   - DOMAIN-SUFFIX,marxists.org
    - DOMAIN-SUFFIX,maskedip.com
    - DOMAIN-SUFFIX,mastodon.cloud
    - DOMAIN-SUFFIX,mastodon.host
