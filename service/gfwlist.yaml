@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-10-06 04:41:40
+# Update: 2025-10-07 04:44:20
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -4903,6 +4903,7 @@ payload:
    - DOMAIN-SUFFIX,vilanet.me
    - DOMAIN-SUFFIX,vilavpn.com
    - DOMAIN-SUFFIX,vimeo.com
+   - DOMAIN-SUFFIX,vimeocdn.com
    - DOMAIN-SUFFIX,vimperator.org
    - DOMAIN-SUFFIX,vincnd.com
    - DOMAIN-SUFFIX,vine.co
