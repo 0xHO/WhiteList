@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-10-07 04:44:20
+# Update: 2025-10-08 04:43:33
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -4097,6 +4097,7 @@ payload:
    - DOMAIN-SUFFIX,solarsystem.nasa.gov
    - DOMAIN-SUFFIX,solidaritetibet.org
    - DOMAIN-SUFFIX,solidfiles.com
+   - DOMAIN-SUFFIX,solscan.io
    - DOMAIN-SUFFIX,solv.finance
    - DOMAIN-SUFFIX,somee.com
    - DOMAIN-SUFFIX,songjianjun.com
