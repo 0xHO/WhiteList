@@ -6,7 +6,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/chinaip.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
-# Update: 2025-10-08 04:43:33
+# Update: 2025-10-09 04:43:34
 payload:
    - IP-CIDR,1.0.1.0/24,no-resolve
    - IP-CIDR,1.0.2.0/23,no-resolve
@@ -8092,7 +8092,6 @@ payload:
    - IP-CIDR6,2406:840:e608::/46,no-resolve
    - IP-CIDR6,2406:840:e620::/47,no-resolve
    - IP-CIDR6,2406:840:e666::/47,no-resolve
-   - IP-CIDR6,2406:840:e720::/44,no-resolve
    - IP-CIDR6,2406:840:e770::/48,no-resolve
    - IP-CIDR6,2406:840:e777::/48,no-resolve
    - IP-CIDR6,2406:840:e80f::/48,no-resolve
@@ -8959,9 +8958,10 @@ payload:
    - IP-CIDR6,2a09:b280:ff81::/48,no-resolve
    - IP-CIDR6,2a09:b280:ff83::/48,no-resolve
    - IP-CIDR6,2a09:b280:ff84::/47,no-resolve
-   - IP-CIDR6,2a0a:2840::/30,no-resolve
+   - IP-CIDR6,2a0a:2840:20::/43,no-resolve
+   - IP-CIDR6,2a0a:2840:2000::/47,no-resolve
+   - IP-CIDR6,2a0a:2842::/32,no-resolve
    - IP-CIDR6,2a0a:2845:aab8::/46,no-resolve
-   - IP-CIDR6,2a0a:2845:d647::/48,no-resolve
    - IP-CIDR6,2a0a:2846::/48,no-resolve
    - IP-CIDR6,2a0a:6040:ec00::/40,no-resolve
    - IP-CIDR6,2a0a:6044:6600::/39,no-resolve
@@ -8997,6 +8997,7 @@ payload:
    - IP-CIDR6,2a0e:aa07:e0e0::/44,no-resolve
    - IP-CIDR6,2a0e:aa07:e151::/48,no-resolve
    - IP-CIDR6,2a0e:aa07:e155::/48,no-resolve
+   - IP-CIDR6,2a0e:aa07:e15f::/48,no-resolve
    - IP-CIDR6,2a0e:aa07:e16a::/48,no-resolve
    - IP-CIDR6,2a0e:aa07:e1a0::/44,no-resolve
    - IP-CIDR6,2a0e:aa07:e1e1::/48,no-resolve
@@ -9134,7 +9135,7 @@ payload:
    - IP-CIDR6,2a14:67c1:b578::/48,no-resolve
    - IP-CIDR6,2a14:67c1:b582::/48,no-resolve
    - IP-CIDR6,2a14:67c1:b588::/47,no-resolve
-   - IP-CIDR6,2a14:67c1:b590::/48,no-resolve
+   - IP-CIDR6,2a14:67c1:b590::/47,no-resolve
    - IP-CIDR6,2a14:67c1:b599::/48,no-resolve
    - IP-CIDR6,2a14:67c5:1900::/40,no-resolve
    - IP-CIDR6,2a14:7580:740::/44,no-resolve
