@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-10-11 04:43:32
+# Update: 2025-10-12 04:41:46
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1666,6 +1666,8 @@ payload:
    - DOMAIN-SUFFIX,freedomsherald.org
    - DOMAIN-SUFFIX,freeforums.org
    - DOMAIN-SUFFIX,freegao.com
+   - DOMAIN-SUFFIX,freegpt.es
+   - DOMAIN-SUFFIX,freegpt.tech
    - DOMAIN-SUFFIX,freehongkong.org
    - DOMAIN-SUFFIX,freeilhamtohti.org
    - DOMAIN-SUFFIX,freekazakhs.org
