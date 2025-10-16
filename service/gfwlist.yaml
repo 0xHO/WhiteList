@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-10-16 04:45:13
+# Update: 2025-10-17 04:44:10
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -661,7 +661,6 @@ payload:
    - DOMAIN-SUFFIX,btcbank.bank
    - DOMAIN-SUFFIX,btctrade.im
    - DOMAIN-SUFFIX,btdig.com
-   - DOMAIN-SUFFIX,btdigg.org
    - DOMAIN-SUFFIX,btguard.com
    - DOMAIN-SUFFIX,btku.me
    - DOMAIN-SUFFIX,btku.org
@@ -1907,6 +1906,7 @@ payload:
    - DOMAIN-SUFFIX,goodtv.com.tw
    - DOMAIN-SUFFIX,goodtv.tv
    - DOMAIN-SUFFIX,goofind.com
+   - DOMAIN-SUFFIX,goog
    - DOMAIN-SUFFIX,google
    - DOMAIN-SUFFIX,google.ae
    - DOMAIN-SUFFIX,google.am
@@ -5049,6 +5049,7 @@ payload:
    - DOMAIN-SUFFIX,webrtc.org
    - DOMAIN-SUFFIX,webrush.net
    - DOMAIN-SUFFIX,webs-tv.net
+   - DOMAIN-SUFFIX,websdr.org
    - DOMAIN-SUFFIX,website.informer.com
    - DOMAIN-SUFFIX,website.new
    - DOMAIN-SUFFIX,webwarper.net
@@ -5263,6 +5264,7 @@ payload:
    - DOMAIN-SUFFIX,xn--noss43i.com
    - DOMAIN-SUFFIX,xn--oiq.cc
    - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+   - DOMAIN-SUFFIX,xn--u2u927b.com
    - DOMAIN-SUFFIX,xnpool.com
    - DOMAIN-SUFFIX,xnxx.com
    - DOMAIN-SUFFIX,xpdo.net
