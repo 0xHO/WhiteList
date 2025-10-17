@@ -3,9 +3,10 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/github.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
-# Update: Fri Oct 17 04:44:25 CST 2025
+# Update: Sat Oct 18 04:43:36 CST 2025
 payload:
    # ------ github ------>
+   - DOMAIN,github-api.arkoselabs.com
    - DOMAIN,github-cloud.s3.amazonaws.com
    - DOMAIN-SUFFIX,atom.io
    - DOMAIN-SUFFIX,dependabot.com
@@ -28,6 +29,7 @@ payload:
    - DOMAIN-SUFFIX,githubuniverse.com
    - DOMAIN-SUFFIX,githubusercontent.com
    - DOMAIN-SUFFIX,myoctocat.com
+   - DOMAIN-SUFFIX,octocaptcha.com
    - DOMAIN-SUFFIX,opensource.guide
    - DOMAIN-SUFFIX,repo.new
    - DOMAIN-SUFFIX,thegithubshop.com

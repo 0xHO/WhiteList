@@ -3,18 +3,26 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Fri Oct 17 04:44:17 CST 2025
+# Update: Sat Oct 18 04:43:28 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
+   - DOMAIN-SUFFIX,9xgame.com
    - DOMAIN-SUFFIX,astral-vector.com
    - DOMAIN-SUFFIX,forevernine.com
+   - DOMAIN-SUFFIX,fxt365.com
+   - DOMAIN-SUFFIX,gameabc.com
+   - DOMAIN-SUFFIX,gamemei.com
    - DOMAIN-SUFFIX,ledu.com
+   - DOMAIN-SUFFIX,longtugame.com
+   - DOMAIN-SUFFIX,morefreegame.com
    - DOMAIN-SUFFIX,heavenlywind.cc
    - DOMAIN-SUFFIX,steampp.net
    - DOMAIN-SUFFIX,tgpro.top
    - DOMAIN-SUFFIX,tgprocs.net
+   - DOMAIN-SUFFIX,winegame.net
    - DOMAIN-SUFFIX,wo1wan.com
+   - DOMAIN-SUFFIX,ycgame.com
    # ------ 4399 ------>
    - DOMAIN-SUFFIX,3304399.com
    - DOMAIN-SUFFIX,3304399.net
@@ -633,6 +641,7 @@ payload:
    - DOMAIN,steamusercontent-a.akamaihd.net
    - DOMAIN,steamuserimages-a.akamaihd.net
    - DOMAIN,steamvideo-a.akamaihd.net
+   - DOMAIN,steamcloudsweden.blob.core.windows.net
    - DOMAIN-SUFFIX,playartifact.com
    - DOMAIN-SUFFIX,s.team
    - DOMAIN-SUFFIX,steam.tv
