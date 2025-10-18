@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Sat Oct 18 04:43:36 CST 2025
+# Update: Sun Oct 19 04:42:34 CST 2025
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -270,14 +270,6 @@ payload:
    - DOMAIN-SUFFIX,baike.com
    - DOMAIN-SUFFIX,wukong.com
    - DOMAIN-SUFFIX,wukongwenda.com
-   - DOMAIN-SUFFIX,dcarapi.com
-   - DOMAIN-SUFFIX,dcarimg.com
-   - DOMAIN-SUFFIX,dcarlive.com
-   - DOMAIN-SUFFIX,dcarstatic.com
-   - DOMAIN-SUFFIX,dcarvod.com
-   - DOMAIN-SUFFIX,dcdapp.com
-   - DOMAIN-SUFFIX,dongchedi.com
-   - DOMAIN-SUFFIX,dongchediapp.com
    - DOMAIN-SUFFIX,365yg.com
    - DOMAIN-SUFFIX,gogokid.com
    - DOMAIN-SUFFIX,hapierxia.com
@@ -630,3 +622,12 @@ payload:
    - DOMAIN-SUFFIX,writingo-editor.com
    - DOMAIN-SUFFIX,writingo.net
    - DOMAIN-SUFFIX,zebracdn.com
+   # ------ dongchedi ------>
+   - DOMAIN-SUFFIX,dcarapi.com
+   - DOMAIN-SUFFIX,dcarimg.com
+   - DOMAIN-SUFFIX,dcarlive.com
+   - DOMAIN-SUFFIX,dcarstatic.com
+   - DOMAIN-SUFFIX,dcarvod.com
+   - DOMAIN-SUFFIX,dcdapp.com
+   - DOMAIN-SUFFIX,dongchedi.com
+   - DOMAIN-SUFFIX,dongchediapp.com
