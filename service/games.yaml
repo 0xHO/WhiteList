@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Mon Oct 20 04:42:41 CST 2025
+# Update: Tue Oct 21 04:45:45 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -17,7 +17,6 @@ payload:
    - DOMAIN-SUFFIX,longtugame.com
    - DOMAIN-SUFFIX,morefreegame.com
    - DOMAIN-SUFFIX,heavenlywind.cc
-   - DOMAIN-SUFFIX,steampp.net
    - DOMAIN-SUFFIX,tgpro.top
    - DOMAIN-SUFFIX,tgprocs.net
    - DOMAIN-SUFFIX,winegame.net
