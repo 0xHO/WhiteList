@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Wed Oct 22 04:45:48 CST 2025
+# Update: Thu Oct 23 04:43:23 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -697,6 +697,13 @@ payload:
    - DOMAIN-SUFFIX,ubisoft.com
    - DOMAIN-SUFFIX,ubisoftconnect.com
    - DOMAIN-SUFFIX,uplay.com
+   # ------ wbgames ------>
+   - DOMAIN,datarouter.apps.netherrealm.com
+   - DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+   - DOMAIN-SUFFIX,warnerbrosgames.com
+   - DOMAIN-SUFFIX,wbagora.com
+   - DOMAIN-SUFFIX,wbgames.com
+   - DOMAIN-SUFFIX,wbinsights.com
    # ------ xbox ------>
    - DOMAIN-SUFFIX,xbox
    - DOMAIN-SUFFIX,gamepass.com

@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Oct 22 04:45:49 CST 2025
+# Update: Thu Oct 23 04:43:25 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1925,6 +1925,7 @@ payload:
    - DOMAIN-SUFFIX,shizhuang-inc.com
    - DOMAIN-SUFFIX,shizhuang-inc.net
    - DOMAIN-SUFFIX,theduapp.com
+   - DOMAIN-SUFFIX,thepoizon.ru
    - DOMAIN-SUFFIX,womendedw.com
    # ------ dongjiao ------>
    - DOMAIN-SUFFIX,anmo.com
