@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Oct 23 04:43:25 CST 2025
+# Update: Fri Oct 24 04:44:30 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3420,7 +3420,11 @@ payload:
    - DOMAIN-SUFFIX,deepin.com
    - DOMAIN-SUFFIX,deepin.io
    - DOMAIN-SUFFIX,deepin.org
+   - DOMAIN-SUFFIX,51changxie.com
+   - DOMAIN-SUFFIX,91changxie.com
+   - DOMAIN-SUFFIX,changxie.com
    - DOMAIN-SUFFIX,chinauos.com
+   - DOMAIN-SUFFIX,linglong.space
    - DOMAIN-SUFFIX,uniontech.com
    # ------ gitee ------>
    - DOMAIN-SUFFIX,gitee.com
