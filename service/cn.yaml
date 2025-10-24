@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Oct 24 04:44:30 CST 2025
+# Update: Sat Oct 25 04:45:04 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -5291,11 +5291,13 @@ payload:
    - DOMAIN-SUFFIX,vivo.com
    - DOMAIN-SUFFIX,vivoglobal.com
    # ------ xiaomi ------>
+   - DOMAIN-SUFFIX,mgslb.com
    - DOMAIN-SUFFIX,mi-idc.com
    - DOMAIN-SUFFIX,mi-img.com
    - DOMAIN-SUFFIX,mi.com
    - DOMAIN-SUFFIX,migames.com
    - DOMAIN-SUFFIX,mijia.tech
+   - DOMAIN-SUFFIX,mitvos.com
    - DOMAIN-SUFFIX,miui.com
    - DOMAIN-SUFFIX,miwifi.com
    - DOMAIN-SUFFIX,xiaomi.com
