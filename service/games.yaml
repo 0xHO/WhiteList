@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Tue Oct 28 04:43:40 CST 2025
+# Update: Wed Oct 29 04:46:27 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -80,6 +80,12 @@ payload:
    # ------ cowlevel ------>
    - DOMAIN-SUFFIX,cowlevel.net
    - DOMAIN-SUFFIX,cdncl.net
+   # ------ herogame ------>
+   - DOMAIN-SUFFIX,hero.com
+   - DOMAIN-SUFFIX,herogame.com
+   - DOMAIN-SUFFIX,heroesports.com
+   - DOMAIN-SUFFIX,shyxhy.com
+   - DOMAIN-SUFFIX,yingxiong.com
    # ------ kurogames ------>
    # ------ mihoyo-cn ------>
    # ------ tencent-games ------>
@@ -114,10 +120,13 @@ payload:
    - DOMAIN-SUFFIX,fitgirl-repacks.site
    - DOMAIN-SUFFIX,game-repack.site
    - DOMAIN-SUFFIX,humblebundle.com
+   - DOMAIN-SUFFIX,joinsquad.com
    - DOMAIN-SUFFIX,loverslab.com
    - DOMAIN-SUFFIX,minecraft.wiki
    - DOMAIN-SUFFIX,modrinth.com
    - DOMAIN-SUFFIX,nexusmods.com
+   - DOMAIN-SUFFIX,offworldindustries.com
+   - DOMAIN-SUFFIX,offworldindustries.net
    - DOMAIN-SUFFIX,papermc.io
    - DOMAIN-SUFFIX,planetminecraft.com
    - DOMAIN-SUFFIX,prismlauncher.org

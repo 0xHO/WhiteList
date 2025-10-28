@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Tue Oct 28 04:43:40 CST 2025
+# Update: Wed Oct 29 04:46:28 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -16,6 +16,7 @@ payload:
    # ------ bluepoch-games ------>
    - DOMAIN-SUFFIX,sl916.com
    # ------ cowlevel ------>
+   # ------ herogame ------>
    # ------ kurogames ------>
    - DOMAIN-SUFFIX,kurogames.com
    - DOMAIN-SUFFIX,aki-game.com
