@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Oct 31 04:45:02 CST 2025
+# Update: Sat Nov  1 04:42:42 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -1857,7 +1857,9 @@ payload:
    - DOMAIN-SUFFIX,jxksw.net
    - DOMAIN-SUFFIX,xinchong.com
    - DOMAIN-SUFFIX,zhuancorp.com
+   - DOMAIN-SUFFIX,zhuaninc.com
    - DOMAIN-SUFFIX,zhuanspirit.com
+   - DOMAIN-SUFFIX,zhuanstatic.com
    - DOMAIN-SUFFIX,zhuanzhuan.com
    # ------ ganji ------>
    - DOMAIN-SUFFIX,58ganji.com
@@ -2824,6 +2826,7 @@ payload:
    - DOMAIN-SUFFIX,saayaa.com
    - DOMAIN-SUFFIX,win7china.com
    - DOMAIN-SUFFIX,win8china.com
+   - DOMAIN-SUFFIX,zuihuimai.com
    # ------ sohu ------>
    - DOMAIN-SUFFIX,sohu
    - DOMAIN-SUFFIX,sohu.com
@@ -3804,6 +3807,7 @@ payload:
    - DOMAIN-SUFFIX,bce-cdn.com
    - DOMAIN-SUFFIX,bce-cdn.net
    - DOMAIN-SUFFIX,bcebos.com
+   - DOMAIN-SUFFIX,bcelive.com
    - DOMAIN-SUFFIX,bdcloudapi.com
    - DOMAIN-SUFFIX,bdimg.com
    - DOMAIN-SUFFIX,bdstatic.com
@@ -3832,6 +3836,7 @@ payload:
    - DOMAIN-SUFFIX,tiebaimg.com
    - DOMAIN-SUFFIX,xianfae.com
    - DOMAIN-SUFFIX,xiaodutv.com
+   - DOMAIN-SUFFIX,yoojia.com
    - DOMAIN-SUFFIX,duxiaoman-int.com
    - DOMAIN-SUFFIX,duxiaoman.com
    - DOMAIN-SUFFIX,duxiaomanfintech.com
@@ -5312,6 +5317,7 @@ payload:
    - DOMAIN-SUFFIX,iqoo.com
    - DOMAIN-SUFFIX,vivo.com
    - DOMAIN-SUFFIX,vivoglobal.com
+   - DOMAIN-SUFFIX,vvstc.com
    # ------ xiaomi ------>
    - DOMAIN-SUFFIX,mgslb.com
    - DOMAIN-SUFFIX,mi-idc.com
@@ -5476,6 +5482,7 @@ payload:
    # ------ category-enterprise-query-platform-cn ------>
    # ------ aiqicha ------>
    - DOMAIN-SUFFIX,aiqicha.baidu.com
+   - DOMAIN-SUFFIX,aiqicha.com
    # ------ hongdunwang ------>
    # ------ qcc ------>
    - DOMAIN-SUFFIX,qcc.com
