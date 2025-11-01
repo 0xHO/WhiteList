@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Nov  1 04:42:42 CST 2025
+# Update: Sun Nov  2 04:42:06 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -457,7 +457,6 @@ payload:
    - DOMAIN-SUFFIX,gdrc.com
    - DOMAIN-SUFFIX,geektool.top
    - DOMAIN-SUFFIX,geilicdn.com
-   - DOMAIN-SUFFIX,getui.com
    - DOMAIN-SUFFIX,gezida.com
    - DOMAIN-SUFFIX,gfan.com
    - DOMAIN-SUFFIX,giocdn.com
@@ -562,6 +561,7 @@ payload:
    - DOMAIN-SUFFIX,iyiou.com
    - DOMAIN-SUFFIX,iyunmu.com
    - DOMAIN-SUFFIX,jb51.com
+   - DOMAIN-SUFFIX,jb51.net
    - DOMAIN-SUFFIX,jia.com
    - DOMAIN-SUFFIX,jiameng.com
    - DOMAIN-SUFFIX,jianbihua.com
@@ -793,6 +793,7 @@ payload:
    - DOMAIN-SUFFIX,rong360.com
    - DOMAIN-SUFFIX,rtbasia.com
    - DOMAIN-SUFFIX,ruan8.com
+   - DOMAIN-SUFFIX,ruiwen.com
    - DOMAIN-SUFFIX,runoob.com
    - DOMAIN-SUFFIX,rzrc114.com
    - DOMAIN-SUFFIX,saibo.com
@@ -867,7 +868,6 @@ payload:
    - DOMAIN-SUFFIX,tanx.com
    - DOMAIN-SUFFIX,tao123.com
    - DOMAIN-SUFFIX,taoche.com
-   - DOMAIN-SUFFIX,tclai.top
    - DOMAIN-SUFFIX,te5.com
    - DOMAIN-SUFFIX,tenxcloud.com
    - DOMAIN-SUFFIX,tianjimedia.com
@@ -1115,7 +1115,10 @@ payload:
    - DOMAIN-SUFFIX,zoom3g.com
    - DOMAIN-SUFFIX,ecombdapi.com
    - DOMAIN-SUFFIX,huaban.com
+   - DOMAIN-SUFFIX,huabanimg.com
    - DOMAIN-SUFFIX,dancf.com
+   - DOMAIN-SUFFIX,hlgdata.com
+   - DOMAIN-SUFFIX,huanleguang.com
    - DOMAIN-SUFFIX,kujiale.com
    - DOMAIN-SUFFIX,hisensehitachi.com
    - DOMAIN-SUFFIX,suzuki-china.com
@@ -1153,9 +1156,15 @@ payload:
    - DOMAIN-SUFFIX,bdcat.top
    - DOMAIN-SUFFIX,puddingcat.top
    - DOMAIN-SUFFIX,ningtingche.com
-   - DOMAIN-SUFFIX,immersivetranslate.com
    - DOMAIN-SUFFIX,mingxuan.store
    - DOMAIN-SUFFIX,qunliao.info
+   # ------ getui ------>
+   - DOMAIN-SUFFIX,gepush.com
+   - DOMAIN-SUFFIX,getui.com
+   - DOMAIN-SUFFIX,getui.net
+   - DOMAIN-SUFFIX,igehuo.com
+   - DOMAIN-SUFFIX,igetui.com
+   - DOMAIN-SUFFIX,igexin.com
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
    - DOMAIN-SUFFIX,jchat.io
@@ -2181,7 +2190,9 @@ payload:
    - DOMAIN-SUFFIX,mogujie.com
    # ------ pinduoduo ------>
    - DOMAIN-SUFFIX,pddcdn.com
+   - DOMAIN-SUFFIX,pddim.com
    - DOMAIN-SUFFIX,pddpic.com
+   - DOMAIN-SUFFIX,pddugc.com
    - DOMAIN-SUFFIX,pinduoduo.com
    - DOMAIN-SUFFIX,pinduoduo.net
    - DOMAIN-SUFFIX,yangkeduo.com
@@ -2923,6 +2934,10 @@ payload:
    - DOMAIN-SUFFIX,aliyundrive.com
    - DOMAIN-SUFFIX,aliyundrive.net
    - DOMAIN-SUFFIX,yunpan.aliyun.com
+   # ------ cowtransfer ------>
+   - DOMAIN-SUFFIX,c-t.work
+   - DOMAIN-SUFFIX,cowcs.com
+   - DOMAIN-SUFFIX,cowtransfer.com
    # ------ lanzou ------>
    - DOMAIN-SUFFIX,baidupan.com
    - DOMAIN-SUFFIX,ilanzou.com
@@ -3198,9 +3213,6 @@ payload:
    # ------ colorfulclouds ------>
    - DOMAIN-SUFFIX,caiyunai.com
    - DOMAIN-SUFFIX,caiyunapp.com
-   # ------ cowtransfer ------>
-   - DOMAIN-SUFFIX,c-t.work
-   - DOMAIN-SUFFIX,cowtransfer.com
    # ------ dida365 ------>
    - DOMAIN-SUFFIX,dida365.com
    # ------ flowus ------>
@@ -3227,44 +3239,6 @@ payload:
    # ------ jinshuju ------>
    - DOMAIN-SUFFIX,jinshuju.net
    - DOMAIN-SUFFIX,jinshujucdn.com
-   # ------ jlc ------>
-   - DOMAIN-SUFFIX,fa-part.com
-   - DOMAIN-SUFFIX,forface3d.com
-   - DOMAIN-SUFFIX,jlc-3dp.com
-   - DOMAIN-SUFFIX,jlc-bbs.com
-   - DOMAIN-SUFFIX,jlc-cad.com
-   - DOMAIN-SUFFIX,jlc-cam.com
-   - DOMAIN-SUFFIX,jlc-cnc.com
-   - DOMAIN-SUFFIX,jlc-dfm.com
-   - DOMAIN-SUFFIX,jlc-drm.com
-   - DOMAIN-SUFFIX,jlc-ecad.com
-   - DOMAIN-SUFFIX,jlc-erp.com
-   - DOMAIN-SUFFIX,jlc-fpc.com
-   - DOMAIN-SUFFIX,jlc-gw.com
-   - DOMAIN-SUFFIX,jlc-jh.com
-   - DOMAIN-SUFFIX,jlc-layout.com
-   - DOMAIN-SUFFIX,jlc-pcb.com
-   - DOMAIN-SUFFIX,jlc-smt.com
-   - DOMAIN-SUFFIX,jlc-zh.com
-   - DOMAIN-SUFFIX,jlc.com
-   - DOMAIN-SUFFIX,jlccad.com
-   - DOMAIN-SUFFIX,jlccam.com
-   - DOMAIN-SUFFIX,jlccnc.com
-   - DOMAIN-SUFFIX,jlcdfm.com
-   - DOMAIN-SUFFIX,jlcecad.com
-   - DOMAIN-SUFFIX,jlceda.com
-   - DOMAIN-SUFFIX,jlcerp.com
-   - DOMAIN-SUFFIX,jlcfa.com
-   - DOMAIN-SUFFIX,jlcops.com
-   - DOMAIN-SUFFIX,jlcsj.com
-   - DOMAIN-SUFFIX,jlcsmt.com
-   - DOMAIN-SUFFIX,lckfb.com
-   - DOMAIN-SUFFIX,oshwhub.com
-   - DOMAIN-SUFFIX,sanweihou.com
-   - DOMAIN-SUFFIX,sz-jlc.com
-   - DOMAIN-SUFFIX,szlcsc.com
-   - DOMAIN-SUFFIX,zs-jlc.com
-   - DOMAIN-SUFFIX,zxhgroup.com
    # ------ keep ------>
    - DOMAIN-SUFFIX,gotokeep.com
    - DOMAIN-SUFFIX,keepcdn.com
@@ -3524,6 +3498,7 @@ payload:
    - DOMAIN-SUFFIX,25pp.com
    - DOMAIN-SUFFIX,56che.com
    - DOMAIN-SUFFIX,95095.com
+   - DOMAIN-SUFFIX,ali-health.com
    - DOMAIN-SUFFIX,aliapp.org
    - DOMAIN-SUFFIX,alibaba-inc.com
    - DOMAIN-SUFFIX,alibaba.com
@@ -3665,6 +3640,7 @@ payload:
    - DOMAIN-SUFFIX,alidayu.com
    - DOMAIN-SUFFIX,alidns.com
    - DOMAIN-SUFFIX,alikunlun.com
+   - DOMAIN-SUFFIX,alikunlun.net
    - DOMAIN-SUFFIX,aliyun-inc.com
    - DOMAIN-SUFFIX,aliyun-iot-share.com
    - DOMAIN-SUFFIX,aliyun.com
@@ -4514,6 +4490,16 @@ payload:
    - DOMAIN-SUFFIX,djiservice.org
    - DOMAIN-SUFFIX,skypixel.com
    - DOMAIN-SUFFIX,robomaster.com
+   # ------ gree ------>
+   - DOMAIN-SUFFIX,gree.com
+   - DOMAIN-SUFFIX,greeyun.com
+   - DOMAIN-SUFFIX,kinghomechina.com
+   - DOMAIN-SUFFIX,zhlyen.com
+   # ------ haier ------>
+   - DOMAIN-SUFFIX,ehaier.com
+   - DOMAIN-SUFFIX,haier.com
+   - DOMAIN-SUFFIX,haier.net
+   - DOMAIN-SUFFIX,haiersmarthomes.com
    # ------ honor ------>
    - DOMAIN-SUFFIX,hihonor.com
    - DOMAIN-SUFFIX,hihonorcdn.com
@@ -4796,6 +4782,12 @@ payload:
    - DOMAIN-SUFFIX,flymeauto.com
    - DOMAIN-SUFFIX,meizu.com
    - DOMAIN-SUFFIX,mzres.com
+   # ------ midea ------>
+   - DOMAIN-SUFFIX,irsnp.com
+   - DOMAIN-SUFFIX,midea.com
+   - DOMAIN-SUFFIX,mideaepayuat.com
+   - DOMAIN-SUFFIX,msmartlife.com
+   - DOMAIN-SUFFIX,smartmidea.net
    # ------ narwal ------>
    - DOMAIN-SUFFIX,narwal.com
    - DOMAIN-SUFFIX,narwaltech.com
@@ -4895,6 +4887,7 @@ payload:
    - DOMAIN-SUFFIX,namiso.com
    - DOMAIN-SUFFIX,nicaifu.com
    - DOMAIN-SUFFIX,nzwgs.com
+   - DOMAIN-SUFFIX,qh-cdn.com
    - DOMAIN-SUFFIX,qhcdn.com
    - DOMAIN-SUFFIX,qhimg.com
    - DOMAIN-SUFFIX,qhimgs0.com
@@ -4941,6 +4934,11 @@ payload:
    - DOMAIN-SUFFIX,sumkoo.net
    - DOMAIN-SUFFIX,veeqi.net
    - DOMAIN-SUFFIX,wenmingban.com
+   # ------ tcl ------>
+   - DOMAIN-SUFFIX,tclai.top
+   - DOMAIN-SUFFIX,tcl.com
+   - DOMAIN-SUFFIX,tcltech.com
+   - DOMAIN-SUFFIX,leiniao.com
    # ------ tencent ------>
    - DOMAIN,wetv.qq.com
    - DOMAIN-SUFFIX,qq.xn--fiqs8s
@@ -5464,21 +5462,6 @@ payload:
    - DOMAIN-SUFFIX,aamgame.mobi
    - DOMAIN-SUFFIX,aamsmart.com
    - DOMAIN-SUFFIX,singworld.net
-   # ------ 8btc ------>
-   - DOMAIN-SUFFIX,8btc.com
-   - DOMAIN-SUFFIX,bystack.com
-   - DOMAIN-SUFFIX,chainnode.com
-   - DOMAIN-SUFFIX,matpool.com
-   - DOMAIN-SUFFIX,matpool.net
-   # ------ jibencaozuo ------>
-   - DOMAIN-SUFFIX,jbcz.tv
-   - DOMAIN-SUFFIX,jibencaozuo.com
-   - DOMAIN-SUFFIX,media.paperclipclub.net
-   # ------ sinopec ------>
-   - DOMAIN-SUFFIX,sinopec-usa.com
-   - DOMAIN-SUFFIX,sinopec.com
-   - DOMAIN-SUFFIX,sinopecgroup.com
-   - DOMAIN-SUFFIX,sinopecsales.com
    # ------ category-enterprise-query-platform-cn ------>
    # ------ aiqicha ------>
    - DOMAIN-SUFFIX,aiqicha.baidu.com
@@ -5497,22 +5480,21 @@ payload:
    - DOMAIN-SUFFIX,tianyancha.com
    # ------ x315 ------>
    - DOMAIN-SUFFIX,x315.com
-   # ------ gree ------>
-   - DOMAIN-SUFFIX,gree.com
-   - DOMAIN-SUFFIX,greeyun.com
-   - DOMAIN-SUFFIX,kinghomechina.com
-   - DOMAIN-SUFFIX,zhlyen.com
-   # ------ haier ------>
-   - DOMAIN-SUFFIX,ehaier.com
-   - DOMAIN-SUFFIX,haier.com
-   - DOMAIN-SUFFIX,haier.net
-   - DOMAIN-SUFFIX,haiersmarthomes.com
-   # ------ midea ------>
-   - DOMAIN-SUFFIX,irsnp.com
-   - DOMAIN-SUFFIX,midea.com
-   - DOMAIN-SUFFIX,mideaepayuat.com
-   - DOMAIN-SUFFIX,msmartlife.com
-   - DOMAIN-SUFFIX,smartmidea.net
+   # ------ 8btc ------>
+   - DOMAIN-SUFFIX,8btc.com
+   - DOMAIN-SUFFIX,bystack.com
+   - DOMAIN-SUFFIX,chainnode.com
+   - DOMAIN-SUFFIX,matpool.com
+   - DOMAIN-SUFFIX,matpool.net
+   # ------ jibencaozuo ------>
+   - DOMAIN-SUFFIX,jbcz.tv
+   - DOMAIN-SUFFIX,jibencaozuo.com
+   - DOMAIN-SUFFIX,media.paperclipclub.net
+   # ------ sinopec ------>
+   - DOMAIN-SUFFIX,sinopec-usa.com
+   - DOMAIN-SUFFIX,sinopec.com
+   - DOMAIN-SUFFIX,sinopecgroup.com
+   - DOMAIN-SUFFIX,sinopecsales.com
    # ------ bjyouth ------>
    - DOMAIN-SUFFIX,bjyouth.net
    - DOMAIN-SUFFIX,sqqnh.org
