@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Nov  5 04:46:18 CST 2025
+# Update: Thu Nov  6 04:46:46 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -5306,7 +5306,6 @@ payload:
    - DOMAIN-SUFFIX,qidian.com
    - DOMAIN-SUFFIX,readnovel.com
    - DOMAIN-SUFFIX,tingbook.com
-   - DOMAIN-SUFFIX,webnovel.com
    - DOMAIN-SUFFIX,xxsy.net
    # ------ tongfang ------>
    - DOMAIN-SUFFIX,tongfangpc.com
