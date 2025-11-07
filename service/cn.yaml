@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Nov  7 04:46:13 CST 2025
+# Update: Sat Nov  8 04:43:08 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2358,7 +2358,6 @@ payload:
    - DOMAIN-SUFFIX,bestvcdn.net
    # ------ bilibili ------>
    - DOMAIN,manga.bilibili.com
-   - DOMAIN,upos-hz-mirrorakam.akamaized.net
    - DOMAIN-SUFFIX,bilicomic.com
    - DOMAIN-SUFFIX,bilicomics.com
    - DOMAIN-SUFFIX,acg.tv
@@ -2373,23 +2372,25 @@ payload:
    - DOMAIN-SUFFIX,bilibili.net
    - DOMAIN-SUFFIX,bilibili.tv
    - DOMAIN-SUFFIX,bilibilipay.com
+   - DOMAIN-SUFFIX,biligo.com
+   - DOMAIN-SUFFIX,biliintl.com
+   - DOMAIN-SUFFIX,dreamcast.hk
+   - DOMAIN-SUFFIX,im9.com
+   - DOMAIN-SUFFIX,yo9.com
+   # ------ bilibili-cdn ------>
+   - DOMAIN,upos-hz-mirrorakam.akamaized.net
    - DOMAIN-SUFFIX,bilicdn1.com
    - DOMAIN-SUFFIX,bilicdn2.com
    - DOMAIN-SUFFIX,bilicdn3.com
    - DOMAIN-SUFFIX,bilicdn4.com
    - DOMAIN-SUFFIX,bilicdn5.com
-   - DOMAIN-SUFFIX,biligo.com
    - DOMAIN-SUFFIX,biliimg.com
-   - DOMAIN-SUFFIX,biliintl.com
    - DOMAIN-SUFFIX,bilivideo.com
    - DOMAIN-SUFFIX,bilivideo.net
-   - DOMAIN-SUFFIX,dreamcast.hk
    - DOMAIN-SUFFIX,hdslb.com
    - DOMAIN-SUFFIX,hdslb.org
-   - DOMAIN-SUFFIX,im9.com
    - DOMAIN-SUFFIX,maoercdn.com
    - DOMAIN-SUFFIX,mincdn.com
-   - DOMAIN-SUFFIX,yo9.com
    # ------ bilibili-game ------>
    # ------ ciweimao ------>
    - DOMAIN-SUFFIX,ciweimao.com

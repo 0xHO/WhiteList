@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-11-07 04:46:05
+# Update: 2025-11-08 04:43:00
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -2345,6 +2345,7 @@ payload:
    - DOMAIN-SUFFIX,imageflea.com
    - DOMAIN-SUFFIX,imageglass.org
    - DOMAIN-SUFFIX,images-gaytube.com
+   - DOMAIN-SUFFIX,images.prismic.io
    - DOMAIN-SUFFIX,imageshack.us
    - DOMAIN-SUFFIX,imagevenue.com
    - DOMAIN-SUFFIX,imagezilla.net
