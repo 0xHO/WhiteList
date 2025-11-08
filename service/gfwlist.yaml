@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-11-08 04:43:00
+# Update: 2025-11-09 04:42:09
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -1161,7 +1161,6 @@ payload:
    - DOMAIN-SUFFIX,deja.com
    - DOMAIN-SUFFIX,delcamp.net
    - DOMAIN-SUFFIX,demo.unlock-music.dev
-   - DOMAIN-SUFFIX,democrats.org
    - DOMAIN-SUFFIX,demosisto.hk
    - DOMAIN-SUFFIX,deno.dev
    - DOMAIN-SUFFIX,depositphotos.com
