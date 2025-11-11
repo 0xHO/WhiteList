@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Tue Nov 11 04:47:48 CST 2025
+# Update: Wed Nov 12 04:45:40 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -77,6 +77,7 @@ payload:
    - DOMAIN-SUFFIX,youba.com
    - DOMAIN-SUFFIX,yxhhdl.com
    # ------ bluepoch-games ------>
+   - DOMAIN-SUFFIX,sl916.com
    # ------ cowlevel ------>
    - DOMAIN-SUFFIX,cowlevel.net
    - DOMAIN-SUFFIX,cdncl.net
@@ -88,8 +89,82 @@ payload:
    - DOMAIN-SUFFIX,yingxiong.com
    # ------ kurogames ------>
    # ------ mihoyo-cn ------>
+   - DOMAIN-SUFFIX,mhystatic.com
+   - DOMAIN-SUFFIX,mihayo.com
+   - DOMAIN-SUFFIX,mihayou.com
+   - DOMAIN-SUFFIX,mihoyo.com
+   - DOMAIN-SUFFIX,mihoyocg.com
+   - DOMAIN-SUFFIX,mihoyogift.com
+   - DOMAIN-SUFFIX,mihoyomall.com
+   - DOMAIN-SUFFIX,miyoushe.com
+   - DOMAIN-SUFFIX,benghuai.com
+   - DOMAIN-SUFFIX,bh3.com
+   - DOMAIN-SUFFIX,bhsr.com
+   - DOMAIN-SUFFIX,themisweeps.com
+   - DOMAIN-SUFFIX,yuanshen.com
+   - DOMAIN-SUFFIX,juequling.com
    # ------ tencent-games ------>
-   - DOMAIN-SUFFIX,supercell.com
+   - DOMAIN-SUFFIX,battlecare.net
+   - DOMAIN-SUFFIX,gameitop.com
+   - DOMAIN-SUFFIX,gameloop.com
+   - DOMAIN-SUFFIX,gcloudcs.com
+   - DOMAIN-SUFFIX,gcloudcstest.com
+   - DOMAIN-SUFFIX,gcloudcstestonly.com
+   - DOMAIN-SUFFIX,gclouddolphin.com
+   - DOMAIN-SUFFIX,gcloudsdk.com
+   - DOMAIN-SUFFIX,gdtimg.com
+   - DOMAIN-SUFFIX,goto-game.com
+   - DOMAIN-SUFFIX,goto-game.mobi
+   - DOMAIN-SUFFIX,goto-game.org
+   - DOMAIN-SUFFIX,happyhlddz.com
+   - DOMAIN-SUFFIX,hdyxgame.com
+   - DOMAIN-SUFFIX,hkgcloudcs.com
+   - DOMAIN-SUFFIX,ihappystudio.com
+   - DOMAIN-SUFFIX,in.th
+   - DOMAIN-SUFFIX,ludoworld.net
+   - DOMAIN-SUFFIX,mahjongai.net
+   - DOMAIN-SUFFIX,mahjongcup.com
+   - DOMAIN-SUFFIX,mahjongcup.net
+   - DOMAIN-SUFFIX,metalrevolution.com
+   - DOMAIN-SUFFIX,midasbuy.com
+   - DOMAIN-SUFFIX,nagcloudcs.com
+   - DOMAIN-SUFFIX,proximabeta.com
+   - DOMAIN-SUFFIX,pubghelper.com
+   - DOMAIN-SUFFIX,pubgtool.com
+   - DOMAIN-SUFFIX,qqgameapp.com
+   - DOMAIN-SUFFIX,rmwxgame.com
+   - DOMAIN-SUFFIX,syxlgame.com
+   - DOMAIN-SUFFIX,tencent-gcloud.com
+   - DOMAIN-SUFFIX,tencentstart.com
+   - DOMAIN-SUFFIX,texasholdemcup.com
+   - DOMAIN-SUFFIX,texasholdemcup.net
+   - DOMAIN-SUFFIX,timibase.com
+   - DOMAIN-SUFFIX,videoxiaoyouxi.com
+   - DOMAIN-SUFFIX,wcbygame.com
+   - DOMAIN-SUFFIX,yxdmgame.com
+   - DOMAIN-SUFFIX,yxwsgame.com
+   - DOMAIN-SUFFIX,yzyxgame.com
+   - DOMAIN-SUFFIX,zcjbgame.com
+   - DOMAIN-SUFFIX,zhuoyuegame.com
+   - DOMAIN-SUFFIX,roblox.qq.com
+   - DOMAIN-SUFFIX,nextstudios.com
+   - DOMAIN-SUFFIX,nextworkshop.net
+   - DOMAIN-SUFFIX,mszdld.com
+   - DOMAIN-SUFFIX,mszdld.net
+   - DOMAIN-SUFFIX,gamebonfire.com
+   - DOMAIN-SUFFIX,gouhuo.qq.com
+   - DOMAIN-SUFFIX,ffbuddy.com
+   - DOMAIN-SUFFIX,gotolink.net
+   - DOMAIN-SUFFIX,gtgres.com
+   - DOMAIN-SUFFIX,realcybertron.com
+   - DOMAIN-SUFFIX,wegame.com
+   - DOMAIN-SUFFIX,wegameplus.com
+   - DOMAIN-SUFFIX,codm.com
+   - DOMAIN-SUFFIX,bcfmglobal.com
+   - DOMAIN-SUFFIX,tcfmglobal.com
+   - DOMAIN-SUFFIX,anticheatexpert.com
+   - DOMAIN-SUFFIX,17roco.com
+   - DOMAIN-SUFFIX,roco.qq.com
    # ------ tgbus ------>
    - DOMAIN-SUFFIX,tgbus.com
    # ------ tiancity ------>
