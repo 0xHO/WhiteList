@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Nov 15 04:45:39 CST 2025
+# Update: Sun Nov 16 04:42:47 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -39,9 +39,12 @@ payload:
    - DOMAIN-SUFFIX,vipstatic.com
    - DOMAIN-SUFFIX,manmanbuy.com
    - DOMAIN-SUFFIX,xiamai.net
+   - DOMAIN-SUFFIX,anywlan.com
+   - DOMAIN-SUFFIX,chinadsl.net
    - DOMAIN-SUFFIX,chiphell.com
    - DOMAIN-SUFFIX,chongbuluo.com
    - DOMAIN-SUFFIX,erji.net
+   - DOMAIN-SUFFIX,itpub.net
    - DOMAIN-SUFFIX,itsk.com
    - DOMAIN-SUFFIX,kanxue.com
    - DOMAIN-SUFFIX,kdslife.com
@@ -49,6 +52,7 @@ payload:
    - DOMAIN-SUFFIX,klpbbs.com
    - DOMAIN-SUFFIX,mcbbs.net
    - DOMAIN-SUFFIX,pcbeta.com
+   - DOMAIN-SUFFIX,txrjy.com
    - DOMAIN-SUFFIX,uiwow.com
    - DOMAIN-SUFFIX,wuyou.net
    - DOMAIN-SUFFIX,423down.com
@@ -914,7 +918,6 @@ payload:
    - DOMAIN-SUFFIX,tuwanjun.com
    - DOMAIN-SUFFIX,tvmao.com
    - DOMAIN-SUFFIX,tvzhe.com
-   - DOMAIN-SUFFIX,txrjy.com
    - DOMAIN-SUFFIX,u.tools
    - DOMAIN-SUFFIX,ucbug.com
    - DOMAIN-SUFFIX,uggame.com
@@ -1209,6 +1212,7 @@ payload:
    - DOMAIN-SUFFIX,liblib.art
    - DOMAIN-SUFFIX,namiso.com
    - DOMAIN-SUFFIX,miaoyanai.com
+   - DOMAIN-SUFFIX,faxingbao.com
    # ------ deepseek ------>
    - DOMAIN-SUFFIX,deepseek.com
    # ------ doubao ------>
@@ -2236,6 +2240,8 @@ payload:
    - DOMAIN-SUFFIX,muwai.com
    - DOMAIN-SUFFIX,pearvideo.com
    - DOMAIN-SUFFIX,sfacg.com
+   - DOMAIN-SUFFIX,yamibo.com
+   - DOMAIN-SUFFIX,yiyouliao.com
    - DOMAIN-SUFFIX,zhanqi.tv
    # ------ category-games-cn ------>
    - DOMAIN-SUFFIX,9xgame.com
@@ -2869,6 +2875,7 @@ payload:
    - DOMAIN-SUFFIX,admin5.com
    - DOMAIN-SUFFIX,jxpp.com
    - DOMAIN-SUFFIX,woshipm.com
+   - DOMAIN-SUFFIX,zhichanli.com
    # ------ 36kr ------>
    - DOMAIN-SUFFIX,36dianping.com
    - DOMAIN-SUFFIX,36kr.com
@@ -3851,6 +3858,7 @@ payload:
    - DOMAIN-SUFFIX,chuanke.com
    - DOMAIN-SUFFIX,dlnel.com
    - DOMAIN-SUFFIX,dlnel.org
+   - DOMAIN-SUFFIX,duapp.com
    - DOMAIN-SUFFIX,duapp.net
    - DOMAIN-SUFFIX,duapps.com
    - DOMAIN-SUFFIX,hao123.com
@@ -3860,6 +3868,7 @@ payload:
    - DOMAIN-SUFFIX,jomocdn.net
    - DOMAIN-SUFFIX,jomodns.com
    - DOMAIN-SUFFIX,jomodns.net
+   - DOMAIN-SUFFIX,jomoxc.com
    - DOMAIN-SUFFIX,mipcdn.com
    - DOMAIN-SUFFIX,nuomi.com
    - DOMAIN-SUFFIX,quyaoya.com
