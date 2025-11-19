@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-11-18 04:43:13
+# Update: 2025-11-20 04:43:25
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -188,6 +188,7 @@ payload:
    - DOMAIN-SUFFIX,agnesb.fr
    - DOMAIN-SUFFIX,agoogleaday.com
    - DOMAIN-SUFFIX,agro.hk
+   - DOMAIN-SUFFIX,ai.dev
    - DOMAIN-SUFFIX,aiosearch.com
    - DOMAIN-SUFFIX,aiph.net
    - DOMAIN-SUFFIX,airasia.com
@@ -956,6 +957,7 @@ payload:
    - DOMAIN-SUFFIX,cloud.mail.ru
    - DOMAIN-SUFFIX,cloudflare-dns.com
    - DOMAIN-SUFFIX,cloudflare-ipfs.com
+   - DOMAIN-SUFFIX,cloudflarestatus.com
    - DOMAIN-SUFFIX,cloudfunctions.net
    - DOMAIN-SUFFIX,club1069.com
    - DOMAIN-SUFFIX,clubhouseapi.com
@@ -2729,6 +2731,7 @@ payload:
    - DOMAIN-SUFFIX,liberal.org.hk
    - DOMAIN-SUFFIX,libertysculpturepark.com
    - DOMAIN-SUFFIX,libertytimes.com.tw
+   - DOMAIN-SUFFIX,library-access.sk
    - DOMAIN-SUFFIX,libredd.it
    - DOMAIN-SUFFIX,lifemiles.com
    - DOMAIN-SUFFIX,lighten.org.tw
@@ -2942,6 +2945,7 @@ payload:
    - DOMAIN-SUFFIX,middle-way.net
    - DOMAIN-SUFFIX,mihr.com
    - DOMAIN-SUFFIX,mihua.org
+   - DOMAIN-SUFFIX,mij.rip
    - DOMAIN-SUFFIX,mikanani.me
    - DOMAIN-SUFFIX,mike.cz.cc
    - DOMAIN-SUFFIX,mikesoltys.com
@@ -2986,6 +2990,7 @@ payload:
    - DOMAIN-SUFFIX,mixpod.com
    - DOMAIN-SUFFIX,mixx.com
    - DOMAIN-SUFFIX,mizzmona.com
+   - DOMAIN-SUFFIX,mji.rip
    - DOMAIN-SUFFIX,mjib.gov.tw
    - DOMAIN-SUFFIX,mjj.rip
    - DOMAIN-SUFFIX,mlc.ai
@@ -5282,6 +5287,7 @@ payload:
    - DOMAIN-SUFFIX,xmovies.com
    - DOMAIN-SUFFIX,xn--11xs86f.icu
    - DOMAIN-SUFFIX,xn--4gq171p.com
+   - DOMAIN-SUFFIX,xn--9iqy04a7fi01l.com
    - DOMAIN-SUFFIX,xn--9pr62r24a.com
    - DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
    - DOMAIN-SUFFIX,xn--i2ru8q2qg.com
