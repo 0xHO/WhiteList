@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-11-20 04:43:25
+# Update: 2025-11-21 04:44:21
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -2027,6 +2027,7 @@ payload:
    - DOMAIN-SUFFIX,greasyfork.org
    - DOMAIN-SUFFIX,greatfire.org
    - DOMAIN-SUFFIX,greatfire.us7.list-manage.com
+   - DOMAIN-SUFFIX,greatfirevpn.com
    - DOMAIN-SUFFIX,greatfirewall.biz
    - DOMAIN-SUFFIX,greatfirewallofchina.org
    - DOMAIN-SUFFIX,greatroc.org
@@ -5149,6 +5150,7 @@ payload:
    - DOMAIN-SUFFIX,wikipedia.com
    - DOMAIN-SUFFIX,wikipedia.org
    - DOMAIN-SUFFIX,wikisource.org
+   - DOMAIN-SUFFIX,wikiunblocked.org
    - DOMAIN-SUFFIX,wikiversity.org
    - DOMAIN-SUFFIX,wikivoyage.org
    - DOMAIN-SUFFIX,wikiwand.com

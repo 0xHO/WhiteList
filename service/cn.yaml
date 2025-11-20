@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Nov 20 04:43:33 CST 2025
+# Update: Fri Nov 21 04:44:30 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -68,9 +68,11 @@ payload:
    - DOMAIN-SUFFIX,bosszhipin.com
    - DOMAIN-SUFFIX,moseeker.com
    - DOMAIN-SUFFIX,antutu.com
+   - DOMAIN-SUFFIX,avlyun.com
    - DOMAIN-SUFFIX,dida365.com
    - DOMAIN-SUFFIX,roborock.com
    - DOMAIN-SUFFIX,socpk.com
+   - DOMAIN-SUFFIX,viayoo.com
    - DOMAIN-SUFFIX,yinxiang.com
    - DOMAIN-SUFFIX,deepepg.com
    - DOMAIN-SUFFIX,kookong.com
@@ -89,9 +91,15 @@ payload:
    - DOMAIN-SUFFIX,ipshu.com
    - DOMAIN-SUFFIX,fofa.info
    - DOMAIN-SUFFIX,onedns.net
+   - DOMAIN-SUFFIX,51kim.com
+   - DOMAIN-SUFFIX,zhuye.kim
+   - DOMAIN-SUFFIX,6-u.com
+   - DOMAIN-SUFFIX,imsyy.com
    - DOMAIN-SUFFIX,infinitynewtab.com
    - DOMAIN-SUFFIX,inftab.com
+   - DOMAIN-SUFFIX,kekeniu.com
    - DOMAIN-SUFFIX,moulem.com
+   - DOMAIN-SUFFIX,qzhuye.com
    - DOMAIN-SUFFIX,chugou360.com
    - DOMAIN-SUFFIX,ycrx360.com
    - DOMAIN-SUFFIX,jikeiot.cloud
