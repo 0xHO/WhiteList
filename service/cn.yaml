@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Nov 23 04:43:54 CST 2025
+# Update: Mon Nov 24 04:44:54 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -2704,12 +2704,9 @@ payload:
    - DOMAIN-SUFFIX,frp-air.com
    - DOMAIN-SUFFIX,frp-all.com
    - DOMAIN-SUFFIX,frp-arm.com
-   - DOMAIN-SUFFIX,frp-art.com
    - DOMAIN-SUFFIX,frp-bag.com
    - DOMAIN-SUFFIX,frp-bid.com
-   - DOMAIN-SUFFIX,frp-car.com
    - DOMAIN-SUFFIX,frp-dog.com
-   - DOMAIN-SUFFIX,frp-dry.com
    - DOMAIN-SUFFIX,frp-egg.com
    - DOMAIN-SUFFIX,frp-era.com
    - DOMAIN-SUFFIX,frp-fan.com
@@ -2723,6 +2720,7 @@ payload:
    - DOMAIN-SUFFIX,frp-hip.com
    - DOMAIN-SUFFIX,frp-hub.com
    - DOMAIN-SUFFIX,frp-ice.com
+   - DOMAIN-SUFFIX,frp-jar.com
    - DOMAIN-SUFFIX,frp-key.com
    - DOMAIN-SUFFIX,frp-kit.com
    - DOMAIN-SUFFIX,frp-lab.com
@@ -2731,7 +2729,6 @@ payload:
    - DOMAIN-SUFFIX,frp-mix.com
    - DOMAIN-SUFFIX,frp-mom.com
    - DOMAIN-SUFFIX,frp-nut.com
-   - DOMAIN-SUFFIX,frp-oak.com
    - DOMAIN-SUFFIX,frp-one.com
    - DOMAIN-SUFFIX,frp-own.com
    - DOMAIN-SUFFIX,frp-pen.com
@@ -2739,6 +2736,8 @@ payload:
    - DOMAIN-SUFFIX,frp-run.com
    - DOMAIN-SUFFIX,frp-say.com
    - DOMAIN-SUFFIX,frp-shy.com
+   - DOMAIN-SUFFIX,frp-sun.com
+   - DOMAIN-SUFFIX,frp-tag.com
    - DOMAIN-SUFFIX,frp-act.com
    - DOMAIN-SUFFIX,frp-any.com
    - DOMAIN-SUFFIX,frp-bar.com
@@ -2749,7 +2748,6 @@ payload:
    - DOMAIN-SUFFIX,frp-end.com
    - DOMAIN-SUFFIX,frp-fun.com
    - DOMAIN-SUFFIX,frp-gap.com
-   - DOMAIN-SUFFIX,frp-man.com
    - DOMAIN-SUFFIX,frp-net.com
    - DOMAIN-SUFFIX,frp-now.com
    - DOMAIN-SUFFIX,frp-off.com
@@ -2758,6 +2756,7 @@ payload:
    - DOMAIN-SUFFIX,frp-rib.com
    - DOMAIN-SUFFIX,frp-sea.com
    - DOMAIN-SUFFIX,frp-six.com
+   - DOMAIN-SUFFIX,frp-ski.com
    # ------ taomee ------>
    - DOMAIN-SUFFIX,61.com
    - DOMAIN-SUFFIX,taomee.com
