@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Nov 24 04:44:54 CST 2025
+# Update: Tue Nov 25 04:44:52 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -467,7 +467,6 @@ payload:
    - DOMAIN-SUFFIX,finchina.com
    - DOMAIN-SUFFIX,fixdown.com
    - DOMAIN-SUFFIX,fqjob.net
-   - DOMAIN-SUFFIX,freebuf.com
    - DOMAIN-SUFFIX,fugetech.com
    - DOMAIN-SUFFIX,fuwj.com
    - DOMAIN-SUFFIX,fxxz.com
@@ -536,7 +535,6 @@ payload:
    - DOMAIN-SUFFIX,hktheone.com
    - DOMAIN-SUFFIX,hn-cbec.com
    - DOMAIN-SUFFIX,hnrcsc.com
-   - DOMAIN-SUFFIX,hntv.tv
    - DOMAIN-SUFFIX,hnyuyuhui.com
    - DOMAIN-SUFFIX,hollycrm.com
    - DOMAIN-SUFFIX,homeinns.com
@@ -792,7 +790,6 @@ payload:
    - DOMAIN-SUFFIX,qiangbus.com
    - DOMAIN-SUFFIX,qianjia.com
    - DOMAIN-SUFFIX,qianlima.com
-   - DOMAIN-SUFFIX,qianzhan.com
    - DOMAIN-SUFFIX,qiaobutang.com
    - DOMAIN-SUFFIX,qie.tv
    - DOMAIN-SUFFIX,qifeiye.com
@@ -1206,10 +1203,11 @@ payload:
    # ------ umeng-ads ------>
    # ------ category-ai-cn ------>
    - DOMAIN-SUFFIX,rwkv.com
-   - DOMAIN-SUFFIX,tongyi.aliyun.com
    - DOMAIN-SUFFIX,qianwen.aliyun.com
+   - DOMAIN-SUFFIX,qianwen.com
    - DOMAIN-SUFFIX,qwen.ai
    - DOMAIN-SUFFIX,qwenlm.ai
+   - DOMAIN-SUFFIX,tongyi.aliyun.com
    - DOMAIN-SUFFIX,tongyi.com
    - DOMAIN-SUFFIX,yiyan.baidu.com
    - DOMAIN-SUFFIX,hailuoai.com
@@ -2838,9 +2836,11 @@ payload:
    - DOMAIN-SUFFIX,cztvcdn.com
    - DOMAIN-SUFFIX,cztvcloud.com
    - DOMAIN-SUFFIX,zjstv.com
+   - DOMAIN-SUFFIX,cqcb.com
+   - DOMAIN-SUFFIX,hntv.tv
    - DOMAIN-SUFFIX,dgtle.com
    - DOMAIN-SUFFIX,gcores.com
-   - DOMAIN-SUFFIX,geekpark
+   - DOMAIN-SUFFIX,geekpark.net
    - DOMAIN-SUFFIX,solidot.org
    - DOMAIN-SUFFIX,sspai.com
    - DOMAIN-SUFFIX,stcn.com
@@ -2883,6 +2883,11 @@ payload:
    - DOMAIN-SUFFIX,jxpp.com
    - DOMAIN-SUFFIX,woshipm.com
    - DOMAIN-SUFFIX,zhichanli.com
+   - DOMAIN-SUFFIX,chinaaet.com
+   - DOMAIN-SUFFIX,freebuf.com
+   - DOMAIN-SUFFIX,qianzhan.com
+   - DOMAIN-SUFFIX,secrss.com
+   - DOMAIN-SUFFIX,shangyexinzhi.com
    # ------ 36kr ------>
    - DOMAIN-SUFFIX,36dianping.com
    - DOMAIN-SUFFIX,36kr.com
