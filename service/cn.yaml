@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Nov 25 04:44:52 CST 2025
+# Update: Wed Nov 26 04:46:32 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -176,7 +176,6 @@ payload:
    - DOMAIN-SUFFIX,500d.me
    - DOMAIN-SUFFIX,50bang.org
    - DOMAIN-SUFFIX,51.com
-   - DOMAIN-SUFFIX,51.la
    - DOMAIN-SUFFIX,510you.com
    - DOMAIN-SUFFIX,51credit.com
    - DOMAIN-SUFFIX,51cto.com
@@ -571,7 +570,6 @@ payload:
    - DOMAIN-SUFFIX,infoq.com
    - DOMAIN-SUFFIX,infoqstatic.com
    - DOMAIN-SUFFIX,ip-cdn.com
-   - DOMAIN-SUFFIX,ipinyou.com
    - DOMAIN-SUFFIX,iranshao.com
    - DOMAIN-SUFFIX,irs01.com
    - DOMAIN-SUFFIX,istoreos.com
@@ -1110,8 +1108,6 @@ payload:
    - DOMAIN-SUFFIX,zhuanyewanjia.com
    - DOMAIN-SUFFIX,zhuayoukong.com
    - DOMAIN-SUFFIX,zhubajie.com
-   - DOMAIN-SUFFIX,zhugeapi.net
-   - DOMAIN-SUFFIX,zhugeio.com
    - DOMAIN-SUFFIX,zimuzu.io
    - DOMAIN-SUFFIX,zixiaomao.com
    - DOMAIN-SUFFIX,zixuntop.com
@@ -3701,6 +3697,7 @@ payload:
    - DOMAIN-SUFFIX,lydaas.net
    - DOMAIN-SUFFIX,lydass.net
    # ------ alibaba-ads ------>
+   # ------ youku-ads ------>
    # ------ alibabacloud ------>
    - DOMAIN-SUFFIX,alibabacloud.co.in
    - DOMAIN-SUFFIX,alibabacloud.com
@@ -3826,6 +3823,13 @@ payload:
    - DOMAIN-SUFFIX,uyunad.com
    - DOMAIN-SUFFIX,whalecloud.com
    # ------ umeng-ads ------>
+   # ------ youku ------>
+   - DOMAIN-SUFFIX,kumiao.com
+   - DOMAIN-SUFFIX,youku.com
+   - DOMAIN-SUFFIX,ykimg.com
+   - DOMAIN-SUFFIX,mmstat.com
+   - DOMAIN-SUFFIX,soku.com
+   - DOMAIN-SUFFIX,cibntv.net
    # ------ amap ------>
    - DOMAIN-SUFFIX,a-map.co
    - DOMAIN-SUFFIX,a-map.link

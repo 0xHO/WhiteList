@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/microsoft.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
-# Update: Tue Nov 25 04:44:50 CST 2025
+# Update: Wed Nov 26 04:46:30 CST 2025
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -133,7 +133,6 @@ payload:
    - DOMAIN-SUFFIX,microsoft-sbs-domains.com
    - DOMAIN-SUFFIX,microsoft365.com
    - DOMAIN-SUFFIX,microsoftaccountguard.com
-   - DOMAIN-SUFFIX,microsoftads.com
    - DOMAIN-SUFFIX,microsoftadvertising.com
    - DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
    - DOMAIN-SUFFIX,microsoftaffiliates.com
@@ -165,7 +164,6 @@ payload:
    - DOMAIN-SUFFIX,mpnevolution.com
    - DOMAIN-SUFFIX,ms-studiosmedia.com
    - DOMAIN-SUFFIX,ms365surfaceoffer.com
-   - DOMAIN-SUFFIX,msads.net
    - DOMAIN-SUFFIX,msauth.net
    - DOMAIN-SUFFIX,mschallenge2018.com
    - DOMAIN-SUFFIX,msecnd.net
@@ -327,7 +325,6 @@ payload:
    - DOMAIN-SUFFIX,bing.com
    - DOMAIN-SUFFIX,bing.net
    - DOMAIN-SUFFIX,bing123.com
-   - DOMAIN-SUFFIX,bingads.com
    - DOMAIN-SUFFIX,bingagencyawards.com
    - DOMAIN-SUFFIX,bingapis.com
    - DOMAIN-SUFFIX,bingapistatistics.com
