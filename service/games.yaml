@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Thu Nov 27 04:43:07 CST 2025
+# Update: Fri Nov 28 04:43:43 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -710,6 +710,17 @@ payload:
    - DOMAIN-SUFFIX,riotforgegames.com
    - DOMAIN-SUFFIX,ruinedking.com
    - DOMAIN-SUFFIX,convrgencegame.com
+   # ------ roblox ------>
+   - DOMAIN,d1unuk07s6td74.cloudfront.net
+   - DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+   - DOMAIN,roblox-poc.global.ssl.fastly.net
+   - DOMAIN,robloxcorp.s.llnwi.net
+   - DOMAIN-SUFFIX,rblx.org
+   - DOMAIN-SUFFIX,rbx.com
+   - DOMAIN-SUFFIX,rbxcdn.com
+   - DOMAIN-SUFFIX,roblox-api.arkoselabs.co
+   - DOMAIN-SUFFIX,roblox.com
+   - DOMAIN-SUFFIX,robloxlabs.com
    # ------ rockstar ------>
    - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
    - DOMAIN,media-rockstargames-com.akamaized.net

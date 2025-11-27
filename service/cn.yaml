@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Nov 27 04:43:09 CST 2025
+# Update: Fri Nov 28 04:43:45 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -3676,8 +3676,11 @@ payload:
    - DOMAIN-SUFFIX,yunos.com
    - DOMAIN-SUFFIX,yushanfang.com
    - DOMAIN-SUFFIX,zuodao.com
+   - DOMAIN-SUFFIX,ae-rus.net
+   - DOMAIN-SUFFIX,aestatic.net
    - DOMAIN-SUFFIX,aliexpress.com
    - DOMAIN-SUFFIX,aliexpress.ru
+   - DOMAIN-SUFFIX,aliexpress-media.com
    - DOMAIN-SUFFIX,alipayplus.com
    - DOMAIN-SUFFIX,alipay.hk
    - DOMAIN-SUFFIX,alipaymo.com
