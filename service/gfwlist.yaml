@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-11-30 04:44:36
+# Update: 2025-12-01 04:44:56
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -5426,6 +5426,7 @@ payload:
    - DOMAIN-SUFFIX,zalmos.com
    - DOMAIN-SUFFIX,zamimg.com
    - DOMAIN-SUFFIX,zaobao.com.sg
+   - DOMAIN-SUFFIX,zaochenbao.com
    - DOMAIN-SUFFIX,zapto.org
    - DOMAIN-SUFFIX,zattoo.com
    - DOMAIN-SUFFIX,zb.com
