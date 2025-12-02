@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Dec  2 04:43:13 CST 2025
+# Update: Wed Dec  3 04:47:47 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,ceair.com
@@ -33,6 +33,8 @@ payload:
    - DOMAIN-SUFFIX,kfzimg.com
    - DOMAIN-SUFFIX,pupuapi.com
    - DOMAIN-SUFFIX,pupumall.com
+   - DOMAIN-SUFFIX,qyer.com
+   - DOMAIN-SUFFIX,qyerstatic.com
    - DOMAIN-SUFFIX,appsimg.com
    - DOMAIN-SUFFIX,appvipshop.com
    - DOMAIN-SUFFIX,vip.com
@@ -810,7 +812,6 @@ payload:
    - DOMAIN-SUFFIX,qudong.com
    - DOMAIN-SUFFIX,qugame.com
    - DOMAIN-SUFFIX,qunjielong.com
-   - DOMAIN-SUFFIX,qyer.com
    - DOMAIN-SUFFIX,rockyenglish.com
    - DOMAIN-SUFFIX,rong360.com
    - DOMAIN-SUFFIX,rtbasia.com
@@ -1510,6 +1511,8 @@ payload:
    - DOMAIN-SUFFIX,anlaiye.com
    - DOMAIN-SUFFIX,imcoming.com
    - DOMAIN-SUFFIX,imcome.net
+   - DOMAIN-SUFFIX,meican.com
+   - DOMAIN-SUFFIX,meicanstatic.com
    # ------ bestore ------>
    - DOMAIN-SUFFIX,517lppz.com
    - DOMAIN-SUFFIX,lppz.com
@@ -2445,6 +2448,12 @@ payload:
    - DOMAIN-SUFFIX,xinwuji.com
    - DOMAIN-SUFFIX,yokaverse.com
    - DOMAIN-SUFFIX,zhuoyou.com
+   # ------ aamgame ------>
+   - DOMAIN-SUFFIX,aamgame.net
+   - DOMAIN-SUFFIX,aamgame.com
+   - DOMAIN-SUFFIX,aamgame.mobi
+   - DOMAIN-SUFFIX,aamsmart.com
+   - DOMAIN-SUFFIX,singworld.net
    # ------ acfun ------>
    - DOMAIN-SUFFIX,ac.fun
    - DOMAIN-SUFFIX,acfun.net
@@ -2593,9 +2602,9 @@ payload:
    - DOMAIN-SUFFIX,fanqiesdkpic.com
    - DOMAIN-SUFFIX,fanqiesdkstatic.com
    - DOMAIN-SUFFIX,fanqiesdkvod.com
+   - DOMAIN-SUFFIX,fqnovel-op.com
    - DOMAIN-SUFFIX,fqnovel.com
    - DOMAIN-SUFFIX,fqnovelim.com
-   - DOMAIN-SUFFIX,fqnovel-op.com
    - DOMAIN-SUFFIX,fqnovelop.com
    - DOMAIN-SUFFIX,fqnovelpic.com
    - DOMAIN-SUFFIX,fqnovelstatic.com
@@ -2610,6 +2619,7 @@ payload:
    - DOMAIN-SUFFIX,qznovelpic.com
    - DOMAIN-SUFFIX,qznovelstatic.com
    - DOMAIN-SUFFIX,qznovelvod.com
+   # ------ fqnovel-ads ------>
    # ------ gamersky ------>
    - DOMAIN-SUFFIX,gamersky.com
    # ------ gitv ------>
@@ -2781,6 +2791,12 @@ payload:
    - DOMAIN-SUFFIX,chat.top
    - DOMAIN-SUFFIX,max-c.com
    - DOMAIN-SUFFIX,maxjia.com
+   # ------ xiaoyuzhou ------>
+   - DOMAIN-SUFFIX,xyzfm.space
+   - DOMAIN-SUFFIX,xyzfm.link
+   - DOMAIN-SUFFIX,xyzcdn.net
+   - DOMAIN-SUFFIX,xiaoyuzhoufm.com
+   - DOMAIN-SUFFIX,podcast.xyz
    # ------ ximalaya ------>
    - DOMAIN-SUFFIX,ximalaya.com
    - DOMAIN-SUFFIX,xmcdn.com
@@ -3299,6 +3315,11 @@ payload:
    - DOMAIN-SUFFIX,shimonote.com
    - DOMAIN-SUFFIX,nlark.com
    - DOMAIN-SUFFIX,yuque.com
+   # ------ xedge ------>
+   - DOMAIN-SUFFIX,xedge.cc
+   - DOMAIN-SUFFIX,glxcc.net
+   - DOMAIN-SUFFIX,xn0.cc
+   - DOMAIN-SUFFIX,ganjiangvpn.com
    # ------ category-documents-cn ------>
    # ------ doc88 ------>
    - DOMAIN-SUFFIX,doc88.com
@@ -4236,6 +4257,7 @@ payload:
    - DOMAIN-SUFFIX,faceu.com
    - DOMAIN-SUFFIX,ulikecam.com
    # ------ bytedance-ads ------>
+   # ------ fqnovel-ads ------>
    # ------ doubao ------>
    - DOMAIN-SUFFIX,coze.site
    - DOMAIN-SUFFIX,doubao.com
@@ -4312,9 +4334,9 @@ payload:
    - DOMAIN-SUFFIX,fanqiesdkpic.com
    - DOMAIN-SUFFIX,fanqiesdkstatic.com
    - DOMAIN-SUFFIX,fanqiesdkvod.com
+   - DOMAIN-SUFFIX,fqnovel-op.com
    - DOMAIN-SUFFIX,fqnovel.com
    - DOMAIN-SUFFIX,fqnovelim.com
-   - DOMAIN-SUFFIX,fqnovel-op.com
    - DOMAIN-SUFFIX,fqnovelop.com
    - DOMAIN-SUFFIX,fqnovelpic.com
    - DOMAIN-SUFFIX,fqnovelstatic.com
@@ -4329,6 +4351,7 @@ payload:
    - DOMAIN-SUFFIX,qznovelpic.com
    - DOMAIN-SUFFIX,qznovelstatic.com
    - DOMAIN-SUFFIX,qznovelvod.com
+   # ------ fqnovel-ads ------>
    # ------ juejin ------>
    - DOMAIN,p1-juejin.byteimg.com
    - DOMAIN,p2-juejin.byteimg.com
@@ -5562,11 +5585,6 @@ payload:
    - DOMAIN-SUFFIX,redmagic.com
    - DOMAIN-SUFFIX,ztemall.com
    - DOMAIN-SUFFIX,ztems.com
-   # ------ xedge ------>
-   - DOMAIN-SUFFIX,xedge.cc
-   - DOMAIN-SUFFIX,glxcc.net
-   - DOMAIN-SUFFIX,xn0.cc
-   - DOMAIN-SUFFIX,ganjiangvpn.com
    # ------ chinabroadnet ------>
    - DOMAIN-SUFFIX,ahitv.com
    - DOMAIN-SUFFIX,cqccn.com
@@ -5628,12 +5646,6 @@ payload:
    # ------ ipip ------>
    - DOMAIN-SUFFIX,ipip.net
    - DOMAIN-SUFFIX,myip.la
-   # ------ aamgame ------>
-   - DOMAIN-SUFFIX,aamgame.net
-   - DOMAIN-SUFFIX,aamgame.com
-   - DOMAIN-SUFFIX,aamgame.mobi
-   - DOMAIN-SUFFIX,aamsmart.com
-   - DOMAIN-SUFFIX,singworld.net
    # ------ category-enterprise-query-platform-cn ------>
    - DOMAIN-SUFFIX,qichamao.com
    - DOMAIN-SUFFIX,x315.com
