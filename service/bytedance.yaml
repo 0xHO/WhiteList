@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Fri Dec  5 04:48:31 CST 2025
+# Update: Sat Dec  6 04:47:00 CST 2025
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -467,6 +467,7 @@ payload:
    - DOMAIN-SUFFIX,muscdn.com
    - DOMAIN-SUFFIX,musical.ly
    - DOMAIN-SUFFIX,tik-tokapi.com
+   - DOMAIN-SUFFIX,tiktok-row.net
    - DOMAIN-SUFFIX,tiktok.com
    - DOMAIN-SUFFIX,tiktokcdn-eu.com
    - DOMAIN-SUFFIX,tiktokcdn-us.com
@@ -474,6 +475,8 @@ payload:
    - DOMAIN-SUFFIX,tiktokd.net
    - DOMAIN-SUFFIX,tiktokd.org
    - DOMAIN-SUFFIX,tiktokeu-cdn.com
+   - DOMAIN-SUFFIX,tiktokglobalshopv.com
+   - DOMAIN-SUFFIX,tiktokminis.us
    - DOMAIN-SUFFIX,tiktokrow-cdn.com
    - DOMAIN-SUFFIX,tiktokv.com
    - DOMAIN-SUFFIX,tiktokv.eu
