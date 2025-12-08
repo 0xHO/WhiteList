@@ -6,7 +6,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/chinaip.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
-# Update: 2025-12-08 04:44:19
+# Update: 2025-12-09 04:48:16
 payload:
    - IP-CIDR,1.0.1.0/24,no-resolve
    - IP-CIDR,1.0.2.0/23,no-resolve
@@ -8921,6 +8921,7 @@ payload:
    - IP-CIDR6,2a06:3604::/31,no-resolve
    - IP-CIDR6,2a06:3607::/32,no-resolve
    - IP-CIDR6,2a06:9f81:4600::/43,no-resolve
+   - IP-CIDR6,2a06:9f81:4620::/44,no-resolve
    - IP-CIDR6,2a06:9f81:4640::/43,no-resolve
    - IP-CIDR6,2a06:a005:260::/43,no-resolve
    - IP-CIDR6,2a06:a005:280::/43,no-resolve
@@ -9064,7 +9065,7 @@ payload:
    - IP-CIDR6,2a13:a5c7:31a0::/43,no-resolve
    - IP-CIDR6,2a13:a5c7:3301::/48,no-resolve
    - IP-CIDR6,2a13:a5c7:3304::/48,no-resolve
-   - IP-CIDR6,2a13:a5c7:3306::/47,no-resolve
+   - IP-CIDR6,2a13:a5c7:3306::/48,no-resolve
    - IP-CIDR6,2a13:aac4:f000::/44,no-resolve
    - IP-CIDR6,2a14:7c0:4a01::/48,no-resolve
    - IP-CIDR6,2a14:7c0:5103::/48,no-resolve
@@ -9109,6 +9110,7 @@ payload:
    - IP-CIDR6,2a14:67c1:b500::/47,no-resolve
    - IP-CIDR6,2a14:67c1:b514::/48,no-resolve
    - IP-CIDR6,2a14:67c1:b549::/48,no-resolve
+   - IP-CIDR6,2a14:67c1:b578::/48,no-resolve
    - IP-CIDR6,2a14:67c1:b582::/48,no-resolve
    - IP-CIDR6,2a14:67c1:b586::/48,no-resolve
    - IP-CIDR6,2a14:67c1:b588::/47,no-resolve
