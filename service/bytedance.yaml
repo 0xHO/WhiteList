@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Tue Dec  9 04:48:30 CST 2025
+# Update: Wed Dec 10 04:43:55 CST 2025
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -284,6 +284,10 @@ payload:
    - DOMAIN-SUFFIX,ppxstatic.com
    - DOMAIN-SUFFIX,ppxvod.com
    - DOMAIN-SUFFIX,xiaoxiaapi.com
+   - DOMAIN-SUFFIX,douyinec.com
+   - DOMAIN-SUFFIX,ecombdapi.com
+   - DOMAIN-SUFFIX,ecombdstatic.com
+   - DOMAIN-SUFFIX,jinritemai.com
    - DOMAIN-SUFFIX,faceu.com
    - DOMAIN-SUFFIX,ulikecam.com
    # ------ bytedance-ads ------>
