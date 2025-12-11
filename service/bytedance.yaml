@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Thu Dec 11 04:50:49 CST 2025
+# Update: Fri Dec 12 04:45:51 CST 2025
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -79,7 +79,6 @@ payload:
    - DOMAIN-SUFFIX,bytedance.net
    - DOMAIN-SUFFIX,bytedance.org
    - DOMAIN-SUFFIX,bytedanceapi.com
-   - DOMAIN-SUFFIX,bytedapm.com
    - DOMAIN-SUFFIX,bytedcdn.com
    - DOMAIN-SUFFIX,bytedeliver.com
    - DOMAIN-SUFFIX,bytedgames.com
@@ -467,10 +466,16 @@ payload:
    - DOMAIN-SUFFIX,thelarkcloud.com
    # ------ tiktok ------>
    - DOMAIN,p16-tiktokcdn-com.akamaized.net
+   - DOMAIN,roovza-launches.appsflyersdk.com
+   - DOMAIN,roovza.inapps.appsflyersdk.com
+   - DOMAIN,roovza.launches.appsflyersdk.com
+   - DOMAIN,roovza.skadsdk.appsflyersdk.com
+   - DOMAIN-SUFFIX,bytedapm.com
    - DOMAIN-SUFFIX,byteoversea.com
    - DOMAIN-SUFFIX,muscdn.com
    - DOMAIN-SUFFIX,musical.ly
    - DOMAIN-SUFFIX,tik-tokapi.com
+   - DOMAIN-SUFFIX,tiktok-minis.com
    - DOMAIN-SUFFIX,tiktok-row.net
    - DOMAIN-SUFFIX,tiktok.com
    - DOMAIN-SUFFIX,tiktokcdn-eu.com
