@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Dec 12 04:45:45 CST 2025
+# Update: Sat Dec 13 04:47:04 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -182,12 +182,10 @@ payload:
    - DOMAIN-SUFFIX,1637.com
    - DOMAIN-SUFFIX,16888.com
    - DOMAIN-SUFFIX,16rd.com
-   - DOMAIN-SUFFIX,17173.com
    - DOMAIN-SUFFIX,178linux.com
    - DOMAIN-SUFFIX,17989.com
    - DOMAIN-SUFFIX,17cdn.com
    - DOMAIN-SUFFIX,17house.com
-   - DOMAIN-SUFFIX,18183.com
    - DOMAIN-SUFFIX,1905.com
    - DOMAIN-SUFFIX,19yxw.com
    - DOMAIN-SUFFIX,1nongjing.com
@@ -267,7 +265,6 @@ payload:
    - DOMAIN-SUFFIX,7230.com
    - DOMAIN-SUFFIX,72byte.com
    - DOMAIN-SUFFIX,7down.com
-   - DOMAIN-SUFFIX,7k7k.com
    - DOMAIN-SUFFIX,7po.com
    - DOMAIN-SUFFIX,7x24cc.com
    - DOMAIN-SUFFIX,7xdown.com
@@ -770,7 +767,6 @@ payload:
    - DOMAIN-SUFFIX,muomou.com
    - DOMAIN-SUFFIX,muzhiwan.com
    - DOMAIN-SUFFIX,mydown.com
-   - DOMAIN-SUFFIX,mydrivers.com
    - DOMAIN-SUFFIX,myshow360.net
    - DOMAIN-SUFFIX,myyx618.com
    - DOMAIN-SUFFIX,myzaker.com
@@ -1382,9 +1378,7 @@ payload:
    - DOMAIN-SUFFIX,lsplayer.com
    - DOMAIN-SUFFIX,yeshen.com
    - DOMAIN-SUFFIX,17k.com
-   - DOMAIN-SUFFIX,3dmgame.com
    - DOMAIN-SUFFIX,51zmt.top
-   - DOMAIN-SUFFIX,ali213.net
    - DOMAIN-SUFFIX,baofeng.com
    - DOMAIN-SUFFIX,baofeng.net
    - DOMAIN-SUFFIX,bgwxc.com
@@ -1415,7 +1409,22 @@ payload:
    - DOMAIN-SUFFIX,zhanqi.tv
    - DOMAIN-SUFFIX,zhulang.com
    - DOMAIN-SUFFIX,zongheng.com
+   - DOMAIN-SUFFIX,17173.com
+   - DOMAIN-SUFFIX,18183.com
+   - DOMAIN-SUFFIX,3dmgame.com
+   - DOMAIN-SUFFIX,ali213.net
+   - DOMAIN-SUFFIX,cgames.com
+   - DOMAIN-SUFFIX,chuapp.com
+   - DOMAIN-SUFFIX,dataeye.com
+   - DOMAIN-SUFFIX,gameres.com
+   - DOMAIN-SUFFIX,gamewower.com
+   - DOMAIN-SUFFIX,gcores.com
+   - DOMAIN-SUFFIX,nadianshi.com
+   - DOMAIN-SUFFIX,news.yxrb.net
+   - DOMAIN-SUFFIX,youxichaguan.com
+   - DOMAIN-SUFFIX,youxiputao.com
    # ------ category-games-cn ------>
+   - DOMAIN-SUFFIX,7k7k.com
    - DOMAIN-SUFFIX,9xgame.com
    - DOMAIN-SUFFIX,astral-vector.com
    - DOMAIN-SUFFIX,forevernine.com
@@ -1487,6 +1496,7 @@ payload:
    - DOMAIN-SUFFIX,webgame163.com
    - DOMAIN-SUFFIX,youba.com
    - DOMAIN-SUFFIX,yxhhdl.com
+   # ------ 9game ------>
    # ------ bilibili-game ------>
    - DOMAIN-SUFFIX,bilibiligame.co
    - DOMAIN-SUFFIX,bilibiligame.net
@@ -1583,13 +1593,9 @@ payload:
    - DOMAIN-SUFFIX,anticheatexpert.com
    - DOMAIN-SUFFIX,17roco.com
    - DOMAIN-SUFFIX,roco.qq.com
-   # ------ tgbus ------>
-   - DOMAIN-SUFFIX,tgbus.com
    # ------ tiancity ------>
    - DOMAIN-SUFFIX,tiancity.com
    - DOMAIN-SUFFIX,tiancitycdn.com
-   # ------ vgtime ------>
-   - DOMAIN-SUFFIX,vgtime.com
    # ------ vrzwk ------>
    - DOMAIN-SUFFIX,vrzwk.com
    - DOMAIN-SUFFIX,vrzwk.net
@@ -1982,6 +1988,10 @@ payload:
    - DOMAIN-SUFFIX,rongshuxia.com
    - DOMAIN-SUFFIX,tingbook.com
    - DOMAIN-SUFFIX,xxsy.net
+   # ------ tgbus ------>
+   - DOMAIN-SUFFIX,tgbus.com
+   # ------ vgtime ------>
+   - DOMAIN-SUFFIX,vgtime.com
    # ------ category-food-cn ------>
    - DOMAIN-SUFFIX,3songshu.com
    - DOMAIN-SUFFIX,haidilao.com
@@ -2146,7 +2156,6 @@ payload:
    - DOMAIN-SUFFIX,dzwww.com
    - DOMAIN-SUFFIX,expreview.com
    - DOMAIN-SUFFIX,freebuf.com
-   - DOMAIN-SUFFIX,gcores.com
    - DOMAIN-SUFFIX,geekpark.net
    - DOMAIN-SUFFIX,gmw.com
    - DOMAIN-SUFFIX,hexun.com
@@ -2156,6 +2165,7 @@ payload:
    - DOMAIN-SUFFIX,huanqiu.com
    - DOMAIN-SUFFIX,huxiu.com
    - DOMAIN-SUFFIX,huxiucdn.com
+   - DOMAIN-SUFFIX,icpcw.com
    - DOMAIN-SUFFIX,idcquan.com
    - DOMAIN-SUFFIX,jianyuweb.com
    - DOMAIN-SUFFIX,wallstcn.com
@@ -2170,6 +2180,7 @@ payload:
    - DOMAIN-SUFFIX,kksmg.com
    - DOMAIN-SUFFIX,statickksmg.com
    - DOMAIN-SUFFIX,latepost.com
+   - DOMAIN-SUFFIX,mydrivers.com
    - DOMAIN-SUFFIX,nanyuenews.com
    - DOMAIN-SUFFIX,xinhuanet.com
    - DOMAIN-SUFFIX,xinhuaxmt.com
@@ -2644,6 +2655,9 @@ payload:
    - DOMAIN-SUFFIX,taikangzhijia.com
    - DOMAIN-SUFFIX,tkhealthcare.com
    # ------ aws-cn ------>
+   # ------ baishancloud ------>
+   - DOMAIN-SUFFIX,qingcdn.com
+   - DOMAIN-SUFFIX,trpcdn.net
    # ------ bootcdn ------>
    - DOMAIN-SUFFIX,bootcdn.net
    - DOMAIN-SUFFIX,bootcss.com
@@ -3830,6 +3844,7 @@ payload:
    - DOMAIN-SUFFIX,lydaas.com
    - DOMAIN-SUFFIX,lydaas.net
    - DOMAIN-SUFFIX,lydass.net
+   # ------ 9game ------>
    # ------ alibaba-ads ------>
    # ------ youku-ads ------>
    # ------ alibabacloud ------>
