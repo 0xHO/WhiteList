@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Dec 13 04:47:04 CST 2025
+# Update: Sun Dec 14 04:45:09 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -2370,6 +2370,7 @@ payload:
    # ------ zhihu ------>
    - DOMAIN-SUFFIX,zhihu.com
    - DOMAIN-SUFFIX,zhimg.com
+   # ------ zhihu-ads ------>
    # ------ getui ------>
    - DOMAIN-SUFFIX,gepush.com
    - DOMAIN-SUFFIX,getui.com
@@ -3846,6 +3847,7 @@ payload:
    - DOMAIN-SUFFIX,lydass.net
    # ------ 9game ------>
    # ------ alibaba-ads ------>
+   # ------ amap-ads ------>
    # ------ youku-ads ------>
    # ------ alibabacloud ------>
    - DOMAIN-SUFFIX,alibabacloud.co.in
@@ -3990,6 +3992,7 @@ payload:
    - DOMAIN-SUFFIX,anav.com
    - DOMAIN-SUFFIX,autonavi.com
    - DOMAIN-SUFFIX,gaode.com
+   # ------ amap-ads ------>
    # ------ baidu ------>
    - DOMAIN-SUFFIX,baidu
    - DOMAIN-SUFFIX,91.com
