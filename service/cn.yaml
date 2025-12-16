@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Dec 16 04:49:48 CST 2025
+# Update: Wed Dec 17 04:48:39 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -2664,6 +2664,26 @@ payload:
    - DOMAIN-SUFFIX,bootcss.com
    - DOMAIN-SUFFIX,phpcomposer.com
    # ------ cloudflare-cn ------>
+   # ------ ctyun ------>
+   - DOMAIN-SUFFIX,ctbcdn.com
+   - DOMAIN-SUFFIX,ctcdnov.net
+   - DOMAIN-SUFFIX,ctdcdn.com
+   - DOMAIN-SUFFIX,ctdns.net
+   - DOMAIN-SUFFIX,ctgcdn.com
+   - DOMAIN-SUFFIX,cthcdn.com
+   - DOMAIN-SUFFIX,cthcdn.net
+   - DOMAIN-SUFFIX,ctlcdn.com
+   - DOMAIN-SUFFIX,ctlcdn.net
+   - DOMAIN-SUFFIX,ctovcdn.com
+   - DOMAIN-SUFFIX,ctrender.com
+   - DOMAIN-SUFFIX,ctxcdn.com
+   - DOMAIN-SUFFIX,ctxcdn.net
+   - DOMAIN-SUFFIX,ctxirang.com
+   - DOMAIN-SUFFIX,ctycdn.net
+   - DOMAIN-SUFFIX,ctyuninner.com
+   - DOMAIN-SUFFIX,ctyunwaf.com
+   - DOMAIN-SUFFIX,ctyunwaf1.com
+   - DOMAIN-SUFFIX,ctzcdn.com
    # ------ dwion ------>
    - DOMAIN-SUFFIX,acadn.com
    - DOMAIN-SUFFIX,bbbcdns.com
