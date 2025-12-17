@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Dec 17 04:48:39 CST 2025
+# Update: Thu Dec 18 04:48:47 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -1215,6 +1215,7 @@ payload:
    - DOMAIN-SUFFIX,zway.top
    # ------ category-dev-cn ------>
    - DOMAIN-SUFFIX,jinrishici.com
+   - DOMAIN-SUFFIX,openvela.com
    - DOMAIN-SUFFIX,tipdm.org
    # ------ aixcoder ------>
    - DOMAIN-SUFFIX,aixcoder.com
@@ -3431,6 +3432,10 @@ payload:
    - DOMAIN-SUFFIX,mchost.guru
    - DOMAIN-SUFFIX,tcwqqdy.guru
    - DOMAIN-SUFFIX,trae.guru
+   # ------ xiaomi-ai ------>
+   - DOMAIN-SUFFIX,miaibox.com
+   - DOMAIN-SUFFIX,xiaoaiassist.com
+   - DOMAIN-SUFFIX,xiaomimimo.com
    # ------ category-collaborate-cn ------>
    - DOMAIN-SUFFIX,oray.com
    - DOMAIN-SUFFIX,oray.net
@@ -5687,6 +5692,10 @@ payload:
    - DOMAIN-SUFFIX,c.mi.com
    - DOMAIN-SUFFIX,global.market.xiaomi.com
    # ------ xiaomi-ads ------>
+   # ------ xiaomi-ai ------>
+   - DOMAIN-SUFFIX,miaibox.com
+   - DOMAIN-SUFFIX,xiaoaiassist.com
+   - DOMAIN-SUFFIX,xiaomimimo.com
    # ------ xunlei ------>
    - DOMAIN-SUFFIX,sandai.net
    - DOMAIN-SUFFIX,thunderurl.com
