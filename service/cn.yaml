@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Dec 18 04:48:47 CST 2025
+# Update: Fri Dec 19 04:46:36 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -3670,6 +3670,9 @@ payload:
    # ------ moji ------>
    - DOMAIN-SUFFIX,moji.com
    - DOMAIN-SUFFIX,mojichina.com
+   # ------ moonvy ------>
+   - DOMAIN-SUFFIX,moonvy.com
+   - DOMAIN-SUFFIX,moonvy.cool
    # ------ nowcoder ------>
    - DOMAIN-SUFFIX,newcoder.com
    - DOMAIN-SUFFIX,nowcoder.com
