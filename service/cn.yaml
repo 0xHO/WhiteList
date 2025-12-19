@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Dec 19 04:46:36 CST 2025
+# Update: Sat Dec 20 04:46:58 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -4089,10 +4089,12 @@ payload:
    - DOMAIN-SUFFIX,dxmyqh.com
    - DOMAIN-SUFFIX,paydxm.com
    # ------ baidu-ads ------>
+   # ------ zuoyebang-ads ------>
    # ------ zuoyebang ------>
    - DOMAIN-SUFFIX,zuoyebang.cc
    - DOMAIN-SUFFIX,zuoyebang.com
    - DOMAIN-SUFFIX,zybang.com
+   # ------ zuoyebang-ads ------>
    # ------ beisen ------>
    - DOMAIN-SUFFIX,beisen.com
    - DOMAIN-SUFFIX,beisenapp.com
