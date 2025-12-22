@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Mon Dec 22 04:46:14 CST 2025
+# Update: Tue Dec 23 04:47:26 CST 2025
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -81,6 +81,7 @@ payload:
    # ------ supercell ------>
    # ------ ubisoft ------>
    - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+   # ------ vrchat ------>
    # ------ wbgames ------>
    # ------ xbox ------>
    # ------ asobo ------>
