@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Dec 23 04:47:27 CST 2025
+# Update: Wed Dec 24 04:46:33 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -22,6 +22,7 @@ payload:
    - DOMAIN-SUFFIX,jiasule.com
    - DOMAIN-SUFFIX,yunaq.com
    - DOMAIN-SUFFIX,jikeiot.cloud
+   - DOMAIN-SUFFIX,jsdmirror.com
    - DOMAIN-SUFFIX,kaipuyun.com
    - DOMAIN-SUFFIX,kaipuyun.net
    - DOMAIN-SUFFIX,pkoplink.com
@@ -2172,6 +2173,8 @@ payload:
    - DOMAIN-SUFFIX,jianyuweb.com
    - DOMAIN-SUFFIX,wallstcn.com
    - DOMAIN-SUFFIX,wallstreetcn.com
+   - DOMAIN-SUFFIX,jfdaily.com
+   - DOMAIN-SUFFIX,shobserver.com
    - DOMAIN-SUFFIX,jiqizhixin.com
    - DOMAIN-SUFFIX,jsbc.com
    - DOMAIN-SUFFIX,jstv.com
@@ -3234,6 +3237,7 @@ payload:
    - DOMAIN-SUFFIX,dearedu.com
    - DOMAIN-SUFFIX,dgjy.net
    - DOMAIN-SUFFIX,eduei.com
+   - DOMAIN-SUFFIX,gk100.com
    - DOMAIN-SUFFIX,ictbda.com
    - DOMAIN-SUFFIX,j-test.com
    - DOMAIN-SUFFIX,nattest-china.com
@@ -4605,6 +4609,11 @@ payload:
    - DOMAIN-SUFFIX,ttlivecdn.com
    - DOMAIN-SUFFIX,ttoverseaus.net
    - DOMAIN-SUFFIX,ttwstatic.com
+   - DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+   - DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+   - DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+   - DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+   - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
    # ------ trae ------>
    - DOMAIN-SUFFIX,doudou.com
    - DOMAIN-SUFFIX,mcbaas.work
