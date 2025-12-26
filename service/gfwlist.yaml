@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2025-12-26 04:46:36
+# Update: 2025-12-27 04:46:23
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -915,7 +915,6 @@ payload:
    - DOMAIN-SUFFIX,chromecast.com
    - DOMAIN-SUFFIX,chromeexperiments.com
    - DOMAIN-SUFFIX,chromestatus.com
-   - DOMAIN-SUFFIX,chromium.org
    - DOMAIN-SUFFIX,chuang-yen.org
    - DOMAIN-SUFFIX,chubold.com
    - DOMAIN-SUFFIX,chubun.com
@@ -2801,6 +2800,7 @@ payload:
    - DOMAIN-SUFFIX,lookpic.com
    - DOMAIN-SUFFIX,looktoronto.com
    - DOMAIN-SUFFIX,lotuslight.org.tw
+   - DOMAIN-SUFFIX,lovart.ai
    - DOMAIN-SUFFIX,lovetvshow.com
    - DOMAIN-SUFFIX,lpsg.com
    - DOMAIN-SUFFIX,lrfz.com
