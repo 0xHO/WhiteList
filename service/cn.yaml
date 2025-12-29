@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Dec 29 04:47:00 CST 2025
+# Update: Tue Dec 30 04:48:29 CST 2025
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -5809,6 +5809,7 @@ payload:
    - DOMAIN-SUFFIX,unicom
    - DOMAIN-SUFFIX,xn--8y0a063a
    - DOMAIN-SUFFIX,10010.com
+   - DOMAIN-SUFFIX,10155.com
    - DOMAIN-SUFFIX,114menhu.com
    - DOMAIN-SUFFIX,169ol.com
    - DOMAIN-SUFFIX,chinaunicom.com
