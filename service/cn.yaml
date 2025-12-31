@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Dec 31 04:47:38 CST 2025
+# Update: Thu Jan  1 04:46:58 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -10,17 +10,11 @@ payload:
    - DOMAIN-SUFFIX,lufax.com
    - DOMAIN-SUFFIX,lufaxcdn.com
    - DOMAIN-SUFFIX,baijiayun.com
-   - DOMAIN-SUFFIX,chuangcache.com
-   - DOMAIN-SUFFIX,chuangcdn.com
    - DOMAIN-SUFFIX,cjjd19.com
    - DOMAIN-SUFFIX,fdcyun.com
    - DOMAIN-SUFFIX,mingyuanyun.com
    - DOMAIN-SUFFIX,mypaas.com
    - DOMAIN-SUFFIX,myypark.com
-   - DOMAIN-SUFFIX,funcdn.com
-   - DOMAIN-SUFFIX,jiashule.com
-   - DOMAIN-SUFFIX,jiasule.com
-   - DOMAIN-SUFFIX,yunaq.com
    - DOMAIN-SUFFIX,jikeiot.cloud
    - DOMAIN-SUFFIX,jsdmirror.com
    - DOMAIN-SUFFIX,kaipuyun.com
@@ -2669,7 +2663,13 @@ payload:
    - DOMAIN-SUFFIX,taikanglife.com
    - DOMAIN-SUFFIX,taikangzhijia.com
    - DOMAIN-SUFFIX,tkhealthcare.com
-   # ------ aws-cn ------>
+   # ------ category-cdn-cn ------>
+   - DOMAIN-SUFFIX,chuangcache.com
+   - DOMAIN-SUFFIX,chuangcdn.com
+   - DOMAIN-SUFFIX,funcdn.com
+   - DOMAIN-SUFFIX,jiashule.com
+   - DOMAIN-SUFFIX,jiasule.com
+   - DOMAIN-SUFFIX,yunaq.com
    # ------ baishancloud ------>
    - DOMAIN-SUFFIX,qingcdn.com
    - DOMAIN-SUFFIX,trpcdn.net
@@ -2678,6 +2678,61 @@ payload:
    - DOMAIN-SUFFIX,bootcss.com
    - DOMAIN-SUFFIX,phpcomposer.com
    # ------ cloudflare-cn ------>
+   # ------ dwion ------>
+   - DOMAIN-SUFFIX,acadn.com
+   - DOMAIN-SUFFIX,bbbcdns.com
+   - DOMAIN-SUFFIX,dlgslb.net
+   - DOMAIN-SUFFIX,dwion.com
+   - DOMAIN-SUFFIX,fastcdn.com
+   - DOMAIN-SUFFIX,flxdns.com
+   - DOMAIN-SUFFIX,tlgslb.com
+   # ------ qiniu ------>
+   - DOMAIN-SUFFIX,qbox.me
+   - DOMAIN-SUFFIX,qiniu.com
+   - DOMAIN-SUFFIX,qiniucdn.com
+   - DOMAIN-SUFFIX,qiniudn.com
+   - DOMAIN-SUFFIX,qiniudns.com
+   - DOMAIN-SUFFIX,qiniup.com
+   - DOMAIN-SUFFIX,qnsdk.com
+   - DOMAIN-SUFFIX,qnssl.com
+   # ------ staticfile ------>
+   - DOMAIN-SUFFIX,staticfile.net
+   - DOMAIN-SUFFIX,staticfile.org
+   # ------ upai ------>
+   - DOMAIN-SUFFIX,aicdn.com
+   - DOMAIN-SUFFIX,upai.com
+   - DOMAIN-SUFFIX,upaiyun.com
+   - DOMAIN-SUFFIX,upcdn.net
+   - DOMAIN-SUFFIX,upyun.com
+   - DOMAIN-SUFFIX,oncdp.com
+   # ------ wangsu ------>
+   - DOMAIN-SUFFIX,51cdn.com
+   - DOMAIN-SUFFIX,8686c.com
+   - DOMAIN-SUFFIX,cdn20.com
+   - DOMAIN-SUFFIX,cdn30.org
+   - DOMAIN-SUFFIX,cdnmg.com
+   - DOMAIN-SUFFIX,chinanetcenter.com
+   - DOMAIN-SUFFIX,lxdns.com
+   - DOMAIN-SUFFIX,lxdns.info
+   - DOMAIN-SUFFIX,lxdns.net
+   - DOMAIN-SUFFIX,lxdns.org
+   - DOMAIN-SUFFIX,mwcdns.com
+   - DOMAIN-SUFFIX,mwcloudcdn.com
+   - DOMAIN-SUFFIX,ourdvsss.com
+   - DOMAIN-SUFFIX,qtlcdn.com
+   - DOMAIN-SUFFIX,qtlcdn.net
+   - DOMAIN-SUFFIX,speedws.info
+   - DOMAIN-SUFFIX,speedws.org
+   - DOMAIN-SUFFIX,wangsu.com
+   - DOMAIN-SUFFIX,wscdns.com
+   - DOMAIN-SUFFIX,wscdns.info
+   - DOMAIN-SUFFIX,wscdns.org
+   - DOMAIN-SUFFIX,wsdvs.com
+   - DOMAIN-SUFFIX,wsglb.com
+   - DOMAIN-SUFFIX,wsglb.net
+   - DOMAIN-SUFFIX,wswebcdn.com
+   - DOMAIN-SUFFIX,wswebpic.com
+   # ------ aws-cn ------>
    # ------ ctyun ------>
    - DOMAIN-SUFFIX,ctbcdn.com
    - DOMAIN-SUFFIX,ctcdnov.net
@@ -2698,14 +2753,6 @@ payload:
    - DOMAIN-SUFFIX,ctyunwaf.com
    - DOMAIN-SUFFIX,ctyunwaf1.com
    - DOMAIN-SUFFIX,ctzcdn.com
-   # ------ dwion ------>
-   - DOMAIN-SUFFIX,acadn.com
-   - DOMAIN-SUFFIX,bbbcdns.com
-   - DOMAIN-SUFFIX,dlgslb.net
-   - DOMAIN-SUFFIX,dwion.com
-   - DOMAIN-SUFFIX,fastcdn.com
-   - DOMAIN-SUFFIX,flxdns.com
-   - DOMAIN-SUFFIX,tlgslb.com
    # ------ maocloud ------>
    - DOMAIN-SUFFIX,maoyun.com
    - DOMAIN-SUFFIX,maoyuncloud.com
@@ -2716,18 +2763,6 @@ payload:
    - DOMAIN-SUFFIX,qingstor.com
    - DOMAIN-SUFFIX,routewize.com
    - DOMAIN-SUFFIX,yunify.com
-   # ------ qiniu ------>
-   - DOMAIN-SUFFIX,qbox.me
-   - DOMAIN-SUFFIX,qiniu.com
-   - DOMAIN-SUFFIX,qiniucdn.com
-   - DOMAIN-SUFFIX,qiniudn.com
-   - DOMAIN-SUFFIX,qiniudns.com
-   - DOMAIN-SUFFIX,qiniup.com
-   - DOMAIN-SUFFIX,qnsdk.com
-   - DOMAIN-SUFFIX,qnssl.com
-   # ------ staticfile ------>
-   - DOMAIN-SUFFIX,staticfile.net
-   - DOMAIN-SUFFIX,staticfile.org
    # ------ snodehome ------>
    - DOMAIN-SUFFIX,szbdyd.com
    - DOMAIN-SUFFIX,snodehome.com
@@ -2773,40 +2808,6 @@ payload:
    - DOMAIN-SUFFIX,unaming.net
    - DOMAIN-SUFFIX,uslk.net
    - DOMAIN-SUFFIX,uucl.vip
-   # ------ upai ------>
-   - DOMAIN-SUFFIX,aicdn.com
-   - DOMAIN-SUFFIX,upai.com
-   - DOMAIN-SUFFIX,upaiyun.com
-   - DOMAIN-SUFFIX,upcdn.net
-   - DOMAIN-SUFFIX,upyun.com
-   - DOMAIN-SUFFIX,oncdp.com
-   # ------ wangsu ------>
-   - DOMAIN-SUFFIX,51cdn.com
-   - DOMAIN-SUFFIX,8686c.com
-   - DOMAIN-SUFFIX,cdn20.com
-   - DOMAIN-SUFFIX,cdn30.org
-   - DOMAIN-SUFFIX,cdnmg.com
-   - DOMAIN-SUFFIX,chinanetcenter.com
-   - DOMAIN-SUFFIX,lxdns.com
-   - DOMAIN-SUFFIX,lxdns.info
-   - DOMAIN-SUFFIX,lxdns.net
-   - DOMAIN-SUFFIX,lxdns.org
-   - DOMAIN-SUFFIX,mwcdns.com
-   - DOMAIN-SUFFIX,mwcloudcdn.com
-   - DOMAIN-SUFFIX,ourdvsss.com
-   - DOMAIN-SUFFIX,qtlcdn.com
-   - DOMAIN-SUFFIX,qtlcdn.net
-   - DOMAIN-SUFFIX,speedws.info
-   - DOMAIN-SUFFIX,speedws.org
-   - DOMAIN-SUFFIX,wangsu.com
-   - DOMAIN-SUFFIX,wscdns.com
-   - DOMAIN-SUFFIX,wscdns.info
-   - DOMAIN-SUFFIX,wscdns.org
-   - DOMAIN-SUFFIX,wsdvs.com
-   - DOMAIN-SUFFIX,wsglb.com
-   - DOMAIN-SUFFIX,wsglb.net
-   - DOMAIN-SUFFIX,wswebcdn.com
-   - DOMAIN-SUFFIX,wswebpic.com
    # ------ yunfanjiasu ------>
    - DOMAIN-SUFFIX,yfcache.com
    - DOMAIN-SUFFIX,yfcalc.com
