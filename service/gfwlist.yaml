@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-01-01 04:46:50
+# Update: 2026-01-02 04:47:52
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -3513,6 +3513,7 @@ payload:
    - DOMAIN-SUFFIX,pdetails.com
    - DOMAIN-SUFFIX,pdproxy.com
    - DOMAIN-SUFFIX,pds.nasa.gov
+   - DOMAIN-SUFFIX,pdst.fm
    - DOMAIN-SUFFIX,peace.ca
    - DOMAIN-SUFFIX,peacefire.org
    - DOMAIN-SUFFIX,peeasian.com
@@ -4856,6 +4857,7 @@ payload:
    - DOMAIN-SUFFIX,unstable.icu
    - DOMAIN-SUFFIX,unwire.hk
    - DOMAIN-SUFFIX,uocn.org
+   - DOMAIN-SUFFIX,up.audio
    - DOMAIN-SUFFIX,upbit.com
    - DOMAIN-SUFFIX,updates.tdesktop.com
    - DOMAIN-SUFFIX,upghsbc.com
