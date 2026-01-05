@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-01-05 04:47:00
+# Update: 2026-01-06 04:49:54
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -189,6 +189,7 @@ payload:
    - DOMAIN-SUFFIX,agoogleaday.com
    - DOMAIN-SUFFIX,agro.hk
    - DOMAIN-SUFFIX,ai.dev
+   - DOMAIN-SUFFIX,ai.studio
    - DOMAIN-SUFFIX,aiosearch.com
    - DOMAIN-SUFFIX,aiph.net
    - DOMAIN-SUFFIX,airasia.com
@@ -1148,6 +1149,7 @@ payload:
    - DOMAIN-SUFFIX,david-kilgour.com
    - DOMAIN-SUFFIX,dawangidc.com
    - DOMAIN-SUFFIX,daxa.cn
+   - DOMAIN-SUFFIX,dazn.com
    - DOMAIN-SUFFIX,db.tt
    - DOMAIN-SUFFIX,dbgjd.com
    - DOMAIN-SUFFIX,dcard.tw
@@ -3405,6 +3407,8 @@ payload:
    - DOMAIN-SUFFIX,onthehunt.com
    - DOMAIN-SUFFIX,ontrac.com
    - DOMAIN-SUFFIX,oojj.de
+   - DOMAIN-SUFFIX,ooni.io
+   - DOMAIN-SUFFIX,ooni.org
    - DOMAIN-SUFFIX,open.com.hk
    - DOMAIN-SUFFIX,open.firstory.me
    - DOMAIN-SUFFIX,openai.com
@@ -5287,6 +5291,7 @@ payload:
    - DOMAIN-SUFFIX,xbookcn.com
    - DOMAIN-SUFFIX,xbtce.com
    - DOMAIN-SUFFIX,xcafe.in
+   - DOMAIN-SUFFIX,xcancel.com
    - DOMAIN-SUFFIX,xcity.jp
    - DOMAIN-SUFFIX,xcritic.com
    - DOMAIN-SUFFIX,xerotica.com

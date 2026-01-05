@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/category-public-tracker.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/category-public-tracker.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/category-public-tracker.yaml
-# Update: Mon Jan  5 04:47:15 CST 2026
+# Update: Tue Jan  6 04:50:09 CST 2026
 payload:
    # ------ category-public-tracker ------>
    - DOMAIN,0123456789nonexistent.com
@@ -125,6 +125,7 @@ payload:
    - DOMAIN,mvgforumtracker.mvgroup.org
    - DOMAIN,mvgroup.org
    - DOMAIN,new-line.net
+   - DOMAIN,nnmclub.to
    - DOMAIN,nyaa.tracker.wf
    - DOMAIN,odd-hd.fr
    - DOMAIN,oh.fuuuuuck.com

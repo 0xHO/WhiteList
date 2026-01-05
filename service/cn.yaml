@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Jan  5 04:47:09 CST 2026
+# Update: Tue Jan  6 04:50:02 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -2453,6 +2453,7 @@ payload:
    # ------ citic ------>
    - DOMAIN-SUFFIX,citic
    - DOMAIN-SUFFIX,xn--fiq64b
+   - DOMAIN-SUFFIX,cfc108.com
    - DOMAIN-SUFFIX,chinaamc.com
    - DOMAIN-SUFFIX,citicbank.com
    - DOMAIN-SUFFIX,citiccapital.com
