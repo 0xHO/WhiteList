@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Tue Jan  6 04:50:00 CST 2026
+# Update: Wed Jan  7 04:47:34 CST 2026
 payload:
    # ------ apple ------>
    - DOMAIN,ingest.apple-studies.com
@@ -1536,9 +1536,6 @@ payload:
    - DOMAIN-SUFFIX,itunesu.net
    - DOMAIN-SUFFIX,iutunes.com
    - DOMAIN-SUFFIX,wwwitunes.com
-   # ------ swift ------>
-   - DOMAIN-SUFFIX,appleswift.com
-   - DOMAIN-SUFFIX,swift.org
    # ------ icloud ------>
    - DOMAIN,www-cdn.icloud.com.akadns.net
    - DOMAIN-SUFFIX,applemx-icloud.com
