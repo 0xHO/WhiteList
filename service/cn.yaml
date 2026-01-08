@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Jan  8 04:51:42 CST 2026
+# Update: Fri Jan  9 04:49:52 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -21,6 +21,7 @@ payload:
    - DOMAIN-SUFFIX,kaipuyun.net
    - DOMAIN-SUFFIX,pkoplink.com
    - DOMAIN-SUFFIX,51selling.com
+   - DOMAIN-SUFFIX,aihuishou.com
    - DOMAIN-SUFFIX,appsimg.com
    - DOMAIN-SUFFIX,appvipshop.com
    - DOMAIN-SUFFIX,vip.com
@@ -64,6 +65,7 @@ payload:
    - DOMAIN-SUFFIX,znds.com
    - DOMAIN-SUFFIX,423down.com
    - DOMAIN-SUFFIX,acwifi.net
+   - DOMAIN-SUFFIX,appinn.com
    - DOMAIN-SUFFIX,chongdiantou.com
    - DOMAIN-SUFFIX,ghxi.com
    - DOMAIN-SUFFIX,iplaysoft.com
@@ -98,10 +100,13 @@ payload:
    - DOMAIN-SUFFIX,7moor-fs1.com
    - DOMAIN-SUFFIX,7moor.com
    - DOMAIN-SUFFIX,antutu.com
+   - DOMAIN-SUFFIX,antutu.net
    - DOMAIN-SUFFIX,bambulab.com
    - DOMAIN-SUFFIX,bblmw.com
    - DOMAIN-SUFFIX,bosszhipin.com
    - DOMAIN-SUFFIX,zhipin.com
+   - DOMAIN-SUFFIX,chuimg.com
+   - DOMAIN-SUFFIX,xiachufang.com
    - DOMAIN-SUFFIX,dangbei.com
    - DOMAIN-SUFFIX,dangbei.net
    - DOMAIN-SUFFIX,deepepg.com
@@ -139,6 +144,9 @@ payload:
    - DOMAIN-SUFFIX,socpk.com
    - DOMAIN-SUFFIX,suzuki-china.com
    - DOMAIN-SUFFIX,ysjf.com
+   - DOMAIN-SUFFIX,fnnas.com
+   - DOMAIN-SUFFIX,fnnas.net
+   - DOMAIN-SUFFIX,fnos.net
    - DOMAIN-SUFFIX,huaban.com
    - DOMAIN-SUFFIX,huabanimg.com
    - DOMAIN-SUFFIX,dancf.com
@@ -313,7 +321,6 @@ payload:
    - DOMAIN-SUFFIX,apk8.com
    - DOMAIN-SUFFIX,aplaybox.com
    - DOMAIN-SUFFIX,appchina.com
-   - DOMAIN-SUFFIX,appinn.com
    - DOMAIN-SUFFIX,arpun.com
    - DOMAIN-SUFFIX,asklib.com
    - DOMAIN-SUFFIX,babytree.com
@@ -1015,7 +1022,6 @@ payload:
    - DOMAIN-SUFFIX,xdtool.com
    - DOMAIN-SUFFIX,xdwan.com
    - DOMAIN-SUFFIX,xfdown.com
-   - DOMAIN-SUFFIX,xiachufang.com
    - DOMAIN-SUFFIX,xiaobaixitong.com
    - DOMAIN-SUFFIX,xiaoe-tech.com
    - DOMAIN-SUFFIX,xiaogouh5.com
@@ -1603,6 +1609,7 @@ payload:
    - DOMAIN-SUFFIX,xdcdn.net
    - DOMAIN-SUFFIX,xindong.com
    # ------ taptap ------>
+   - DOMAIN-SUFFIX,tapapks.com
    - DOMAIN-SUFFIX,tapimg.com
    - DOMAIN-SUFFIX,tapimg.net
    - DOMAIN-SUFFIX,taptap.com
