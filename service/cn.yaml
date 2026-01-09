@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Jan  9 04:49:52 CST 2026
+# Update: Sat Jan 10 04:49:04 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -2395,6 +2395,7 @@ payload:
    - DOMAIN-SUFFIX,igexin.com
    # ------ jiguang ------>
    - DOMAIN-SUFFIX,5566ua.com
+   - DOMAIN-SUFFIX,easytomessage.com
    - DOMAIN-SUFFIX,jchat.io
    - DOMAIN-SUFFIX,jmlk.co
    - DOMAIN-SUFFIX,jpush.io
@@ -3310,6 +3311,9 @@ payload:
    - DOMAIN-SUFFIX,koocdn.com
    - DOMAIN-SUFFIX,koolearn.com
    - DOMAIN-SUFFIX,koopass.com
+   # ------ schoopia ------>
+   - DOMAIN-SUFFIX,schoopia.com
+   - DOMAIN-SUFFIX,tongxuepie.com
    # ------ shanbay ------>
    - DOMAIN-SUFFIX,baydn.com
    - DOMAIN-SUFFIX,shanbay.com
