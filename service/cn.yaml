@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Jan 10 04:49:04 CST 2026
+# Update: Sun Jan 11 04:46:40 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -89,6 +89,7 @@ payload:
    - DOMAIN-SUFFIX,xiamenair.com
    - DOMAIN-SUFFIX,ccrgt.com
    - DOMAIN-SUFFIX,kuajing84.com
+   - DOMAIN-SUFFIX,mygolbs.com
    - DOMAIN-SUFFIX,ningtingche.com
    - DOMAIN-SUFFIX,umetrip.com
    - DOMAIN-SUFFIX,zzdtec.com
@@ -2136,6 +2137,7 @@ payload:
    # ------ category-media-cn ------>
    - DOMAIN-SUFFIX,21jingji.com
    - DOMAIN-SUFFIX,admin5.com
+   - DOMAIN-SUFFIX,anhuinews.com
    - DOMAIN-SUFFIX,bianews.com
    - DOMAIN-SUFFIX,cailianpress.com
    - DOMAIN-SUFFIX,caixin.com
@@ -2153,6 +2155,7 @@ payload:
    - DOMAIN-SUFFIX,cztvcdn.com
    - DOMAIN-SUFFIX,cztvcloud.com
    - DOMAIN-SUFFIX,zjstv.com
+   - DOMAIN-SUFFIX,dutenews.com
    - DOMAIN-SUFFIX,yundzh.com
    - DOMAIN-SUFFIX,dgtle.com
    - DOMAIN-SUFFIX,donews.com
@@ -2207,6 +2210,8 @@ payload:
    - DOMAIN-SUFFIX,sspai.com
    - DOMAIN-SUFFIX,stockstar.com
    - DOMAIN-SUFFIX,stcn.com
+   - DOMAIN-SUFFIX,sznews.com
+   - DOMAIN-SUFFIX,szpgm.com
    - DOMAIN-SUFFIX,takungpao.com
    - DOMAIN-SUFFIX,ths123.com
    - DOMAIN-SUFFIX,woshipm.com
@@ -3762,6 +3767,9 @@ payload:
    # ------ zhangtao ------>
    - DOMAIN-SUFFIX,mob.com
    - DOMAIN-SUFFIX,dutils.com
+   - DOMAIN-SUFFIX,hiaiabc.com
+   - DOMAIN-SUFFIX,mobsdks.com
+   - DOMAIN-SUFFIX,yksdks.com
    # ------ zhubajie ------>
    - DOMAIN-SUFFIX,tianpeng.com
    - DOMAIN-SUFFIX,zbj.com
@@ -5799,6 +5807,7 @@ payload:
    - DOMAIN-SUFFIX,migufun.com
    - DOMAIN-SUFFIX,miguvideo.com
    - DOMAIN-SUFFIX,andfx.net
+   - DOMAIN-SUFFIX,cmicapm.com
    - DOMAIN-SUFFIX,cmpassport.com
    - DOMAIN-SUFFIX,fetion-portal.com
    - DOMAIN-SUFFIX,fetionpic.com
