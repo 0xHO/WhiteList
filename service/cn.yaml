@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Jan 14 04:50:39 CST 2026
+# Update: Thu Jan 15 04:48:49 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -100,6 +100,7 @@ payload:
    - DOMAIN-SUFFIX,zyh365.com
    - DOMAIN-SUFFIX,7moor-fs1.com
    - DOMAIN-SUFFIX,7moor.com
+   - DOMAIN-SUFFIX,alookweb.com
    - DOMAIN-SUFFIX,antutu.com
    - DOMAIN-SUFFIX,antutu.net
    - DOMAIN-SUFFIX,bambulab.com
@@ -110,10 +111,14 @@ payload:
    - DOMAIN-SUFFIX,xiachufang.com
    - DOMAIN-SUFFIX,dangbei.com
    - DOMAIN-SUFFIX,dangbei.net
+   - DOMAIN-SUFFIX,dcloud.io
    - DOMAIN-SUFFIX,deepepg.com
    - DOMAIN-SUFFIX,kookong.com
    - DOMAIN-SUFFIX,dida365.com
+   - DOMAIN-SUFFIX,dui88.com
    - DOMAIN-SUFFIX,hapjs.org
+   - DOMAIN-SUFFIX,lbtp.com
+   - DOMAIN-SUFFIX,lebo.top
    - DOMAIN-SUFFIX,i8tq.com
    - DOMAIN-SUFFIX,weatherdt.com
    - DOMAIN-SUFFIX,ireader.com
@@ -132,6 +137,7 @@ payload:
    - DOMAIN-SUFFIX,soboten.com
    - DOMAIN-SUFFIX,tacool.com
    - DOMAIN-SUFFIX,viayoo.com
+   - DOMAIN-SUFFIX,xbext.com
    - DOMAIN-SUFFIX,yinxiang.com
    - DOMAIN-SUFFIX,51togic.com
    - DOMAIN-SUFFIX,avlyun.com
@@ -2341,6 +2347,7 @@ payload:
    - DOMAIN-SUFFIX,dandan818.com
    - DOMAIN-SUFFIX,dandanvoice.com
    - DOMAIN-SUFFIX,taou.com
+   - DOMAIN-SUFFIX,zsxq.com
    # ------ coolapk ------>
    - DOMAIN-SUFFIX,coolapk.com
    - DOMAIN-SUFFIX,coolapkmarket.com

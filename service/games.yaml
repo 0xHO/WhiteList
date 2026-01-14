@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Wed Jan 14 04:50:37 CST 2026
+# Update: Thu Jan 15 04:48:47 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -832,6 +832,10 @@ payload:
    - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
    - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
    - DOMAIN-SUFFIX,steam.cdn.webra.ru
+   # ------ steaminventoryhelper ------>
+   - DOMAIN-SUFFIX,sih-db.com
+   - DOMAIN-SUFFIX,sih.app
+   - DOMAIN-SUFFIX,steaminventoryhelper.com
    # ------ steamunlocked ------>
    - DOMAIN-SUFFIX,steamunlocked.net
    # ------ supercell ------>
