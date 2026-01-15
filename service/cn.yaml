@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Jan 15 04:48:49 CST 2026
+# Update: Fri Jan 16 04:51:48 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -4768,6 +4768,7 @@ payload:
    - DOMAIN-SUFFIX,volcfcdnsc.com
    - DOMAIN-SUFFIX,volcfxgjrtm.com
    - DOMAIN-SUFFIX,volcgroup.com
+   - DOMAIN-SUFFIX,volcgslb-mlt.com
    - DOMAIN-SUFFIX,volcgslb.com
    - DOMAIN-SUFFIX,volcgtm.com
    - DOMAIN-SUFFIX,volciad.com
