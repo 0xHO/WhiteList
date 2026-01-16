@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-01-16 04:51:40
+# Update: 2026-01-17 04:47:21
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -142,6 +142,7 @@ payload:
    - DOMAIN-SUFFIX,abematv.akamaized.net
    - DOMAIN-SUFFIX,ablwang.com
    - DOMAIN-SUFFIX,aboluowang.com
+   - DOMAIN-SUFFIX,about.gitlab.com
    - DOMAIN-SUFFIX,about.me
    - DOMAIN-SUFFIX,abplive.com
    - DOMAIN-SUFFIX,abs.edu
@@ -1862,7 +1863,6 @@ payload:
    - DOMAIN-SUFFIX,githubassets.com
    - DOMAIN-SUFFIX,githubcopilot.com
    - DOMAIN-SUFFIX,githubusercontent.com
-   - DOMAIN-SUFFIX,gitlab.com
    - DOMAIN-SUFFIX,gitlab.net
    - DOMAIN-SUFFIX,gizlen.net
    - DOMAIN-SUFFIX,gjczz.com
