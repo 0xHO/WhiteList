@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sat Jan 17 04:47:28 CST 2026
+# Update: Sun Jan 18 04:46:28 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -675,6 +675,11 @@ payload:
    - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
    # ------ projectsekai ------>
    - DOMAIN-SUFFIX,sekai.colorfulpalette.org
+   # ------ pubg ------>
+   - DOMAIN,pubg1.battleye.com
+   - DOMAIN-SUFFIX,kraftonde.com
+   - DOMAIN-SUFFIX,playbattlegrounds.com
+   - DOMAIN-SUFFIX,pubg.com
    # ------ purikonejp ------>
    - DOMAIN,prd-priconne-redive.akamaized.net
    - DOMAIN-SUFFIX,priconne-redive.jp
