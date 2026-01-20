@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Jan 20 04:48:41 CST 2026
+# Update: Wed Jan 21 04:56:20 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -1268,6 +1268,21 @@ payload:
    # ------ goproxy ------>
    - DOMAIN-SUFFIX,goproxy.io
    # ------ huawei-dev ------>
+   - DOMAIN-SUFFIX,devui.design
+   - DOMAIN-SUFFIX,gneec.com
+   - DOMAIN-SUFFIX,gneec3.com
+   - DOMAIN-SUFFIX,gneec4.com
+   - DOMAIN-SUFFIX,gneec7.com
+   - DOMAIN-SUFFIX,harmonyos.com
+   - DOMAIN-SUFFIX,hiascend.com
+   - DOMAIN-SUFFIX,hiclc.com
+   - DOMAIN-SUFFIX,hikunpeng.com
+   - DOMAIN-SUFFIX,hikunpeng.net
+   - DOMAIN-SUFFIX,hisilicon.com
+   - DOMAIN-SUFFIX,huaweiapaas.com
+   - DOMAIN-SUFFIX,owsgo.com
+   - DOMAIN-SUFFIX,saasops.tech
+   - DOMAIN-SUFFIX,teleows.com
    # ------ juejin ------>
    - DOMAIN,p1-juejin.byteimg.com
    - DOMAIN,p2-juejin.byteimg.com
@@ -1317,6 +1332,7 @@ payload:
    - DOMAIN-SUFFIX,tjstats.com
    - DOMAIN-SUFFIX,wegamedeveloper.com
    - DOMAIN-SUFFIX,weixinbridge.com
+   - DOMAIN-SUFFIX,weui.io
    # ------ cnb ------>
    - DOMAIN-SUFFIX,cnb.cool
    # ------ coding ------>
@@ -1535,6 +1551,8 @@ payload:
    - DOMAIN-SUFFIX,shyxhy.com
    - DOMAIN-SUFFIX,yingxiong.com
    # ------ kurogames ------>
+   - DOMAIN-SUFFIX,kurogames.com
+   - DOMAIN-SUFFIX,aki-game.com
    # ------ mihoyo-cn ------>
    - DOMAIN-SUFFIX,mhystatic.com
    - DOMAIN-SUFFIX,mihayo.com
@@ -3234,6 +3252,7 @@ payload:
    - DOMAIN-SUFFIX,ld246.com
    # ------ kechuang ------>
    - DOMAIN-SUFFIX,kechuang.org
+   - DOMAIN-SUFFIX,kexinshe.com
    # ------ nga ------>
    - DOMAIN-SUFFIX,178.com
    - DOMAIN-SUFFIX,ngabbs.com
@@ -3367,7 +3386,6 @@ payload:
    - DOMAIN-SUFFIX,uoj.ac
    - DOMAIN-SUFFIX,vijos.org
    # ------ category-scholar-cn ------>
-   - DOMAIN,www.libvideo.com
    - DOMAIN-SUFFIX,51ccd.com
    - DOMAIN-SUFFIX,apabi.com
    - DOMAIN-SUFFIX,bjinfobank.com
@@ -3393,6 +3411,7 @@ payload:
    - DOMAIN-SUFFIX,hwshu.com
    - DOMAIN-SUFFIX,incopat.com
    - DOMAIN-SUFFIX,lawyee.org
+   - DOMAIN-SUFFIX,libvideo.com
    - DOMAIN-SUFFIX,neohytung.com
    - DOMAIN-SUFFIX,nmrdata.com
    - DOMAIN-SUFFIX,pkulaw.com
@@ -4880,6 +4899,21 @@ payload:
    - DOMAIN-SUFFIX,vmall.com
    - DOMAIN-SUFFIX,vmallres.com
    # ------ huawei-dev ------>
+   - DOMAIN-SUFFIX,devui.design
+   - DOMAIN-SUFFIX,gneec.com
+   - DOMAIN-SUFFIX,gneec3.com
+   - DOMAIN-SUFFIX,gneec4.com
+   - DOMAIN-SUFFIX,gneec7.com
+   - DOMAIN-SUFFIX,harmonyos.com
+   - DOMAIN-SUFFIX,hiascend.com
+   - DOMAIN-SUFFIX,hiclc.com
+   - DOMAIN-SUFFIX,hikunpeng.com
+   - DOMAIN-SUFFIX,hikunpeng.net
+   - DOMAIN-SUFFIX,hisilicon.com
+   - DOMAIN-SUFFIX,huaweiapaas.com
+   - DOMAIN-SUFFIX,owsgo.com
+   - DOMAIN-SUFFIX,saasops.tech
+   - DOMAIN-SUFFIX,teleows.com
    # ------ huaweicloud ------>
    - DOMAIN-SUFFIX,aadcloud.com
    - DOMAIN-SUFFIX,b2bgo.com
@@ -5651,6 +5685,7 @@ payload:
    - DOMAIN-SUFFIX,tjstats.com
    - DOMAIN-SUFFIX,wegamedeveloper.com
    - DOMAIN-SUFFIX,weixinbridge.com
+   - DOMAIN-SUFFIX,weui.io
    # ------ cnb ------>
    - DOMAIN-SUFFIX,cnb.cool
    # ------ coding ------>
@@ -5778,6 +5813,11 @@ payload:
    - DOMAIN-SUFFIX,miaibox.com
    - DOMAIN-SUFFIX,xiaoaiassist.com
    - DOMAIN-SUFFIX,xiaomimimo.com
+   # ------ xiaomi-iot ------>
+   - DOMAIN-SUFFIX,account.xiaomi.com
+   - DOMAIN-SUFFIX,cn-ha.mqtt.io.mi.com
+   - DOMAIN-SUFFIX,ha.api.io.mi.com
+   - DOMAIN-SUFFIX,miot-spec.org
    # ------ xunlei ------>
    - DOMAIN-SUFFIX,sandai.net
    - DOMAIN-SUFFIX,thunderurl.com

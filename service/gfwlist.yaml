@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-01-20 04:48:32
+# Update: 2026-01-21 04:56:12
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -5133,6 +5133,7 @@ payload:
    - DOMAIN-SUFFIX,wefong.com
    - DOMAIN-SUFFIX,wego.here.com
    - DOMAIN-SUFFIX,weiboleak.com
+   - DOMAIN-SUFFIX,weights.com
    - DOMAIN-SUFFIX,weihuo.org
    - DOMAIN-SUFFIX,weijingsheng.org
    - DOMAIN-SUFFIX,weiming.info
@@ -5419,6 +5420,7 @@ payload:
    - DOMAIN-SUFFIX,youdontcare.com
    - DOMAIN-SUFFIX,youjizz.com
    - DOMAIN-SUFFIX,youmaker.com
+   - DOMAIN-SUFFIX,youmind.com
    - DOMAIN-SUFFIX,youngpornvideos.com
    - DOMAIN-SUFFIX,youngspiration.hk
    - DOMAIN-SUFFIX,youpai.org
