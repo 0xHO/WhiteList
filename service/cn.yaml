@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Jan 21 04:56:20 CST 2026
+# Update: Thu Jan 22 04:58:31 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -159,6 +159,9 @@ payload:
    - DOMAIN-SUFFIX,dancf.com
    - DOMAIN-SUFFIX,hlgdata.com
    - DOMAIN-SUFFIX,huanleguang.com
+   - DOMAIN-SUFFIX,baimiao.tech
+   - DOMAIN-SUFFIX,baimiaoapp.com
+   - DOMAIN-SUFFIX,shinescan.tech
    - DOMAIN-SUFFIX,chaziyu.com
    - DOMAIN-SUFFIX,fofa.info
    - DOMAIN-SUFFIX,icplishi.com
