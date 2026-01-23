@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Jan 23 04:53:25 CST 2026
+# Update: Sat Jan 24 04:51:52 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
