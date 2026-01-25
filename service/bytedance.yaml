@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Sun Jan 25 04:46:30 CST 2026
+# Update: Mon Jan 26 04:48:43 CST 2026
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
