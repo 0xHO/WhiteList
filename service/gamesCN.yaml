@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Wed Jan 28 04:50:56 CST 2026
+# Update: Thu Jan 29 04:59:20 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -25,6 +25,7 @@ payload:
    # ------ blizzard ------>
    # ------ bluearchive ------>
    - DOMAIN-SUFFIX,bluearchive-cn.com
+   # ------ bohemia ------>
    # ------ curseforge ------>
    # ------ cygames ------>
    # ------ ea ------>

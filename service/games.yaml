@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Wed Jan 28 04:50:55 CST 2026
+# Update: Thu Jan 29 04:59:19 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -266,6 +266,16 @@ payload:
    # ------ bluearchive ------>
    - DOMAIN-SUFFIX,bluearchive.jp
    - DOMAIN-SUFFIX,bluearchive.nexon.com
+   # ------ bohemia ------>
+   - DOMAIN-SUFFIX,arma3.com
+   - DOMAIN-SUFFIX,armaplatform.com
+   - DOMAIN-SUFFIX,bistudio.com
+   - DOMAIN-SUFFIX,bohemia.net
+   - DOMAIN-SUFFIX,dayz.com
+   - DOMAIN-SUFFIX,makearmanotwar.com
+   - DOMAIN-SUFFIX,silicagame.com
+   - DOMAIN-SUFFIX,vigorgame.com
+   - DOMAIN-SUFFIX,ylands.com
    # ------ curseforge ------>
    - DOMAIN-SUFFIX,curseforge.com
    - DOMAIN-SUFFIX,forgecdn.net
