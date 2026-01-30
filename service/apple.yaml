@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Fri Jan 30 04:55:21 CST 2026
+# Update: Sat Jan 31 04:57:58 CST 2026
 payload:
    # ------ apple ------>
    - DOMAIN,ingest.apple-studies.com

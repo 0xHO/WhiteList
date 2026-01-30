@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-01-30 04:55:15
+# Update: 2026-01-31 04:57:51
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -4079,6 +4079,7 @@ payload:
    - DOMAIN-SUFFIX,silkbook.com
    - DOMAIN-SUFFIX,silvergatebank.com
    - DOMAIN-SUFFIX,simbolostwitter.com
+   - DOMAIN-SUFFIX,simianx.ai
    - DOMAIN-SUFFIX,simplecd.me
    - DOMAIN-SUFFIX,simplecd.org
    - DOMAIN-SUFFIX,simpleproductivityblog.com
@@ -5400,6 +5401,7 @@ payload:
    - DOMAIN-SUFFIX,yesasia.com
    - DOMAIN-SUFFIX,yesasia.com.hk
    - DOMAIN-SUFFIX,yespornplease.com
+   - DOMAIN-SUFFIX,yfsp.tv
    - DOMAIN-SUFFIX,ygto.com
    - DOMAIN-SUFFIX,yhcw.net
    - DOMAIN-SUFFIX,yibada.com

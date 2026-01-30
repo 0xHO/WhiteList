@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Jan 30 04:55:23 CST 2026
+# Update: Sat Jan 31 04:58:00 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -1344,6 +1344,7 @@ payload:
    # ------ ubuntukylin ------>
    - DOMAIN-SUFFIX,openkylin.top
    - DOMAIN-SUFFIX,ubuntukylin.com
+   # ------ unitychina ------>
    # ------ category-electronic-cn ------>
    - DOMAIN-SUFFIX,analog.com
    - DOMAIN-SUFFIX,boe.com
@@ -2444,18 +2445,6 @@ payload:
    - DOMAIN-SUFFIX,jpush.io
    - DOMAIN-SUFFIX,jpushoa.com
    - DOMAIN-SUFFIX,pushcfg.com
-   # ------ umeng ------>
-   - DOMAIN-SUFFIX,cnzz.com
-   - DOMAIN-SUFFIX,mobmore.com
-   - DOMAIN-SUFFIX,puata.info
-   - DOMAIN-SUFFIX,shujupie.com
-   - DOMAIN-SUFFIX,umeng.com
-   - DOMAIN-SUFFIX,umengcloud.com
-   - DOMAIN-SUFFIX,umsns.com
-   - DOMAIN-SUFFIX,umtrack.com
-   - DOMAIN-SUFFIX,uyunad.com
-   - DOMAIN-SUFFIX,whalecloud.com
-   # ------ umeng-ads ------>
    # ------ category-httpdns-cn ------>
    # ------ category-bank-cn ------>
    - DOMAIN-SUFFIX,abchina.com
@@ -3330,6 +3319,7 @@ payload:
    - DOMAIN-SUFFIX,ystbds.com
    - DOMAIN-SUFFIX,zhan.com
    - DOMAIN-SUFFIX,zhihuishu.com
+   - DOMAIN-SUFFIX,zjzs.net
    # ------ category-mooc-cn ------>
    - DOMAIN,study.163.com
    - DOMAIN-SUFFIX,chinesemooc.org
