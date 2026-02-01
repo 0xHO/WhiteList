@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/microsoft.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
-# Update: Sun Feb  1 04:51:55 CST 2026
+# Update: Mon Feb  2 04:53:38 CST 2026
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -356,6 +356,7 @@ payload:
    - DOMAIN,developer.microsoft.com
    - DOMAIN,download.visualstudio.microsoft.com
    - DOMAIN,dtlgalleryint.cloudapp.net
+   - DOMAIN,packages.microsoft.com
    - DOMAIN,poshtestgallery.cloudapp.net
    - DOMAIN,psg-int-centralus.cloudapp.net
    - DOMAIN,psg-int-eastus.cloudapp.net

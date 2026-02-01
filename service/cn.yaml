@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Feb  1 04:51:57 CST 2026
+# Update: Mon Feb  2 04:53:40 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -5419,6 +5419,7 @@ payload:
    - DOMAIN-SUFFIX,dcloudvod.com
    - DOMAIN-SUFFIX,dcloudvod.net
    - DOMAIN-SUFFIX,dnsv1.com
+   - DOMAIN-SUFFIX,edgeone.cool
    - DOMAIN-SUFFIX,edgeonedy1.com
    - DOMAIN-SUFFIX,essurl.com
    - DOMAIN-SUFFIX,exmailgz.com

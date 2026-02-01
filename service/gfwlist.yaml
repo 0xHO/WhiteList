@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-02-01 04:51:49
+# Update: 2026-02-02 04:53:31
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -4360,6 +4360,7 @@ payload:
    - DOMAIN-SUFFIX,tafm.org
    - DOMAIN-SUFFIX,tagwalk.com
    - DOMAIN-SUFFIX,tahr.org.tw
+   - DOMAIN-SUFFIX,tails.net
    - DOMAIN-SUFFIX,taipei.gov.tw
    - DOMAIN-SUFFIX,taipeisociety.org
    - DOMAIN-SUFFIX,taipeitimes.com
