@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-02-04 05:04:35
+# Update: 2026-02-05 05:02:12
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,030buy.com
@@ -3474,6 +3474,7 @@ payload:
    - DOMAIN-SUFFIX,padmanet.com
    - DOMAIN-SUFFIX,page.link
    - DOMAIN-SUFFIX,page2rss.com
+   - DOMAIN-SUFFIX,pages.dev
    - DOMAIN-SUFFIX,paimon.moe
    - DOMAIN-SUFFIX,palacemoon.com
    - DOMAIN-SUFFIX,paljorpublications.com
@@ -3995,6 +3996,7 @@ payload:
    - DOMAIN-SUFFIX,seesmic.com
    - DOMAIN-SUFFIX,seevpn.com
    - DOMAIN-SUFFIX,seezone.net
+   - DOMAIN-SUFFIX,sef.org.tw
    - DOMAIN-SUFFIX,sehuatang.net
    - DOMAIN-SUFFIX,sehuatang.org
    - DOMAIN-SUFFIX,sejie.com
@@ -5277,6 +5279,7 @@ payload:
    - DOMAIN-SUFFIX,www.aolnews.com
    - DOMAIN-SUFFIX,www.bing.com
    - DOMAIN-SUFFIX,www.dwheeler.com
+   - DOMAIN-SUFFIX,www.hoyolab.com
    - DOMAIN-SUFFIX,www.klip.me
    - DOMAIN-SUFFIX,www.lorenzetti.com.br
    - DOMAIN-SUFFIX,www.moztw.org
