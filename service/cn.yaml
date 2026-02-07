@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Feb  7 05:00:47 CST 2026
+# Update: Sun Feb  8 04:55:27 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -2198,6 +2198,7 @@ payload:
    - DOMAIN-SUFFIX,geekpark.net
    - DOMAIN-SUFFIX,gmw.com
    - DOMAIN-SUFFIX,guigu.org
+   - DOMAIN-SUFFIX,ths123.com
    - DOMAIN-SUFFIX,hexun.com
    - DOMAIN-SUFFIX,hntv.tv
    - DOMAIN-SUFFIX,hndt.com
@@ -2210,6 +2211,7 @@ payload:
    - DOMAIN-SUFFIX,jianyuweb.com
    - DOMAIN-SUFFIX,wallstcn.com
    - DOMAIN-SUFFIX,wallstreetcn.com
+   - DOMAIN-SUFFIX,jin10.com
    - DOMAIN-SUFFIX,jfdaily.com
    - DOMAIN-SUFFIX,shobserver.com
    - DOMAIN-SUFFIX,jiqizhixin.com
@@ -2248,7 +2250,6 @@ payload:
    - DOMAIN-SUFFIX,sznews.com
    - DOMAIN-SUFFIX,szpgm.com
    - DOMAIN-SUFFIX,takungpao.com
-   - DOMAIN-SUFFIX,ths123.com
    - DOMAIN-SUFFIX,woshipm.com
    - DOMAIN-SUFFIX,yicai.com
    - DOMAIN-SUFFIX,zealer.com
@@ -5201,6 +5202,7 @@ payload:
    - DOMAIN-SUFFIX,166.net
    - DOMAIN-SUFFIX,188.com
    - DOMAIN-SUFFIX,321fenx.com
+   - DOMAIN-SUFFIX,easebar.com
    - DOMAIN-SUFFIX,haowu.link
    - DOMAIN-SUFFIX,icourse163.org
    - DOMAIN-SUFFIX,lf126.net
