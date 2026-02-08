@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Sun Feb  8 04:55:26 CST 2026
+# Update: Mon Feb  9 04:55:33 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -21,7 +21,6 @@ payload:
    # ------ taptap ------>
    # ------ yokaverse ------>
    # ------ category-games-!cn ------>
-   # ------ 2kgames ------>
    # ------ blizzard ------>
    # ------ bluearchive ------>
    - DOMAIN-SUFFIX,bluearchive-cn.com
@@ -35,6 +34,7 @@ payload:
    # ------ epicgames ------>
    # ------ escapefromtarkov ------>
    # ------ faceit ------>
+   # ------ gaijin ------>
    # ------ garena ------>
    # ------ gog ------>
    - DOMAIN,gog.qtlglb.com
@@ -63,7 +63,6 @@ payload:
    # ------ purikonejp ------>
    # ------ riot ------>
    # ------ roblox ------>
-   # ------ rockstar ------>
    # ------ snk ------>
    # ------ steam ------>
    - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -81,6 +80,10 @@ payload:
    # ------ steaminventoryhelper ------>
    # ------ steamunlocked ------>
    # ------ supercell ------>
+   # ------ take-two ------>
+   # ------ 2kgames ------>
+   # ------ rockstar ------>
+   # ------ zynga ------>
    # ------ ubisoft ------>
    - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
    # ------ vrchat ------>
