@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Feb 10 05:09:10 CST 2026
+# Update: Wed Feb 11 05:23:40 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -1670,7 +1670,6 @@ payload:
    - DOMAIN-SUFFIX,acfunchina.com
    - DOMAIN-SUFFIX,acfunchina.net
    - DOMAIN-SUFFIX,aixifan.com
-   # ------ acfun-ads ------>
    # ------ acplay ------>
    - DOMAIN-SUFFIX,acplay.net
    - DOMAIN-SUFFIX,dandanplay.com
@@ -1830,7 +1829,6 @@ payload:
    - DOMAIN-SUFFIX,qznovelpic.com
    - DOMAIN-SUFFIX,qznovelstatic.com
    - DOMAIN-SUFFIX,qznovelvod.com
-   # ------ fqnovel-ads ------>
    # ------ gamersky ------>
    - DOMAIN-SUFFIX,gamersky.com
    # ------ gitv ------>
@@ -1843,7 +1841,6 @@ payload:
    - DOMAIN-SUFFIX,hunantv.com
    - DOMAIN-SUFFIX,imgo.tv
    - DOMAIN-SUFFIX,mgtv.com
-   # ------ hunantv-ads ------>
    # ------ huya ------>
    - DOMAIN-SUFFIX,huya.com
    - DOMAIN-SUFFIX,msstatic.com
@@ -1858,7 +1855,6 @@ payload:
    - DOMAIN-SUFFIX,qiyipic.com
    - DOMAIN-SUFFIX,qy.net
    - DOMAIN-SUFFIX,71edge.com
-   # ------ iqiyi-ads ------>
    # ------ ku6 ------>
    - DOMAIN-SUFFIX,ku6.com
    - DOMAIN-SUFFIX,ku6cdn.com
@@ -1882,7 +1878,6 @@ payload:
    - DOMAIN-SUFFIX,kwimgs.com
    - DOMAIN-SUFFIX,wsukwai.com
    - DOMAIN-SUFFIX,yximgs.com
-   # ------ kuaishou-ads ------>
    # ------ kugou ------>
    - DOMAIN-SUFFIX,fanxingliveshow.com
    - DOMAIN-SUFFIX,kgimg.com
@@ -1899,7 +1894,6 @@ payload:
    - DOMAIN-SUFFIX,kugoustore.com
    - DOMAIN-SUFFIX,kugouvoice.com
    - DOMAIN-SUFFIX,kugouyouth.com
-   # ------ kugou-ads ------>
    # ------ kuwo ------>
    - DOMAIN-SUFFIX,koowo.com
    # ------ le ------>
@@ -1911,7 +1905,6 @@ payload:
    - DOMAIN-SUFFIX,letv.com
    - DOMAIN-SUFFIX,letvcdn.com
    - DOMAIN-SUFFIX,letvimg.com
-   # ------ letv-ads ------>
    # ------ lizhi ------>
    - DOMAIN-SUFFIX,lizhi.fm
    - DOMAIN-SUFFIX,lizhifm.com
@@ -2019,7 +2012,6 @@ payload:
    - DOMAIN-SUFFIX,soku.com
    - DOMAIN-SUFFIX,cibntv.net
    # ------ yuewen ------>
-   - DOMAIN-SUFFIX,yuewen.com
    - DOMAIN-SUFFIX,hongxiu.com
    - DOMAIN-SUFFIX,lrts.me
    - DOMAIN-SUFFIX,qdmm.com
@@ -2028,6 +2020,9 @@ payload:
    - DOMAIN-SUFFIX,rongshuxia.com
    - DOMAIN-SUFFIX,tingbook.com
    - DOMAIN-SUFFIX,xxsy.net
+   - DOMAIN-SUFFIX,yuewen.com
+   # ------ webnovel ------>
+   - DOMAIN-SUFFIX,webnovel.com
    # ------ tgbus ------>
    - DOMAIN-SUFFIX,tgbus.com
    # ------ vgtime ------>
@@ -2352,7 +2347,6 @@ payload:
    - DOMAIN-SUFFIX,yeyousg.com
    - DOMAIN-SUFFIX,yidianliulan.com
    - DOMAIN-SUFFIX,yuweikuijianzhan.com
-   # ------ sohu-ads ------>
    # ------ tmtpost ------>
    - DOMAIN-SUFFIX,tmtpost.com
    - DOMAIN-SUFFIX,chaindd.com
@@ -2428,12 +2422,12 @@ payload:
    - DOMAIN-SUFFIX,weibo.com
    - DOMAIN-SUFFIX,weibocdn.com
    - DOMAIN-SUFFIX,xhaiwai.com
-   # ------ sina-ads ------>
    # ------ xiaohongshu ------>
    - DOMAIN-SUFFIX,rednotecdn.com
    - DOMAIN-SUFFIX,xhscdn.com
    - DOMAIN-SUFFIX,xhscdn.net
    - DOMAIN-SUFFIX,xhslink.com
+   - DOMAIN-SUFFIX,xhsrcdn.com
    - DOMAIN-SUFFIX,xiaohongshu.com
    # ------ askdiandian ------>
    - DOMAIN-SUFFIX,askdiandian.com
@@ -3203,7 +3197,6 @@ payload:
    - DOMAIN-SUFFIX,yiyaojd.com
    - DOMAIN-SUFFIX,yizhitou.com
    - DOMAIN-SUFFIX,duolabao.com
-   # ------ jd-ads ------>
    # ------ lianjia ------>
    - DOMAIN-SUFFIX,lianjia.com
    - DOMAIN-SUFFIX,ljcdn.com
@@ -3508,6 +3501,8 @@ payload:
    - DOMAIN-SUFFIX,tongyi.aliyun.com
    - DOMAIN-SUFFIX,tongyi.com
    - DOMAIN-SUFFIX,yiyan.baidu.com
+   - DOMAIN-SUFFIX,z.ai
+   - DOMAIN-SUFFIX,zhipucn.com
    - DOMAIN-SUFFIX,kimi.com
    - DOMAIN-SUFFIX,moonshot.ai
    - DOMAIN-SUFFIX,hailuoai.com
@@ -3988,9 +3983,6 @@ payload:
    - DOMAIN-SUFFIX,lydaas.net
    - DOMAIN-SUFFIX,lydass.net
    # ------ 9game ------>
-   # ------ alibaba-ads ------>
-   # ------ amap-ads ------>
-   # ------ youku-ads ------>
    # ------ alibabacloud ------>
    - DOMAIN-SUFFIX,alibabacloud.co.in
    - DOMAIN-SUFFIX,alibabacloud.com
@@ -4076,6 +4068,16 @@ payload:
    - DOMAIN-SUFFIX,aliyundrive.com
    - DOMAIN-SUFFIX,aliyundrive.net
    - DOMAIN-SUFFIX,yunpan.aliyun.com
+   # ------ amap ------>
+   - DOMAIN-SUFFIX,a-map.co
+   - DOMAIN-SUFFIX,a-map.link
+   - DOMAIN-SUFFIX,a-map.vip
+   - DOMAIN-SUFFIX,acloudrender.com
+   - DOMAIN-SUFFIX,amap.com
+   - DOMAIN-SUFFIX,amapauto.com
+   - DOMAIN-SUFFIX,anav.com
+   - DOMAIN-SUFFIX,autonavi.com
+   - DOMAIN-SUFFIX,gaode.com
    # ------ cainiao ------>
    - DOMAIN-SUFFIX,cainiao-inc.com
    - DOMAIN-SUFFIX,cainiao.com
@@ -4116,7 +4118,6 @@ payload:
    - DOMAIN-SUFFIX,umtrack.com
    - DOMAIN-SUFFIX,uyunad.com
    - DOMAIN-SUFFIX,whalecloud.com
-   # ------ umeng-ads ------>
    # ------ youku ------>
    - DOMAIN-SUFFIX,kumiao.com
    - DOMAIN-SUFFIX,youku.com
@@ -4124,17 +4125,6 @@ payload:
    - DOMAIN-SUFFIX,mmstat.com
    - DOMAIN-SUFFIX,soku.com
    - DOMAIN-SUFFIX,cibntv.net
-   # ------ amap ------>
-   - DOMAIN-SUFFIX,a-map.co
-   - DOMAIN-SUFFIX,a-map.link
-   - DOMAIN-SUFFIX,a-map.vip
-   - DOMAIN-SUFFIX,acloudrender.com
-   - DOMAIN-SUFFIX,amap.com
-   - DOMAIN-SUFFIX,amapauto.com
-   - DOMAIN-SUFFIX,anav.com
-   - DOMAIN-SUFFIX,autonavi.com
-   - DOMAIN-SUFFIX,gaode.com
-   # ------ amap-ads ------>
    # ------ baidu ------>
    - DOMAIN-SUFFIX,baidu
    - DOMAIN-SUFFIX,91.com
@@ -4202,13 +4192,10 @@ payload:
    - DOMAIN-SUFFIX,dxmstatic.com
    - DOMAIN-SUFFIX,dxmyqh.com
    - DOMAIN-SUFFIX,paydxm.com
-   # ------ baidu-ads ------>
-   # ------ zuoyebang-ads ------>
    # ------ zuoyebang ------>
    - DOMAIN-SUFFIX,zuoyebang.cc
    - DOMAIN-SUFFIX,zuoyebang.com
    - DOMAIN-SUFFIX,zybang.com
-   # ------ zuoyebang-ads ------>
    # ------ beisen ------>
    - DOMAIN-SUFFIX,beisen.com
    - DOMAIN-SUFFIX,beisenapp.com
@@ -4504,8 +4491,15 @@ payload:
    - DOMAIN-SUFFIX,jinritemai.com
    - DOMAIN-SUFFIX,faceu.com
    - DOMAIN-SUFFIX,ulikecam.com
-   # ------ bytedance-ads ------>
-   # ------ fqnovel-ads ------>
+   # ------ bytedance-ai-!cn ------>
+   - DOMAIN-SUFFIX,coze.com
+   - DOMAIN-SUFFIX,marscode.com
+   - DOMAIN-SUFFIX,trae.ai
+   # ------ dola ------>
+   - DOMAIN-SUFFIX,cici.com
+   - DOMAIN-SUFFIX,ciciai.com
+   - DOMAIN-SUFFIX,ciciaicdn.com
+   - DOMAIN-SUFFIX,dola.com
    # ------ doubao ------>
    - DOMAIN-SUFFIX,coze.site
    - DOMAIN-SUFFIX,doubao.com
@@ -4599,7 +4593,6 @@ payload:
    - DOMAIN-SUFFIX,qznovelpic.com
    - DOMAIN-SUFFIX,qznovelstatic.com
    - DOMAIN-SUFFIX,qznovelvod.com
-   # ------ fqnovel-ads ------>
    # ------ juejin ------>
    - DOMAIN,p1-juejin.byteimg.com
    - DOMAIN,p2-juejin.byteimg.com
@@ -5252,7 +5245,6 @@ payload:
    - DOMAIN-SUFFIX,youdao.com
    - DOMAIN-SUFFIX,yunxinfw.com
    - DOMAIN-SUFFIX,zhuanzfx.com
-   # ------ netease-ads ------>
    # ------ oppo ------>
    - DOMAIN-SUFFIX,allawnfs.com
    - DOMAIN-SUFFIX,allawno.com
@@ -5346,7 +5338,6 @@ payload:
    - DOMAIN-SUFFIX,xjietiao.com
    - DOMAIN-SUFFIX,youhua.com
    - DOMAIN-SUFFIX,zhaomishijie.com
-   # ------ qihoo360-ads ------>
    # ------ starworld ------>
    - DOMAIN-SUFFIX,360-g.net
    - DOMAIN-SUFFIX,360-game.net
@@ -5368,6 +5359,7 @@ payload:
    - DOMAIN-SUFFIX,tcl.com
    - DOMAIN-SUFFIX,tcltech.com
    - DOMAIN-SUFFIX,leiniao.com
+   - DOMAIN-SUFFIX,my7v.com
    # ------ tencent ------>
    - DOMAIN,wetv.qq.com
    - DOMAIN-SUFFIX,qq.xn--fiqs8s
@@ -5710,7 +5702,6 @@ payload:
    - DOMAIN-SUFFIX,dnsv5.com
    - DOMAIN-SUFFIX,doh.pub
    - DOMAIN-SUFFIX,dot.pub
-   # ------ tencent-ads ------>
    # ------ tencent-dev ------>
    - DOMAIN-SUFFIX,openmidas.com
    - DOMAIN-SUFFIX,qq.design
@@ -5791,7 +5782,6 @@ payload:
    - DOMAIN-SUFFIX,17roco.com
    - DOMAIN-SUFFIX,roco.qq.com
    # ------ yuewen ------>
-   - DOMAIN-SUFFIX,yuewen.com
    - DOMAIN-SUFFIX,hongxiu.com
    - DOMAIN-SUFFIX,lrts.me
    - DOMAIN-SUFFIX,qdmm.com
@@ -5800,6 +5790,9 @@ payload:
    - DOMAIN-SUFFIX,rongshuxia.com
    - DOMAIN-SUFFIX,tingbook.com
    - DOMAIN-SUFFIX,xxsy.net
+   - DOMAIN-SUFFIX,yuewen.com
+   # ------ webnovel ------>
+   - DOMAIN-SUFFIX,webnovel.com
    # ------ tongfang ------>
    - DOMAIN-SUFFIX,tongfangpc.com
    - DOMAIN-SUFFIX,mechrevo.com
@@ -5844,7 +5837,6 @@ payload:
    - DOMAIN-SUFFIX,saxyit.com
    - DOMAIN-SUFFIX,c.mi.com
    - DOMAIN-SUFFIX,global.market.xiaomi.com
-   # ------ xiaomi-ads ------>
    # ------ xiaomi-ai ------>
    - DOMAIN-SUFFIX,miaibox.com
    - DOMAIN-SUFFIX,xiaoaiassist.com

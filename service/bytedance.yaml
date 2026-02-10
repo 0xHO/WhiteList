@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Tue Feb 10 05:09:16 CST 2026
+# Update: Wed Feb 11 05:23:46 CST 2026
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -289,8 +289,15 @@ payload:
    - DOMAIN-SUFFIX,jinritemai.com
    - DOMAIN-SUFFIX,faceu.com
    - DOMAIN-SUFFIX,ulikecam.com
-   # ------ bytedance-ads ------>
-   # ------ fqnovel-ads ------>
+   # ------ bytedance-ai-!cn ------>
+   - DOMAIN-SUFFIX,coze.com
+   - DOMAIN-SUFFIX,marscode.com
+   - DOMAIN-SUFFIX,trae.ai
+   # ------ dola ------>
+   - DOMAIN-SUFFIX,cici.com
+   - DOMAIN-SUFFIX,ciciai.com
+   - DOMAIN-SUFFIX,ciciaicdn.com
+   - DOMAIN-SUFFIX,dola.com
    # ------ doubao ------>
    - DOMAIN-SUFFIX,coze.site
    - DOMAIN-SUFFIX,doubao.com
@@ -384,7 +391,6 @@ payload:
    - DOMAIN-SUFFIX,qznovelpic.com
    - DOMAIN-SUFFIX,qznovelstatic.com
    - DOMAIN-SUFFIX,qznovelvod.com
-   # ------ fqnovel-ads ------>
    # ------ juejin ------>
    - DOMAIN,p1-juejin.byteimg.com
    - DOMAIN,p2-juejin.byteimg.com

@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Tue Feb 10 05:09:08 CST 2026
+# Update: Wed Feb 11 05:23:38 CST 2026
 payload:
    # ------ apple ------>
    - DOMAIN,ingest.apple-studies.com
@@ -660,7 +660,6 @@ payload:
    - DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
    - DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
    - DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
-   # ------ apple-ads ------>
    # ------ apple-dev ------>
    - DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
    - DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com

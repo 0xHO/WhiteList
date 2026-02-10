@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/github.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
-# Update: Tue Feb 10 05:09:16 CST 2026
+# Update: Wed Feb 11 05:23:46 CST 2026
 payload:
    # ------ github ------>
    - DOMAIN,github-api.arkoselabs.com
@@ -33,7 +33,6 @@ payload:
    - DOMAIN-SUFFIX,repo.new
    - DOMAIN-SUFFIX,thegithubshop.com
    - DOMAIN-SUFFIX,blob.core.windows.net
-   # ------ github-ads ------>
    # ------ github-copilot ------>
    - DOMAIN-SUFFIX,githubcopilot.com
    # ------ npmjs ------>
