@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-02-14 05:05:45
+# Update: 2026-02-15 04:53:46
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2321,6 +2321,7 @@ payload:
    - DOMAIN-SUFFIX,nflxvideo.net
    - DOMAIN-SUFFIX,nftstorage.link
    - DOMAIN-SUFFIX,nga.mil
+   - DOMAIN-SUFFIX,nhentai.net
    - DOMAIN-SUFFIX,nhi.gov.tw
    - DOMAIN-SUFFIX,nic.cz.cc
    - DOMAIN-SUFFIX,nic.gov
@@ -3542,6 +3543,7 @@ payload:
    - DOMAIN-SUFFIX,wallmama.com
    - DOMAIN-SUFFIX,wallpapercasa.com
    - DOMAIN-SUFFIX,wallsttv.com
+   - DOMAIN-SUFFIX,wallzhihu.com
    - DOMAIN-SUFFIX,waltermartin.com
    - DOMAIN-SUFFIX,waltermartin.org
    - DOMAIN-SUFFIX,wanderinghorse.net
