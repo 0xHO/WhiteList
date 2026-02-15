@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-02-15 04:53:46
+# Update: 2026-02-16 04:54:52
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -1262,6 +1262,7 @@ payload:
    - DOMAIN-SUFFIX,glype.com
    - DOMAIN-SUFFIX,gmail.com
    - DOMAIN-SUFFIX,gmgard.com
+   - DOMAIN-SUFFIX,gmgn.ai
    - DOMAIN-SUFFIX,gmodules.com
    - DOMAIN-SUFFIX,gnci.org.hk
    - DOMAIN-SUFFIX,gnews.org
@@ -2962,6 +2963,7 @@ payload:
    - DOMAIN-SUFFIX,sowers.org.hk
    - DOMAIN-SUFFIX,soylentnews.org
    - DOMAIN-SUFFIX,spaces.hightail.com
+   - DOMAIN-SUFFIX,spacex.com
    - DOMAIN-SUFFIX,spankbang.com
    - DOMAIN-SUFFIX,sparkpool.com
    - DOMAIN-SUFFIX,spatial.io
@@ -3540,6 +3542,7 @@ payload:
    - DOMAIN-SUFFIX,waffle1999.com
    - DOMAIN-SUFFIX,wainao.me
    - DOMAIN-SUFFIX,walletconnect.com
+   - DOMAIN-SUFFIX,walletconnect.org
    - DOMAIN-SUFFIX,wallmama.com
    - DOMAIN-SUFFIX,wallpapercasa.com
    - DOMAIN-SUFFIX,wallsttv.com
