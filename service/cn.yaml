@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Feb 17 04:58:31 CST 2026
+# Update: Wed Feb 18 05:05:10 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -4127,6 +4127,15 @@ payload:
    - DOMAIN-SUFFIX,mmstat.com
    - DOMAIN-SUFFIX,soku.com
    - DOMAIN-SUFFIX,cibntv.net
+   # ------ anker ------>
+   - DOMAIN-SUFFIX,anker-in.com
+   - DOMAIN-SUFFIX,anker.com
+   - DOMAIN-SUFFIX,ankersolix.com
+   - DOMAIN-SUFFIX,eufy.com
+   - DOMAIN-SUFFIX,eufycn.com
+   - DOMAIN-SUFFIX,eufylife.com
+   - DOMAIN-SUFFIX,eufymake.com
+   - DOMAIN-SUFFIX,soundcore.com
    # ------ baidu ------>
    - DOMAIN-SUFFIX,baidu
    - DOMAIN-SUFFIX,91.com
