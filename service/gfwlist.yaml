@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-02-18 05:05:00
+# Update: 2026-02-19 05:07:05
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -1552,7 +1552,7 @@ payload:
    - DOMAIN-SUFFIX,gunsamerica.com
    - DOMAIN-SUFFIX,gutteruncensored.com
    - DOMAIN-SUFFIX,gvm.com.tw
-   - DOMAIN-SUFFIX,gvt1.com]
+   - DOMAIN-SUFFIX,gvt1.com
    - DOMAIN-SUFFIX,gvt3.com
    - DOMAIN-SUFFIX,gwins.org
    - DOMAIN-SUFFIX,gwtproject.org
@@ -2199,6 +2199,7 @@ payload:
    - DOMAIN-SUFFIX,moresci.sale
    - DOMAIN-SUFFIX,morningsun.org
    - DOMAIN-SUFFIX,mos.ru
+   - DOMAIN-SUFFIX,mosavi.io
    - DOMAIN-SUFFIX,movements.org
    - DOMAIN-SUFFIX,moviefap.com
    - DOMAIN-SUFFIX,mpettis.com
