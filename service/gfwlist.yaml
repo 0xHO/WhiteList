@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-02-22 04:52:14
+# Update: 2026-02-23 04:54:22
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -3239,6 +3239,7 @@ payload:
    - DOMAIN-SUFFIX,topsy.com
    - DOMAIN-SUFFIX,toptip.ca
    - DOMAIN-SUFFIX,toptoon.net
+   - DOMAIN-SUFFIX,tor.eff.org
    - DOMAIN-SUFFIX,torguard.net
    - DOMAIN-SUFFIX,torlock.com
    - DOMAIN-SUFFIX,torproject.org
@@ -3369,6 +3370,7 @@ payload:
    - DOMAIN-SUFFIX,underwoodammo.com
    - DOMAIN-SUFFIX,unholyknight.com
    - DOMAIN-SUFFIX,unirule.cloud
+   - DOMAIN-SUFFIX,uniswap.org
    - DOMAIN-SUFFIX,unknownspace.org
    - DOMAIN-SUFFIX,unmineable.com
    - DOMAIN-SUFFIX,unseen.is
