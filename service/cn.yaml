@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Feb 27 05:04:51 CST 2026
+# Update: Sat Feb 28 04:56:50 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -2421,6 +2421,7 @@ payload:
    - DOMAIN-SUFFIX,wbimg.com
    - DOMAIN-SUFFIX,weibo.com
    - DOMAIN-SUFFIX,weibocdn.com
+   - DOMAIN-SUFFIX,weibopay.com
    - DOMAIN-SUFFIX,xhaiwai.com
    # ------ xiaohongshu ------>
    - DOMAIN-SUFFIX,rednote.com
