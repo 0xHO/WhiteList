@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-03-02 04:53:08
+# Update: 2026-03-03 05:02:22
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -652,6 +652,7 @@ payload:
    - DOMAIN-SUFFIX,ck101.com
    - DOMAIN-SUFFIX,classicalguitarblog.net
    - DOMAIN-SUFFIX,claude.ai
+   - DOMAIN-SUFFIX,claude.com
    - DOMAIN-SUFFIX,cldr.unicode.org
    - DOMAIN-SUFFIX,clearsurance.com
    - DOMAIN-SUFFIX,clementine-player.org
@@ -2068,6 +2069,7 @@ payload:
    - DOMAIN-SUFFIX,mangafox.me
    - DOMAIN-SUFFIX,mangmang.run
    - DOMAIN-SUFFIX,manta.com
+   - DOMAIN-SUFFIX,manus.im
    - DOMAIN-SUFFIX,manyvoices.news
    - DOMAIN-SUFFIX,marc.info
    - DOMAIN-SUFFIX,martau.com
