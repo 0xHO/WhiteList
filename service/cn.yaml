@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Mar  3 05:02:32 CST 2026
+# Update: Wed Mar  4 05:00:09 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -167,6 +167,8 @@ payload:
    - DOMAIN-SUFFIX,dancf.com
    - DOMAIN-SUFFIX,hlgdata.com
    - DOMAIN-SUFFIX,huanleguang.com
+   - DOMAIN-SUFFIX,juziwulian.com
+   - DOMAIN-SUFFIX,kaadas.com
    - DOMAIN-SUFFIX,baimiao.tech
    - DOMAIN-SUFFIX,baimiaoapp.com
    - DOMAIN-SUFFIX,shinescan.tech
@@ -1401,6 +1403,7 @@ payload:
    - DOMAIN-SUFFIX,ldmnq.com
    - DOMAIN-SUFFIX,lsplayer.com
    - DOMAIN-SUFFIX,yeshen.com
+   - DOMAIN-SUFFIX,172mix.com
    - DOMAIN-SUFFIX,17k.com
    - DOMAIN-SUFFIX,51zmt.top
    - DOMAIN-SUFFIX,aisee.tv
@@ -1410,6 +1413,7 @@ payload:
    - DOMAIN-SUFFIX,bsbsb.top
    - DOMAIN-SUFFIX,dmzj.com
    - DOMAIN-SUFFIX,muwai.com
+   - DOMAIN-SUFFIX,dongdianqiu.com
    - DOMAIN-SUFFIX,dongqiudi.com
    - DOMAIN-SUFFIX,faloo.com
    - DOMAIN-SUFFIX,goka.top
@@ -4714,6 +4718,7 @@ payload:
    - DOMAIN-SUFFIX,tiktokv.us
    - DOMAIN-SUFFIX,tiktokw.eu
    - DOMAIN-SUFFIX,tiktokw.us
+   - DOMAIN-SUFFIX,ttcdn-us.com
    - DOMAIN-SUFFIX,ttlivecdn.com
    - DOMAIN-SUFFIX,ttoverseaus.net
    - DOMAIN-SUFFIX,ttwstatic.com
