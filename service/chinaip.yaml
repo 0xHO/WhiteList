@@ -6,7 +6,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/chinaip.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
-# Update: 2026-03-04 04:59:59
+# Update: 2026-03-05 04:59:45
 payload:
    - IP-CIDR,1.0.1.0/24,no-resolve
    - IP-CIDR,1.0.2.0/23,no-resolve
@@ -8087,9 +8087,6 @@ payload:
    - IP-CIDR6,2406:840:e0e8::/48,no-resolve
    - IP-CIDR6,2406:840:e10f::/48,no-resolve
    - IP-CIDR6,2406:840:e14f::/48,no-resolve
-   - IP-CIDR6,2406:840:e233::/48,no-resolve
-   - IP-CIDR6,2406:840:e234::/48,no-resolve
-   - IP-CIDR6,2406:840:e23b::/48,no-resolve
    - IP-CIDR6,2406:840:e260::/47,no-resolve
    - IP-CIDR6,2406:840:e330::/44,no-resolve
    - IP-CIDR6,2406:840:e620::/47,no-resolve
@@ -9047,7 +9044,8 @@ payload:
    - IP-CIDR6,2a0f:1cc5:1d14::/47,no-resolve
    - IP-CIDR6,2a0f:1cc5:2300::/40,no-resolve
    - IP-CIDR6,2a0f:1cc5:2600::/44,no-resolve
-   - IP-CIDR6,2a0f:1cc5:2630::/44,no-resolve
+   - IP-CIDR6,2a0f:1cc5:2620::/43,no-resolve
+   - IP-CIDR6,2a0f:1cc5:2640::/44,no-resolve
    - IP-CIDR6,2a0f:1cc5:2d01::/48,no-resolve
    - IP-CIDR6,2a0f:1cc5:2d02::/48,no-resolve
    - IP-CIDR6,2a0f:1cc5:2e01::/48,no-resolve
@@ -9113,7 +9111,6 @@ payload:
    - IP-CIDR6,2a14:67c1:73::/48,no-resolve
    - IP-CIDR6,2a14:67c1:74::/48,no-resolve
    - IP-CIDR6,2a14:67c1:702::/47,no-resolve
-   - IP-CIDR6,2a14:67c1:800::/48,no-resolve
    - IP-CIDR6,2a14:67c1:a020::/48,no-resolve
    - IP-CIDR6,2a14:67c1:a023::/48,no-resolve
    - IP-CIDR6,2a14:67c1:a024::/48,no-resolve
@@ -9171,8 +9168,6 @@ payload:
    - IP-CIDR6,2a14:7580:740::/44,no-resolve
    - IP-CIDR6,2a14:7580:751::/48,no-resolve
    - IP-CIDR6,2a14:7580:777::/48,no-resolve
-   - IP-CIDR6,2a14:7580:9202::/48,no-resolve
-   - IP-CIDR6,2a14:7580:9220::/44,no-resolve
    - IP-CIDR6,2a14:7580:d000::/37,no-resolve
    - IP-CIDR6,2a14:7580:d800::/39,no-resolve
    - IP-CIDR6,2a14:7580:df00::/40,no-resolve
@@ -9217,8 +9212,7 @@ payload:
    - IP-CIDR6,2a14:7583:f764::/48,no-resolve
    - IP-CIDR6,2a14:7586:6100::/47,no-resolve
    - IP-CIDR6,2a14:7586:6103::/48,no-resolve
-   - IP-CIDR6,2a14:7586:6105::/48,no-resolve
-   - IP-CIDR6,2a14:7586:6106::/47,no-resolve
+   - IP-CIDR6,2a14:7586:6104::/46,no-resolve
    - IP-CIDR6,2a14:7dc0:510::/47,no-resolve
    - IP-CIDR6,2a14:7dc0:515::/48,no-resolve
    - IP-CIDR6,2a14:7dc0:516::/47,no-resolve
