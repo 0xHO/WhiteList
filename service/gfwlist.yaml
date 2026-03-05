@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-03-05 04:59:45
+# Update: 2026-03-06 05:03:12
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -882,6 +882,7 @@ payload:
    - DOMAIN-SUFFIX,douchi.space
    - DOMAIN-SUFFIX,dougscripts.com
    - DOMAIN-SUFFIX,doujincafe.com
+   - DOMAIN-SUFFIX,download.dappcdn.com
    - DOMAIN-SUFFIX,dpool.top
    - DOMAIN-SUFFIX,dpp.org.tw
    - DOMAIN-SUFFIX,dpr.info
