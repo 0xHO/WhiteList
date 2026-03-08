@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Mar  8 04:52:19 CST 2026
+# Update: Mon Mar  9 04:53:08 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,hsqh.net
@@ -241,7 +241,6 @@ payload:
    - DOMAIN-SUFFIX,35.com
    - DOMAIN-SUFFIX,3533.com
    - DOMAIN-SUFFIX,360aiyi.com
-   - DOMAIN-SUFFIX,360doc.com
    - DOMAIN-SUFFIX,360jq.com
    - DOMAIN-SUFFIX,360zhyx.com
    - DOMAIN-SUFFIX,365azw.com
@@ -1097,7 +1096,6 @@ payload:
    - DOMAIN-SUFFIX,youzu.com
    - DOMAIN-SUFFIX,yoyojie.com
    - DOMAIN-SUFFIX,yoyou.com
-   - DOMAIN-SUFFIX,ypppt.com
    - DOMAIN-SUFFIX,yrz.name
    - DOMAIN-SUFFIX,yslyhr.com
    - DOMAIN-SUFFIX,ysten.com
@@ -3573,10 +3571,18 @@ payload:
    - DOMAIN-SUFFIX,xn0.cc
    - DOMAIN-SUFFIX,ganjiangvpn.com
    # ------ category-documents-cn ------>
-   # ------ doc88 ------>
+   - DOMAIN-SUFFIX,1ppt.com
+   - DOMAIN-SUFFIX,360doc.com
+   - DOMAIN-SUFFIX,52ppt.com
+   - DOMAIN-SUFFIX,badou.com
+   - DOMAIN-SUFFIX,book118.com
    - DOMAIN-SUFFIX,doc88.com
-   # ------ docin ------>
    - DOMAIN-SUFFIX,docin.com
+   - DOMAIN-SUFFIX,haohaodoc.com
+   - DOMAIN-SUFFIX,lazyer.net
+   - DOMAIN-SUFFIX,renrendoc.com
+   - DOMAIN-SUFFIX,wenkeju.com
+   - DOMAIN-SUFFIX,ypppt.com
    # ------ category-enterprise-query-platform-cn ------>
    - DOMAIN-SUFFIX,qichamao.com
    - DOMAIN-SUFFIX,x315.com
