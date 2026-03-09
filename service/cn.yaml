@@ -2,13 +2,15 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Mar  9 04:53:08 CST 2026
+# Update: Tue Mar 10 05:01:04 CST 2026
 payload:
    # ------ geolocation-cn ------>
+   - DOMAIN-SUFFIX,helipay.com
    - DOMAIN-SUFFIX,hsqh.net
    - DOMAIN-SUFFIX,lu.com
    - DOMAIN-SUFFIX,lufax.com
    - DOMAIN-SUFFIX,lufaxcdn.com
+   - DOMAIN-SUFFIX,shfft.com
    - DOMAIN-SUFFIX,baijiayun.com
    - DOMAIN-SUFFIX,cjjd19.com
    - DOMAIN-SUFFIX,fdcyun.com
@@ -1787,6 +1789,7 @@ payload:
    - DOMAIN-SUFFIX,ultracachenode.com
    - DOMAIN-SUFFIX,woaihuoshan.com
    - DOMAIN-SUFFIX,wohst8.com
+   - DOMAIN-SUFFIX,douyinpay.com
    # ------ douyu ------>
    - DOMAIN-SUFFIX,douyu.com
    - DOMAIN-SUFFIX,douyu.tv
@@ -3768,7 +3771,9 @@ payload:
    - DOMAIN-SUFFIX,jinshuju.net
    - DOMAIN-SUFFIX,jinshujucdn.com
    # ------ keep ------>
+   - DOMAIN-SUFFIX,calorietech.com
    - DOMAIN-SUFFIX,gotokeep.com
+   - DOMAIN-SUFFIX,keep.com
    - DOMAIN-SUFFIX,keepcdn.com
    # ------ lagou ------>
    - DOMAIN-SUFFIX,lagou.com
@@ -4586,6 +4591,7 @@ payload:
    - DOMAIN-SUFFIX,ultracachenode.com
    - DOMAIN-SUFFIX,woaihuoshan.com
    - DOMAIN-SUFFIX,wohst8.com
+   - DOMAIN-SUFFIX,douyinpay.com
    # ------ fqnovel ------>
    - DOMAIN,p3-novel.byteimg.com
    - DOMAIN,p6-novel.byteimg.com
@@ -5916,6 +5922,7 @@ payload:
    - DOMAIN-SUFFIX,migucloud.com
    - DOMAIN-SUFFIX,migufun.com
    - DOMAIN-SUFFIX,miguvideo.com
+   - DOMAIN-SUFFIX,cmpay.com
    - DOMAIN-SUFFIX,andfx.net
    - DOMAIN-SUFFIX,cmicapm.com
    - DOMAIN-SUFFIX,cmpassport.com
@@ -5926,8 +5933,8 @@ payload:
    # ------ chinatelecom ------>
    - DOMAIN-SUFFIX,chinatelecom-h.com
    - DOMAIN-SUFFIX,chinatelecomglobal.com
-   - DOMAIN-SUFFIX,chntel.com
    - DOMAIN-SUFFIX,chinatelecomhk.com
+   - DOMAIN-SUFFIX,chntel.com
    # ------ ctexcel ------>
    - DOMAIN-SUFFIX,ctexcel.ca
    - DOMAIN-SUFFIX,ctexcel.com
@@ -5951,6 +5958,7 @@ payload:
    - DOMAIN-SUFFIX,cuniq.com
    - DOMAIN-SUFFIX,cuniq.sg
    - DOMAIN-SUFFIX,mychinaunicom.com
+   - DOMAIN-SUFFIX,unicompayment.com
    - DOMAIN-SUFFIX,wo116114.com
    # ------ ipip ------>
    - DOMAIN-SUFFIX,ipip.net
