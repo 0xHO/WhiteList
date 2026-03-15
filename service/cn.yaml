@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Mar 15 04:55:04 CST 2026
+# Update: Mon Mar 16 04:56:34 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -114,6 +114,7 @@ payload:
    - DOMAIN-SUFFIX,guoxuedashi.com
    - DOMAIN-SUFFIX,guoxuemi.com
    - DOMAIN-SUFFIX,zyh365.com
+   - DOMAIN-SUFFIX,zgbk.com
    - DOMAIN-SUFFIX,7moor-fs1.com
    - DOMAIN-SUFFIX,7moor.com
    - DOMAIN-SUFFIX,alookweb.com
@@ -1408,8 +1409,10 @@ payload:
    - DOMAIN-SUFFIX,aisee.tv
    - DOMAIN-SUFFIX,baofeng.com
    - DOMAIN-SUFFIX,baofeng.net
+   - DOMAIN-SUFFIX,bemanicn.com
    - DOMAIN-SUFFIX,bgwxc.com
    - DOMAIN-SUFFIX,bsbsb.top
+   - DOMAIN-SUFFIX,cdkeynogap.com
    - DOMAIN-SUFFIX,dmzj.com
    - DOMAIN-SUFFIX,muwai.com
    - DOMAIN-SUFFIX,dongdianqiu.com
@@ -4210,6 +4213,7 @@ payload:
    - DOMAIN-SUFFIX,shifen.com
    - DOMAIN-SUFFIX,tieba.com
    - DOMAIN-SUFFIX,tiebaimg.com
+   - DOMAIN-SUFFIX,xdrtc.com
    - DOMAIN-SUFFIX,xianfae.com
    - DOMAIN-SUFFIX,xiaodutv.com
    - DOMAIN-SUFFIX,yoojia.com

@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/oracle.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/oracle.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/oracle.yaml
-# Update: Sun Mar 15 04:55:11 CST 2026
+# Update: Mon Mar 16 04:56:41 CST 2026
 payload:
    # ------ oracle ------>
    - DOMAIN-SUFFIX,oracle
@@ -11,6 +11,7 @@ payload:
    - DOMAIN-SUFFIX,bronto.com
    - DOMAIN-SUFFIX,covid19-rx.org
    - DOMAIN-SUFFIX,covid19rx.org
+   - DOMAIN-SUFFIX,custhelp.com
    - DOMAIN-SUFFIX,oracle.com
    - DOMAIN-SUFFIX,oraclecloud.com
    - DOMAIN-SUFFIX,oraclefoundation.org
