@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Mar 18 05:07:20 CST 2026
+# Update: Thu Mar 19 05:05:58 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -1179,6 +1179,7 @@ payload:
    - DOMAIN-SUFFIX,bdcat.top
    - DOMAIN-SUFFIX,puddingcat.top
    - DOMAIN-SUFFIX,qunliao.info
+   - DOMAIN-SUFFIX,gzyowin.com
    # ------ category-automobile-cn ------>
    - DOMAIN-SUFFIX,autohome.com
    - DOMAIN-SUFFIX,autohome.tel
