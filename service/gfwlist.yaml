@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-03-19 05:05:49
+# Update: 2026-03-20 05:05:03
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2393,8 +2393,10 @@ payload:
    - DOMAIN-SUFFIX,ohmyrss.com
    - DOMAIN-SUFFIX,ok.ru
    - DOMAIN-SUFFIX,okayfreedom.com
+   - DOMAIN-SUFFIX,okcoin.com
    - DOMAIN-SUFFIX,okex.com
    - DOMAIN-SUFFIX,okk.tw
+   - DOMAIN-SUFFIX,oklink.com
    - DOMAIN-SUFFIX,okpool.me
    - DOMAIN-SUFFIX,okx.com
    - DOMAIN-SUFFIX,olehdtv.com
