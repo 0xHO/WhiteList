@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Mar 20 05:05:13 CST 2026
+# Update: Sat Mar 21 04:59:45 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -1348,8 +1348,6 @@ payload:
    - DOMAIN-SUFFIX,boe.com
    - DOMAIN-SUFFIX,bouffalolab.com
    - DOMAIN-SUFFIX,cxmt.com
-   - DOMAIN-SUFFIX,esp8266.com
-   - DOMAIN-SUFFIX,espressif.com
    - DOMAIN-SUFFIX,elecfans.com
    - DOMAIN-SUFFIX,hqchip.com
    - DOMAIN-SUFFIX,hqdoc.com
