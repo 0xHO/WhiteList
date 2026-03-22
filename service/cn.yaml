@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Mar 22 04:54:07 CST 2026
+# Update: Mon Mar 23 04:55:17 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -113,8 +113,8 @@ payload:
    - DOMAIN-SUFFIX,webterren.com
    - DOMAIN-SUFFIX,guoxuedashi.com
    - DOMAIN-SUFFIX,guoxuemi.com
-   - DOMAIN-SUFFIX,zyh365.com
    - DOMAIN-SUFFIX,zgbk.com
+   - DOMAIN-SUFFIX,zyh365.com
    - DOMAIN-SUFFIX,7moor-fs1.com
    - DOMAIN-SUFFIX,7moor.com
    - DOMAIN-SUFFIX,alookweb.com
@@ -714,8 +714,6 @@ payload:
    - DOMAIN-SUFFIX,lawxp.com
    - DOMAIN-SUFFIX,leangoo.com
    - DOMAIN-SUFFIX,leanote.com
-   - DOMAIN-SUFFIX,leikeji.com
-   - DOMAIN-SUFFIX,leiphone.com
    - DOMAIN-SUFFIX,leiting.com
    - DOMAIN-SUFFIX,leju.com
    - DOMAIN-SUFFIX,leturich.org
@@ -995,7 +993,6 @@ payload:
    - DOMAIN-SUFFIX,weavatar.com
    - DOMAIN-SUFFIX,weicaifu.com
    - DOMAIN-SUFFIX,weilaicaijing.com
-   - DOMAIN-SUFFIX,weiphone.net
    - DOMAIN-SUFFIX,weixing.com
    - DOMAIN-SUFFIX,weiyangx.com
    - DOMAIN-SUFFIX,welltrend-edu.com
@@ -1124,7 +1121,6 @@ payload:
    - DOMAIN-SUFFIX,zczj.com
    - DOMAIN-SUFFIX,zdfans.com
    - DOMAIN-SUFFIX,zgjm.org
-   - DOMAIN-SUFFIX,zgjsks.com
    - DOMAIN-SUFFIX,zglxw.com
    - DOMAIN-SUFFIX,zgzcw.com
    - DOMAIN-SUFFIX,zhanbuba.com
@@ -2241,6 +2237,8 @@ payload:
    - DOMAIN-SUFFIX,kksmg.com
    - DOMAIN-SUFFIX,statickksmg.com
    - DOMAIN-SUFFIX,latepost.com
+   - DOMAIN-SUFFIX,leikeji.com
+   - DOMAIN-SUFFIX,leiphone.com
    - DOMAIN-SUFFIX,miercn.com
    - DOMAIN-SUFFIX,mydrivers.com
    - DOMAIN-SUFFIX,nanyuenews.com
@@ -2271,8 +2269,10 @@ payload:
    - DOMAIN-SUFFIX,szpgm.com
    - DOMAIN-SUFFIX,takungpao.com
    - DOMAIN-SUFFIX,woshipm.com
+   - DOMAIN-SUFFIX,xhby.net
    - DOMAIN-SUFFIX,xilu.com
    - DOMAIN-SUFFIX,yicai.com
+   - DOMAIN-SUFFIX,yzwb.net
    - DOMAIN-SUFFIX,zealer.com
    - DOMAIN-SUFFIX,zhichanli.com
    # ------ 36kr ------>
@@ -2368,6 +2368,7 @@ payload:
    # ------ weiphone ------>
    - DOMAIN-SUFFIX,feng.com
    - DOMAIN-SUFFIX,fengimg.com
+   - DOMAIN-SUFFIX,weiphone.net
    - DOMAIN-SUFFIX,wfdata.club
    # ------ xueqiu ------>
    - DOMAIN-SUFFIX,aiganggu.com
@@ -3328,6 +3329,7 @@ payload:
    - DOMAIN-SUFFIX,jinrongren.net
    - DOMAIN-SUFFIX,offcn.com
    - DOMAIN-SUFFIX,zggqzp.com
+   - DOMAIN-SUFFIX,zgjsks.com
    - DOMAIN-SUFFIX,zgsydw.com
    - DOMAIN-SUFFIX,gk100.com
    - DOMAIN-SUFFIX,huatu.com
@@ -3335,6 +3337,8 @@ payload:
    - DOMAIN-SUFFIX,ictbda.com
    - DOMAIN-SUFFIX,j-test.com
    - DOMAIN-SUFFIX,nattest-china.com
+   - DOMAIN-SUFFIX,jyeoo.com
+   - DOMAIN-SUFFIX,jyeoo.net
    - DOMAIN-SUFFIX,keboyunxiao.com
    - DOMAIN-SUFFIX,ketangpai.com
    - DOMAIN-SUFFIX,kuaiduizuoye.com
