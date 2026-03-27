@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Mar 27 05:02:50 CST 2026
+# Update: Sat Mar 28 05:05:14 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
