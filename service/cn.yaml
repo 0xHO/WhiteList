@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Mar 30 05:00:21 CST 2026
+# Update: Tue Mar 31 05:22:56 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -22,6 +22,8 @@ payload:
    - DOMAIN-SUFFIX,kaipuyun.com
    - DOMAIN-SUFFIX,kaipuyun.net
    - DOMAIN-SUFFIX,pkoplink.com
+   - DOMAIN-SUFFIX,rainyun.com
+   - DOMAIN-SUFFIX,szhdy.com
    - DOMAIN-SUFFIX,51selling.com
    - DOMAIN-SUFFIX,aihuishou.com
    - DOMAIN-SUFFIX,appsimg.com
