@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Tue Mar 31 05:22:54 CST 2026
+# Update: Wed Apr  1 05:06:44 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -945,6 +945,18 @@ payload:
    - DOMAIN-SUFFIX,vrchat.cloud
    - DOMAIN-SUFFIX,vrchat.com
    - DOMAIN-SUFFIX,vrchat.net
+   # ------ wargaming ------>
+   - DOMAIN-SUFFIX,masteroforion.com
+   - DOMAIN-SUFFIX,wargaming.com
+   - DOMAIN-SUFFIX,wargaming.net
+   - DOMAIN-SUFFIX,wgcdn.co
+   - DOMAIN-SUFFIX,wgcrowd.io
+   - DOMAIN-SUFFIX,worldoftanks.com
+   - DOMAIN-SUFFIX,worldoftanks.eu
+   - DOMAIN-SUFFIX,worldofwarplanes.com
+   - DOMAIN-SUFFIX,worldofwarships.com
+   - DOMAIN-SUFFIX,wotblitz.com
+   - DOMAIN-SUFFIX,wowsblitz.com
    # ------ wbgames ------>
    - DOMAIN,datarouter.apps.netherrealm.com
    - DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
