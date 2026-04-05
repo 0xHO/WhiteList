@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/github.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
-# Update: Sun Apr  5 05:00:12 CST 2026
+# Update: Mon Apr  6 05:01:07 CST 2026
 payload:
    # ------ github ------>
    - DOMAIN,github-api.arkoselabs.com

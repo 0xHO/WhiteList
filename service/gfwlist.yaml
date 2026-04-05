@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-04-05 04:59:57
+# Update: 2026-04-06 05:00:51
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -223,6 +223,7 @@ payload:
    - DOMAIN-SUFFIX,appspot.com
    - DOMAIN-SUFFIX,appsto.re
    - DOMAIN-SUFFIX,aptoide.com
+   - DOMAIN-SUFFIX,archive-it.org
    - DOMAIN-SUFFIX,archive.fo
    - DOMAIN-SUFFIX,archive.is
    - DOMAIN-SUFFIX,archive.li
@@ -858,6 +859,7 @@ payload:
    - DOMAIN-SUFFIX,dmhy.org
    - DOMAIN-SUFFIX,dmm.co.jp
    - DOMAIN-SUFFIX,dns.cloudflare.com
+   - DOMAIN-SUFFIX,dns.sb
    - DOMAIN-SUFFIX,dns2go.com
    - DOMAIN-SUFFIX,dnscrypt.org
    - DOMAIN-SUFFIX,dnssec.net
@@ -868,6 +870,7 @@ payload:
    - DOMAIN-SUFFIX,dockerstatus.com
    - DOMAIN-SUFFIX,docs.new
    - DOMAIN-SUFFIX,documentingreality.com
+   - DOMAIN-SUFFIX,doh.sb
    - DOMAIN-SUFFIX,dolc.de
    - DOMAIN-SUFFIX,dolf.org.hk
    - DOMAIN-SUFFIX,dongtaiwang.com
@@ -875,6 +878,7 @@ payload:
    - DOMAIN-SUFFIX,doom9.org
    - DOMAIN-SUFFIX,doosho.com
    - DOMAIN-SUFFIX,doourbest.org
+   - DOMAIN-SUFFIX,dot.sb
    - DOMAIN-SUFFIX,dotplane.com
    - DOMAIN-SUFFIX,dotsub.com
    - DOMAIN-SUFFIX,dotvpn.com
