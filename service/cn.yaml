@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Apr  6 05:00:59 CST 2026
+# Update: Tue Apr  7 05:07:34 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -1201,12 +1201,12 @@ payload:
    - DOMAIN-SUFFIX,dongchedi.com
    - DOMAIN-SUFFIX,dongchediapp.com
    # ------ category-blog-cn ------>
-   - DOMAIN-SUFFIX,huangyuhui.net
    - DOMAIN-SUFFIX,114blog.com
-   - DOMAIN-SUFFIX,mryys.com
    - DOMAIN-SUFFIX,4thworkshop.com
    - DOMAIN-SUFFIX,aloys233.top
    - DOMAIN-SUFFIX,fanmingming.com
+   - DOMAIN-SUFFIX,huangyuhui.net
+   - DOMAIN-SUFFIX,mryys.com
    - DOMAIN-SUFFIX,zway.top
    # ------ category-dev-cn ------>
    - DOMAIN-SUFFIX,aardio.com
