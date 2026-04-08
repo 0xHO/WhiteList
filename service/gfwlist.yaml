@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-04-08 05:25:56
+# Update: 2026-04-09 05:25:08
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2116,7 +2116,6 @@ payload:
    - DOMAIN-SUFFIX,mediawiki.org
    - DOMAIN-SUFFIX,medium.com
    - DOMAIN-SUFFIX,meee.com.tw
-   - DOMAIN-SUFFIX,meetup.com
    - DOMAIN-SUFFIX,mega.co.nz
    - DOMAIN-SUFFIX,mega.io
    - DOMAIN-SUFFIX,mega.nz
@@ -2181,6 +2180,7 @@ payload:
    - DOMAIN-SUFFIX,mirrormedia.mg
    - DOMAIN-SUFFIX,missav.com
    - DOMAIN-SUFFIX,missav.ws
+   - DOMAIN-SUFFIX,mistral.ai
    - DOMAIN-SUFFIX,mitbbs.com
    - DOMAIN-SUFFIX,miuipolska.pl
    - DOMAIN-SUFFIX,mixero.com
@@ -2663,7 +2663,6 @@ payload:
    - DOMAIN-SUFFIX,putty.org
    - DOMAIN-SUFFIX,pximg.net
    - DOMAIN-SUFFIX,python.com.tw
-   - DOMAIN-SUFFIX,pytorch.org
    - DOMAIN-SUFFIX,qbittorrent.org
    - DOMAIN-SUFFIX,qgirl.com.tw
    - DOMAIN-SUFFIX,qi-gong.me
