@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-04-11 05:05:22
+# Update: 2026-04-12 05:01:36
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2810,6 +2810,7 @@ payload:
    - DOMAIN-SUFFIX,savetibet.org
    - DOMAIN-SUFFIX,savetibetstore.org
    - DOMAIN-SUFFIX,saveuighur.org
+   - DOMAIN-SUFFIX,sbti.unun.dev
    - DOMAIN-SUFFIX,scache.vzw.com
    - DOMAIN-SUFFIX,scache1.vzw.com
    - DOMAIN-SUFFIX,scache2.vzw.com

@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Apr 11 05:05:32 CST 2026
+# Update: Sun Apr 12 05:01:44 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -522,7 +522,6 @@ payload:
    - DOMAIN-SUFFIX,easiu.com
    - DOMAIN-SUFFIX,eastday.com
    - DOMAIN-SUFFIX,eastsoo.com
-   - DOMAIN-SUFFIX,easytomessage.com
    - DOMAIN-SUFFIX,eayyou.com
    - DOMAIN-SUFFIX,ebico.com
    - DOMAIN-SUFFIX,ebrun.com
@@ -823,7 +822,6 @@ payload:
    - DOMAIN-SUFFIX,onlinesjtu.com
    - DOMAIN-SUFFIX,onlylady.com
    - DOMAIN-SUFFIX,opdown.com
-   - DOMAIN-SUFFIX,openkylin.top
    - DOMAIN-SUFFIX,oupeng.com
    - DOMAIN-SUFFIX,p2peye.com
    - DOMAIN-SUFFIX,p5w.net
