@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Apr 12 05:01:44 CST 2026
+# Update: Mon Apr 13 05:03:57 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -709,6 +709,7 @@ payload:
    - DOMAIN-SUFFIX,ksord.com
    - DOMAIN-SUFFIX,kuaaa.com
    - DOMAIN-SUFFIX,kuaihou.com
+   - DOMAIN-SUFFIX,kuaiji.com
    - DOMAIN-SUFFIX,kuaizhan.com
    - DOMAIN-SUFFIX,kuqin.com
    - DOMAIN-SUFFIX,kuyiso.com
@@ -1185,6 +1186,7 @@ payload:
    - DOMAIN-SUFFIX,qunliao.info
    - DOMAIN-SUFFIX,gzyowin.com
    # ------ category-automobile-cn ------>
+   - DOMAIN-SUFFIX,12365auto.com
    - DOMAIN-SUFFIX,autohome.com
    - DOMAIN-SUFFIX,autohome.tel
    - DOMAIN-SUFFIX,byd.com
@@ -1693,7 +1695,6 @@ payload:
    - DOMAIN-SUFFIX,bestvcdn.com
    - DOMAIN-SUFFIX,bestvcdn.net
    # ------ bilibili ------>
-   - DOMAIN,manga.bilibili.com
    - DOMAIN-SUFFIX,bilicomic.com
    - DOMAIN-SUFFIX,bilicomics.com
    - DOMAIN-SUFFIX,acg.tv
@@ -2216,6 +2217,7 @@ payload:
    - DOMAIN-SUFFIX,cztvcdn.com
    - DOMAIN-SUFFIX,cztvcloud.com
    - DOMAIN-SUFFIX,zjstv.com
+   - DOMAIN-SUFFIX,daheapp.com
    - DOMAIN-SUFFIX,dutenews.com
    - DOMAIN-SUFFIX,yundzh.com
    - DOMAIN-SUFFIX,dgtle.com
@@ -3554,6 +3556,7 @@ payload:
    - DOMAIN-SUFFIX,minimaxi.com
    - DOMAIN-SUFFIX,xingyeai.com
    - DOMAIN-SUFFIX,hunyuan.tencent.com
+   - DOMAIN-SUFFIX,yuanqi.tencent.com
    - DOMAIN-SUFFIX,baichuan-ai.com
    - DOMAIN-SUFFIX,liblib.art
    - DOMAIN-SUFFIX,namiso.com
@@ -3564,6 +3567,7 @@ payload:
    - DOMAIN-SUFFIX,aispeech.com
    - DOMAIN-SUFFIX,dui.ai
    - DOMAIN-SUFFIX,duiopen.com
+   - DOMAIN-SUFFIX,clawhub-mirror.com
    # ------ askdiandian ------>
    - DOMAIN-SUFFIX,askdiandian.com
    - DOMAIN-SUFFIX,diandianlife.top
@@ -4417,6 +4421,7 @@ payload:
    - DOMAIN-SUFFIX,draftstatic.com
    - DOMAIN-SUFFIX,druid.vip
    - DOMAIN-SUFFIX,fedlearner.net
+   - DOMAIN-SUFFIX,gcloudcache.com
    - DOMAIN-SUFFIX,gslbdns.com
    - DOMAIN-SUFFIX,gslbdns.net
    - DOMAIN-SUFFIX,huaxiong.com
@@ -4427,6 +4432,7 @@ payload:
    - DOMAIN-SUFFIX,iluckysf.net
    - DOMAIN-SUFFIX,itmanager.club
    - DOMAIN-SUFFIX,itoutiaoliving.com
+   - DOMAIN-SUFFIX,jianying.com
    - DOMAIN-SUFFIX,jokecommunity.com
    - DOMAIN-SUFFIX,jokecommunity.net
    - DOMAIN-SUFFIX,jstti.com
@@ -4987,6 +4993,7 @@ payload:
    - DOMAIN-SUFFIX,dbank.com
    - DOMAIN-SUFFIX,dbankcdn.com
    - DOMAIN-SUFFIX,dbankcloud.com
+   - DOMAIN-SUFFIX,dbankcloud.ru
    - DOMAIN-SUFFIX,dbankedge.net
    - DOMAIN-SUFFIX,hicloud.com
    - DOMAIN-SUFFIX,huawei.com
