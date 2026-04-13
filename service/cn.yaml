@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Apr 13 05:03:57 CST 2026
+# Update: Tue Apr 14 05:26:09 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -3645,7 +3645,13 @@ payload:
    - DOMAIN-SUFFIX,jindidata.com
    - DOMAIN-SUFFIX,tianyancha.com
    # ------ category-game-accelerator-cn ------>
+   - DOMAIN-SUFFIX,xxghh.biz
+   - DOMAIN-SUFFIX,gangwan.com
+   - DOMAIN-SUFFIX,leigodjsq.com
    - DOMAIN-SUFFIX,leigod.com
+   - DOMAIN-SUFFIX,nnbooster.com
+   - DOMAIN-SUFFIX,nn.com
+   - DOMAIN-SUFFIX,waifushangcheng.com
    - DOMAIN-SUFFIX,tmjiasuqi.com
    - DOMAIN-SUFFIX,uu.163.com
    - DOMAIN-SUFFIX,xunyou.com
