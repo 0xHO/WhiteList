@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/kuaishou.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/kuaishou.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/kuaishou.yaml
-# Update: Tue Apr 21 05:27:11 CST 2026
+# Update: Wed Apr 22 05:24:31 CST 2026
 payload:
    # ------ kuaishou ------>
    - DOMAIN-SUFFIX,ecukwai.com
