@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Apr 22 05:24:25 CST 2026
+# Update: Thu Apr 23 05:29:36 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -3578,7 +3578,11 @@ payload:
    - DOMAIN-SUFFIX,bjyouth.net
    - DOMAIN-SUFFIX,sqqnh.org
    # ------ category-ai-cn ------>
+   - DOMAIN-SUFFIX,liblib.art
+   - DOMAIN-SUFFIX,liblib.cloud
+   - DOMAIN-SUFFIX,liblib.tv
    - DOMAIN-SUFFIX,rwkv.com
+   - DOMAIN-SUFFIX,tapnow.top
    - DOMAIN-SUFFIX,qianwen.aliyun.com
    - DOMAIN-SUFFIX,qianwen.com
    - DOMAIN-SUFFIX,qwen.ai
@@ -3596,7 +3600,6 @@ payload:
    - DOMAIN-SUFFIX,hunyuan.tencent.com
    - DOMAIN-SUFFIX,yuanqi.tencent.com
    - DOMAIN-SUFFIX,baichuan-ai.com
-   - DOMAIN-SUFFIX,liblib.art
    - DOMAIN-SUFFIX,namiso.com
    - DOMAIN-SUFFIX,miaoyanai.com
    - DOMAIN-SUFFIX,faxingbao.com
