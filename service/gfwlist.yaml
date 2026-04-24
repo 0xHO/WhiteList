@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-04-24 05:25:11
+# Update: 2026-04-25 05:28:19
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -3094,6 +3094,7 @@ payload:
    - DOMAIN-SUFFIX,tbsec.org
    - DOMAIN-SUFFIX,tbsn.org
    - DOMAIN-SUFFIX,teachparentstech.org
+   - DOMAIN-SUFFIX,techbang.com
    - DOMAIN-SUFFIX,technews.tw
    - DOMAIN-SUFFIX,techviz.net
    - DOMAIN-SUFFIX,teck.in
