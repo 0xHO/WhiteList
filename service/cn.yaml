@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Apr 28 05:35:09 CST 2026
+# Update: Wed Apr 29 05:38:19 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -150,7 +150,6 @@ payload:
    - DOMAIN-SUFFIX,zhangyuecdn.com
    - DOMAIN-SUFFIX,moseeker.com
    - DOMAIN-SUFFIX,ntalker.com
-   - DOMAIN-SUFFIX,onedns.net
    - DOMAIN-SUFFIX,sencdn.com
    - DOMAIN-SUFFIX,seniverse.com
    - DOMAIN-SUFFIX,shixiseng.com
@@ -188,6 +187,9 @@ payload:
    - DOMAIN-SUFFIX,huanleguang.com
    - DOMAIN-SUFFIX,juziwulian.com
    - DOMAIN-SUFFIX,kaadas.com
+   - DOMAIN-SUFFIX,onedns.net
+   - DOMAIN-SUFFIX,shellpub.com
+   - DOMAIN-SUFFIX,threatbook.com
    - DOMAIN-SUFFIX,baimiao.tech
    - DOMAIN-SUFFIX,baimiaoapp.com
    - DOMAIN-SUFFIX,shinescan.tech
@@ -3429,6 +3431,8 @@ payload:
    - DOMAIN-SUFFIX,zhan.com
    - DOMAIN-SUFFIX,zhihuishu.com
    - DOMAIN-SUFFIX,zjzs.net
+   - DOMAIN-SUFFIX,banxiaoer.com
+   - DOMAIN-SUFFIX,banxiaoer.net
    # ------ category-mooc-cn ------>
    - DOMAIN,study.163.com
    - DOMAIN-SUFFIX,chinesemooc.org
@@ -3616,12 +3620,27 @@ payload:
    # ------ deepseek ------>
    - DOMAIN-SUFFIX,deepseek.com
    # ------ doubao ------>
+   - DOMAIN-SUFFIX,coze-dns-01.com
+   - DOMAIN-SUFFIX,coze.email
    - DOMAIN-SUFFIX,coze.site
+   - DOMAIN-SUFFIX,cozeapp.net
+   - DOMAIN-SUFFIX,cozebuild.com
+   - DOMAIN-SUFFIX,cozecdn.com
+   - DOMAIN-SUFFIX,cozedeploy.com
+   - DOMAIN-SUFFIX,cozesdk.com
+   - DOMAIN-SUFFIX,dbbuilding.fun
+   - DOMAIN-SUFFIX,building.fun
+   - DOMAIN-SUFFIX,instreet.com
+   - DOMAIN-SUFFIX,doubao-dev.com
    - DOMAIN-SUFFIX,doubao.com
    - DOMAIN-SUFFIX,doubaocdn.com
    - DOMAIN-SUFFIX,maoxiangai.com
    - DOMAIN-SUFFIX,myparallelstory.com
+   - DOMAIN-SUFFIX,oceancloudapi.com
+   - DOMAIN-SUFFIX,obriccloud.com
+   - DOMAIN-SUFFIX,obricclouddw.com
    - DOMAIN-SUFFIX,pixeldance.com
+   - DOMAIN-SUFFIX,api-building.fun
    # ------ trae ------>
    - DOMAIN-SUFFIX,doudou.com
    - DOMAIN-SUFFIX,mcbaas.work
@@ -4628,12 +4647,27 @@ payload:
    - DOMAIN-SUFFIX,ciciaicdn.com
    - DOMAIN-SUFFIX,dola.com
    # ------ doubao ------>
+   - DOMAIN-SUFFIX,coze-dns-01.com
+   - DOMAIN-SUFFIX,coze.email
    - DOMAIN-SUFFIX,coze.site
+   - DOMAIN-SUFFIX,cozeapp.net
+   - DOMAIN-SUFFIX,cozebuild.com
+   - DOMAIN-SUFFIX,cozecdn.com
+   - DOMAIN-SUFFIX,cozedeploy.com
+   - DOMAIN-SUFFIX,cozesdk.com
+   - DOMAIN-SUFFIX,dbbuilding.fun
+   - DOMAIN-SUFFIX,building.fun
+   - DOMAIN-SUFFIX,instreet.com
+   - DOMAIN-SUFFIX,doubao-dev.com
    - DOMAIN-SUFFIX,doubao.com
    - DOMAIN-SUFFIX,doubaocdn.com
    - DOMAIN-SUFFIX,maoxiangai.com
    - DOMAIN-SUFFIX,myparallelstory.com
+   - DOMAIN-SUFFIX,oceancloudapi.com
+   - DOMAIN-SUFFIX,obriccloud.com
+   - DOMAIN-SUFFIX,obricclouddw.com
    - DOMAIN-SUFFIX,pixeldance.com
+   - DOMAIN-SUFFIX,api-building.fun
    # ------ douyin ------>
    - DOMAIN-SUFFIX,activity-wbsj.com
    - DOMAIN-SUFFIX,aihst8.com
@@ -4743,7 +4777,6 @@ payload:
    - DOMAIN-SUFFIX,bytexopen.com
    - DOMAIN-SUFFIX,bytexservice.com
    - DOMAIN-SUFFIX,meegobeta.com
-   - DOMAIN-SUFFIX,oceancloudapi.com
    - DOMAIN-SUFFIX,okr.com
    - DOMAIN-SUFFIX,vscenevideo.com
    # ------ feishu ------>
@@ -5410,6 +5443,12 @@ payload:
    - DOMAIN-SUFFIX,oneplusbbs.com
    - DOMAIN-SUFFIX,oneplusmobile.com
    - DOMAIN-SUFFIX,h2os.com
+   # ------ qianxin ------>
+   - DOMAIN-SUFFIX,95015.com
+   - DOMAIN-SUFFIX,qianxin.com
+   - DOMAIN-SUFFIX,qianxincdn.com
+   - DOMAIN-SUFFIX,seclab.online
+   - DOMAIN-SUFFIX,tianshucup.com
    # ------ qihoo360 ------>
    - DOMAIN-SUFFIX,360.com
    - DOMAIN-SUFFIX,360.net
@@ -5988,6 +6027,8 @@ payload:
    - DOMAIN-SUFFIX,thundercdn.com
    - DOMAIN-SUFFIX,xycloud.com
    - DOMAIN-SUFFIX,xycdn.com
+   - DOMAIN-SUFFIX,guangyacdn.com
+   - DOMAIN-SUFFIX,guangyapan.com
    # ------ youquan ------>
    - DOMAIN-SUFFIX,aitcfw.com
    - DOMAIN-SUFFIX,aizgtc.com
