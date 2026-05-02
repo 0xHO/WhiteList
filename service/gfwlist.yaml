@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-05-02 05:29:01
+# Update: 2026-05-03 05:21:03
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2927,6 +2927,7 @@ payload:
    - DOMAIN-SUFFIX,socks-proxy.net
    - DOMAIN-SUFFIX,sockslist.net
    - DOMAIN-SUFFIX,softether-download.com
+   - DOMAIN-SUFFIX,softether.co.jp
    - DOMAIN-SUFFIX,softether.org
    - DOMAIN-SUFFIX,softfamous.com
    - DOMAIN-SUFFIX,softwarebychuck.com
