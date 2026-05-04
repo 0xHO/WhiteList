@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon May  4 05:23:25 CST 2026
+# Update: Tue May  5 05:41:08 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -88,6 +88,7 @@ payload:
    - DOMAIN-SUFFIX,hdfimg.com
    - DOMAIN-SUFFIX,jsehealth.com
    - DOMAIN-SUFFIX,mingxuan.store
+   - DOMAIN-SUFFIX,acftu.org
    - DOMAIN-SUFFIX,airchangan.com
    - DOMAIN-SUFFIX,airguilin.com
    - DOMAIN-SUFFIX,ceair.com
@@ -1934,6 +1935,7 @@ payload:
    - DOMAIN-SUFFIX,kwaicdn.com
    - DOMAIN-SUFFIX,kwaizt.com
    - DOMAIN-SUFFIX,kwimgs.com
+   - DOMAIN-SUFFIX,viviv.com
    - DOMAIN-SUFFIX,wsukwai.com
    - DOMAIN-SUFFIX,yximgs.com
    # ------ kugou ------>
@@ -2094,6 +2096,8 @@ payload:
    - DOMAIN-SUFFIX,imcome.net
    - DOMAIN-SUFFIX,meican.com
    - DOMAIN-SUFFIX,meicanstatic.com
+   - DOMAIN-SUFFIX,nongfuspring.com
+   - DOMAIN-SUFFIX,whhhealth.com
    # ------ bestore ------>
    - DOMAIN-SUFFIX,517lppz.com
    - DOMAIN-SUFFIX,lppz.com
@@ -3384,6 +3388,8 @@ payload:
    - DOMAIN-SUFFIX,baicizhan.com
    - DOMAIN-SUFFIX,baicizhan.org
    - DOMAIN-SUFFIX,bczcdn.com
+   - DOMAIN-SUFFIX,banxiaoer.com
+   - DOMAIN-SUFFIX,banxiaoer.net
    - DOMAIN-SUFFIX,biyehome.net
    - DOMAIN-SUFFIX,burningvocabulary.com
    - DOMAIN-SUFFIX,centuryenglish.com
@@ -3423,7 +3429,10 @@ payload:
    - DOMAIN-SUFFIX,saduck.top
    - DOMAIN-SUFFIX,weilaiyunxiao.com
    - DOMAIN-SUFFIX,winyoungreading.com
+   - DOMAIN-SUFFIX,wjwai.com
+   - DOMAIN-SUFFIX,zysn.net
    - DOMAIN-SUFFIX,x-cloud.cc
+   - DOMAIN-SUFFIX,xiyouyingyu.com
    - DOMAIN-SUFFIX,xkw.com
    - DOMAIN-SUFFIX,zxxk.com
    - DOMAIN-SUFFIX,yunzhuxue.com
@@ -3431,8 +3440,6 @@ payload:
    - DOMAIN-SUFFIX,zhan.com
    - DOMAIN-SUFFIX,zhihuishu.com
    - DOMAIN-SUFFIX,zjzs.net
-   - DOMAIN-SUFFIX,banxiaoer.com
-   - DOMAIN-SUFFIX,banxiaoer.net
    # ------ category-mooc-cn ------>
    - DOMAIN,study.163.com
    - DOMAIN-SUFFIX,chinesemooc.org
@@ -5297,6 +5304,7 @@ payload:
    - DOMAIN-SUFFIX,ks-live.com
    - DOMAIN-SUFFIX,ksmobile.com
    - DOMAIN-SUFFIX,ksosoft.com
+   - DOMAIN-SUFFIX,kcdnvip.com
    - DOMAIN-SUFFIX,ks-cdn.com
    - DOMAIN-SUFFIX,ks-cdn1.com
    - DOMAIN-SUFFIX,ksyun.com
@@ -5976,6 +5984,7 @@ payload:
    - DOMAIN-SUFFIX,mi-idc.com
    - DOMAIN-SUFFIX,mi-img.com
    - DOMAIN-SUFFIX,mi.com
+   - DOMAIN-SUFFIX,mieco.net
    - DOMAIN-SUFFIX,mijia.tech
    - DOMAIN-SUFFIX,mitvos.com
    - DOMAIN-SUFFIX,miui.com
