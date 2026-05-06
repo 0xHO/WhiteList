@@ -3,10 +3,12 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Wed May  6 05:38:11 CST 2026
+# Update: Thu May  7 05:41:53 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
+   - DOMAIN,end-api.shallow.ink
+   - DOMAIN,end.shallow.ink
    - DOMAIN-SUFFIX,7k7k.com
    - DOMAIN-SUFFIX,9xgame.com
    - DOMAIN-SUFFIX,astral-vector.com
@@ -890,6 +892,7 @@ payload:
    - DOMAIN-SUFFIX,supercellgames.com
    - DOMAIN-SUFFIX,supercellid.com
    - DOMAIN-SUFFIX,supercellstore.com
+   - DOMAIN-SUFFIX,supr.cl
    # ------ take-two ------>
    - DOMAIN-SUFFIX,take2games.com
    # ------ 2kgames ------>
