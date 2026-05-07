@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-05-07 05:41:46
+# Update: 2026-05-08 05:32:03
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -3404,6 +3404,7 @@ payload:
    - DOMAIN-SUFFIX,ultrasurf.us
    - DOMAIN-SUFFIX,ultravpn.com
    - DOMAIN-SUFFIX,ultravpn.fr
+   - DOMAIN-SUFFIX,umap.openstreetmap.fr
    - DOMAIN-SUFFIX,unblock-us.com
    - DOMAIN-SUFFIX,unblock.cn.com
    - DOMAIN-SUFFIX,unblocksit.es
