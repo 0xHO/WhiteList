@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat May  9 05:35:38 CST 2026
+# Update: Sun May 10 05:24:39 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -2091,6 +2091,8 @@ payload:
    # ------ category-food-cn ------>
    - DOMAIN-SUFFIX,3songshu.com
    - DOMAIN-SUFFIX,haidilao.com
+   - DOMAIN-SUFFIX,hdlcdns.com
+   - DOMAIN-SUFFIX,kiwa-tech.com
    - DOMAIN-SUFFIX,heytea.com
    - DOMAIN-SUFFIX,anlaiye.com
    - DOMAIN-SUFFIX,imcoming.com
@@ -2099,6 +2101,12 @@ payload:
    - DOMAIN-SUFFIX,meicanstatic.com
    - DOMAIN-SUFFIX,nongfuspring.com
    - DOMAIN-SUFFIX,whhhealth.com
+   - DOMAIN-SUFFIX,shuxinyc.com
+   - DOMAIN-SUFFIX,mxbc.com
+   - DOMAIN-SUFFIX,mxbc.net
+   - DOMAIN-SUFFIX,hwwt8.com
+   - DOMAIN-SUFFIX,yumchina.com
+   - DOMAIN-SUFFIX,qmai.com
    # ------ bestore ------>
    - DOMAIN-SUFFIX,517lppz.com
    - DOMAIN-SUFFIX,lppz.com
@@ -2117,6 +2125,46 @@ payload:
    - DOMAIN-SUFFIX,lkcoffee.com
    - DOMAIN-SUFFIX,luckincoffeecdn.com
    - DOMAIN-SUFFIX,yyds.co
+   # ------ mcdonalds ------>
+   - DOMAIN-SUFFIX,happymeal.com.au
+   - DOMAIN-SUFFIX,mcdelivery.com.au
+   - DOMAIN-SUFFIX,mcdonalds.com.au
+   - DOMAIN-SUFFIX,mcdonalds.hk
+   - DOMAIN-SUFFIX,mcdonalds.com.hk
+   - DOMAIN-SUFFIX,mcdelivery.co.in
+   - DOMAIN-SUFFIX,mcdindia.com
+   - DOMAIN-SUFFIX,mcdelivery.co.id
+   - DOMAIN-SUFFIX,mcdindonesia.com
+   - DOMAIN-SUFFIX,mcdonalds.co.id
+   - DOMAIN-SUFFIX,mcdonalds.co.jp
+   - DOMAIN-SUFFIX,mcdonalds-online.com
+   - DOMAIN-SUFFIX,mcd-holdings.co.jp
+   - DOMAIN-SUFFIX,mcdelivery.co.kr
+   - DOMAIN-SUFFIX,mcdonalds.co.kr
+   - DOMAIN-SUFFIX,mcdelivery.com.tw
+   - DOMAIN-SUFFIX,mcdonalds.com.tw
+   - DOMAIN-SUFFIX,aboutmcdonalds.com
+   - DOMAIN-SUFFIX,happymeal.co.nz
+   - DOMAIN-SUFFIX,happymeal.com
+   - DOMAIN-SUFFIX,happymealdigital.com
+   - DOMAIN-SUFFIX,mcd.com
+   - DOMAIN-SUFFIX,mcdelivery.com.my
+   - DOMAIN-SUFFIX,mcdelivery.com.ph
+   - DOMAIN-SUFFIX,mcdelivery.com.sg
+   - DOMAIN-SUFFIX,mcdonalds.be
+   - DOMAIN-SUFFIX,mcdonalds.ca
+   - DOMAIN-SUFFIX,mcdonalds.it
+   - DOMAIN-SUFFIX,mcdonalds.no
+   - DOMAIN-SUFFIX,mcdonalds.se
+   - DOMAIN-SUFFIX,mcdonalds.co.nz
+   - DOMAIN-SUFFIX,mcdonalds.co.uk
+   - DOMAIN-SUFFIX,mcdonalds.com
+   - DOMAIN-SUFFIX,mcdonalds.com.lb
+   - DOMAIN-SUFFIX,mcdonalds.com.my
+   - DOMAIN-SUFFIX,mcdonalds.com.ph
+   - DOMAIN-SUFFIX,mcdonaldsapps.com
+   - DOMAIN-SUFFIX,mcdonaldsarabia.com
+   - DOMAIN-SUFFIX,mcdonaldsparties.co.nz
    # ------ category-logistics-cn ------>
    - DOMAIN-SUFFIX,guoocang.com
    # ------ 800best ------>
@@ -4011,6 +4059,7 @@ payload:
    - DOMAIN-SUFFIX,alimebot.com
    - DOMAIN-SUFFIX,alimei.com
    - DOMAIN-SUFFIX,alimmdn.com
+   - DOMAIN-SUFFIX,alipay-eco.com
    - DOMAIN-SUFFIX,alipay.com
    - DOMAIN-SUFFIX,alipaydns.com
    - DOMAIN-SUFFIX,alipaylog.com
