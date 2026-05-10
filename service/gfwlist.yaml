@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-05-10 05:24:30
+# Update: 2026-05-11 05:27:53
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -801,6 +801,7 @@ payload:
    - DOMAIN-SUFFIX,darrenliuwei.com
    - DOMAIN-SUFFIX,dashlane.com
    - DOMAIN-SUFFIX,data-vocabulary.org
+   - DOMAIN-SUFFIX,data18.com
    - DOMAIN-SUFFIX,daum.net
    - DOMAIN-SUFFIX,dawangidc.com
    - DOMAIN-SUFFIX,daxa.cn
@@ -907,6 +908,7 @@ payload:
    - DOMAIN-SUFFIX,dropbox.com
    - DOMAIN-SUFFIX,dropboxapi.com
    - DOMAIN-SUFFIX,dropboxusercontent.com
+   - DOMAIN-SUFFIX,dt18.com
    - DOMAIN-SUFFIX,dtiblog.com
    - DOMAIN-SUFFIX,dtic.mil
    - DOMAIN-SUFFIX,dubox.com
