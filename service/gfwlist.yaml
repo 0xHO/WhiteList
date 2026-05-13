@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-05-13 05:51:50
+# Update: 2026-05-14 05:55:18
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -636,6 +636,7 @@ payload:
    - DOMAIN-SUFFIX,chineseupress.com
    - DOMAIN-SUFFIX,chingcheong.com
    - DOMAIN-SUFFIX,chobit.cc
+   - DOMAIN-SUFFIX,chonglangtv.org
    - DOMAIN-SUFFIX,christianfreedom.org
    - DOMAIN-SUFFIX,christianstudy.com
    - DOMAIN-SUFFIX,christiantimes.org.hk
