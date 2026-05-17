@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-05-17 05:27:58
+# Update: 2026-05-18 05:29:50
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2897,6 +2897,7 @@ payload:
    - DOMAIN-SUFFIX,shutterstock.com
    - DOMAIN-SUFFIX,shwchurch.org
    - DOMAIN-SUFFIX,sidelinesnews.com
+   - DOMAIN-SUFFIX,sider.ai
    - DOMAIN-SUFFIX,signal.org
    - DOMAIN-SUFFIX,silvergatebank.com
    - DOMAIN-SUFFIX,simbolostwitter.com
@@ -3867,6 +3868,7 @@ payload:
    - DOMAIN-SUFFIX,zh.pokerstrategy.com
    - DOMAIN-SUFFIX,zh.wikiquote.org
    - DOMAIN-SUFFIX,zhangtianliang.com
+   - DOMAIN-SUFFIX,zhangzhehan.net
    - DOMAIN-SUFFIX,zhanlve.org
    - DOMAIN-SUFFIX,zhao.1984.city
    - DOMAIN-SUFFIX,zhengjian.org
