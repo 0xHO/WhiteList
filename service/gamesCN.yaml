@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Mon May 18 05:29:58 CST 2026
+# Update: Tue May 19 05:48:19 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -47,6 +47,7 @@ payload:
    - DOMAIN,gog-cdn.akamaized.net
    # ------ hoyoverse ------>
    # ------ itchio ------>
+   # ------ konami ------>
    # ------ lowiro ------>
    # ------ modrinth ------>
    # ------ nexon ------>

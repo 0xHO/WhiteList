@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Mon May 18 05:29:57 CST 2026
+# Update: Tue May 19 05:48:18 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -555,6 +555,27 @@ payload:
    # ------ itchio ------>
    - DOMAIN-SUFFIX,itch.io
    - DOMAIN-SUFFIX,itch.zone
+   # ------ konami ------>
+   - DOMAIN-SUFFIX,konami
+   - DOMAIN-SUFFIX,573.jp
+   - DOMAIN-SUFFIX,kgisystems.com
+   - DOMAIN-SUFFIX,kiwi.jp
+   - DOMAIN-SUFFIX,konami-igaming.online
+   - DOMAIN-SUFFIX,konami.co.jp
+   - DOMAIN-SUFFIX,konami.com
+   - DOMAIN-SUFFIX,konami.net
+   - DOMAIN-SUFFIX,konami.org
+   - DOMAIN-SUFFIX,konamicrossmedia.com
+   - DOMAIN-SUFFIX,konamigaming.com
+   - DOMAIN-SUFFIX,konamigaming.net
+   - DOMAIN-SUFFIX,konamigaming.online
+   - DOMAIN-SUFFIX,konamionline.com
+   - DOMAIN-SUFFIX,konamiopen.jp
+   - DOMAIN-SUFFIX,konamisportsclub.jp
+   - DOMAIN-SUFFIX,konamistyle.jp
+   - DOMAIN-SUFFIX,resella.jp
+   - DOMAIN-SUFFIX,resellablue.com
+   - DOMAIN-SUFFIX,yugioh-card.com
    # ------ lowiro ------>
    - DOMAIN-SUFFIX,lowiro.com
    # ------ modrinth ------>
