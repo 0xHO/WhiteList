@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue May 19 05:48:20 CST 2026
+# Update: Wed May 20 05:56:07 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -3673,6 +3673,8 @@ payload:
    - DOMAIN-SUFFIX,qwenlm.ai
    - DOMAIN-SUFFIX,tongyi.aliyun.com
    - DOMAIN-SUFFIX,tongyi.com
+   - DOMAIN-SUFFIX,antafu.com
+   - DOMAIN-SUFFIX,antaq.com
    - DOMAIN-SUFFIX,yiyan.baidu.com
    - DOMAIN-SUFFIX,z.ai
    - DOMAIN-SUFFIX,zhipucn.com
@@ -3760,17 +3762,25 @@ payload:
    # ------ category-documents-cn ------>
    - DOMAIN-SUFFIX,1ppt.com
    - DOMAIN-SUFFIX,360doc.com
+   - DOMAIN-SUFFIX,51pptmoban.com
    - DOMAIN-SUFFIX,51wendang.com
    - DOMAIN-SUFFIX,52ppt.com
    - DOMAIN-SUFFIX,badou.com
    - DOMAIN-SUFFIX,book118.com
+   - DOMAIN-SUFFIX,daodoc.com
    - DOMAIN-SUFFIX,doc88.com
    - DOMAIN-SUFFIX,docin.com
+   - DOMAIN-SUFFIX,goldhoe.com
    - DOMAIN-SUFFIX,haohaodoc.com
+   - DOMAIN-SUFFIX,jinchutou.com
    - DOMAIN-SUFFIX,lazyer.net
    - DOMAIN-SUFFIX,renrendoc.com
+   - DOMAIN-SUFFIX,safewk.com
+   - DOMAIN-SUFFIX,taodocs.com
    - DOMAIN-SUFFIX,wenkeju.com
+   - DOMAIN-SUFFIX,wenkub.com
    - DOMAIN-SUFFIX,ypppt.com
+   - DOMAIN-SUFFIX,zhijidoc.com
    # ------ category-enterprise-query-platform-cn ------>
    - DOMAIN-SUFFIX,qichamao.com
    - DOMAIN-SUFFIX,x315.com
@@ -3829,18 +3839,19 @@ payload:
    - DOMAIN-SUFFIX,guaiku.com
    - DOMAIN-SUFFIX,99jiasu.net
    # ------ category-netdisk-cn ------>
+   - DOMAIN-SUFFIX,123245.com
+   - DOMAIN-SUFFIX,123254.com
+   - DOMAIN-SUFFIX,123278.com
+   - DOMAIN-SUFFIX,123294.com
+   - DOMAIN-SUFFIX,123624.com
+   - DOMAIN-SUFFIX,123641.com
+   - DOMAIN-SUFFIX,123842.com
+   - DOMAIN-SUFFIX,123860.com
+   - DOMAIN-SUFFIX,123912.com
+   - DOMAIN-SUFFIX,123952.com
+   - DOMAIN-SUFFIX,123957.com
    - DOMAIN-SUFFIX,123pan.com
    - DOMAIN-SUFFIX,123panpay.com
-   - DOMAIN-SUFFIX,123957.com
-   - DOMAIN-SUFFIX,123912.com
-   - DOMAIN-SUFFIX,123860.com
-   - DOMAIN-SUFFIX,123842.com
-   - DOMAIN-SUFFIX,123641.com
-   - DOMAIN-SUFFIX,123624.com
-   - DOMAIN-SUFFIX,123294.com
-   - DOMAIN-SUFFIX,123254.com
-   - DOMAIN-SUFFIX,123245.com
-   - DOMAIN-SUFFIX,123952.com
    - DOMAIN-SUFFIX,ctfile.com
    - DOMAIN-SUFFIX,feimaoyun.com
    - DOMAIN-SUFFIX,filez.com
