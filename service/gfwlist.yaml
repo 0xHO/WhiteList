@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-05-20 05:55:58
+# Update: 2026-05-21 06:11:46
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -1020,6 +1020,7 @@ payload:
    - DOMAIN-SUFFIX,f-droid.org
    - DOMAIN-SUFFIX,f2pool.com
    - DOMAIN-SUFFIX,f8.com
+   - DOMAIN-SUFFIX,f95zone.to
    - DOMAIN-SUFFIX,facebook.com
    - DOMAIN-SUFFIX,facebook.de
    - DOMAIN-SUFFIX,facebook.design
@@ -1191,6 +1192,7 @@ payload:
    - DOMAIN-SUFFIX,fxnetworks.com
    - DOMAIN-SUFFIX,g-area.org
    - DOMAIN-SUFFIX,g-queen.com
+   - DOMAIN-SUFFIX,g.ai
    - DOMAIN-SUFFIX,g.co
    - DOMAIN-SUFFIX,g0v.social
    - DOMAIN-SUFFIX,gab.com
@@ -2005,6 +2007,7 @@ payload:
    - DOMAIN-SUFFIX,lematin.ch
    - DOMAIN-SUFFIX,lemonde.fr
    - DOMAIN-SUFFIX,lenwhite.com
+   - DOMAIN-SUFFIX,leonardo.ai
    - DOMAIN-SUFFIX,lesoir.be
    - DOMAIN-SUFFIX,letscorp.net
    - DOMAIN-SUFFIX,lexica.art
@@ -2727,6 +2730,7 @@ payload:
    - DOMAIN-SUFFIX,raidcall.com.tw
    - DOMAIN-SUFFIX,rakuten.co.jp
    - DOMAIN-SUFFIX,ramcity.com.au
+   - DOMAIN-SUFFIX,raphael.app
    - DOMAIN-SUFFIX,rapidmoviez.com
    - DOMAIN-SUFFIX,rapidvpn.com
    - DOMAIN-SUFFIX,rarbgprx.org
@@ -2803,6 +2807,7 @@ payload:
    - DOMAIN-SUFFIX,rti.tw
    - DOMAIN-SUFFIX,rtm.tnt-ea.com
    - DOMAIN-SUFFIX,rts.ch
+   - DOMAIN-SUFFIX,rule34.us
    - DOMAIN-SUFFIX,rule34.xxx
    - DOMAIN-SUFFIX,rule34video.com
    - DOMAIN-SUFFIX,rumble.com
@@ -2970,6 +2975,7 @@ payload:
    - DOMAIN-SUFFIX,sos.org
    - DOMAIN-SUFFIX,sosad.fun
    - DOMAIN-SUFFIX,sosreader.com
+   - DOMAIN-SUFFIX,sotwe.com
    - DOMAIN-SUFFIX,soulcaliburhentai.net
    - DOMAIN-SUFFIX,soundcloud.com
    - DOMAIN-SUFFIX,soundofhope.org
