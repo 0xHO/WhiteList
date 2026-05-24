@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/eastmoney.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/eastmoney.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/eastmoney.yaml
-# Update: Sun May 24 05:30:48 CST 2026
+# Update: Mon May 25 05:32:26 CST 2026
 payload:
    # ------ eastmoney ------>
    - DOMAIN-SUFFIX,dfcfw.com
