@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon May 25 05:32:20 CST 2026
+# Update: Tue May 26 05:46:52 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -470,6 +470,7 @@ payload:
    - DOMAIN-SUFFIX,cofeed.com
    - DOMAIN-SUFFIX,cofool.com
    - DOMAIN-SUFFIX,coindog.com
+   - DOMAIN-SUFFIX,comfylink.com
    - DOMAIN-SUFFIX,cone-x.com
    - DOMAIN-SUFFIX,contentchina.com
    - DOMAIN-SUFFIX,cpppf.org

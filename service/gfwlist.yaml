@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-05-25 05:32:11
+# Update: 2026-05-26 05:46:43
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2244,6 +2244,7 @@ payload:
    - DOMAIN-SUFFIX,mosavi.io
    - DOMAIN-SUFFIX,movements.org
    - DOMAIN-SUFFIX,moviefap.com
+   - DOMAIN-SUFFIX,mozilla.ai
    - DOMAIN-SUFFIX,mpettis.com
    - DOMAIN-SUFFIX,mpfinance.com
    - DOMAIN-SUFFIX,mpinews.com
