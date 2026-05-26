@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue May 26 05:46:52 CST 2026
+# Update: Wed May 27 06:07:28 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -4087,6 +4087,7 @@ payload:
    - DOMAIN-SUFFIX,taobao
    - DOMAIN-SUFFIX,tmall
    - DOMAIN-SUFFIX,56che.com
+   - DOMAIN-SUFFIX,88cha.com
    - DOMAIN-SUFFIX,95095.com
    - DOMAIN-SUFFIX,ali-health.com
    - DOMAIN-SUFFIX,aliapp.org
