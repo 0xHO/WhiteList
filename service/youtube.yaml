@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/youtube.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/youtube.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/youtube.yaml
-# Update: Fri May 29 06:17:54 CST 2026
+# Update: Sat May 30 06:14:11 CST 2026
 payload:
    # ------ youtube ------>
    - DOMAIN,yt3.googleusercontent.com
