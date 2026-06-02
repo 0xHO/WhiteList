@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Tue Jun  2 06:47:32 CST 2026
+# Update: Wed Jun  3 06:36:53 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -93,7 +93,10 @@ payload:
    - DOMAIN-SUFFIX,yxhapi.com
    - DOMAIN-SUFFIX,yxhhdl.com
    - DOMAIN-SUFFIX,yxhimg.com
-   # ------ 9game ------>
+   # ------ aligames ------>
+   - DOMAIN-SUFFIX,aligames.com
+   - DOMAIN-SUFFIX,jiaoyimao.com
+   - DOMAIN-SUFFIX,lingxigames.com
    # ------ bluepoch-games ------>
    - DOMAIN-SUFFIX,sl916.com
    # ------ cowlevel ------>
