@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Jun  3 06:36:55 CST 2026
+# Update: Thu Jun  4 06:39:15 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
@@ -26,6 +26,8 @@ payload:
    - DOMAIN-SUFFIX,suu-fun.com
    - DOMAIN-SUFFIX,rainyun.com
    - DOMAIN-SUFFIX,szhdy.com
+   - DOMAIN-SUFFIX,thefastfile.com
+   - DOMAIN-SUFFIX,thefastimg.com
    - DOMAIN-SUFFIX,51selling.com
    - DOMAIN-SUFFIX,aihuishou.com
    - DOMAIN-SUFFIX,appsimg.com
@@ -37,6 +39,8 @@ payload:
    - DOMAIN-SUFFIX,homeinns.com
    - DOMAIN-SUFFIX,dmall.com
    - DOMAIN-SUFFIX,dmallcdn.com
+   - DOMAIN-SUFFIX,feiniu.com
+   - DOMAIN-SUFFIX,fn-mart.com
    - DOMAIN-SUFFIX,geilicdn.com
    - DOMAIN-SUFFIX,weidian.com
    - DOMAIN-SUFFIX,goofish.pro
@@ -51,6 +55,7 @@ payload:
    - DOMAIN-SUFFIX,jumei.com
    - DOMAIN-SUFFIX,kongfz.com
    - DOMAIN-SUFFIX,kfzimg.com
+   - DOMAIN-SUFFIX,linkheer.com
    - DOMAIN-SUFFIX,manmanbuy.com
    - DOMAIN-SUFFIX,maxonesoft.com
    - DOMAIN-SUFFIX,meiwulist.com
@@ -1510,6 +1515,7 @@ payload:
    - DOMAIN-SUFFIX,shuhai.com
    - DOMAIN-SUFFIX,tadu.com
    - DOMAIN-SUFFIX,vsread.com
+   - DOMAIN-SUFFIX,xinlishumeng.com
    - DOMAIN-SUFFIX,xyys.com
    - DOMAIN-SUFFIX,yamibo.com
    - DOMAIN-SUFFIX,yiyouliao.com
@@ -1767,6 +1773,8 @@ payload:
    # ------ bilibili ------>
    - DOMAIN-SUFFIX,bilicomic.com
    - DOMAIN-SUFFIX,bilicomics.com
+   - DOMAIN-SUFFIX,maoer.com
+   - DOMAIN-SUFFIX,missevan.com
    - DOMAIN-SUFFIX,acg.tv
    - DOMAIN-SUFFIX,acgvideo.com
    - DOMAIN-SUFFIX,animetamashi.com
@@ -2139,6 +2147,7 @@ payload:
    - DOMAIN-SUFFIX,vgtime.com
    # ------ category-food-cn ------>
    - DOMAIN-SUFFIX,3songshu.com
+   - DOMAIN-SUFFIX,vipbcw.com
    - DOMAIN-SUFFIX,haidilao.com
    - DOMAIN-SUFFIX,hdlcdns.com
    - DOMAIN-SUFFIX,kiwa-tech.com
@@ -2156,20 +2165,19 @@ payload:
    - DOMAIN-SUFFIX,hwwt8.com
    - DOMAIN-SUFFIX,yumchina.com
    - DOMAIN-SUFFIX,qmai.com
+   - DOMAIN-SUFFIX,cofco.com
+   - DOMAIN-SUFFIX,chinabdh.com
+   - DOMAIN-SUFFIX,4008117117.com
+   - DOMAIN-SUFFIX,brightdairy.com
+   - DOMAIN-SUFFIX,brighticecream.com
+   - DOMAIN-SUFFIX,chinacow.com
+   - DOMAIN-SUFFIX,yili.com
+   - DOMAIN-SUFFIX,junlebaoruye.com
+   - DOMAIN-SUFFIX,shuanghui.net
    # ------ bestore ------>
    - DOMAIN-SUFFIX,517lppz.com
    - DOMAIN-SUFFIX,lppz.com
    - DOMAIN-SUFFIX,lppzimg.com
-   # ------ ddmaicai ------>
-   - DOMAIN-SUFFIX,100.me
-   - DOMAIN-SUFFIX,ddcorp.net
-   - DOMAIN-SUFFIX,ddfresh.net
-   - DOMAIN-SUFFIX,ddimg.mobi
-   - DOMAIN-SUFFIX,ddmaicai.net
-   - DOMAIN-SUFFIX,ddmc.mobi
-   - DOMAIN-SUFFIX,dduser.mobi
-   - DOMAIN-SUFFIX,ddxq.mobi
-   - DOMAIN-SUFFIX,imaicai.mobi
    # ------ lkcoffee ------>
    - DOMAIN-SUFFIX,lkcoffee.com
    - DOMAIN-SUFFIX,luckincoffeecdn.com
@@ -2214,6 +2222,73 @@ payload:
    - DOMAIN-SUFFIX,mcdonaldsapps.com
    - DOMAIN-SUFFIX,mcdonaldsarabia.com
    - DOMAIN-SUFFIX,mcdonaldsparties.co.nz
+   # ------ starbucks ------>
+   - DOMAIN-SUFFIX,sbux.com.my
+   - DOMAIN-SUFFIX,sbuxcard.com
+   - DOMAIN-SUFFIX,starbucks-stars.com
+   - DOMAIN-SUFFIX,starbucks.ad
+   - DOMAIN-SUFFIX,starbucks.at
+   - DOMAIN-SUFFIX,starbucks.be
+   - DOMAIN-SUFFIX,starbucks.bg
+   - DOMAIN-SUFFIX,starbucks.ca
+   - DOMAIN-SUFFIX,starbucks.ch
+   - DOMAIN-SUFFIX,starbucks.co.id
+   - DOMAIN-SUFFIX,starbucks.co.jp
+   - DOMAIN-SUFFIX,starbucks.co.nz
+   - DOMAIN-SUFFIX,starbucks.co.th
+   - DOMAIN-SUFFIX,starbucks.co.uk
+   - DOMAIN-SUFFIX,starbucks.co.za
+   - DOMAIN-SUFFIX,starbucks.com
+   - DOMAIN-SUFFIX,starbucks.com.ar
+   - DOMAIN-SUFFIX,starbucks.com.bn
+   - DOMAIN-SUFFIX,starbucks.com.co
+   - DOMAIN-SUFFIX,starbucks.com.cy
+   - DOMAIN-SUFFIX,starbucks.com.gr
+   - DOMAIN-SUFFIX,starbucks.com.hk
+   - DOMAIN-SUFFIX,starbucks.com.kh
+   - DOMAIN-SUFFIX,starbucks.com.kz
+   - DOMAIN-SUFFIX,starbucks.com.mx
+   - DOMAIN-SUFFIX,starbucks.com.my
+   - DOMAIN-SUFFIX,starbucks.com.pe
+   - DOMAIN-SUFFIX,starbucks.com.sg
+   - DOMAIN-SUFFIX,starbucks.com.tr
+   - DOMAIN-SUFFIX,starbucks.com.uy
+   - DOMAIN-SUFFIX,starbucks.de
+   - DOMAIN-SUFFIX,starbucks.dk
+   - DOMAIN-SUFFIX,starbucks.es
+   - DOMAIN-SUFFIX,starbucks.fr
+   - DOMAIN-SUFFIX,starbucks.hu
+   - DOMAIN-SUFFIX,starbucks.ie
+   - DOMAIN-SUFFIX,starbucks.in
+   - DOMAIN-SUFFIX,starbucks.it
+   - DOMAIN-SUFFIX,starbucks.nl
+   - DOMAIN-SUFFIX,starbucks.no
+   - DOMAIN-SUFFIX,starbucks.ph
+   - DOMAIN-SUFFIX,starbucks.pl
+   - DOMAIN-SUFFIX,starbucks.pt
+   - DOMAIN-SUFFIX,starbucks.rs
+   - DOMAIN-SUFFIX,starbucks.ru
+   - DOMAIN-SUFFIX,starbucks.se
+   - DOMAIN-SUFFIX,starbucks.tt
+   - DOMAIN-SUFFIX,starbucks.vn
+   - DOMAIN-SUFFIX,starbucksathome.com
+   - DOMAIN-SUFFIX,starbucksavie.ca
+   - DOMAIN-SUFFIX,starbuckscard.ph
+   - DOMAIN-SUFFIX,starbuckscardb2b.com
+   - DOMAIN-SUFFIX,starbuckscoffee.cz
+   - DOMAIN-SUFFIX,starbuckscoffeegear.com
+   - DOMAIN-SUFFIX,starbuckscoffeegearstore.com
+   - DOMAIN-SUFFIX,starbucksforlife.ca
+   - DOMAIN-SUFFIX,starbucksforlife.com
+   - DOMAIN-SUFFIX,starbuckspoq.com
+   - DOMAIN-SUFFIX,starbucksreserve.com
+   - DOMAIN-SUFFIX,starbucksrewardsstarland.ca
+   - DOMAIN-SUFFIX,starbucksrewardsstarland.com
+   - DOMAIN-SUFFIX,starbucksromania.ro
+   - DOMAIN-SUFFIX,starbucksrtd.com
+   - DOMAIN-SUFFIX,starbucksslovakia.sk
+   - DOMAIN-SUFFIX,starbuckssummergame.ca
+   - DOMAIN-SUFFIX,starbuckssummergame.com
    # ------ category-logistics-cn ------>
    - DOMAIN-SUFFIX,guoocang.com
    # ------ 800best ------>
@@ -2459,6 +2534,7 @@ payload:
    - DOMAIN-SUFFIX,36krcnd.com
    # ------ cctv ------>
    - DOMAIN-SUFFIX,cctv.com
+   - DOMAIN-SUFFIX,cctv4g.com
    - DOMAIN-SUFFIX,cctvpic.com
    - DOMAIN-SUFFIX,chinalive.com
    - DOMAIN-SUFFIX,chinaott.com
@@ -3085,11 +3161,14 @@ payload:
    - DOMAIN-SUFFIX,jxedt.com
    - DOMAIN-SUFFIX,jxksw.net
    - DOMAIN-SUFFIX,xinchong.com
+   - DOMAIN-SUFFIX,xueche.com
    - DOMAIN-SUFFIX,zhuancorp.com
    - DOMAIN-SUFFIX,zhuaninc.com
    - DOMAIN-SUFFIX,zhuanspirit.com
    - DOMAIN-SUFFIX,zhuanstatic.com
    - DOMAIN-SUFFIX,zhuanzhuan.com
+   - DOMAIN-SUFFIX,kaoshibao.com
+   - DOMAIN-SUFFIX,zaixiankaoshi.com
    # ------ ganji ------>
    - DOMAIN-SUFFIX,58ganji.com
    - DOMAIN-SUFFIX,58ganji-corp.com
@@ -5765,6 +5844,24 @@ payload:
    - DOMAIN-SUFFIX,fymallqa4.com
    - DOMAIN-SUFFIX,fymallqa7.com
    - DOMAIN-SUFFIX,fymallqa9.com
+   # ------ kugou ------>
+   - DOMAIN-SUFFIX,fanxingliveshow.com
+   - DOMAIN-SUFFIX,kgimg.com
+   - DOMAIN-SUFFIX,ktv.com
+   - DOMAIN-SUFFIX,kugoo.com
+   - DOMAIN-SUFFIX,kugou.com
+   - DOMAIN-SUFFIX,kugou.net
+   - DOMAIN-SUFFIX,kugouaudio.com
+   - DOMAIN-SUFFIX,kugouipv6.com
+   - DOMAIN-SUFFIX,kugoukid.com
+   - DOMAIN-SUFFIX,kugouliveshow.com
+   - DOMAIN-SUFFIX,kugouringtone.com
+   - DOMAIN-SUFFIX,kugousenior.com
+   - DOMAIN-SUFFIX,kugoustore.com
+   - DOMAIN-SUFFIX,kugouvoice.com
+   - DOMAIN-SUFFIX,kugouyouth.com
+   # ------ kuwo ------>
+   - DOMAIN-SUFFIX,koowo.com
    # ------ qcloud ------>
    - DOMAIN-SUFFIX,acctdns.com
    - DOMAIN-SUFFIX,acctdns.net
@@ -6130,6 +6227,9 @@ payload:
    - DOMAIN-SUFFIX,anticheatexpert.com
    - DOMAIN-SUFFIX,17roco.com
    - DOMAIN-SUFFIX,roco.qq.com
+   # ------ ximalaya ------>
+   - DOMAIN-SUFFIX,ximalaya.com
+   - DOMAIN-SUFFIX,xmcdn.com
    # ------ yuewen ------>
    - DOMAIN-SUFFIX,hongxiu.com
    - DOMAIN-SUFFIX,lrts.me
