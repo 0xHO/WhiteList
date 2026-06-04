@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Thu Jun  4 06:39:13 CST 2026
+# Update: Fri Jun  5 06:07:08 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -110,6 +110,7 @@ payload:
    - DOMAIN-SUFFIX,yingxiong.com
    # ------ kurogames ------>
    - DOMAIN-SUFFIX,kurogames.com
+   - DOMAIN-SUFFIX,kurogames.net
    - DOMAIN-SUFFIX,aki-game.com
    # ------ mihoyo-cn ------>
    - DOMAIN-SUFFIX,mhystatic.com
