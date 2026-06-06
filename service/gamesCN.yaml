@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Sat Jun  6 06:02:47 CST 2026
+# Update: Sun Jun  7 05:39:34 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -46,6 +46,7 @@ payload:
    - DOMAIN,gog-cdn-fastly.gog.com
    - DOMAIN,gog-cdn.akamaized.net
    # ------ hoyoverse ------>
+   # ------ humblebundle ------>
    # ------ itchio ------>
    # ------ konami ------>
    # ------ lowiro ------>

@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sat Jun  6 06:02:46 CST 2026
+# Update: Sun Jun  7 05:39:33 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -226,7 +226,6 @@ payload:
    - DOMAIN-SUFFIX,fanatical.com
    - DOMAIN-SUFFIX,fitgirl-repacks.site
    - DOMAIN-SUFFIX,game-repack.site
-   - DOMAIN-SUFFIX,humblebundle.com
    - DOMAIN-SUFFIX,joinsquad.com
    - DOMAIN-SUFFIX,loverslab.com
    - DOMAIN-SUFFIX,minecraft.wiki
@@ -556,6 +555,9 @@ payload:
    - DOMAIN-SUFFIX,hoyoverse.com
    - DOMAIN-SUFFIX,n0vadesktop.com
    - DOMAIN-SUFFIX,zenlesszonezero.com
+   # ------ humblebundle ------>
+   - DOMAIN,hb.imgix.net
+   - DOMAIN-SUFFIX,humblebundle.com
    # ------ itchio ------>
    - DOMAIN-SUFFIX,itch.io
    - DOMAIN-SUFFIX,itch.zone

@@ -2,11 +2,14 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Jun  6 06:02:48 CST 2026
+# Update: Sun Jun  7 05:39:36 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,helipay.com
    - DOMAIN-SUFFIX,hsqh.net
+   - DOMAIN-SUFFIX,iboxpay.com
+   - DOMAIN-SUFFIX,joinpay.com
+   - DOMAIN-SUFFIX,lehuipay.com
    - DOMAIN-SUFFIX,lu.com
    - DOMAIN-SUFFIX,lufax.com
    - DOMAIN-SUFFIX,lufaxcdn.com
@@ -67,6 +70,7 @@ payload:
    - DOMAIN-SUFFIX,ruseer.com
    - DOMAIN-SUFFIX,xiamai.net
    - DOMAIN-SUFFIX,yaduo.com
+   - DOMAIN-SUFFIX,zhuge.com
    - DOMAIN-SUFFIX,178linux.com
    - DOMAIN-SUFFIX,antpedia.com
    - DOMAIN-SUFFIX,anywlan.com
@@ -93,6 +97,7 @@ payload:
    - DOMAIN-SUFFIX,51cto.com
    - DOMAIN-SUFFIX,edgemonix.top
    - DOMAIN-SUFFIX,monika.love
+   - DOMAIN-SUFFIX,cdnmama.com
    - DOMAIN-SUFFIX,423down.com
    - DOMAIN-SUFFIX,acwifi.net
    - DOMAIN-SUFFIX,appinn.com
@@ -144,6 +149,7 @@ payload:
    - DOMAIN-SUFFIX,zyh365.com
    - DOMAIN-SUFFIX,7moor-fs1.com
    - DOMAIN-SUFFIX,7moor.com
+   - DOMAIN-SUFFIX,air-matters.com
    - DOMAIN-SUFFIX,alookweb.com
    - DOMAIN-SUFFIX,antutu.com
    - DOMAIN-SUFFIX,antutu.net
@@ -160,8 +166,10 @@ payload:
    - DOMAIN-SUFFIX,deepepg.com
    - DOMAIN-SUFFIX,kookong.com
    - DOMAIN-SUFFIX,dida365.com
+   - DOMAIN-SUFFIX,duanshu.com
    - DOMAIN-SUFFIX,dui88.com
    - DOMAIN-SUFFIX,foundertype.com
+   - DOMAIN-SUFFIX,fxbaogao.com
    - DOMAIN-SUFFIX,gongxiangjizhang.com
    - DOMAIN-SUFFIX,hapjs.org
    - DOMAIN-SUFFIX,lbtp.com
@@ -169,6 +177,7 @@ payload:
    - DOMAIN-SUFFIX,hwwlyz.com
    - DOMAIN-SUFFIX,i8tq.com
    - DOMAIN-SUFFIX,weatherdt.com
+   - DOMAIN-SUFFIX,iguopin.com
    - DOMAIN-SUFFIX,ireader.com
    - DOMAIN-SUFFIX,zhangyue.com
    - DOMAIN-SUFFIX,zhangyue01.com
@@ -197,7 +206,6 @@ payload:
    - DOMAIN-SUFFIX,51togic.com
    - DOMAIN-SUFFIX,avlyun.com
    - DOMAIN-SUFFIX,dreame.tech
-   - DOMAIN-SUFFIX,hisensehitachi.com
    - DOMAIN-SUFFIX,insta360.com
    - DOMAIN-SUFFIX,jamcz.com
    - DOMAIN-SUFFIX,jmgo.com
@@ -1249,6 +1257,9 @@ payload:
    - DOMAIN-SUFFIX,geely.com
    - DOMAIN-SUFFIX,lixiang.com
    - DOMAIN-SUFFIX,xiaopeng.com
+   - DOMAIN-SUFFIX,nio.com
+   - DOMAIN-SUFFIX,niohome.com
+   - DOMAIN-SUFFIX,zeekrgroup.com
    - DOMAIN-SUFFIX,zeekrlife.com
    - DOMAIN-SUFFIX,guazi.com
    - DOMAIN-SUFFIX,guazistatic.com
@@ -1390,6 +1401,7 @@ payload:
    - DOMAIN-SUFFIX,segmentfault.com
    - DOMAIN-SUFFIX,sifou.com
    # ------ sxl ------>
+   - DOMAIN-SUFFIX,sxlcdn.com
    # ------ tencent-dev ------>
    - DOMAIN-SUFFIX,openmidas.com
    - DOMAIN-SUFFIX,qq.design
@@ -1507,6 +1519,7 @@ payload:
    - DOMAIN-SUFFIX,kujiang.com
    - DOMAIN-SUFFIX,1905.com
    - DOMAIN-SUFFIX,m1905.com
+   - DOMAIN-SUFFIX,mfuns.net
    - DOMAIN-SUFFIX,miaopai.com
    - DOMAIN-SUFFIX,motie.com
    - DOMAIN-SUFFIX,motieimg.com
@@ -2998,6 +3011,7 @@ payload:
    - DOMAIN-SUFFIX,taikangzhijia.com
    - DOMAIN-SUFFIX,tkhealthcare.com
    # ------ category-cdn-cn ------>
+   - DOMAIN-SUFFIX,aocde.com
    - DOMAIN-SUFFIX,chuangcache.com
    - DOMAIN-SUFFIX,chuangcdn.com
    - DOMAIN-SUFFIX,funcdn.com
@@ -3829,6 +3843,7 @@ payload:
    - DOMAIN-SUFFIX,namiso.com
    - DOMAIN-SUFFIX,miaoyanai.com
    - DOMAIN-SUFFIX,faxingbao.com
+   - DOMAIN-SUFFIX,klingai.com
    - DOMAIN-SUFFIX,meta.law
    - DOMAIN-SUFFIX,xiezuocat.com
    - DOMAIN-SUFFIX,aispeech.com
@@ -5336,6 +5351,13 @@ payload:
    - DOMAIN-SUFFIX,eziot.com
    - DOMAIN-SUFFIX,ezviz.com
    - DOMAIN-SUFFIX,ys7.com
+   # ------ hisense ------>
+   - DOMAIN-SUFFIX,hisense-home.com
+   - DOMAIN-SUFFIX,hisense.com
+   - DOMAIN-SUFFIX,hisensehitachi.com
+   - DOMAIN-SUFFIX,hisensekf.com
+   - DOMAIN-SUFFIX,hismarttv.com
+   - DOMAIN-SUFFIX,juhaokan.org
    # ------ honor ------>
    - DOMAIN-SUFFIX,hihonor.com
    - DOMAIN-SUFFIX,hihonorcdn.com
@@ -6381,6 +6403,7 @@ payload:
    - DOMAIN-SUFFIX,mmarket.com
    - DOMAIN-SUFFIX,mmarket6.com
    # ------ chinatelecom ------>
+   - DOMAIN-SUFFIX,189smarthome.com
    - DOMAIN-SUFFIX,chinatelecom-h.com
    - DOMAIN-SUFFIX,chinatelecomglobal.com
    - DOMAIN-SUFFIX,chinatelecomhk.com
