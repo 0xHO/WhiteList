@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/github.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
-# Update: Wed Jun 10 06:10:34 CST 2026
+# Update: Thu Jun 11 06:28:13 CST 2026
 payload:
    # ------ github ------>
    - DOMAIN,github-api.arkoselabs.com
@@ -37,6 +37,7 @@ payload:
    - DOMAIN-SUFFIX,dependabot.com
    - DOMAIN-SUFFIX,gh.io
    - DOMAIN-SUFFIX,ghcr.io
+   - DOMAIN-SUFFIX,ghe.com
    - DOMAIN-SUFFIX,git.io
    - DOMAIN-SUFFIX,github.ai
    - DOMAIN-SUFFIX,github.blog

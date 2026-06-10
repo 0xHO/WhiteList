@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Wed Jun 10 06:10:29 CST 2026
+# Update: Thu Jun 11 06:28:05 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -30,11 +30,11 @@ payload:
    # ------ ea ------>
    # ------ origin ------>
    # ------ embark ------>
-   # ------ eneba ------>
    # ------ epicgames ------>
    # ------ escapefromtarkov ------>
    # ------ faceit ------>
    # ------ gaijin ------>
+   # ------ gamesplanet ------>
    # ------ garena ------>
    # ------ gog ------>
    - DOMAIN,gog.qtlglb.com
