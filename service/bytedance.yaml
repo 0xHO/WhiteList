@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Fri Jun 12 06:23:49 CST 2026
+# Update: Sat Jun 13 06:09:59 CST 2026
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -356,6 +356,7 @@ payload:
    - DOMAIN-SUFFIX,huoshanxiaoshipin.net
    - DOMAIN-SUFFIX,huoshanzhibo.com
    - DOMAIN-SUFFIX,huoshanzhibo.net
+   - DOMAIN-SUFFIX,hypercachenode.com
    - DOMAIN-SUFFIX,idouyinliving.com
    - DOMAIN-SUFFIX,idouyinpic.com
    - DOMAIN-SUFFIX,idouyinstatic.com
