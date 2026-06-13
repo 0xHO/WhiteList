@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sat Jun 13 06:09:52 CST 2026
+# Update: Sun Jun 14 05:48:22 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -109,9 +109,16 @@ payload:
    - DOMAIN-SUFFIX,shyxhy.com
    - DOMAIN-SUFFIX,yingxiong.com
    # ------ kurogames ------>
+   - DOMAIN-SUFFIX,kurobbs.com
+   - DOMAIN-SUFFIX,kurogame.com
+   - DOMAIN-SUFFIX,kurogame.net
+   - DOMAIN-SUFFIX,kurogame.xyz
    - DOMAIN-SUFFIX,kurogames.com
    - DOMAIN-SUFFIX,kurogames.net
    - DOMAIN-SUFFIX,aki-game.com
+   - DOMAIN-SUFFIX,aki-game.net
+   - DOMAIN-SUFFIX,aki-game2.com
+   - DOMAIN-SUFFIX,aki-game2.net
    # ------ mihoyo-cn ------>
    - DOMAIN-SUFFIX,mhystatic.com
    - DOMAIN-SUFFIX,mihayo.com
@@ -874,6 +881,7 @@ payload:
    - DOMAIN,steamuserimages-a.akamaihd.net
    - DOMAIN,steamvideo-a.akamaihd.net
    - DOMAIN,steamcloudsweden.blob.core.windows.net
+   - DOMAIN,steamugcquincy.blob.core.windows.net
    - DOMAIN-SUFFIX,playartifact.com
    - DOMAIN-SUFFIX,s.team
    - DOMAIN-SUFFIX,steam.tv
