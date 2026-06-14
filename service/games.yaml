@@ -3,15 +3,21 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sun Jun 14 05:48:22 CST 2026
+# Update: Mon Jun 15 05:53:06 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
    - DOMAIN,end-api.shallow.ink
    - DOMAIN,end.shallow.ink
+   - DOMAIN-SUFFIX,37.com
+   - DOMAIN-SUFFIX,37wan.net
+   - DOMAIN-SUFFIX,37wanimg.com
    - DOMAIN-SUFFIX,7k7k.com
    - DOMAIN-SUFFIX,9xgame.com
    - DOMAIN-SUFFIX,astral-vector.com
+   - DOMAIN-SUFFIX,changyou.com
+   - DOMAIN-SUFFIX,cy.com
+   - DOMAIN-SUFFIX,playcool.com
    - DOMAIN-SUFFIX,feihuo.com
    - DOMAIN-SUFFIX,forevernine.com
    - DOMAIN-SUFFIX,fxt365.com
@@ -134,6 +140,13 @@ payload:
    - DOMAIN-SUFFIX,themisweeps.com
    - DOMAIN-SUFFIX,yuanshen.com
    - DOMAIN-SUFFIX,juequling.com
+   # ------ seasun ------>
+   - DOMAIN-SUFFIX,seasungames.com
+   - DOMAIN-SUFFIX,seasunwbl.com
+   - DOMAIN-SUFFIX,xishanju.com
+   - DOMAIN-SUFFIX,xoyo.com
+   - DOMAIN-SUFFIX,xoyocdn.com
+   - DOMAIN-SUFFIX,cbjq.com
    # ------ tencent-games ------>
    - DOMAIN-SUFFIX,battlecare.net
    - DOMAIN-SUFFIX,gameitop.com
@@ -889,6 +902,7 @@ payload:
    - DOMAIN-SUFFIX,steam-chat.com
    - DOMAIN-SUFFIX,steamcommunity.com
    - DOMAIN-SUFFIX,steamcontent.com
+   - DOMAIN-SUFFIX,steamconnecttest.com
    - DOMAIN-SUFFIX,steamdeck.com
    - DOMAIN-SUFFIX,steamgames.com
    - DOMAIN-SUFFIX,steampowered.com

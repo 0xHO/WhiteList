@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Sun Jun 14 05:48:23 CST 2026
+# Update: Mon Jun 15 05:53:07 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -14,6 +14,7 @@ payload:
    # ------ herogame ------>
    # ------ kurogames ------>
    # ------ mihoyo-cn ------>
+   # ------ seasun ------>
    # ------ tencent-games ------>
    # ------ tiancity ------>
    # ------ vrzwk ------>
