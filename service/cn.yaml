@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Jun 16 06:35:49 CST 2026
+# Update: Wed Jun 17 06:32:06 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,daikuan.com
@@ -311,7 +311,6 @@ payload:
    - DOMAIN-SUFFIX,1nongjing.com
    - DOMAIN-SUFFIX,1ting.com
    - DOMAIN-SUFFIX,1zhe.com
-   - DOMAIN-SUFFIX,21cn.com
    - DOMAIN-SUFFIX,2265.com
    - DOMAIN-SUFFIX,2288.org
    - DOMAIN-SUFFIX,2345.com
@@ -1006,7 +1005,6 @@ payload:
    - DOMAIN-SUFFIX,szfw.org
    - DOMAIN-SUFFIX,szzfgjj.com
    - DOMAIN-SUFFIX,t1y5.com
-   - DOMAIN-SUFFIX,taihe.com
    - DOMAIN-SUFFIX,taihuoniao.com
    - DOMAIN-SUFFIX,tajiduo.com
    - DOMAIN-SUFFIX,talk-cloud.net
@@ -2025,8 +2023,12 @@ payload:
    - DOMAIN-SUFFIX,letvcdn.com
    - DOMAIN-SUFFIX,letvimg.com
    # ------ lizhi ------>
+   - DOMAIN-SUFFIX,gzlzfm.com
    - DOMAIN-SUFFIX,lizhi.fm
    - DOMAIN-SUFFIX,lizhifm.com
+   - DOMAIN-SUFFIX,lizhiinc.com
+   - DOMAIN-SUFFIX,lz310.com
+   - DOMAIN-SUFFIX,lzpipi.com
    # ------ pptv ------>
    - DOMAIN-SUFFIX,pplive.com
    - DOMAIN-SUFFIX,pptv.com
@@ -2106,16 +2108,24 @@ payload:
    - DOMAIN-SUFFIX,shuqiread.com
    - DOMAIN-SUFFIX,shuqireader.com
    - DOMAIN-SUFFIX,sqreader.com
+   # ------ taihe ------>
+   - DOMAIN-SUFFIX,91q.com
+   - DOMAIN-SUFFIX,dmhmusic.com
+   - DOMAIN-SUFFIX,showstart.com
+   - DOMAIN-SUFFIX,taihe.com
+   - DOMAIN-SUFFIX,th-music.com
    # ------ taomee ------>
    - DOMAIN-SUFFIX,61.com
    - DOMAIN-SUFFIX,taomee.com
    # ------ tencent-tme ------>
-   - DOMAIN-SUFFIX,lrts.me
    - DOMAIN-SUFFIX,qqmusic.com
    - DOMAIN-SUFFIX,tencentmusic.com
    - DOMAIN-SUFFIX,kg.qq.com
    - DOMAIN-SUFFIX,music.qq.com
    - DOMAIN-SUFFIX,y.qq.com
+   - DOMAIN-SUFFIX,lrts.me
+   - DOMAIN-SUFFIX,mting.info
+   - DOMAIN-SUFFIX,wting.info
    - DOMAIN-SUFFIX,97ting.com
    - DOMAIN-SUFFIX,tingmall.com
    # ------ kugou ------>
@@ -2171,7 +2181,6 @@ payload:
    - DOMAIN-SUFFIX,readnovel.com
    - DOMAIN-SUFFIX,rongshuxia.com
    - DOMAIN-SUFFIX,tingbook.com
-   - DOMAIN-SUFFIX,wting.info
    - DOMAIN-SUFFIX,xxsy.net
    - DOMAIN-SUFFIX,yuewen.com
    # ------ webnovel ------>
@@ -2673,31 +2682,6 @@ payload:
    - DOMAIN-SUFFIX,sohucs.com
    - DOMAIN-SUFFIX,56.com
    - DOMAIN-SUFFIX,56img.com
-   # ------ sogou ------>
-   - DOMAIN-SUFFIX,binglianhuajianzhan.com
-   - DOMAIN-SUFFIX,ggoplay.com
-   - DOMAIN-SUFFIX,ggowan.com
-   - DOMAIN-SUFFIX,go2map.com
-   - DOMAIN-SUFFIX,qd.ink
-   - DOMAIN-SUFFIX,sgtmos.com
-   - DOMAIN-SUFFIX,sgyeyou.com
-   - DOMAIN-SUFFIX,sgyouxi.com
-   - DOMAIN-SUFFIX,sogo.com
-   - DOMAIN-SUFFIX,sogou.com
-   - DOMAIN-SUFFIX,sogou.net
-   - DOMAIN-SUFFIX,sogoucdn.com
-   - DOMAIN-SUFFIX,sogoucdndl.com
-   - DOMAIN-SUFFIX,sogouimecdn.com
-   - DOMAIN-SUFFIX,sogou-inc.com
-   - DOMAIN-SUFFIX,sogou-op.org
-   - DOMAIN-SUFFIX,soso.com
-   - DOMAIN-SUFFIX,sososnap.com
-   - DOMAIN-SUFFIX,wannianqingjianzhan.com
-   - DOMAIN-SUFFIX,xiangrikuijianzhan.com
-   - DOMAIN-SUFFIX,xiangrikuisite.com
-   - DOMAIN-SUFFIX,yeyousg.com
-   - DOMAIN-SUFFIX,yidianliulan.com
-   - DOMAIN-SUFFIX,yuweikuijianzhan.com
    # ------ tmtpost ------>
    - DOMAIN-SUFFIX,tmtpost.com
    - DOMAIN-SUFFIX,chaindd.com
@@ -2731,6 +2715,7 @@ payload:
    - DOMAIN-SUFFIX,dandan818.com
    - DOMAIN-SUFFIX,dandanvoice.com
    - DOMAIN-SUFFIX,fanfou.com
+   - DOMAIN-SUFFIX,izuiyou.com
    - DOMAIN-SUFFIX,taou.com
    - DOMAIN-SUFFIX,zsxq.com
    # ------ coolapk ------>
@@ -6240,6 +6225,31 @@ payload:
    - DOMAIN-SUFFIX,dnsv5.com
    - DOMAIN-SUFFIX,doh.pub
    - DOMAIN-SUFFIX,dot.pub
+   # ------ sogou ------>
+   - DOMAIN-SUFFIX,binglianhuajianzhan.com
+   - DOMAIN-SUFFIX,ggoplay.com
+   - DOMAIN-SUFFIX,ggowan.com
+   - DOMAIN-SUFFIX,go2map.com
+   - DOMAIN-SUFFIX,qd.ink
+   - DOMAIN-SUFFIX,sgtmos.com
+   - DOMAIN-SUFFIX,sgyeyou.com
+   - DOMAIN-SUFFIX,sgyouxi.com
+   - DOMAIN-SUFFIX,sogo.com
+   - DOMAIN-SUFFIX,sogou.com
+   - DOMAIN-SUFFIX,sogou.net
+   - DOMAIN-SUFFIX,sogoucdn.com
+   - DOMAIN-SUFFIX,sogoucdndl.com
+   - DOMAIN-SUFFIX,sogouimecdn.com
+   - DOMAIN-SUFFIX,sogou-inc.com
+   - DOMAIN-SUFFIX,sogou-op.org
+   - DOMAIN-SUFFIX,soso.com
+   - DOMAIN-SUFFIX,sososnap.com
+   - DOMAIN-SUFFIX,wannianqingjianzhan.com
+   - DOMAIN-SUFFIX,xiangrikuijianzhan.com
+   - DOMAIN-SUFFIX,xiangrikuisite.com
+   - DOMAIN-SUFFIX,yeyousg.com
+   - DOMAIN-SUFFIX,yidianliulan.com
+   - DOMAIN-SUFFIX,yuweikuijianzhan.com
    # ------ tencent-dev ------>
    - DOMAIN-SUFFIX,openmidas.com
    - DOMAIN-SUFFIX,qq.design
@@ -6320,12 +6330,14 @@ payload:
    - DOMAIN-SUFFIX,17roco.com
    - DOMAIN-SUFFIX,roco.qq.com
    # ------ tencent-tme ------>
-   - DOMAIN-SUFFIX,lrts.me
    - DOMAIN-SUFFIX,qqmusic.com
    - DOMAIN-SUFFIX,tencentmusic.com
    - DOMAIN-SUFFIX,kg.qq.com
    - DOMAIN-SUFFIX,music.qq.com
    - DOMAIN-SUFFIX,y.qq.com
+   - DOMAIN-SUFFIX,lrts.me
+   - DOMAIN-SUFFIX,mting.info
+   - DOMAIN-SUFFIX,wting.info
    - DOMAIN-SUFFIX,97ting.com
    - DOMAIN-SUFFIX,tingmall.com
    # ------ kugou ------>
@@ -6356,7 +6368,6 @@ payload:
    - DOMAIN-SUFFIX,readnovel.com
    - DOMAIN-SUFFIX,rongshuxia.com
    - DOMAIN-SUFFIX,tingbook.com
-   - DOMAIN-SUFFIX,wting.info
    - DOMAIN-SUFFIX,xxsy.net
    - DOMAIN-SUFFIX,yuewen.com
    # ------ webnovel ------>
@@ -6475,6 +6486,7 @@ payload:
    - DOMAIN-SUFFIX,mmarket6.com
    # ------ chinatelecom ------>
    - DOMAIN-SUFFIX,189smarthome.com
+   - DOMAIN-SUFFIX,21cn.com
    - DOMAIN-SUFFIX,chinatelecom-h.com
    - DOMAIN-SUFFIX,chinatelecomglobal.com
    - DOMAIN-SUFFIX,chinatelecomhk.com
