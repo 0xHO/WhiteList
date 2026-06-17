@@ -6,7 +6,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/chinaip.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
-# Update: 2026-06-17 06:31:57
+# Update: 2026-06-18 06:22:35
 payload:
    - IP-CIDR,1.0.1.0/24,no-resolve
    - IP-CIDR,1.0.2.0/23,no-resolve
@@ -9105,8 +9105,7 @@ payload:
    - IP-CIDR6,2a05:1087::/32,no-resolve
    - IP-CIDR6,2a06:3600:e000::/40,no-resolve
    - IP-CIDR6,2a06:3600:fb00::/40,no-resolve
-   - IP-CIDR6,2a06:3600:fc00::/40,no-resolve
-   - IP-CIDR6,2a06:3600:fe00::/39,no-resolve
+   - IP-CIDR6,2a06:3600:fc00::/38,no-resolve
    - IP-CIDR6,2a06:3605::/32,no-resolve
    - IP-CIDR6,2a06:3606::/31,no-resolve
    - IP-CIDR6,2a06:a005:260::/43,no-resolve
@@ -9118,8 +9117,8 @@ payload:
    - IP-CIDR6,2a0a:d680:8100::/47,no-resolve
    - IP-CIDR6,2a0a:d681:e000::/40,no-resolve
    - IP-CIDR6,2a0a:d681:fb00::/40,no-resolve
-   - IP-CIDR6,2a0a:d681:fc00::/40,no-resolve
-   - IP-CIDR6,2a0a:d681:fe00::/39,no-resolve
+   - IP-CIDR6,2a0a:d681:fc00::/38,no-resolve
+   - IP-CIDR6,2a0a:d685:200::/48,no-resolve
    - IP-CIDR6,2a0a:d687:f001::/48,no-resolve
    - IP-CIDR6,2a0b:4340:90::/48,no-resolve
    - IP-CIDR6,2a0b:4340:97::/48,no-resolve
@@ -9199,6 +9198,7 @@ payload:
    - IP-CIDR6,2a10:ccc0:ccc::/48,no-resolve
    - IP-CIDR6,2a12:cb41::/44,no-resolve
    - IP-CIDR6,2a12:cb41:1200::/44,no-resolve
+   - IP-CIDR6,2a12:cb41:1300::/44,no-resolve
    - IP-CIDR6,2a12:cb46::/36,no-resolve
    - IP-CIDR6,2a12:cb47:ffff::/48,no-resolve
    - IP-CIDR6,2a13:1800::/48,no-resolve
@@ -9255,13 +9255,10 @@ payload:
    - IP-CIDR6,2a14:7581:30b6::/48,no-resolve
    - IP-CIDR6,2a14:7581:3810::/47,no-resolve
    - IP-CIDR6,2a14:7581:3814::/48,no-resolve
-   - IP-CIDR6,2a14:7583:f224::/47,no-resolve
-   - IP-CIDR6,2a14:7583:f228::/48,no-resolve
-   - IP-CIDR6,2a14:7583:f22c::/48,no-resolve
+   - IP-CIDR6,2a14:7583:f220::/43,no-resolve
    - IP-CIDR6,2a14:7583:f244::/48,no-resolve
    - IP-CIDR6,2a14:7583:f248::/48,no-resolve
-   - IP-CIDR6,2a14:7583:f264::/48,no-resolve
-   - IP-CIDR6,2a14:7583:f268::/48,no-resolve
+   - IP-CIDR6,2a14:7583:f260::/43,no-resolve
    - IP-CIDR6,2a14:7583:f300::/46,no-resolve
    - IP-CIDR6,2a14:7583:f304::/47,no-resolve
    - IP-CIDR6,2a14:7583:f411::/48,no-resolve

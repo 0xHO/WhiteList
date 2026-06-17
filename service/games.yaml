@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Wed Jun 17 06:32:04 CST 2026
+# Update: Thu Jun 18 06:22:40 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -929,6 +929,8 @@ payload:
    # ------ steamunlocked ------>
    - DOMAIN-SUFFIX,steamunlocked.net
    # ------ supercell ------>
+   - DOMAIN,supercell.helpshift.com
+   - DOMAIN,supercell.zendesk.com
    - DOMAIN-SUFFIX,boombeach.com
    - DOMAIN-SUFFIX,brawlstars.com
    - DOMAIN-SUFFIX,brawlstarsgame.com
@@ -944,7 +946,6 @@ payload:
    - DOMAIN-SUFFIX,seeurlpcl.com
    - DOMAIN-SUFFIX,squadbusters.com
    - DOMAIN-SUFFIX,supercell.com
-   - DOMAIN-SUFFIX,supercell.helpshift.com
    - DOMAIN-SUFFIX,supercell.net
    - DOMAIN-SUFFIX,supercellcreators.com
    - DOMAIN-SUFFIX,supercellgames.com
