@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sat Jun 20 05:47:04 CST 2026
+# Update: Sun Jun 21 05:49:51 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -566,6 +566,8 @@ payload:
    - DOMAIN-SUFFIX,garenanow.com
    - DOMAIN-SUFFIX,seagroup.com
    # ------ gog ------>
+   - DOMAIN,gog-cdn-lumen.secure2.footprint.net
+   - DOMAIN,gog-cdn.akamaized.net
    - DOMAIN-SUFFIX,gog.com
    - DOMAIN-SUFFIX,gog-statics.com
    # ------ hoyoverse ------>

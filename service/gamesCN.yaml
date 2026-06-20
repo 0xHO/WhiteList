@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Sat Jun 20 05:47:05 CST 2026
+# Update: Sun Jun 21 05:49:52 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -39,13 +39,6 @@ payload:
    # ------ garena ------>
    # ------ gog ------>
    - DOMAIN,gog.qtlglb.com
-   - DOMAIN,gogalaxy.gog-statics.com
-   - DOMAIN,menu-static.gog-statics.com
-   - DOMAIN,productcard.gog-statics.com
-   - DOMAIN,static-login.gog-statics.com
-   - DOMAIN,www4-static.gog-statics.com
-   - DOMAIN,gog-cdn-fastly.gog.com
-   - DOMAIN,gog-cdn.akamaized.net
    # ------ hoyoverse ------>
    # ------ humblebundle ------>
    # ------ itchio ------>

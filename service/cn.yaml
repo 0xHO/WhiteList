@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Jun 20 05:47:06 CST 2026
+# Update: Sun Jun 21 05:49:53 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,daikuan.com
@@ -1293,6 +1293,7 @@ payload:
    - DOMAIN-SUFFIX,huangyuhui.net
    - DOMAIN-SUFFIX,lg3000.top
    - DOMAIN-SUFFIX,mryys.com
+   - DOMAIN-SUFFIX,mysqil.com
    - DOMAIN-SUFFIX,soulteary.com
    - DOMAIN-SUFFIX,topwd.top
    - DOMAIN-SUFFIX,zway.top
