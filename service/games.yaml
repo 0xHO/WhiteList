@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Sun Jun 21 05:49:51 CST 2026
+# Update: Mon Jun 22 05:57:46 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -24,6 +24,9 @@ payload:
    - DOMAIN-SUFFIX,gameabc.com
    - DOMAIN-SUFFIX,gamemei.com
    - DOMAIN-SUFFIX,heavenlywind.cc
+   - DOMAIN-SUFFIX,laohu.com
+   - DOMAIN-SUFFIX,wanmei.com
+   - DOMAIN-SUFFIX,wmupd.com
    - DOMAIN-SUFFIX,ledu.com
    - DOMAIN-SUFFIX,longtugame.com
    - DOMAIN-SUFFIX,morefreegame.com
@@ -33,7 +36,6 @@ payload:
    - DOMAIN-SUFFIX,tgpro.top
    - DOMAIN-SUFFIX,tgprocs.net
    - DOMAIN-SUFFIX,tuyoo.com
-   - DOMAIN-SUFFIX,wanmei.com
    - DOMAIN-SUFFIX,winegame.net
    - DOMAIN-SUFFIX,wo1wan.com
    - DOMAIN-SUFFIX,ycgame.com
@@ -569,7 +571,9 @@ payload:
    - DOMAIN,gog-cdn-lumen.secure2.footprint.net
    - DOMAIN,gog-cdn.akamaized.net
    - DOMAIN-SUFFIX,gog.com
+   - DOMAIN-SUFFIX,gog-services.com
    - DOMAIN-SUFFIX,gog-statics.com
+   - DOMAIN-SUFFIX,gogalaxy.com
    # ------ hoyoverse ------>
    - DOMAIN-SUFFIX,genshinimpact.com
    - DOMAIN-SUFFIX,honkaiimpact3.com
