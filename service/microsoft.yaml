@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/microsoft.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
-# Update: Tue Jun 23 06:23:00 CST 2026
+# Update: Wed Jun 24 06:00:05 CST 2026
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -85,6 +85,7 @@ payload:
    - DOMAIN-SUFFIX,docs.com
    - DOMAIN-SUFFIX,dynamics.com
    - DOMAIN-SUFFIX,efproject.net
+   - DOMAIN-SUFFIX,exp-tas.com
    - DOMAIN-SUFFIX,fasttrackreadysupport.com
    - DOMAIN-SUFFIX,fluidpreview.com
    - DOMAIN-SUFFIX,footprintdns.com
@@ -386,8 +387,8 @@ payload:
    - DOMAIN-SUFFIX,microsoftreactor.net
    - DOMAIN-SUFFIX,microsoftreactor.org
    - DOMAIN-SUFFIX,microsoftsilverlight.com
-   - DOMAIN-SUFFIX,microsoftsilverlight.org
    - DOMAIN-SUFFIX,microsoftsilverlight.net
+   - DOMAIN-SUFFIX,microsoftsilverlight.org
    - DOMAIN-SUFFIX,microsoftsqlserver.com
    - DOMAIN-SUFFIX,mmdnn.com
    - DOMAIN-SUFFIX,mono-project.com
@@ -404,18 +405,21 @@ payload:
    - DOMAIN-SUFFIX,sqlserveronlinux.com
    - DOMAIN-SUFFIX,timelinestoryteller.com
    - DOMAIN-SUFFIX,uwpcommunitytoolkit.com
-   - DOMAIN-SUFFIX,visualstudio-staging.com
-   - DOMAIN-SUFFIX,visualstudio.com
-   - DOMAIN-SUFFIX,visualstudio.co
-   - DOMAIN-SUFFIX,visualstudio.co.uk
-   - DOMAIN-SUFFIX,visualstudio.eu
-   - DOMAIN-SUFFIX,visualstudio.net
    - DOMAIN-SUFFIX,vfsforgit.com
    - DOMAIN-SUFFIX,vfsforgit.org
+   - DOMAIN-SUFFIX,visualstudio-staging.com
+   - DOMAIN-SUFFIX,visualstudio.co
+   - DOMAIN-SUFFIX,visualstudio.co.uk
+   - DOMAIN-SUFFIX,visualstudio.com
+   - DOMAIN-SUFFIX,visualstudio.eu
+   - DOMAIN-SUFFIX,visualstudio.net
    - DOMAIN-SUFFIX,vsassets.io
-   - DOMAIN-SUFFIX,vscode.dev
    - DOMAIN-SUFFIX,vscode-cdn.net
    - DOMAIN-SUFFIX,vscode-unpkg.net
+   - DOMAIN-SUFFIX,vscode-webview.net
+   - DOMAIN-SUFFIX,vscode.dev
+   - DOMAIN-SUFFIX,vscodeedu.app
+   - DOMAIN-SUFFIX,vscodeedu.com
    - DOMAIN-SUFFIX,xamarin.com
    # ------ microsoft-pki ------>
    - DOMAIN,crl.microsoft.com

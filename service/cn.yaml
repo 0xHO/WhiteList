@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Jun 23 06:23:02 CST 2026
+# Update: Wed Jun 24 06:00:08 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,daikuan.com
@@ -1683,6 +1683,7 @@ payload:
    - DOMAIN-SUFFIX,yingxiong.com
    # ------ kurogames ------>
    - DOMAIN-SUFFIX,kurobbs.com
+   - DOMAIN-SUFFIX,kurogame-service.com
    - DOMAIN-SUFFIX,kurogame.com
    - DOMAIN-SUFFIX,kurogame.net
    - DOMAIN-SUFFIX,kurogame.xyz
