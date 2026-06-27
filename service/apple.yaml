@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Sat Jun 27 05:49:23 CST 2026
+# Update: Sun Jun 28 05:40:09 CST 2026
 payload:
    # ------ apple ------>
    - DOMAIN,ingest.apple-studies.com
@@ -452,6 +452,7 @@ payload:
    - DOMAIN-SUFFIX,apple-hk.com
    - DOMAIN-SUFFIX,apple-inc.net
    - DOMAIN-SUFFIX,apple-livephotoskit.com
+   - DOMAIN-SUFFIX,apple-mapkit.com
    - DOMAIN-SUFFIX,apple-online.com
    - DOMAIN-SUFFIX,apple-usa.net
    - DOMAIN-SUFFIX,appleafrica.com
@@ -507,6 +508,7 @@ payload:
    - DOMAIN-SUFFIX,applereach.com
    - DOMAIN-SUFFIX,applereach.net
    - DOMAIN-SUFFIX,apples-msk.ru
+   - DOMAIN-SUFFIX,appleschoolcontent.com
    - DOMAIN-SUFFIX,applescreensavers.com
    - DOMAIN-SUFFIX,applescript.info
    - DOMAIN-SUFFIX,appleshare.info
@@ -525,6 +527,8 @@ payload:
    - DOMAIN-SUFFIX,appule.com
    - DOMAIN-SUFFIX,appye.com
    - DOMAIN-SUFFIX,apyle.com
+   - DOMAIN-SUFFIX,apzones.com
+   - DOMAIN-SUFFIX,axm-usercontent-apple.com
    - DOMAIN-SUFFIX,beddit.tv
    - DOMAIN-SUFFIX,braeburncapital.com
    - DOMAIN-SUFFIX,burstly.net
