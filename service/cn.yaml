@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Jun 28 05:40:11 CST 2026
+# Update: Mon Jun 29 05:42:02 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,daikuan.com
@@ -789,7 +789,6 @@ payload:
    - DOMAIN-SUFFIX,koudai.com
    - DOMAIN-SUFFIX,koudai8.com
    - DOMAIN-SUFFIX,kq7.com
-   - DOMAIN-SUFFIX,ksord.com
    - DOMAIN-SUFFIX,kuaaa.com
    - DOMAIN-SUFFIX,kuaihou.com
    - DOMAIN-SUFFIX,kuaiji.com
@@ -5700,6 +5699,7 @@ payload:
    - DOMAIN-SUFFIX,kingsoft.com
    - DOMAIN-SUFFIX,ks-live.com
    - DOMAIN-SUFFIX,ksmobile.com
+   - DOMAIN-SUFFIX,ksord.com
    - DOMAIN-SUFFIX,ksosoft.com
    - DOMAIN-SUFFIX,kcdnvip.com
    - DOMAIN-SUFFIX,ks-cdn.com
@@ -5723,7 +5723,7 @@ payload:
    # ------ wps ------>
    - DOMAIN-SUFFIX,wps.com
    - DOMAIN-SUFFIX,wpscdn.com
-   - DOMAIN-SUFFIX,kscord.com
+   - DOMAIN-SUFFIX,kimxz.com
    - DOMAIN-SUFFIX,51dzt.com
    - DOMAIN-SUFFIX,iciba.com
    - DOMAIN-SUFFIX,docer.com
