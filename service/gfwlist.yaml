@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-06-29 05:41:53
+# Update: 2026-06-30 05:55:04
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -1031,6 +1031,7 @@ payload:
    - DOMAIN-SUFFIX,expecthim.com
    - DOMAIN-SUFFIX,expekt.com
    - DOMAIN-SUFFIX,exploader.net
+   - DOMAIN-SUFFIX,expressnews.com
    - DOMAIN-SUFFIX,expressvpn.com
    - DOMAIN-SUFFIX,exrates.me
    - DOMAIN-SUFFIX,extmatrix.com
