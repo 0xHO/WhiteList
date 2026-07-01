@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Wed Jul  1 06:01:12 CST 2026
+# Update: Thu Jul  2 06:05:39 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -15,6 +15,8 @@ payload:
    - DOMAIN-SUFFIX,7k7k.com
    - DOMAIN-SUFFIX,9xgame.com
    - DOMAIN-SUFFIX,astral-vector.com
+   - DOMAIN-SUFFIX,66rpg.com
+   - DOMAIN-SUFFIX,cgyouxi.com
    - DOMAIN-SUFFIX,changyou.com
    - DOMAIN-SUFFIX,cy.com
    - DOMAIN-SUFFIX,playcool.com
@@ -30,12 +32,12 @@ payload:
    - DOMAIN-SUFFIX,ledu.com
    - DOMAIN-SUFFIX,longtugame.com
    - DOMAIN-SUFFIX,morefreegame.com
+   - DOMAIN-SUFFIX,tuyoo.com
    - DOMAIN-SUFFIX,sdo.com
    - DOMAIN-SUFFIX,shengqugames.com
    - DOMAIN-SUFFIX,zjshulong.com
    - DOMAIN-SUFFIX,tgpro.top
    - DOMAIN-SUFFIX,tgprocs.net
-   - DOMAIN-SUFFIX,tuyoo.com
    - DOMAIN-SUFFIX,winegame.net
    - DOMAIN-SUFFIX,wo1wan.com
    - DOMAIN-SUFFIX,ycgame.com
