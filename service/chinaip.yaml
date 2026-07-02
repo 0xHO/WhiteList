@@ -6,7 +6,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/chinaip.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
-# Update: 2026-07-02 06:05:32
+# Update: 2026-07-03 05:46:22
 payload:
    - IP-CIDR,1.0.1.0/24,no-resolve
    - IP-CIDR,1.0.2.0/23,no-resolve
@@ -8088,7 +8088,7 @@ payload:
    - IP-CIDR6,2404:2280:2bc::/46,no-resolve
    - IP-CIDR6,2404:2280:2c2::/47,no-resolve
    - IP-CIDR6,2404:2280:2c5::/48,no-resolve
-   - IP-CIDR6,2404:2280:2c7::/48,no-resolve
+   - IP-CIDR6,2404:2280:2c6::/47,no-resolve
    - IP-CIDR6,2404:2280:2c8::/46,no-resolve
    - IP-CIDR6,2404:2280:2cd::/48,no-resolve
    - IP-CIDR6,2404:2280:2ce::/47,no-resolve
@@ -8102,6 +8102,7 @@ payload:
    - IP-CIDR6,2404:2280:2fb::/48,no-resolve
    - IP-CIDR6,2404:2280:308::/46,no-resolve
    - IP-CIDR6,2404:2280:30d::/48,no-resolve
+   - IP-CIDR6,2404:2280:313::/48,no-resolve
    - IP-CIDR6,2404:3700::/48,no-resolve
    - IP-CIDR6,2404:4dc0::/32,no-resolve
    - IP-CIDR6,2404:6380::/48,no-resolve
@@ -8233,7 +8234,7 @@ payload:
    - IP-CIDR6,2406:840:981a::/48,no-resolve
    - IP-CIDR6,2406:840:981c::/46,no-resolve
    - IP-CIDR6,2406:840:9962::/47,no-resolve
-   - IP-CIDR6,2406:840:9966::/47,no-resolve
+   - IP-CIDR6,2406:840:9966::/48,no-resolve
    - IP-CIDR6,2406:840:996c::/48,no-resolve
    - IP-CIDR6,2406:840:9970::/44,no-resolve
    - IP-CIDR6,2406:840:e080::/44,no-resolve
@@ -8245,7 +8246,7 @@ payload:
    - IP-CIDR6,2406:840:e14f::/48,no-resolve
    - IP-CIDR6,2406:840:e280::/44,no-resolve
    - IP-CIDR6,2406:840:e301::/48,no-resolve
-   - IP-CIDR6,2406:840:e302::/48,no-resolve
+   - IP-CIDR6,2406:840:e302::/47,no-resolve
    - IP-CIDR6,2406:840:e304::/48,no-resolve
    - IP-CIDR6,2406:840:e306::/48,no-resolve
    - IP-CIDR6,2406:840:e330::/44,no-resolve
@@ -9127,6 +9128,11 @@ payload:
    - IP-CIDR6,2a0e:aa07:e144::/48,no-resolve
    - IP-CIDR6,2a0e:aa07:e146::/48,no-resolve
    - IP-CIDR6,2a0e:aa07:e148::/48,no-resolve
+   - IP-CIDR6,2a0e:aa07:e280::/47,no-resolve
+   - IP-CIDR6,2a0e:aa07:e284::/46,no-resolve
+   - IP-CIDR6,2a0e:aa07:e288::/46,no-resolve
+   - IP-CIDR6,2a0e:aa07:e28d::/48,no-resolve
+   - IP-CIDR6,2a0e:aa07:e28e::/48,no-resolve
    - IP-CIDR6,2a0e:aa07:f0d0::/46,no-resolve
    - IP-CIDR6,2a0e:aa07:f0d4::/47,no-resolve
    - IP-CIDR6,2a0e:aa07:f0d8::/48,no-resolve
@@ -9194,7 +9200,7 @@ payload:
    - IP-CIDR6,2a13:1801:200::/44,no-resolve
    - IP-CIDR6,2a13:1802::/43,no-resolve
    - IP-CIDR6,2a13:8c87::/32,no-resolve
-   - IP-CIDR6,2a13:9500:194::/47,no-resolve
+   - IP-CIDR6,2a13:9500:194::/48,no-resolve
    - IP-CIDR6,2a13:a5c3:f000::/40,no-resolve
    - IP-CIDR6,2a13:a5c3:ff41::/48,no-resolve
    - IP-CIDR6,2a13:a5c3:ff50::/44,no-resolve
@@ -9222,6 +9228,7 @@ payload:
    - IP-CIDR6,2a14:67c2:a90::/48,no-resolve
    - IP-CIDR6,2a14:67c3:c0::/48,no-resolve
    - IP-CIDR6,2a14:67c3:1100::/47,no-resolve
+   - IP-CIDR6,2a14:67c3:9990::/44,no-resolve
    - IP-CIDR6,2a14:67c3:fff0::/44,no-resolve
    - IP-CIDR6,2a14:7580:740::/44,no-resolve
    - IP-CIDR6,2a14:7580:d00::/43,no-resolve
@@ -9251,9 +9258,11 @@ payload:
    - IP-CIDR6,2a14:7586:6100::/47,no-resolve
    - IP-CIDR6,2a14:7586:6103::/48,no-resolve
    - IP-CIDR6,2a14:7586:6104::/46,no-resolve
+   - IP-CIDR6,2a14:7586:6108::/48,no-resolve
    - IP-CIDR6,2a14:7586:6110::/48,no-resolve
    - IP-CIDR6,2a14:7586:6113::/48,no-resolve
    - IP-CIDR6,2a14:7586:6300::/44,no-resolve
+   - IP-CIDR6,2a14:7586:6500::/48,no-resolve
    - IP-CIDR6,2a14:7dc0:506::/48,no-resolve
    - IP-CIDR6,2a14:ae00:50::/44,no-resolve
    - IP-CIDR6,2c0f:f7a8:8011::/48,no-resolve
