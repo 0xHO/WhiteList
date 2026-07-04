@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sat Jul  4 05:41:19 CST 2026
+# Update: Sun Jul  5 05:32:22 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,daikuan.com
@@ -2794,6 +2794,9 @@ payload:
    - DOMAIN-SUFFIX,okjk.co
    - DOMAIN-SUFFIX,ruguoapp.com
    # ------ sina ------>
+   - DOMAIN-SUFFIX,sina
+   - DOMAIN-SUFFIX,weibo
+   - DOMAIN-SUFFIX,xn--9krt00a
    - DOMAIN-SUFFIX,97973.com
    - DOMAIN-SUFFIX,hk.weibo.com
    - DOMAIN-SUFFIX,my.weibo.com
@@ -5891,6 +5894,10 @@ payload:
    - DOMAIN-SUFFIX,seclab.online
    - DOMAIN-SUFFIX,tianshucup.com
    # ------ qihoo360 ------>
+   - DOMAIN-SUFFIX,anquan
+   - DOMAIN-SUFFIX,shouji
+   - DOMAIN-SUFFIX,xihuan
+   - DOMAIN-SUFFIX,yun
    - DOMAIN-SUFFIX,360.com
    - DOMAIN-SUFFIX,360.net
    - DOMAIN-SUFFIX,360-jr.com
