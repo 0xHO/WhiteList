@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Tue Jul  7 05:59:20 CST 2026
+# Update: Wed Jul  8 05:56:55 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -10,6 +10,7 @@ payload:
    # ------ aligames ------>
    # ------ bilibili-game ------>
    # ------ bluepoch-games ------>
+   # ------ changyou ------>
    # ------ cowlevel ------>
    # ------ herogame ------>
    # ------ kurogames ------>

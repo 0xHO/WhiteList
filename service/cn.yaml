@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Jul  7 05:59:22 CST 2026
+# Update: Wed Jul  8 05:56:56 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,daikuan.com
@@ -37,6 +37,7 @@ payload:
    - DOMAIN-SUFFIX,suufun.com
    - DOMAIN-SUFFIX,suu-fun.com
    - DOMAIN-SUFFIX,chinamcloud.com
+   - DOMAIN-SUFFIX,cjyun.org
    - DOMAIN-SUFFIX,rainyun.com
    - DOMAIN-SUFFIX,szhdy.com
    - DOMAIN-SUFFIX,thefastfile.com
@@ -1308,6 +1309,7 @@ payload:
    - DOMAIN-SUFFIX,fanmingming.com
    - DOMAIN-SUFFIX,huangyuhui.net
    - DOMAIN-SUFFIX,lg3000.top
+   - DOMAIN-SUFFIX,lovestu.com
    - DOMAIN-SUFFIX,misaka-net.top
    - DOMAIN-SUFFIX,moliranran.com
    - DOMAIN-SUFFIX,mryys.com
@@ -1571,8 +1573,6 @@ payload:
    - DOMAIN-SUFFIX,zhanqi.tv
    - DOMAIN-SUFFIX,zhulang.com
    - DOMAIN-SUFFIX,zongheng.com
-   - DOMAIN-SUFFIX,17173.com
-   - DOMAIN-SUFFIX,17173cdn.com
    - DOMAIN-SUFFIX,18183.com
    - DOMAIN-SUFFIX,3dmgame.com
    - DOMAIN-SUFFIX,ali213.net
@@ -1600,9 +1600,6 @@ payload:
    - DOMAIN-SUFFIX,astral-vector.com
    - DOMAIN-SUFFIX,66rpg.com
    - DOMAIN-SUFFIX,cgyouxi.com
-   - DOMAIN-SUFFIX,changyou.com
-   - DOMAIN-SUFFIX,cy.com
-   - DOMAIN-SUFFIX,playcool.com
    - DOMAIN-SUFFIX,feihuo.com
    - DOMAIN-SUFFIX,forevernine.com
    - DOMAIN-SUFFIX,fxt365.com
@@ -1616,9 +1613,13 @@ payload:
    - DOMAIN-SUFFIX,longtugame.com
    - DOMAIN-SUFFIX,morefreegame.com
    - DOMAIN-SUFFIX,tuyoo.com
+   - DOMAIN-SUFFIX,papegames.com
    - DOMAIN-SUFFIX,sdo.com
    - DOMAIN-SUFFIX,shengqugames.com
    - DOMAIN-SUFFIX,zjshulong.com
+   - DOMAIN-SUFFIX,tanwan.com
+   - DOMAIN-SUFFIX,twyxh.com
+   - DOMAIN-SUFFIX,zx.com
    - DOMAIN-SUFFIX,tgpro.top
    - DOMAIN-SUFFIX,tgprocs.net
    - DOMAIN-SUFFIX,winegame.net
@@ -1698,6 +1699,14 @@ payload:
    - DOMAIN-SUFFIX,biligame.net
    # ------ bluepoch-games ------>
    - DOMAIN-SUFFIX,sl916.com
+   # ------ changyou ------>
+   - DOMAIN-SUFFIX,17173.com
+   - DOMAIN-SUFFIX,17173cdn.com
+   - DOMAIN-SUFFIX,changyou.com
+   - DOMAIN-SUFFIX,cy.com
+   - DOMAIN-SUFFIX,playcool.com
+   - DOMAIN-SUFFIX,yeyou.com
+   - DOMAIN-SUFFIX,yeyoucdn.com
    # ------ cowlevel ------>
    - DOMAIN-SUFFIX,cowlevel.net
    - DOMAIN-SUFFIX,cdncl.net
@@ -2735,6 +2744,14 @@ payload:
    - DOMAIN-SUFFIX,sohucs.com
    - DOMAIN-SUFFIX,56.com
    - DOMAIN-SUFFIX,56img.com
+   # ------ changyou ------>
+   - DOMAIN-SUFFIX,17173.com
+   - DOMAIN-SUFFIX,17173cdn.com
+   - DOMAIN-SUFFIX,changyou.com
+   - DOMAIN-SUFFIX,cy.com
+   - DOMAIN-SUFFIX,playcool.com
+   - DOMAIN-SUFFIX,yeyou.com
+   - DOMAIN-SUFFIX,yeyoucdn.com
    # ------ tmtpost ------>
    - DOMAIN-SUFFIX,tmtpost.com
    - DOMAIN-SUFFIX,chaindd.com
@@ -2798,24 +2815,24 @@ payload:
    - DOMAIN-SUFFIX,weibo
    - DOMAIN-SUFFIX,xn--9krt00a
    - DOMAIN-SUFFIX,97973.com
-   - DOMAIN-SUFFIX,hk.weibo.com
-   - DOMAIN-SUFFIX,my.weibo.com
-   - DOMAIN-SUFFIX,overseas.weibo.com
-   - DOMAIN-SUFFIX,sg.weibo.com
    - DOMAIN-SUFFIX,sina.com
    - DOMAIN-SUFFIX,sina.net
    - DOMAIN-SUFFIX,sinaapp.com
    - DOMAIN-SUFFIX,sinaedge.com
    - DOMAIN-SUFFIX,sinaimg.com
    - DOMAIN-SUFFIX,sinajs.com
-   - DOMAIN-SUFFIX,th.weibo.com
-   - DOMAIN-SUFFIX,tw.weibo.com
-   - DOMAIN-SUFFIX,us.weibo.com
    - DOMAIN-SUFFIX,wbimg.com
    - DOMAIN-SUFFIX,weibo.com
    - DOMAIN-SUFFIX,weibocdn.com
    - DOMAIN-SUFFIX,weibopay.com
    - DOMAIN-SUFFIX,xhaiwai.com
+   - DOMAIN-SUFFIX,hk.weibo.com
+   - DOMAIN-SUFFIX,my.weibo.com
+   - DOMAIN-SUFFIX,overseas.weibo.com
+   - DOMAIN-SUFFIX,sg.weibo.com
+   - DOMAIN-SUFFIX,th.weibo.com
+   - DOMAIN-SUFFIX,tw.weibo.com
+   - DOMAIN-SUFFIX,us.weibo.com
    # ------ xiaohongshu ------>
    - DOMAIN-SUFFIX,rednote.com
    - DOMAIN-SUFFIX,rednote.com.my
@@ -3118,6 +3135,7 @@ payload:
    - DOMAIN-SUFFIX,chuangcache.com
    - DOMAIN-SUFFIX,chuangcdn.com
    - DOMAIN-SUFFIX,funcdn.com
+   - DOMAIN-SUFFIX,hydun.com
    - DOMAIN-SUFFIX,jiashule.com
    - DOMAIN-SUFFIX,jiasule.com
    # ------ baishancloud ------>
@@ -4571,6 +4589,7 @@ payload:
    - DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
    - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
    - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
+   - DOMAIN-SUFFIX,log-global.aliyuncs.com
    - DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
    - DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
    - DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
