@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Jul 10 06:05:12 CST 2026
+# Update: Sat Jul 11 05:37:13 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,baicaf.com
@@ -3862,6 +3862,7 @@ payload:
    - DOMAIN-SUFFIX,lingkou.com
    - DOMAIN-SUFFIX,51nod.com
    - DOMAIN-SUFFIX,acwing.com
+   - DOMAIN-SUFFIX,adacpp.com
    - DOMAIN-SUFFIX,hihocoder.com
    - DOMAIN-SUFFIX,jisuanke.com
    - DOMAIN-SUFFIX,kidsccshow.com
