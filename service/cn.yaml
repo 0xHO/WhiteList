@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Jul 12 05:26:56 CST 2026
+# Update: Mon Jul 13 05:27:00 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,baicaf.com
@@ -1491,6 +1491,10 @@ payload:
    - DOMAIN-SUFFIX,sipeed.com
    - DOMAIN-SUFFIX,maixhub.com
    - DOMAIN-SUFFIX,wch-ic.com
+   # ------ espressif ------>
+   - DOMAIN-SUFFIX,esp32.com
+   - DOMAIN-SUFFIX,esp8266.com
+   - DOMAIN-SUFFIX,espressif.com
    # ------ jlc ------>
    - DOMAIN-SUFFIX,fa-part.com
    - DOMAIN-SUFFIX,forface3d.com
@@ -4758,7 +4762,7 @@ payload:
    - DOMAIN-SUFFIX,eufylife.com
    - DOMAIN-SUFFIX,eufymake.com
    - DOMAIN-SUFFIX,soundcore.com
-   # ------ aux ------>
+   # ------ auxgroup ------>
    - DOMAIN-SUFFIX,aux-home.com
    - DOMAIN-SUFFIX,auxcss.com
    - DOMAIN-SUFFIX,auxgroup.com
