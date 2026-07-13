@@ -2,11 +2,12 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Jul 13 05:27:00 CST 2026
+# Update: Tue Jul 14 05:30:36 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,baicaf.com
    - DOMAIN-SUFFIX,daikuan.com
+   - DOMAIN-SUFFIX,dulupay.com
    - DOMAIN-SUFFIX,helipay.com
    - DOMAIN-SUFFIX,hsqh.net
    - DOMAIN-SUFFIX,iboxpay.com
@@ -4029,6 +4030,7 @@ payload:
    - DOMAIN-SUFFIX,clawhub-mirror.com
    - DOMAIN-SUFFIX,zhiexa.com
    - DOMAIN-SUFFIX,linka2a.net
+   - DOMAIN-SUFFIX,yzsgo.com
    # ------ askdiandian ------>
    - DOMAIN-SUFFIX,askdiandian.com
    - DOMAIN-SUFFIX,diandianlife.top

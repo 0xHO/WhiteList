@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Mon Jul 13 05:26:58 CST 2026
+# Update: Tue Jul 14 05:30:34 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -607,7 +607,6 @@ payload:
    - DOMAIN-SUFFIX,itch.io
    - DOMAIN-SUFFIX,itch.zone
    # ------ konami ------>
-   - DOMAIN-SUFFIX,konami
    - DOMAIN-SUFFIX,573.jp
    - DOMAIN-SUFFIX,kgisystems.com
    - DOMAIN-SUFFIX,kiwi.jp
