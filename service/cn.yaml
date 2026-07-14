@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Jul 14 05:30:36 CST 2026
+# Update: Wed Jul 15 05:32:26 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN-SUFFIX,baicaf.com
@@ -981,7 +981,6 @@ payload:
    - DOMAIN-SUFFIX,qugame.com
    - DOMAIN-SUFFIX,qunjielong.com
    - DOMAIN-SUFFIX,rockyenglish.com
-   - DOMAIN-SUFFIX,rrmj.plus
    - DOMAIN-SUFFIX,rtbasia.com
    - DOMAIN-SUFFIX,ruan8.com
    - DOMAIN-SUFFIX,ruiwen.com
@@ -1356,6 +1355,7 @@ payload:
    - DOMAIN-SUFFIX,openvela.com
    - DOMAIN-SUFFIX,pingcode.com
    - DOMAIN-SUFFIX,tipdm.org
+   - DOMAIN-SUFFIX,weboss.hk
    - DOMAIN-SUFFIX,zuidaima.com
    # ------ aixcoder ------>
    - DOMAIN-SUFFIX,aixcoder.com
@@ -1591,6 +1591,11 @@ payload:
    - DOMAIN-SUFFIX,motieimg.com
    - DOMAIN-SUFFIX,mtime.com
    - DOMAIN-SUFFIX,pearvideo.com
+   - DOMAIN-SUFFIX,rrmj.plus
+   - DOMAIN-SUFFIX,rrsp.app
+   - DOMAIN-SUFFIX,qwapp.top
+   - DOMAIN-SUFFIX,qwdjapp.com
+   - DOMAIN-SUFFIX,yichengwlkj.com
    - DOMAIN-SUFFIX,sfacg.com
    - DOMAIN-SUFFIX,shuhai.com
    - DOMAIN-SUFFIX,tadu.com
@@ -3785,8 +3790,10 @@ payload:
    - DOMAIN-SUFFIX,zggqzp.com
    - DOMAIN-SUFFIX,zgjsks.com
    - DOMAIN-SUFFIX,zgsydw.com
+   - DOMAIN-SUFFIX,gaojidata.com
    - DOMAIN-SUFFIX,gk100.com
    - DOMAIN-SUFFIX,guojibk.com
+   - DOMAIN-SUFFIX,gzasc.com
    - DOMAIN-SUFFIX,huatu.com
    - DOMAIN-SUFFIX,sydw8.com
    - DOMAIN-SUFFIX,ictbda.com
