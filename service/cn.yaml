@@ -2,9 +2,10 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Jul 16 05:32:16 CST 2026
+# Update: Fri Jul 17 05:38:58 CST 2026
 payload:
    # ------ geolocation-cn ------>
+   - DOMAIN,api.blipsandchitz.me
    - DOMAIN-SUFFIX,baicaf.com
    - DOMAIN-SUFFIX,daikuan.com
    - DOMAIN-SUFFIX,dulupay.com
@@ -1290,6 +1291,7 @@ payload:
    - DOMAIN-SUFFIX,taichuan.net
    - DOMAIN-SUFFIX,vhengdata.com
    - DOMAIN-SUFFIX,yebinnet.com
+   - DOMAIN-SUFFIX,hrsecn.com
    # ------ category-automobile-cn ------>
    - DOMAIN-SUFFIX,12365auto.com
    - DOMAIN-SUFFIX,autohome.com
