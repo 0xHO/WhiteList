@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-07-21 05:45:23
+# Update: 2026-07-22 05:42:01
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -3988,6 +3988,7 @@ payload:
    - DOMAIN-SUFFIX,zello.com
    - DOMAIN-SUFFIX,zenmate.com
    - DOMAIN-SUFFIX,zenmate.com.ru
+   - DOMAIN-SUFFIX,zenmux.ai
    - DOMAIN-SUFFIX,zerohedge.com
    - DOMAIN-SUFFIX,zeronet.io
    - DOMAIN-SUFFIX,zh-hans.cfsh99.com
