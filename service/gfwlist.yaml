@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-07-22 05:42:01
+# Update: 2026-07-23 05:39:14
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -3388,6 +3388,7 @@ payload:
    - DOMAIN-SUFFIX,togetter.com
    - DOMAIN-SUFFIX,token.im
    - DOMAIN-SUFFIX,tokenlon.im
+   - DOMAIN-SUFFIX,tokenplus.app
    - DOMAIN-SUFFIX,tokyo-porn-tube.com
    - DOMAIN-SUFFIX,tokyocn.com
    - DOMAIN-SUFFIX,tomp3.cc
