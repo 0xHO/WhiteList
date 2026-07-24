@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-07-24 05:37:14
+# Update: 2026-07-25 05:40:09
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -667,6 +667,7 @@ payload:
    - DOMAIN-SUFFIX,cia.gov
    - DOMAIN-SUFFIX,cici.com
    - DOMAIN-SUFFIX,ciciai.com
+   - DOMAIN-SUFFIX,circle19.org
    - DOMAIN-SUFFIX,cirosantilli.com
    - DOMAIN-SUFFIX,citizencn.com
    - DOMAIN-SUFFIX,citizenlab.ca
@@ -1991,6 +1992,7 @@ payload:
    - DOMAIN-SUFFIX,kantie.org
    - DOMAIN-SUFFIX,kaotic.com
    - DOMAIN-SUFFIX,karayou.com
+   - DOMAIN-SUFFIX,kards.com
    - DOMAIN-SUFFIX,kathmandupost.com
    - DOMAIN-SUFFIX,kawaiikawaii.jp
    - DOMAIN-SUFFIX,kawase.com
