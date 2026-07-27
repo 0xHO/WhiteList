@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-07-27 05:30:23
+# Update: 2026-07-28 05:43:01
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -3429,6 +3429,7 @@ payload:
    - DOMAIN-SUFFIX,truebuddha-md.org
    - DOMAIN-SUFFIX,trustwallet.com
    - DOMAIN-SUFFIX,truthsocial.com
+   - DOMAIN-SUFFIX,tryai.dev
    - DOMAIN-SUFFIX,tryheart.jp
    - DOMAIN-SUFFIX,tsdr.uspto.gov
    - DOMAIN-SUFFIX,tt1069.com
