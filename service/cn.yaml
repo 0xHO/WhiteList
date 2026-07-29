@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Jul 29 05:43:01 CST 2026
+# Update: Thu Jul 30 05:30:11 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -184,6 +184,7 @@ payload:
    - DOMAIN-SUFFIX,zzdtec.com
    - DOMAIN-SUFFIX,guoxuedashi.com
    - DOMAIN-SUFFIX,guoxuemi.com
+   - DOMAIN-SUFFIX,lubiao.wiki
    - DOMAIN-SUFFIX,sckg.com
    - DOMAIN-SUFFIX,zgbk.com
    - DOMAIN-SUFFIX,zyh365.com
