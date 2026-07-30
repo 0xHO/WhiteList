@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-07-30 05:30:01
+# Update: 2026-07-31 05:45:06
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2074,6 +2074,7 @@ payload:
    - DOMAIN-SUFFIX,leonardo.ai
    - DOMAIN-SUFFIX,lesoir.be
    - DOMAIN-SUFFIX,letscorp.net
+   - DOMAIN-SUFFIX,level-plus.net
    - DOMAIN-SUFFIX,lexica.art
    - DOMAIN-SUFFIX,li.taipei
    - DOMAIN-SUFFIX,liangyou.net
@@ -3586,6 +3587,7 @@ payload:
    - DOMAIN-SUFFIX,uyghurpen.org
    - DOMAIN-SUFFIX,uyghurstudies.org
    - DOMAIN-SUFFIX,uyghurtribunal.com
+   - DOMAIN-SUFFIX,v.recipes
    - DOMAIN-SUFFIX,v2.help
    - DOMAIN-SUFFIX,v2.hysteria.network
    - DOMAIN-SUFFIX,v2ex.com
