@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/telegram.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/telegram.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/telegram.yaml
-# Update: Fri Jul 31 05:45:23 CST 2026
+# Update: Sat Aug  1 05:42:01 CST 2026
 payload:
    # ------ telegram ------>
    - DOMAIN-SUFFIX,cdn-telegram.org
