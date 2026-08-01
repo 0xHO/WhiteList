@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-01 05:41:43
+# Update: 2026-08-02 05:28:47
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2471,6 +2471,7 @@ payload:
    - DOMAIN-SUFFIX,ntdtv.com
    - DOMAIN-SUFFIX,ntdtv.com.tw
    - DOMAIN-SUFFIX,ntdtv.cz
+   - DOMAIN-SUFFIX,nthlink.com
    - DOMAIN-SUFFIX,nuexpo.com
    - DOMAIN-SUFFIX,nurgo-software.com
    - DOMAIN-SUFFIX,nusatrip.com
