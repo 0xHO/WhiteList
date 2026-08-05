@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Aug  5 05:50:55 CST 2026
+# Update: Thu Aug  6 05:50:47 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -269,6 +269,9 @@ payload:
    - DOMAIN-SUFFIX,zuimeitianqi.com
    - DOMAIN-SUFFIX,ewdcloud.com
    - DOMAIN-SUFFIX,webterren.com
+   - DOMAIN-SUFFIX,95598pay.com
+   - DOMAIN-SUFFIX,echargenet.com
+   - DOMAIN-SUFFIX,poweremarket.com
    - DOMAIN-SUFFIX,51togic.com
    - DOMAIN-SUFFIX,avlyun.com
    - DOMAIN-SUFFIX,dreame.tech
@@ -5315,6 +5318,8 @@ payload:
    - DOMAIN-SUFFIX,vlabimg.com
    - DOMAIN-SUFFIX,vlabstatic.com
    - DOMAIN-SUFFIX,vlabvod.com
+   - DOMAIN-SUFFIX,capcut.com
+   - DOMAIN-SUFFIX,capcutcdn-us.com
    - DOMAIN-SUFFIX,toutiao.com
    - DOMAIN-SUFFIX,toutiaoapi.com
    - DOMAIN-SUFFIX,toutiaocdn.com
@@ -5571,7 +5576,6 @@ payload:
    - DOMAIN,roovza.launches.appsflyersdk.com
    - DOMAIN,roovza.skadsdk.appsflyersdk.com
    - DOMAIN-SUFFIX,bytedapm.com
-   - DOMAIN-SUFFIX,byteoversea.com
    - DOMAIN-SUFFIX,muscdn.com
    - DOMAIN-SUFFIX,musical.ly
    - DOMAIN-SUFFIX,tik-tokapi.com
@@ -5878,6 +5882,12 @@ payload:
    - DOMAIN-SUFFIX,djiservice.org
    - DOMAIN-SUFFIX,skypixel.com
    - DOMAIN-SUFFIX,robomaster.com
+   # ------ focuschina ------>
+   - DOMAIN-SUFFIX,focuschina.com
+   - DOMAIN-SUFFIX,made-in-china.com
+   - DOMAIN-SUFFIX,micstatic.com
+   - DOMAIN-SUFFIX,trademessenger.com
+   - DOMAIN-SUFFIX,vemic.com
    # ------ gree ------>
    - DOMAIN-SUFFIX,gree.com
    - DOMAIN-SUFFIX,greeyun.com

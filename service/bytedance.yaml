@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Wed Aug  5 05:51:02 CST 2026
+# Update: Thu Aug  6 05:50:54 CST 2026
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -248,6 +248,8 @@ payload:
    - DOMAIN-SUFFIX,vlabimg.com
    - DOMAIN-SUFFIX,vlabstatic.com
    - DOMAIN-SUFFIX,vlabvod.com
+   - DOMAIN-SUFFIX,capcut.com
+   - DOMAIN-SUFFIX,capcutcdn-us.com
    - DOMAIN-SUFFIX,toutiao.com
    - DOMAIN-SUFFIX,toutiaoapi.com
    - DOMAIN-SUFFIX,toutiaocdn.com
@@ -504,7 +506,6 @@ payload:
    - DOMAIN,roovza.launches.appsflyersdk.com
    - DOMAIN,roovza.skadsdk.appsflyersdk.com
    - DOMAIN-SUFFIX,bytedapm.com
-   - DOMAIN-SUFFIX,byteoversea.com
    - DOMAIN-SUFFIX,muscdn.com
    - DOMAIN-SUFFIX,musical.ly
    - DOMAIN-SUFFIX,tik-tokapi.com

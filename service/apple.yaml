@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Wed Aug  5 05:50:52 CST 2026
+# Update: Thu Aug  6 05:50:44 CST 2026
 payload:
    # ------ apple ------>
    - DOMAIN,apple.com.akadns.net
@@ -445,7 +445,6 @@ payload:
    - DOMAIN-SUFFIX,apple-hk.com
    - DOMAIN-SUFFIX,apple-inc.net
    - DOMAIN-SUFFIX,apple-livephotoskit.com
-   - DOMAIN-SUFFIX,apple-mapkit.com
    - DOMAIN-SUFFIX,apple-online.com
    - DOMAIN-SUFFIX,apple-studies.com
    - DOMAIN-SUFFIX,apple-usa.net

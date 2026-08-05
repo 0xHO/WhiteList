@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Wed Aug  5 05:50:54 CST 2026
+# Update: Thu Aug  6 05:50:46 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -33,6 +33,7 @@ payload:
    # ------ origin ------>
    # ------ embark ------>
    # ------ epicgames ------>
+   # ------ artstation ------>
    # ------ escapefromtarkov ------>
    # ------ faceit ------>
    # ------ gaijin ------>
