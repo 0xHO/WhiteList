@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-06 05:50:37
+# Update: 2026-08-07 08:56:39
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -281,7 +281,6 @@ payload:
    - DOMAIN-SUFFIX,atnext.com
    - DOMAIN-SUFFIX,auctions.yahoo.co.jp
    - DOMAIN-SUFFIX,audacy.com
-   - DOMAIN-SUFFIX,auntology.fandom.com
    - DOMAIN-SUFFIX,autodraw.com
    - DOMAIN-SUFFIX,av.movie
    - DOMAIN-SUFFIX,av01.tv
@@ -1071,6 +1070,7 @@ payload:
    - DOMAIN-SUFFIX,falunhr.org
    - DOMAIN-SUFFIX,famunion.com
    - DOMAIN-SUFFIX,fanbox.cc
+   - DOMAIN-SUFFIX,fandom.com
    - DOMAIN-SUFFIX,fangeqiang.com
    - DOMAIN-SUFFIX,fanglizhi.info
    - DOMAIN-SUFFIX,fangong.org
@@ -1730,7 +1730,6 @@ payload:
    - DOMAIN-SUFFIX,holyspiritspeaks.org
    - DOMAIN-SUFFIX,home.saxo
    - DOMAIN-SUFFIX,homedepot.com
-   - DOMAIN-SUFFIX,hongkong.fandom.com
    - DOMAIN-SUFFIX,hongkongfp.com
    - DOMAIN-SUFFIX,hongzhi.li
    - DOMAIN-SUFFIX,honven.xyz
