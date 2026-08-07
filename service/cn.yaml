@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Fri Aug  7 08:56:49 CST 2026
+# Update: Sat Aug  8 05:18:22 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -181,6 +181,11 @@ payload:
    - DOMAIN-SUFFIX,tianjin-air.com
    - DOMAIN-SUFFIX,urumqi-air.com
    - DOMAIN-SUFFIX,xiamenair.com
+   - DOMAIN-SUFFIX,ruubypay.com
+   - DOMAIN-SUFFIX,sctcd.com
+   - DOMAIN-SUFFIX,sptcc.com
+   - DOMAIN-SUFFIX,shenzhentong.com
+   - DOMAIN-SUFFIX,snowballtech.com
    - DOMAIN-SUFFIX,umetrip.com
    - DOMAIN-SUFFIX,variflight.com
    - DOMAIN-SUFFIX,ccrgt.com
@@ -2149,7 +2154,10 @@ payload:
    - DOMAIN-SUFFIX,ultracachenode.com
    - DOMAIN-SUFFIX,woaihuoshan.com
    - DOMAIN-SUFFIX,wohst8.com
+   - DOMAIN-SUFFIX,douyinec.com
    - DOMAIN-SUFFIX,douyinpay.com
+   - DOMAIN-SUFFIX,ulpay.com
+   - DOMAIN-SUFFIX,lifexue.com
    - DOMAIN-SUFFIX,open-douyin.com
    # ------ douyu ------>
    - DOMAIN-SUFFIX,douyu.com
@@ -3922,7 +3930,40 @@ payload:
    - DOMAIN-SUFFIX,cd120.info
    - DOMAIN-SUFFIX,hnxzctec.com
    # ------ airchina ------>
+   - DOMAIN-SUFFIX,airchina.ae
+   - DOMAIN-SUFFIX,airchina.at
+   - DOMAIN-SUFFIX,airchina.ca
+   - DOMAIN-SUFFIX,airchina.ch
+   - DOMAIN-SUFFIX,airchina.co.id
+   - DOMAIN-SUFFIX,airchina.co.in
+   - DOMAIN-SUFFIX,airchina.co.th
+   - DOMAIN-SUFFIX,airchina.co.uk
+   - DOMAIN-SUFFIX,airchina.com
+   - DOMAIN-SUFFIX,airchina.com.au
+   - DOMAIN-SUFFIX,airchina.com.br
+   - DOMAIN-SUFFIX,airchina.com.my
+   - DOMAIN-SUFFIX,airchina.com.ph
+   - DOMAIN-SUFFIX,airchina.com.tw
+   - DOMAIN-SUFFIX,airchina.de
+   - DOMAIN-SUFFIX,airchina.dk
+   - DOMAIN-SUFFIX,airchina.es
+   - DOMAIN-SUFFIX,airchina.fr
+   - DOMAIN-SUFFIX,airchina.gr
+   - DOMAIN-SUFFIX,airchina.hk
+   - DOMAIN-SUFFIX,airchina.hu
+   - DOMAIN-SUFFIX,airchina.it
+   - DOMAIN-SUFFIX,airchina.jp
+   - DOMAIN-SUFFIX,airchina.kr
+   - DOMAIN-SUFFIX,airchina.nz
+   - DOMAIN-SUFFIX,airchina.se
+   - DOMAIN-SUFFIX,airchina.sg
+   - DOMAIN-SUFFIX,airchina.us
+   - DOMAIN-SUFFIX,airchina.vn
    - DOMAIN-SUFFIX,airchinacargo.com
+   - DOMAIN-SUFFIX,airchinagroup.com
+   - DOMAIN-SUFFIX,airchinalimited.com
+   - DOMAIN-SUFFIX,fly-airchina.com
+   - DOMAIN-SUFFIX,phoenixmiles.com
    # ------ hainanairlines ------>
    - DOMAIN-SUFFIX,hainanairlines.com
    - DOMAIN-SUFFIX,hnacargo.com
@@ -4841,8 +4882,13 @@ payload:
    - DOMAIN-SUFFIX,mxhichina.com
    - DOMAIN-SUFFIX,myalicdn.com
    - DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
+   - DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+   - DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+   - DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
    - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+   - DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
    - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
+   - DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
    - DOMAIN-SUFFIX,log-global.aliyuncs.com
    - DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
    - DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
@@ -4871,6 +4917,7 @@ payload:
    - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
    - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
    - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+   - DOMAIN-SUFFIX,registry.aliyuncs.com
    # ------ aliyun-drive ------>
    - DOMAIN-SUFFIX,alicloudccp.com
    - DOMAIN-SUFFIX,alipan.com
@@ -5363,12 +5410,17 @@ payload:
    - DOMAIN-SUFFIX,ppxstatic.com
    - DOMAIN-SUFFIX,ppxvod.com
    - DOMAIN-SUFFIX,xiaoxiaapi.com
-   - DOMAIN-SUFFIX,douyinec.com
+   - DOMAIN-SUFFIX,dailygn.com
+   - DOMAIN-SUFFIX,buydouke.com
    - DOMAIN-SUFFIX,ecombdapi.com
+   - DOMAIN-SUFFIX,ecombdimg.com
    - DOMAIN-SUFFIX,ecombdstatic.com
+   - DOMAIN-SUFFIX,ecombdvod.com
    - DOMAIN-SUFFIX,jinritemai.com
    - DOMAIN-SUFFIX,faceu.com
+   - DOMAIN-SUFFIX,faceu.mobi
    - DOMAIN-SUFFIX,ulikecam.com
+   - DOMAIN-SUFFIX,oceanengine.com
    # ------ bytedance-ai-!cn ------>
    - DOMAIN-SUFFIX,coze.com
    - DOMAIN-SUFFIX,marscode.com
@@ -5456,7 +5508,10 @@ payload:
    - DOMAIN-SUFFIX,ultracachenode.com
    - DOMAIN-SUFFIX,woaihuoshan.com
    - DOMAIN-SUFFIX,wohst8.com
+   - DOMAIN-SUFFIX,douyinec.com
    - DOMAIN-SUFFIX,douyinpay.com
+   - DOMAIN-SUFFIX,ulpay.com
+   - DOMAIN-SUFFIX,lifexue.com
    - DOMAIN-SUFFIX,open-douyin.com
    # ------ fqnovel ------>
    - DOMAIN,p3-novel.byteimg.com
@@ -7026,6 +7081,10 @@ payload:
    - DOMAIN-SUFFIX,fetionpic.com
    - DOMAIN-SUFFIX,mmarket.com
    - DOMAIN-SUFFIX,mmarket6.com
+   - DOMAIN-SUFFIX,chinamobiledevice.com
+   - DOMAIN-SUFFIX,cmdcxls.com
+   - DOMAIN-SUFFIX,fxltsbl.com
+   - DOMAIN-SUFFIX,zdsdp.com
    # ------ chinatelecom ------>
    - DOMAIN-SUFFIX,189smarthome.com
    - DOMAIN-SUFFIX,21cn.com

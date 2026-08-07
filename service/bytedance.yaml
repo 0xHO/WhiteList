@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Fri Aug  7 08:56:56 CST 2026
+# Update: Sat Aug  8 05:18:28 CST 2026
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -293,12 +293,17 @@ payload:
    - DOMAIN-SUFFIX,ppxstatic.com
    - DOMAIN-SUFFIX,ppxvod.com
    - DOMAIN-SUFFIX,xiaoxiaapi.com
-   - DOMAIN-SUFFIX,douyinec.com
+   - DOMAIN-SUFFIX,dailygn.com
+   - DOMAIN-SUFFIX,buydouke.com
    - DOMAIN-SUFFIX,ecombdapi.com
+   - DOMAIN-SUFFIX,ecombdimg.com
    - DOMAIN-SUFFIX,ecombdstatic.com
+   - DOMAIN-SUFFIX,ecombdvod.com
    - DOMAIN-SUFFIX,jinritemai.com
    - DOMAIN-SUFFIX,faceu.com
+   - DOMAIN-SUFFIX,faceu.mobi
    - DOMAIN-SUFFIX,ulikecam.com
+   - DOMAIN-SUFFIX,oceanengine.com
    # ------ bytedance-ai-!cn ------>
    - DOMAIN-SUFFIX,coze.com
    - DOMAIN-SUFFIX,marscode.com
@@ -386,7 +391,10 @@ payload:
    - DOMAIN-SUFFIX,ultracachenode.com
    - DOMAIN-SUFFIX,woaihuoshan.com
    - DOMAIN-SUFFIX,wohst8.com
+   - DOMAIN-SUFFIX,douyinec.com
    - DOMAIN-SUFFIX,douyinpay.com
+   - DOMAIN-SUFFIX,ulpay.com
+   - DOMAIN-SUFFIX,lifexue.com
    - DOMAIN-SUFFIX,open-douyin.com
    # ------ fqnovel ------>
    - DOMAIN,p3-novel.byteimg.com
