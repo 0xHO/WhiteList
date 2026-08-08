@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/microsoft.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/microsoft.yaml
-# Update: Sat Aug  8 05:18:19 CST 2026
+# Update: Sun Aug  9 05:01:36 CST 2026
 payload:
    # ------ microsoft ------>
    - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
