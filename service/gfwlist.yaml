@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-09 05:01:27
+# Update: 2026-08-10 05:04:23
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -124,6 +124,7 @@ payload:
    - DOMAIN-SUFFIX,agro.hk
    - DOMAIN-SUFFIX,ai.dev
    - DOMAIN-SUFFIX,ai.studio
+   - DOMAIN-SUFFIX,aihub.top
    - DOMAIN-SUFFIX,aiosearch.com
    - DOMAIN-SUFFIX,aiph.net
    - DOMAIN-SUFFIX,airconsole.com
@@ -323,6 +324,7 @@ payload:
    - DOMAIN-SUFFIX,banorte.com
    - DOMAIN-SUFFIX,barnabu.co.uk
    - DOMAIN-SUFFIX,barton.de
+   - DOMAIN-SUFFIX,basemaps.arcgis.com
    - DOMAIN-SUFFIX,bastillepost.com
    - DOMAIN-SUFFIX,bayvoice.net
    - DOMAIN-SUFFIX,bb-chat.tv
@@ -1012,6 +1014,7 @@ payload:
    - DOMAIN-SUFFIX,eromanga-kingdom.com
    - DOMAIN-SUFFIX,eromangadouzin.com
    - DOMAIN-SUFFIX,esg.t91y.com
+   - DOMAIN-SUFFIX,esim.redteago.com
    - DOMAIN-SUFFIX,eslite.com
    - DOMAIN-SUFFIX,esurance.com
    - DOMAIN-SUFFIX,etherdelta.com
@@ -1034,6 +1037,7 @@ payload:
    - DOMAIN-SUFFIX,expatshield.com
    - DOMAIN-SUFFIX,expecthim.com
    - DOMAIN-SUFFIX,expekt.com
+   - DOMAIN-SUFFIX,experience.arcgis.com
    - DOMAIN-SUFFIX,exploader.net
    - DOMAIN-SUFFIX,expressnews.com
    - DOMAIN-SUFFIX,expressvpn.com
