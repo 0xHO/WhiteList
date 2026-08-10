@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-10 05:04:23
+# Update: 2026-08-11 05:21:50
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -877,6 +877,7 @@ payload:
    - DOMAIN-SUFFIX,disp.cc
    - DOMAIN-SUFFIX,disqus.com
    - DOMAIN-SUFFIX,dit-inc.us
+   - DOMAIN-SUFFIX,divdyn.com
    - DOMAIN-SUFFIX,diyin.org
    - DOMAIN-SUFFIX,dizhuzhishang.com
    - DOMAIN-SUFFIX,dl-laby.jp
