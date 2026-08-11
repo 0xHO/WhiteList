@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Tue Aug 11 05:22:00 CST 2026
+# Update: Wed Aug 12 05:25:29 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -23,6 +23,8 @@ payload:
    # ------ taptap ------>
    # ------ yokaverse ------>
    # ------ category-games-!cn ------>
+   # ------ activision-blizzard ------>
+   # ------ activision ------>
    # ------ blizzard ------>
    # ------ bluearchive ------>
    - DOMAIN-SUFFIX,bluearchive-cn.com
