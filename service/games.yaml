@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Thu Aug 13 05:23:27 CST 2026
+# Update: Fri Aug 14 05:24:45 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -1016,6 +1016,7 @@ payload:
    - DOMAIN,videos-rockstargames-com.akamaized.net
    - DOMAIN-SUFFIX,rockstargames.com
    - DOMAIN-SUFFIX,rockstarnorth.com
+   - DOMAIN-SUFFIX,rsg.ms
    - DOMAIN-SUFFIX,rsg.sc
    # ------ zynga ------>
    - DOMAIN-SUFFIX,zynga.com
