@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Sun Aug 16 04:53:00 CST 2026
+# Update: Mon Aug 17 04:52:18 CST 2026
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -160,6 +160,7 @@ payload:
    - DOMAIN-SUFFIX,jokecommunity.net
    - DOMAIN-SUFFIX,jstti.com
    - DOMAIN-SUFFIX,jtamac.com
+   - DOMAIN-SUFFIX,letsign.com
    - DOMAIN-SUFFIX,livecdnstatic.com
    - DOMAIN-SUFFIX,local-ip.online
    - DOMAIN-SUFFIX,luckysf.net
@@ -304,6 +305,7 @@ payload:
    - DOMAIN-SUFFIX,jinritemai.com
    - DOMAIN-SUFFIX,faceu.com
    - DOMAIN-SUFFIX,faceu.mobi
+   - DOMAIN-SUFFIX,kesong.co
    - DOMAIN-SUFFIX,ulikecam.com
    - DOMAIN-SUFFIX,oceanengine.com
    # ------ bytedance-ai-!cn ------>
@@ -354,6 +356,7 @@ payload:
    - DOMAIN-SUFFIX,douyincdn.com
    - DOMAIN-SUFFIX,douyinfe.com
    - DOMAIN-SUFFIX,douyinliving.com
+   - DOMAIN-SUFFIX,douyinmusicpromotion.com
    - DOMAIN-SUFFIX,douyinpic.com
    - DOMAIN-SUFFIX,douyinstatic.com
    - DOMAIN-SUFFIX,douyinvod.com
@@ -384,7 +387,6 @@ payload:
    - DOMAIN-SUFFIX,ihuoshanlive.com
    - DOMAIN-SUFFIX,ihuoshanstatic.com
    - DOMAIN-SUFFIX,ihuoshanvod.com
-   - DOMAIN-SUFFIX,kesong.co
    - DOMAIN-SUFFIX,nextvid.net
    - DOMAIN-SUFFIX,ppkankan01.com
    - DOMAIN-SUFFIX,qishui.com
