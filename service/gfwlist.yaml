@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-17 04:52:08
+# Update: 2026-08-18 04:56:51
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2124,6 +2124,7 @@ payload:
    - DOMAIN-SUFFIX,livemint.com
    - DOMAIN-SUFFIX,livestream.com
    - DOMAIN-SUFFIX,livevideo.com
+   - DOMAIN-SUFFIX,livingatlas.arcgis.com
    - DOMAIN-SUFFIX,livingstream.com
    - DOMAIN-SUFFIX,lmarena.ai
    - DOMAIN-SUFFIX,localbitcoins.com
