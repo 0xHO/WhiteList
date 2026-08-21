@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-21 04:58:47
+# Update: 2026-08-22 04:53:52
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -471,6 +471,7 @@ payload:
    - DOMAIN-SUFFIX,breakgfw.com
    - DOMAIN-SUFFIX,breakingtweets.com
    - DOMAIN-SUFFIX,breakwall.net
+   - DOMAIN-SUFFIX,briarproject.org
    - DOMAIN-SUFFIX,brill.com
    - DOMAIN-SUFFIX,brizzly.com
    - DOMAIN-SUFFIX,broadpressinc.com
@@ -605,6 +606,7 @@ payload:
    - DOMAIN-SUFFIX,chat.com
    - DOMAIN-SUFFIX,chat.lmsys.org
    - DOMAIN-SUFFIX,chatgpt.com
+   - DOMAIN-SUFFIX,chatgpt.site
    - DOMAIN-SUFFIX,chatpdf.com
    - DOMAIN-SUFFIX,chaturbate.com
    - DOMAIN-SUFFIX,checkgfw.com
