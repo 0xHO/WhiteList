@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-23 04:53:16
+# Update: 2026-08-24 04:53:28
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -211,6 +211,7 @@ payload:
    - DOMAIN-SUFFIX,api.palworldgame.com
    - DOMAIN-SUFFIX,api.pureapk.com
    - DOMAIN-SUFFIX,api.recaptcha.net
+   - DOMAIN-SUFFIX,api.shuaiapi.com
    - DOMAIN-SUFFIX,api.steampowered.com
    - DOMAIN-SUFFIX,api5.futunn.com
    - DOMAIN-SUFFIX,apiary.io
@@ -3869,6 +3870,7 @@ payload:
    - DOMAIN-SUFFIX,x.com
    - DOMAIN-SUFFIX,x.company
    - DOMAIN-SUFFIX,x3guide.com
+   - DOMAIN-SUFFIX,x86.fr
    - DOMAIN-SUFFIX,xbabe.com
    - DOMAIN-SUFFIX,xbookcn.com
    - DOMAIN-SUFFIX,xbtce.com
