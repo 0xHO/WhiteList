@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-27 08:01:39
+# Update: 2026-08-28 12:26:49
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -3840,6 +3840,7 @@ payload:
    - DOMAIN-SUFFIX,wp.com
    - DOMAIN-SUFFIX,wplace.live
    - DOMAIN-SUFFIX,wpoforum.com
+   - DOMAIN-SUFFIX,write.as
    - DOMAIN-SUFFIX,writesonic.com
    - DOMAIN-SUFFIX,wsj.com
    - DOMAIN-SUFFIX,wsj.net

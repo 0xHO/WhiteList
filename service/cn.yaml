@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Aug 27 08:01:50 CST 2026
+# Update: Fri Aug 28 12:27:00 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -62,6 +62,7 @@ payload:
    - DOMAIN-SUFFIX,thefastfile.com
    - DOMAIN-SUFFIX,thefastimg.com
    - DOMAIN-SUFFIX,51selling.com
+   - DOMAIN-SUFFIX,aigefurniture.com
    - DOMAIN-SUFFIX,aihuishou.com
    - DOMAIN-SUFFIX,appsimg.com
    - DOMAIN-SUFFIX,appvipshop.com
@@ -99,6 +100,7 @@ payload:
    - DOMAIN-SUFFIX,kujiale.com
    - DOMAIN-SUFFIX,linkheer.com
    - DOMAIN-SUFFIX,lawtimeimg.com
+   - DOMAIN-SUFFIX,lingxing.com
    - DOMAIN-SUFFIX,lumiai.com
    - DOMAIN-SUFFIX,manmanbuy.com
    - DOMAIN-SUFFIX,maxonesoft.com
@@ -119,6 +121,7 @@ payload:
    - DOMAIN-SUFFIX,xiamai.net
    - DOMAIN-SUFFIX,yaduo.com
    - DOMAIN-SUFFIX,zhuge.com
+   - DOMAIN-SUFFIX,ziniao.com
    - DOMAIN-SUFFIX,178linux.com
    - DOMAIN-SUFFIX,antpedia.com
    - DOMAIN-SUFFIX,anywlan.com
@@ -416,6 +419,7 @@ payload:
    - DOMAIN-SUFFIX,1nongjing.com
    - DOMAIN-SUFFIX,1ting.com
    - DOMAIN-SUFFIX,1zhe.com
+   - DOMAIN-SUFFIX,20130123.com
    - DOMAIN-SUFFIX,2265.com
    - DOMAIN-SUFFIX,2288.org
    - DOMAIN-SUFFIX,258.com
