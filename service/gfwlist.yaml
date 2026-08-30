@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-08-30 06:45:42
+# Update: 2026-08-31 06:54:28
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -1299,6 +1299,7 @@ payload:
    - DOMAIN-SUFFIX,getlantern.org
    - DOMAIN-SUFFIX,getmalus.com
    - DOMAIN-SUFFIX,getmdl.io
+   - DOMAIN-SUFFIX,getmonero.org
    - DOMAIN-SUFFIX,getoutline.org
    - DOMAIN-SUFFIX,getsession.org
    - DOMAIN-SUFFIX,getsync.com
@@ -2445,6 +2446,7 @@ payload:
    - DOMAIN-SUFFIX,nhentai.net
    - DOMAIN-SUFFIX,nic.cz.cc
    - DOMAIN-SUFFIX,nic.gov
+   - DOMAIN-SUFFIX,nicoseiga.jp
    - DOMAIN-SUFFIX,nicovideo.jp
    - DOMAIN-SUFFIX,nightswatch.top
    - DOMAIN-SUFFIX,nikke-en.com
