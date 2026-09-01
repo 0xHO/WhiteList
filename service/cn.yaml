@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Aug 31 06:54:36 CST 2026
+# Update: Tue Sep  1 08:03:06 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -3195,6 +3195,8 @@ payload:
    - DOMAIN-SUFFIX,whccb.com
    - DOMAIN-SUFFIX,kcbebank.com
    - DOMAIN-SUFFIX,shrbank.com
+   - DOMAIN-SUFFIX,tctpwebankcdn.net
+   - DOMAIN-SUFFIX,wbweilicai.com
    - DOMAIN-SUFFIX,webank.com
    - DOMAIN-SUFFIX,webankcdn.net
    - DOMAIN-SUFFIX,csxbank.com
@@ -4359,6 +4361,7 @@ payload:
    - DOMAIN-SUFFIX,diandianlife.top
    # ------ deepseek ------>
    - DOMAIN-SUFFIX,deepseek.com
+   - DOMAIN-SUFFIX,deepseeksvc.com
    # ------ doubao ------>
    - DOMAIN-SUFFIX,coze-dns-01.com
    - DOMAIN-SUFFIX,coze.email
@@ -6486,6 +6489,7 @@ payload:
    - DOMAIN-SUFFIX,360os.com
    - DOMAIN-SUFFIX,360qhcdn.com
    - DOMAIN-SUFFIX,360safe.com
+   - DOMAIN-SUFFIX,360scdn.com
    - DOMAIN-SUFFIX,360shouji.com
    - DOMAIN-SUFFIX,360so.com
    - DOMAIN-SUFFIX,360sou.com
@@ -6575,6 +6579,8 @@ payload:
    - DOMAIN-SUFFIX,tencent.com
    - DOMAIN-SUFFIX,tencent.com.hk
    - DOMAIN-SUFFIX,tencent.net
+   - DOMAIN-SUFFIX,tencentmiying.com
+   - DOMAIN-SUFFIX,tengmed.com
    - DOMAIN-SUFFIX,tenpay.com
    - DOMAIN-SUFFIX,tfogc.com
    - DOMAIN-SUFFIX,wechat.com
