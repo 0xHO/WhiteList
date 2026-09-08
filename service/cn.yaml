@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Sep  8 06:58:34 CST 2026
+# Update: Wed Sep  9 06:56:16 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -6321,11 +6321,13 @@ payload:
    - DOMAIN-SUFFIX,cheetahfun.com
    - DOMAIN-SUFFIX,cmcm.com
    - DOMAIN-SUFFIX,cmcmcdn.com
+   - DOMAIN-SUFFIX,zhhainiao.com
    - DOMAIN-SUFFIX,drivergenius.com
    - DOMAIN-SUFFIX,duba.com
    - DOMAIN-SUFFIX,duba.net
    - DOMAIN-SUFFIX,ijinshan.com
    - DOMAIN-SUFFIX,keniu.com
+   - DOMAIN-SUFFIX,yuanqidesk.com
    # ------ seasun ------>
    - DOMAIN-SUFFIX,seasungames.com
    - DOMAIN-SUFFIX,seasunwbl.com
