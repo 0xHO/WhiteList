@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Sep 14 06:34:37 CST 2026
+# Update: Tue Sep 15 07:23:25 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -5728,6 +5728,7 @@ payload:
    - DOMAIN-SUFFIX,thelarkcloud.com
    # ------ tiktok ------>
    - DOMAIN,p16-tiktokcdn-com.akamaized.net
+   - DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
    - DOMAIN,roovza-launches.appsflyersdk.com
    - DOMAIN,roovza.inapps.appsflyersdk.com
    - DOMAIN,roovza.launches.appsflyersdk.com
