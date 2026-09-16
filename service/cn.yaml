@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Wed Sep 16 07:08:33 CST 2026
+# Update: Thu Sep 17 07:12:58 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
