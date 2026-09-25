@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Fri Sep 25 07:23:44 CST 2026
+# Update: Sat Sep 26 07:28:58 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -274,8 +274,6 @@ payload:
    - DOMAIN-SUFFIX,muvluv-girls-garden.com
    - DOMAIN-SUFFIX,namemc.com
    - DOMAIN-SUFFIX,neoforged.net
-   - DOMAIN-SUFFIX,nexus-cdn.com
-   - DOMAIN-SUFFIX,nexusmods.com
    - DOMAIN-SUFFIX,noxygames.com
    - DOMAIN-SUFFIX,offworldindustries.com
    - DOMAIN-SUFFIX,offworldindustries.net
@@ -664,6 +662,9 @@ payload:
    - DOMAIN-SUFFIX,nexon.net
    - DOMAIN-SUFFIX,nexoncdn.co.kr
    - DOMAIN-SUFFIX,nexongames.co.kr
+   # ------ nexusmods ------>
+   - DOMAIN-SUFFIX,nexus-cdn.com
+   - DOMAIN-SUFFIX,nexusmods.com
    # ------ nikke ------>
    - DOMAIN-SUFFIX,nikke-de.com
    - DOMAIN-SUFFIX,nikke-en.com

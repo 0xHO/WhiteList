@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Fri Sep 25 07:23:45 CST 2026
+# Update: Sat Sep 26 07:29:00 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -50,6 +50,7 @@ payload:
    # ------ lowiro ------>
    # ------ modrinth ------>
    # ------ nexon ------>
+   # ------ nexusmods ------>
    # ------ nikke ------>
    # ------ nintendo ------>
    # ------ op ------>
