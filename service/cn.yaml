@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Tue Sep 29 08:30:02 CST 2026
+# Update: Wed Sep 30 07:55:57 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -1701,6 +1701,7 @@ payload:
    - DOMAIN-SUFFIX,weui.io
    # ------ cnb ------>
    - DOMAIN-SUFFIX,cnb.cool
+   - DOMAIN-SUFFIX,cnb.space
    # ------ coding ------>
    - DOMAIN-SUFFIX,coding.me
    - DOMAIN-SUFFIX,coding.net
@@ -7009,6 +7010,7 @@ payload:
    - DOMAIN-SUFFIX,weui.io
    # ------ cnb ------>
    - DOMAIN-SUFFIX,cnb.cool
+   - DOMAIN-SUFFIX,cnb.space
    # ------ coding ------>
    - DOMAIN-SUFFIX,coding.me
    - DOMAIN-SUFFIX,coding.net
