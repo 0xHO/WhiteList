@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-10-02 08:07:40
+# Update: 2026-10-03 07:58:05
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -3029,6 +3029,7 @@ payload:
    - DOMAIN-SUFFIX,simplex.chat
    - DOMAIN-SUFFIX,sina.com.hk
    - DOMAIN-SUFFIX,sinchew.com.my
+   - DOMAIN-SUFFIX,sing-box.sagernet.org
    - DOMAIN-SUFFIX,singaporepools.com.sg
    - DOMAIN-SUFFIX,singlelogin.se
    - DOMAIN-SUFFIX,singtao.com

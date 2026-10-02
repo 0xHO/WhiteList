@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/anthropic.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/anthropic.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/anthropic.yaml
-# Update: Fri Oct  2 08:07:55 CST 2026
+# Update: Sat Oct  3 07:58:23 CST 2026
 payload:
    # ------ anthropic ------>
    - DOMAIN,servd-anthropic-website.b-cdn.net
@@ -11,6 +11,7 @@ payload:
    - DOMAIN-SUFFIX,clau.de
    - DOMAIN-SUFFIX,claude.ai
    - DOMAIN-SUFFIX,claude.com
+   - DOMAIN-SUFFIX,claude.dev
    - DOMAIN-SUFFIX,claudemcpclient.com
    - DOMAIN-SUFFIX,claudemcpcontent.com
    - DOMAIN-SUFFIX,claudeusercontent.com
