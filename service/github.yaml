@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/github.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
-# Update: Thu Oct  8 08:22:12 CST 2026
+# Update: Fri Oct  9 08:35:56 CST 2026
 payload:
    # ------ github ------>
    - DOMAIN,github-api.arkoselabs.com
@@ -60,10 +60,14 @@ payload:
    - DOMAIN-SUFFIX,opensource.guide
    - DOMAIN-SUFFIX,repo.new
    - DOMAIN-SUFFIX,thegithubshop.com
+   - DOMAIN-SUFFIX,cafe.github.com
+   - DOMAIN-SUFFIX,collector.github.com
    # ------ github-copilot ------>
    - DOMAIN,copilot-proxy.githubusercontent.com
    - DOMAIN,copilot-workspace.githubnext.com
    - DOMAIN,copilotprodattachments.blob.core.windows.net
+   - DOMAIN,copilot-telemetry-service.githubusercontent.com
+   - DOMAIN,copilot-telemetry.githubusercontent.com
    - DOMAIN-SUFFIX,githubcopilot.com
    # ------ npmjs ------>
    - DOMAIN-SUFFIX,npm.community
