@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Thu Oct 15 07:23:43 CST 2026
+# Update: Fri Oct 16 07:14:20 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -808,6 +808,7 @@ payload:
    - DOMAIN-SUFFIX,playstation
    - DOMAIN-SUFFIX,playstation.com
    - DOMAIN-SUFFIX,playstation.net
+   - DOMAIN-SUFFIX,playstationnetwork.com
    - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
    # ------ projectsekai ------>
    - DOMAIN-SUFFIX,sekai.colorfulpalette.org
