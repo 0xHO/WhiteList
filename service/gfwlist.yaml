@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-10-16 07:14:11
+# Update: 2026-10-17 06:58:43
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -64,6 +64,7 @@ payload:
    - DOMAIN-SUFFIX,6parker.com
    - DOMAIN-SUFFIX,6parknews.com
    - DOMAIN-SUFFIX,7capture.com
+   - DOMAIN-SUFFIX,7x24hrs.com
    - DOMAIN-SUFFIX,881903.com
    - DOMAIN-SUFFIX,89-64.org
    - DOMAIN-SUFFIX,8964museum.com
@@ -2266,7 +2267,9 @@ payload:
    - DOMAIN-SUFFIX,meripet.com
    - DOMAIN-SUFFIX,merit-times.com.tw
    - DOMAIN-SUFFIX,messenger.com
+   - DOMAIN-SUFFIX,meta.ai
    - DOMAIN-SUFFIX,meta.com
+   - DOMAIN-SUFFIX,metaaivm.com
    - DOMAIN-SUFFIX,metafilter.com
    - DOMAIN-SUFFIX,metamask.io
    - DOMAIN-SUFFIX,metart.com
