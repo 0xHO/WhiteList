@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gamesCN.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gamesCN.yaml
-# Update: Sun Oct 18 06:36:09 CST 2026
+# Update: Mon Oct 19 06:33:31 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -89,7 +89,6 @@ payload:
    # ------ wargaming ------>
    # ------ wbgames ------>
    # ------ xbox ------>
-   # ------ asobo ------>
    # ------ bethesda ------>
    # ------ forza ------>
    # ------ mojang ------>
