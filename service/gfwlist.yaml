@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-10-23 07:32:09
+# Update: 2026-10-24 07:25:38
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -751,6 +751,7 @@ payload:
    - DOMAIN-SUFFIX,compileheart.com
    - DOMAIN-SUFFIX,connect.facebook.net
    - DOMAIN-SUFFIX,conoha.jp
+   - DOMAIN-SUFFIX,console.typesafe.ai
    - DOMAIN-SUFFIX,contests.twilio.com
    - DOMAIN-SUFFIX,cool18.com
    - DOMAIN-SUFFIX,coolaler.com
@@ -1265,6 +1266,7 @@ payload:
    - DOMAIN-SUFFIX,g.ai
    - DOMAIN-SUFFIX,g.co
    - DOMAIN-SUFFIX,g0v.social
+   - DOMAIN-SUFFIX,ga.jspm.io
    - DOMAIN-SUFFIX,gab.com
    - DOMAIN-SUFFIX,gabocorp.com
    - DOMAIN-SUFFIX,gagaoolala.com
