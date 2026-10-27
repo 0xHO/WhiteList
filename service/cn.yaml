@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Oct 26 06:46:33 CST 2026
+# Update: Tue Oct 27 08:02:20 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -269,6 +269,7 @@ payload:
    - DOMAIN-SUFFIX,dui88.com
    - DOMAIN-SUFFIX,easyliao.com
    - DOMAIN-SUFFIX,faceid.com
+   - DOMAIN-SUFFIX,filmorigin.com
    - DOMAIN-SUFFIX,finclip.com
    - DOMAIN-SUFFIX,foundertype.com
    - DOMAIN-SUFFIX,fxbaogao.com
@@ -4373,7 +4374,6 @@ payload:
    # ------ category-wiki-cn ------>
    - DOMAIN-SUFFIX,allhistory.com
    - DOMAIN-SUFFIX,fgo.wiki
-   - DOMAIN-SUFFIX,jikipedia.com
    - DOMAIN-SUFFIX,mbalib.com
    - DOMAIN-SUFFIX,sec-wiki.com
    - DOMAIN-SUFFIX,shidianbaike.com
@@ -4435,6 +4435,7 @@ payload:
    - DOMAIN-SUFFIX,linka2a.net
    - DOMAIN-SUFFIX,yzsgo.com
    - DOMAIN-SUFFIX,shunjing.xin
+   - DOMAIN-SUFFIX,kakaxing.com
    # ------ askdiandian ------>
    - DOMAIN-SUFFIX,askdiandian.com
    - DOMAIN-SUFFIX,diandianlife.top
@@ -6467,6 +6468,7 @@ payload:
    - DOMAIN-SUFFIX,mideaepayuat.com
    - DOMAIN-SUFFIX,msmartlife.com
    - DOMAIN-SUFFIX,smartmidea.net
+   - DOMAIN-SUFFIX,xiaomaigui.com
    # ------ narwal ------>
    - DOMAIN-SUFFIX,narwal.com
    - DOMAIN-SUFFIX,narwaltech.com
