@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Fri Oct 30 08:14:23 CST 2026
+# Update: Sat Oct 31 08:00:10 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -256,6 +256,7 @@ payload:
    - DOMAIN-SUFFIX,yokaverse.com
    - DOMAIN-SUFFIX,zhuoyou.com
    # ------ category-games-!cn ------>
+   - DOMAIN-SUFFIX,amdgaming.com
    - DOMAIN-SUFFIX,chunkbase.com
    - DOMAIN-SUFFIX,dinopoloclub.com
    - DOMAIN-SUFFIX,dodi-repacks.download
