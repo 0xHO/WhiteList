@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Sun Nov  1 07:39:21 CST 2026
+# Update: Mon Nov  2 07:50:42 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -1716,9 +1716,11 @@ payload:
    - DOMAIN-SUFFIX,ubuntukylin.com
    # ------ unitychina ------>
    # ------ category-electronic-cn ------>
+   - DOMAIN-SUFFIX,allwinnertech.com
    - DOMAIN-SUFFIX,analog.com
    - DOMAIN-SUFFIX,boe.com
    - DOMAIN-SUFFIX,bouffalolab.com
+   - DOMAIN-SUFFIX,cambricon.com
    - DOMAIN-SUFFIX,cxmt.com
    - DOMAIN-SUFFIX,elecfans.com
    - DOMAIN-SUFFIX,hqchip.com
@@ -1738,11 +1740,13 @@ payload:
    - DOMAIN-SUFFIX,uniswdc.com
    - DOMAIN-SUFFIX,iotronic.tech
    - DOMAIN-SUFFIX,listenai.com
+   - DOMAIN-SUFFIX,mthreads.com
    - DOMAIN-SUFFIX,nanocorechip.com
    - DOMAIN-SUFFIX,rock-chips.com
    - DOMAIN-SUFFIX,seeed.cc
    - DOMAIN-SUFFIX,sipeed.com
    - DOMAIN-SUFFIX,maixhub.com
+   - DOMAIN-SUFFIX,southchip.com
    - DOMAIN-SUFFIX,wch-ic.com
    # ------ espressif ------>
    - DOMAIN-SUFFIX,esp32.com
@@ -2611,6 +2615,10 @@ payload:
    - DOMAIN-SUFFIX,junlebaoruye.com
    - DOMAIN-SUFFIX,shuanghui.net
    - DOMAIN-SUFFIX,micun.com
+   - DOMAIN-SUFFIX,qiaqiafood.com
+   - DOMAIN-SUFFIX,busyming.com
+   - DOMAIN-SUFFIX,hnlshm.com
+   - DOMAIN-SUFFIX,zymls.com
    # ------ bestore ------>
    - DOMAIN-SUFFIX,517lppz.com
    - DOMAIN-SUFFIX,lppz.com
@@ -4459,6 +4467,7 @@ payload:
    - DOMAIN-SUFFIX,instreet.com
    - DOMAIN-SUFFIX,doubao-dev.com
    - DOMAIN-SUFFIX,doubao.com
+   - DOMAIN-SUFFIX,doubaoapps.com
    - DOMAIN-SUFFIX,doubaocdn.com
    - DOMAIN-SUFFIX,maoxiangai.com
    - DOMAIN-SUFFIX,myparallelstory.com
@@ -4895,6 +4904,7 @@ payload:
    - DOMAIN-SUFFIX,alisports.com
    - DOMAIN-SUFFIX,alitianji.com
    - DOMAIN-SUFFIX,aliunicorn.com
+   - DOMAIN-SUFFIX,alivecdn.com
    - DOMAIN-SUFFIX,aliway.com
    - DOMAIN-SUFFIX,aliwork.com
    - DOMAIN-SUFFIX,alixiaomi.com
@@ -5439,6 +5449,7 @@ payload:
    - DOMAIN-SUFFIX,doubo03.com
    - DOMAIN-SUFFIX,draftstatic.com
    - DOMAIN-SUFFIX,druid.vip
+   - DOMAIN-SUFFIX,edge-byted.com
    - DOMAIN-SUFFIX,fedlearner.net
    - DOMAIN-SUFFIX,gcloudcache.com
    - DOMAIN-SUFFIX,gslbdns.com
@@ -5591,6 +5602,7 @@ payload:
    - DOMAIN-SUFFIX,ppxstatic.com
    - DOMAIN-SUFFIX,ppxvod.com
    - DOMAIN-SUFFIX,xiaoxiaapi.com
+   - DOMAIN-SUFFIX,haimian.com
    - DOMAIN-SUFFIX,dailygn.com
    - DOMAIN-SUFFIX,buydouke.com
    - DOMAIN-SUFFIX,ecombdapi.com
@@ -5626,6 +5638,7 @@ payload:
    - DOMAIN-SUFFIX,instreet.com
    - DOMAIN-SUFFIX,doubao-dev.com
    - DOMAIN-SUFFIX,doubao.com
+   - DOMAIN-SUFFIX,doubaoapps.com
    - DOMAIN-SUFFIX,doubaocdn.com
    - DOMAIN-SUFFIX,maoxiangai.com
    - DOMAIN-SUFFIX,myparallelstory.com
@@ -6669,6 +6682,7 @@ payload:
    - DOMAIN-SUFFIX,tencentmiying.com
    - DOMAIN-SUFFIX,tengmed.com
    - DOMAIN-SUFFIX,tenpay.com
+   - DOMAIN-SUFFIX,tenpayglobal.com
    - DOMAIN-SUFFIX,tfogc.com
    - DOMAIN-SUFFIX,wechat.com
    - DOMAIN-SUFFIX,weishi.com
@@ -6678,6 +6692,7 @@ payload:
    - DOMAIN-SUFFIX,wxcloudrun.com
    - DOMAIN-SUFFIX,wxgateway.com
    - DOMAIN-SUFFIX,wxlivecdn.com
+   - DOMAIN-SUFFIX,wesure100.com
    - DOMAIN-SUFFIX,wetv.vip
    - DOMAIN-SUFFIX,wetvinfo.com
    - DOMAIN-SUFFIX,alloyteam.com
@@ -7257,6 +7272,7 @@ payload:
    - DOMAIN-SUFFIX,sc96655.com
    - DOMAIN-SUFFIX,isxtv.com
    - DOMAIN-SUFFIX,sdgdwljt.com
+   - DOMAIN-SUFFIX,mnc015.mcc460.pub.3gppnetwork.org
    # ------ chinamobile ------>
    - DOMAIN-SUFFIX,139.com
    - DOMAIN-SUFFIX,chinamobile.com
@@ -7282,6 +7298,10 @@ payload:
    - DOMAIN-SUFFIX,cmdcxls.com
    - DOMAIN-SUFFIX,fxltsbl.com
    - DOMAIN-SUFFIX,zdsdp.com
+   - DOMAIN-SUFFIX,mnc000.mcc460.pub.3gppnetwork.org
+   - DOMAIN-SUFFIX,mnc002.mcc460.pub.3gppnetwork.org
+   - DOMAIN-SUFFIX,mnc004.mcc460.pub.3gppnetwork.org
+   - DOMAIN-SUFFIX,mnc007.mcc460.pub.3gppnetwork.org
    # ------ chinatelecom ------>
    - DOMAIN-SUFFIX,189cube.com
    - DOMAIN-SUFFIX,189smarthome.com
@@ -7291,6 +7311,7 @@ payload:
    - DOMAIN-SUFFIX,chinatelecomhk.com
    - DOMAIN-SUFFIX,chntel.com
    - DOMAIN-SUFFIX,tv189.com
+   - DOMAIN-SUFFIX,mnc011.mcc460.pub.3gppnetwork.org
    # ------ ctexcel ------>
    - DOMAIN-SUFFIX,ctexcel.ca
    - DOMAIN-SUFFIX,ctexcel.com

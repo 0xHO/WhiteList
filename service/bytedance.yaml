@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/bytedance.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/bytedance.yaml
-# Update: Sun Nov  1 07:39:29 CST 2026
+# Update: Mon Nov  2 07:50:51 CST 2026
 payload:
    # ------ bytedance ------>
    - DOMAIN,bytedance.map.fastly.net
@@ -144,6 +144,7 @@ payload:
    - DOMAIN-SUFFIX,doubo03.com
    - DOMAIN-SUFFIX,draftstatic.com
    - DOMAIN-SUFFIX,druid.vip
+   - DOMAIN-SUFFIX,edge-byted.com
    - DOMAIN-SUFFIX,fedlearner.net
    - DOMAIN-SUFFIX,gcloudcache.com
    - DOMAIN-SUFFIX,gslbdns.com
@@ -296,6 +297,7 @@ payload:
    - DOMAIN-SUFFIX,ppxstatic.com
    - DOMAIN-SUFFIX,ppxvod.com
    - DOMAIN-SUFFIX,xiaoxiaapi.com
+   - DOMAIN-SUFFIX,haimian.com
    - DOMAIN-SUFFIX,dailygn.com
    - DOMAIN-SUFFIX,buydouke.com
    - DOMAIN-SUFFIX,ecombdapi.com
@@ -331,6 +333,7 @@ payload:
    - DOMAIN-SUFFIX,instreet.com
    - DOMAIN-SUFFIX,doubao-dev.com
    - DOMAIN-SUFFIX,doubao.com
+   - DOMAIN-SUFFIX,doubaoapps.com
    - DOMAIN-SUFFIX,doubaocdn.com
    - DOMAIN-SUFFIX,maoxiangai.com
    - DOMAIN-SUFFIX,myparallelstory.com
