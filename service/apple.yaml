@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/apple.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/apple.yaml
-# Update: Mon Nov  2 07:50:38 CST 2026
+# Update: Tue Nov  3 10:36:12 CST 2026
 payload:
    # ------ apple ------>
    - DOMAIN,apple.com.akadns.net
