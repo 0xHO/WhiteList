@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-11-03 10:36:00
+# Update: 2026-11-04 08:49:44
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -384,6 +384,7 @@ payload:
    - DOMAIN-SUFFIX,bignews.org
    - DOMAIN-SUFFIX,bigone.com
    - DOMAIN-SUFFIX,bild.de
+   - DOMAIN-SUFFIX,bilibili.tv
    - DOMAIN-SUFFIX,bilinovel.com
    - DOMAIN-SUFFIX,binance.com
    - DOMAIN-SUFFIX,binance.org
