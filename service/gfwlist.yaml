@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-11-05 09:00:39
+# Update: 2026-11-06 09:04:31
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -2243,7 +2243,6 @@ payload:
    - DOMAIN-SUFFIX,matters.town
    - DOMAIN-SUFFIX,matthewdgreen.wordpress.com
    - DOMAIN-SUFFIX,mattwilcox.net
-   - DOMAIN-SUFFIX,maven.neoforged.net
    - DOMAIN-SUFFIX,mcadforums.com
    - DOMAIN-SUFFIX,mceindex.com
    - DOMAIN-SUFFIX,mcusercontent.com
@@ -2442,6 +2441,7 @@ payload:
    - DOMAIN-SUFFIX,nekoslovakia.net
    - DOMAIN-SUFFIX,neo-miracle.com
    - DOMAIN-SUFFIX,neodb.social
+   - DOMAIN-SUFFIX,neoforged.net
    - DOMAIN-SUFFIX,neowin.net
    - DOMAIN-SUFFIX,nephobox.com
    - DOMAIN-SUFFIX,netalert.me

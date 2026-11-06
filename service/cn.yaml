@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Thu Nov  5 09:00:53 CST 2026
+# Update: Fri Nov  6 09:04:45 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -6530,6 +6530,7 @@ payload:
    # ------ oppo ------>
    - DOMAIN-SUFFIX,allawnfs.com
    - DOMAIN-SUFFIX,allawno.com
+   - DOMAIN-SUFFIX,allawnofs.com
    - DOMAIN-SUFFIX,allawntech.com
    - DOMAIN-SUFFIX,coloros.com
    - DOMAIN-SUFFIX,coloros.net
