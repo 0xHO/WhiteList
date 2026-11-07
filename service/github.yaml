@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/github.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/github.yaml
-# Update: Sat Nov  7 08:15:59 CST 2026
+# Update: Sun Nov  8 07:53:57 CST 2026
 payload:
    # ------ github ------>
    - DOMAIN,github-api.arkoselabs.com
@@ -65,6 +65,7 @@ payload:
    # ------ github-copilot ------>
    - DOMAIN,copilot-proxy.githubusercontent.com
    - DOMAIN,copilot-workspace.githubnext.com
+   - DOMAIN,production-copilot-host-westus.webpubsub.azure.com
    - DOMAIN,copilotprodattachments.blob.core.windows.net
    - DOMAIN,copilot-telemetry-service.githubusercontent.com
    - DOMAIN,copilot-telemetry.githubusercontent.com
