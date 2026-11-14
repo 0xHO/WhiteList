@@ -4,7 +4,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/gfwlist.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/gfwlist.yaml
-# Update: 2026-11-13 09:26:06
+# Update: 2026-11-14 08:59:20
 payload:
    - DOMAIN-SUFFIX,000webhost.com
    - DOMAIN-SUFFIX,1-apple.com.tw
@@ -52,6 +52,7 @@ payload:
    - DOMAIN-SUFFIX,51.ca
    - DOMAIN-SUFFIX,51jav.org
    - DOMAIN-SUFFIX,51luoben.com
+   - DOMAIN-SUFFIX,51papaya.com
    - DOMAIN-SUFFIX,5278.cc
    - DOMAIN-SUFFIX,611study.com
    - DOMAIN-SUFFIX,611study.icu
