@@ -2,7 +2,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/cn.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/cn.yaml
-# Update: Mon Nov 16 08:19:19 CST 2026
+# Update: Tue Nov 17 11:05:28 CST 2026
 payload:
    # ------ geolocation-cn ------>
    - DOMAIN,api.blipsandchitz.me
@@ -2055,6 +2055,19 @@ payload:
    - DOMAIN-SUFFIX,heroesports.com
    - DOMAIN-SUFFIX,shyxhy.com
    - DOMAIN-SUFFIX,yingxiong.com
+   # ------ hypergryph ------>
+   - DOMAIN-SUFFIX,hgto.cc
+   - DOMAIN-SUFFIX,hypergryph.com
+   - DOMAIN-SUFFIX,hypergryph.net
+   - DOMAIN-SUFFIX,hycdn.com
+   - DOMAIN-SUFFIX,arknights.com
+   - DOMAIN-SUFFIX,skland.com
+   - DOMAIN-SUFFIX,skland.net
+   - DOMAIN-SUFFIX,octavedge.com
+   - DOMAIN-SUFFIX,gryphline.com
+   - DOMAIN-SUFFIX,gryphline.net
+   - DOMAIN-SUFFIX,hg-cdn.com
+   - DOMAIN-SUFFIX,skport.com
    # ------ kurogames ------>
    - DOMAIN-SUFFIX,kurobbs.com
    - DOMAIN-SUFFIX,kurogame-service.com
