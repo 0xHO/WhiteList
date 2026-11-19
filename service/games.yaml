@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/games.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/games.yaml
-# Update: Wed Nov 18 10:33:08 CST 2026
+# Update: Thu Nov 19 09:58:31 CST 2026
 payload:
    # ------ category-games ------>
    # ------ category-games-cn ------>
@@ -118,6 +118,8 @@ payload:
    # ------ changyou ------>
    - DOMAIN-SUFFIX,17173.com
    - DOMAIN-SUFFIX,17173cdn.com
+   - DOMAIN-SUFFIX,1y.com
+   - DOMAIN-SUFFIX,1ycdn.com
    - DOMAIN-SUFFIX,changyou.com
    - DOMAIN-SUFFIX,cy.com
    - DOMAIN-SUFFIX,playcool.com

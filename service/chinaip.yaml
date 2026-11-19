@@ -6,7 +6,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/chinaip.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/chinaip.yaml
-# Update: 2026-11-18 10:32:54
+# Update: 2026-11-19 09:58:18
 payload:
    - IP-CIDR,1.0.1.0/24,no-resolve
    - IP-CIDR,1.0.2.0/23,no-resolve
@@ -8214,7 +8214,7 @@ payload:
    - IP-CIDR6,2406:840:380::/47,no-resolve
    - IP-CIDR6,2406:840:3c2::/48,no-resolve
    - IP-CIDR6,2406:840:3e0::/48,no-resolve
-   - IP-CIDR6,2406:840:411::/48,no-resolve
+   - IP-CIDR6,2406:840:410::/47,no-resolve
    - IP-CIDR6,2406:840:420::/48,no-resolve
    - IP-CIDR6,2406:840:480::/48,no-resolve
    - IP-CIDR6,2406:840:540::/48,no-resolve
@@ -8366,9 +8366,7 @@ payload:
    - IP-CIDR6,2406:840:feed::/48,no-resolve
    - IP-CIDR6,2406:840:fef2::/47,no-resolve
    - IP-CIDR6,2406:840:fef4::/46,no-resolve
-   - IP-CIDR6,2406:840:fef8::/46,no-resolve
-   - IP-CIDR6,2406:840:fefc::/47,no-resolve
-   - IP-CIDR6,2406:840:fefe::/48,no-resolve
+   - IP-CIDR6,2406:840:fef8::/45,no-resolve
    - IP-CIDR6,2406:840:ff00::/43,no-resolve
    - IP-CIDR6,2406:1080::/48,no-resolve
    - IP-CIDR6,2406:1e40:f012::/47,no-resolve
@@ -9234,6 +9232,7 @@ payload:
    - IP-CIDR6,2a0e:b107:740::/44,no-resolve
    - IP-CIDR6,2a0e:b107:da0::/44,no-resolve
    - IP-CIDR6,2a0e:b107:14a0::/44,no-resolve
+   - IP-CIDR6,2a0e:b107:1522::/48,no-resolve
    - IP-CIDR6,2a0e:b107:2440::/44,no-resolve
    - IP-CIDR6,2a0e:c780::/30,no-resolve
    - IP-CIDR6,2a0e:f202::/31,no-resolve
@@ -9271,6 +9270,7 @@ payload:
    - IP-CIDR6,2a0f:1cc5:3203::/48,no-resolve
    - IP-CIDR6,2a0f:1cc5:3210::/44,no-resolve
    - IP-CIDR6,2a0f:1cc5:3222::/48,no-resolve
+   - IP-CIDR6,2a0f:1cc5:3500::/40,no-resolve
    - IP-CIDR6,2a0f:1cc5:3700::/43,no-resolve
    - IP-CIDR6,2a0f:1cc5:3720::/48,no-resolve
    - IP-CIDR6,2a0f:1cc5:4508::/45,no-resolve
@@ -9338,6 +9338,7 @@ payload:
    - IP-CIDR6,2a12:3fc6:4::/48,no-resolve
    - IP-CIDR6,2a12:cb41:600::/44,no-resolve
    - IP-CIDR6,2a12:cb41:1300::/44,no-resolve
+   - IP-CIDR6,2a12:cb41:13f0::/44,no-resolve
    - IP-CIDR6,2a12:cb46:6000::/38,no-resolve
    - IP-CIDR6,2a12:cb46:6400::/44,no-resolve
    - IP-CIDR6,2a12:cb47:ffff::/48,no-resolve
