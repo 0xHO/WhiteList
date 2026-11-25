@@ -3,7 +3,7 @@
 # raw: https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/category-public-tracker.yaml
 # raw: https://cdn.jsdelivr.net/gh/0xHO/WhiteList@assets/service/category-public-tracker.yaml
 # raw: https://ghproxy.com/https://raw.githubusercontent.com/0xHO/WhiteList/assets/service/category-public-tracker.yaml
-# Update: Tue Nov 24 12:56:47 CST 2026
+# Update: Wed Nov 25 11:42:29 CST 2026
 payload:
    # ------ category-public-tracker ------>
    - DOMAIN,0123456789nonexistent.com
